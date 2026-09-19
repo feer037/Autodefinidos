@@ -1,0 +1,275 @@
+# Cuerpo humano, salud y medicina
+CABEZA|Parte superior del cuerpo
+CRANEO|Caja ósea que protege el cerebro
+CEREBRO|Órgano del pensamiento
+CEREBELO|Centro nervioso del equilibrio
+FRENTE|Parte alta del rostro
+SIEN|Lado de la frente
+CEJA|Arco piloso sobre el ojo
+PESTANA|Pelo del borde del párpado
+PARPADO|Membrana que cubre el ojo
+PUPILA|Abertura central del iris
+IRIS|Parte coloreada del ojo
+CORNEA|Membrana transparente del ojo
+RETINA|Capa sensible del fondo del ojo
+NARIZ|Órgano del olfato
+FOSA|Cada cavidad de la nariz
+BOCA|Cavidad de la masticación
+LABIO|Borde carnoso de la boca
+LENGUA|Órgano del gusto
+DIENTE|Pieza dura de la boca
+MUELA|Diente molar del fondo
+COLMILLO|Diente puntiagudo
+ENCIA|Tejido que rodea los dientes
+PALADAR|Techo de la boca
+GARGANTA|Parte interior del cuello
+LARINGE|Órgano de la fonación
+FARINGE|Conducto entre boca y esófago
+AMIGDALA|Glándula de la garganta
+CAMPANILLA|Úvula del fondo del paladar
+OREJA|Parte externa del oído
+TIMPANO|Membrana del oído medio
+MEJILLA|Parte lateral de la cara
+POMULO|Hueso saliente de la mejilla
+MENTON|Punta inferior del rostro
+BARBILLA|Extremo del mentón
+CUELLO|Une la cabeza al tronco
+NUCA|Parte posterior del cuello
+HOMBRO|Une el brazo al tronco
+BRAZO|Miembro superior
+CODO|Articulación media del brazo
+ANTEBRAZO|Parte del brazo junto a la mano
+MUNECA|Articulación de la mano
+MANO|Extremo del brazo
+PALMA|Cara interna de la mano
+DEDO|Cada extremo de la mano
+PULGAR|Dedo más grueso
+INDICE|Dedo que señala
+MENIQUE|Dedo más pequeño
+ANULAR|Dedo del anillo
+UNA|Lámina córnea del dedo
+NUDILLO|Articulación de los dedos
+PECHO|Parte anterior del tórax
+TORAX|Cavidad de los pulmones
+COSTILLA|Hueso curvo del tórax
+ESTERNON|Hueso plano del pecho
+CLAVICULA|Hueso entre el cuello y el hombro
+OMOPLATO|Hueso plano de la espalda
+ESPALDA|Parte posterior del tronco
+COLUMNA|Eje de vértebras
+VERTEBRA|Hueso de la espina dorsal
+CINTURA|Parte estrecha del tronco
+ABDOMEN|Vientre del cuerpo
+OMBLIGO|Cicatriz del vientre
+CADERA|Parte ancha bajo la cintura
+PELVIS|Cintura ósea inferior
+NALGA|Parte carnosa posterior
+MUSLO|Parte alta de la pierna
+RODILLA|Articulación central de la pierna
+ROTULA|Hueso redondo de la rodilla
+PANTORRILLA|Parte carnosa posterior de la pierna
+ESPINILLA|Parte anterior de la tibia
+TOBILLO|Articulación del pie
+TALON|Parte posterior del pie
+PLANTA|Cara inferior del pie
+EMPEINE|Parte superior del pie
+PIE|Extremo de la pierna
+CORAZON|Órgano que bombea la sangre
+PULMON|Órgano de la respiración
+HIGADO|Glándula que depura la sangre
+RINON|Órgano que filtra la orina
+ESTOMAGO|Órgano de la digestión
+INTESTINO|Tubo digestivo largo
+PANCREAS|Glándula de la insulina
+BAZO|Órgano del sistema linfático
+VEJIGA|Depósito de la orina
+ESOFAGO|Conducto de la boca al estómago
+TRAQUEA|Conducto del aire a los bronquios
+BRONQUIO|Conducto del pulmón
+DIAFRAGMA|Músculo que separa tórax y abdomen
+ARTERIA|Vaso que sale del corazón
+VENA|Vaso que retorna la sangre
+CAPILAR|Vaso sanguíneo diminuto
+SANGRE|Líquido rojo circulante
+PLASMA|Parte líquida de la sangre
+GLOBULO|Célula de la sangre
+PLAQUETA|Célula que ayuda a coagular
+HUESO|Pieza dura del esqueleto
+ESQUELETO|Armazón óseo del cuerpo
+MUSCULO|Tejido que produce el movimiento
+TENDON|Une el músculo al hueso
+LIGAMENTO|Une dos huesos
+CARTILAGO|Tejido flexible de las articulaciones
+ARTICULACION|Unión de dos huesos
+NERVIO|Conduce los impulsos
+NEURONA|Célula del sistema nervioso
+MEDULA|Tejido del interior del hueso
+GLANDULA|Órgano que segrega sustancias
+TIROIDES|Glándula del cuello
+HORMONA|Mensajero químico del cuerpo
+PIEL|Cubierta externa del cuerpo
+PORO|Orificio diminuto de la piel
+VELLO|Pelo fino del cuerpo
+CABELLO|Pelo de la cabeza
+SUDOR|Líquido de la transpiración
+SALIVA|Humor de la boca
+LAGRIMA|Gota que sale del ojo
+MOCO|Secreción de la nariz
+ALIENTO|Aire que sale al respirar
+PULSO|Latido que se palpa
+LATIDO|Golpe del corazón
+RESPIRACION|Entrada y salida del aire
+DIGESTION|Transformación del alimento
+CIRCULACION|Movimiento de la sangre
+METABOLISMO|Conjunto de cambios químicos del cuerpo
+GRIPE|Infección vírica del invierno
+CATARRO|Resfriado con mucosidad
+FIEBRE|Temperatura corporal alta
+TOS|Expulsión brusca de aire
+ESTORNUDO|Expulsión súbita por la nariz
+JAQUECA|Dolor intenso de cabeza
+MIGRANA|Cefalea muy fuerte
+NAUSEA|Ganas de devolver
+MAREO|Sensación de inestabilidad
+DESMAYO|Pérdida del conocimiento
+VERTIGO|Sensación de giro y caída
+ANEMIA|Falta de glóbulos rojos
+DIABETES|Exceso de azúcar en la sangre
+ASMA|Dificultad respiratoria crónica
+ALERGIA|Reacción exagerada del cuerpo
+ECZEMA|Inflamación de la piel
+ACNE|Erupción de la adolescencia
+URTICARIA|Erupción con picor
+VERRUGA|Excrecencia de la piel
+LUNAR|Mancha pigmentada de la piel
+CICATRIZ|Marca que deja una herida
+HERIDA|Rotura de los tejidos
+CORTE|Herida hecha con filo
+QUEMADURA|Lesión producida por el calor
+FRACTURA|Rotura de un hueso
+ESGUINCE|Torcedura de una articulación
+LUXACION|Salida del hueso de su sitio
+CONTUSION|Golpe sin rotura de la piel
+HEMATOMA|Acumulación de sangre bajo la piel
+HEMORRAGIA|Pérdida abundante de sangre
+INFECCION|Invasión de microorganismos
+INFLAMACION|Hinchazón con calor y dolor
+ABSCESO|Acumulación de pus
+TUMOR|Masa de tejido anormal
+CANCER|Tumor maligno
+ULCERA|Llaga en una mucosa
+GASTRITIS|Inflamación del estómago
+APENDICITIS|Inflamación del apéndice
+BRONQUITIS|Inflamación de los bronquios
+NEUMONIA|Infección pulmonar
+OTITIS|Inflamación del oído
+SINUSITIS|Inflamación de los senos nasales
+ARTRITIS|Inflamación de las articulaciones
+ARTROSIS|Desgaste del cartílago
+OSTEOPOROSIS|Pérdida de masa ósea
+CIATICA|Dolor del nervio de la pierna
+LUMBAGO|Dolor en la zona baja de la espalda
+TORTICOLIS|Dolor que impide girar el cuello
+CALAMBRE|Contracción dolorosa del músculo
+AGUJETAS|Dolor muscular tras el ejercicio
+INSOMNIO|Incapacidad de dormir
+ANSIEDAD|Inquietud angustiosa
+DEPRESION|Tristeza profunda y persistente
+ESTRES|Tensión nerviosa continuada
+FOBIA|Miedo irracional a algo
+MEDICO|Profesional que cura
+ENFERMERA|Cuida a los pacientes
+CIRUJANO|Médico que opera
+PEDIATRA|Médico de los niños
+DENTISTA|Cuida la dentadura
+OCULISTA|Médico de la vista
+PSIQUIATRA|Médico de la mente
+FARMACEUTICO|Despacha los medicamentos
+CAMILLERO|Transporta a los heridos
+PACIENTE|Persona que recibe tratamiento
+HOSPITAL|Centro donde se ingresa
+CLINICA|Centro sanitario privado
+AMBULATORIO|Centro de consultas
+QUIROFANO|Sala de operaciones
+URGENCIAS|Servicio de atención inmediata
+CONSULTA|Despacho del médico
+AMBULANCIA|Vehículo de emergencias
+CAMILLA|Soporte para trasladar enfermos
+JERINGA|Instrumento para inyectar
+AGUJA|Punta hueca de la jeringa
+BISTURI|Cuchillo del cirujano
+ESTETOSCOPIO|Instrumento para auscultar
+TERMOMETRO|Mide la temperatura corporal
+TENSIOMETRO|Mide la presión arterial
+RADIOGRAFIA|Imagen de los huesos
+ECOGRAFIA|Imagen por ultrasonidos
+ANALISIS|Examen de la sangre
+BIOPSIA|Extracción de tejido para estudio
+VACUNA|Prepara al cuerpo contra una enfermedad
+ANTIBIOTICO|Medicamento contra las bacterias
+ANALGESICO|Medicamento contra el dolor
+ANESTESIA|Supresión de la sensibilidad
+JARABE|Medicina líquida y dulce
+PASTILLA|Comprimido de medicina
+CAPSULA|Envoltura de un medicamento
+POMADA|Medicamento para untar
+VENDA|Tira que cubre la herida
+ESPARADRAPO|Cinta que sujeta el apósito
+ALGODON|Fibra blanca de curas
+GASA|Tejido fino para las heridas
+ESCAYOLA|Inmoviliza el hueso roto
+MULETA|Apoyo para caminar
+SILLADERUEDAS|Asiento con ruedas para el impedido
+PROTESIS|Pieza que sustituye a un miembro
+TRASPLANTE|Sustitución de un órgano
+DONANTE|Cede un órgano o sangre
+TRANSFUSION|Paso de sangre a otro cuerpo
+DIAGNOSTICO|Identificación de la enfermedad
+PRONOSTICO|Previsión de la evolución
+TRATAMIENTO|Conjunto de medios para curar
+RECETA|Prescripción del médico
+DIETA|Régimen alimenticio
+AYUNO|Abstinencia de alimentos
+REPOSO|Descanso que se prescribe
+REHABILITACION|Recuperación de una función
+FISIOTERAPIA|Tratamiento con ejercicios y masajes
+CIRUGIA|Rama que opera
+ODONTOLOGIA|Especialidad de los dientes
+CARDIOLOGIA|Especialidad del corazón
+NEUROLOGIA|Especialidad del sistema nervioso
+DERMATOLOGIA|Especialidad de la piel
+TRAUMATOLOGIA|Especialidad de los huesos
+GINECOLOGIA|Especialidad de la mujer
+OFTALMOLOGIA|Especialidad de los ojos
+HIGIENE|Limpieza que previene enfermedades
+SALUD|Buen estado del organismo
+CONVALECENCIA|Periodo de recuperación
+RECAIDA|Vuelta de la enfermedad
+CONTAGIO|Transmisión de la dolencia
+EPIDEMIA|Enfermedad que se extiende
+CUARENTENA|Aislamiento preventivo
+INMUNIDAD|Defensa frente a la enfermedad
+ANTICUERPO|Defensa que produce el organismo
+VIRUS|Agente infeccioso microscópico
+BACTERIA|Microorganismo de una célula
+MICROBIO|Ser vivo invisible al ojo
+PARASITO|Ser que vive a costa de otro
+CELULA|Unidad básica de los seres vivos
+TEJIDO|Conjunto de células iguales
+ORGANO|Conjunto de tejidos con una función
+SISTEMA|Conjunto de órganos relacionados
+GENOMA|Conjunto del material hereditario
+CROMOSOMA|Estructura que porta los genes
+GEN|Unidad de la herencia
+ADN|Molécula de la información genética
+PROTEINA|Molécula esencial del organismo
+VITAMINA|Nutriente que el cuerpo necesita
+MINERAL|Nutriente inorgánico necesario
+CALORIA|Unidad de energía de los alimentos
+COLESTEROL|Grasa que circula en la sangre
+GLUCOSA|Azúcar de la sangre
+INSULINA|Hormona que regula el azúcar
+ADRENALINA|Hormona de la alarma
+OXIGENO|Gas imprescindible al respirar
+ANATOMIA|Estudio de la estructura del cuerpo
+FISIOLOGIA|Estudio del funcionamiento del organismo

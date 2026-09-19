@@ -1,0 +1,254 @@
+# Voces de América, toponimia y personajes
+AGUACATE|Fruto verde de la ensalada mexicana
+AJIACO|Sopa colombiana de pollo y patata
+ALPACA|Camélido de lana muy fina
+ANDINO|De la gran cordillera americana
+AREPA|Torta de maíz venezolana
+ASADO|Comida argentina a la parrilla
+ATOLE|Bebida mexicana de maíz
+AZTECA|Pueblo del antiguo México
+BALDIO|Terreno sin dueño ni cultivo
+BOHIO|Cabaña antillana de madera
+BONIATO|Batata de pulpa dulce
+CACIQUE|Jefe indígena americano
+CANOA|Embarcación indígena de un tronco
+CARIBE|Mar y pueblo de las Antillas
+CEIBA|Árbol tropical de tronco grueso
+CENOTE|Pozo natural de Yucatán
+CHACRA|Pequeña finca sudamericana
+CHAMPINON|Seta blanca cultivada
+CHARANGO|Instrumento andino de cuerda
+CHICHA|Bebida fermentada de maíz
+CHILE|Pimiento picante mexicano
+CHINCHILLA|Roedor andino de piel muy suave
+CHOCLO|Mazorca tierna de maíz
+CHURRASCO|Carne asada a la brasa
+COCA|Arbusto andino de hoja estimulante
+CONDOR|Gran ave rapaz de los Andes
+COYOTE|Cánido salvaje de Norteamérica
+CRIOLLO|Nacido en América de padres europeos
+CUATE|Amigo, en México
+CUY|Roedor andino comestible
+ENCHILADA|Tortilla mexicana enrollada
+ESTANCIA|Gran finca ganadera argentina
+GAUCHO|Jinete de la pampa
+GUACAMOLE|Puré mexicano de aguacate
+GUAJIRO|Campesino cubano
+GUARANI|Pueblo y lengua del Paraguay
+GUAYABA|Fruta tropical de pulpa rosada
+HAMACA|Red colgante para dormir
+HUASO|Jinete campesino chileno
+HURACAN|Ciclón tropical del Caribe
+IGUANA|Reptil tropical de cresta
+INCA|Pueblo del antiguo Perú
+JAGUAR|Gran felino americano manchado
+JEJEN|Mosquito pequeño y molesto
+LLAMA|Camélido de carga andino
+LOMA|Elevación suave del terreno
+MAIZ|Cereal americano de mazorca
+MAMBO|Ritmo bailable cubano
+MANGLAR|Bosque costero tropical
+MARIACHI|Conjunto musical mexicano
+MATE|Infusión del cono sur
+MESTIZO|Nacido de padres de razas distintas
+MILPA|Terreno mexicano sembrado de maíz
+MOJITO|Combinado cubano de ron y hierbabuena
+MOLE|Salsa mexicana de chocolate y chiles
+NOPAL|Cactus mexicano de palas
+NANDU|Ave corredora sudamericana
+PAMPA|Gran llanura argentina
+PAPAYA|Fruta tropical anaranjada
+PAPA|Nombre americano de la patata
+PARRANDA|Fiesta bulliciosa
+PISCO|Aguardiente de uva peruano
+POLLERA|Falda tradicional americana
+PONCHO|Prenda con abertura para la cabeza
+PUMA|Felino americano de monte
+QUENA|Flauta andina
+QUETZAL|Ave de plumaje verde de Guatemala
+QUINUA|Grano andino muy nutritivo
+RANCHO|Finca ganadera americana
+SABANA|Llanura tropical de hierba
+SALSA|Música bailable caribeña
+SOMBRERO|Prenda de ala ancha mexicana
+TACO|Tortilla mexicana enrollada con relleno
+TAMAL|Masa de maíz cocida en hoja
+TANGO|Baile del Río de la Plata
+TAPIOCA|Fécula de la mandioca
+TEQUILA|Aguardiente mexicano de agave
+TORTILLA|Torta de maíz americana
+TUCAN|Ave tropical de pico enorme
+VICUNA|Camélido andino de lana finísima
+YUCA|Tubérculo tropical comestible
+ZAPOTE|Fruta tropical de pulpa dulce
+CARNAVAL|Fiesta de Río antes de Cuaresma
+CORCOVADO|Cerro del Cristo de Río
+MACHUPICCHU|Ciudadela inca de los Andes
+PATAGONIA|Región austral de Argentina y Chile
+TIERRADELFUEGO|Región del extremo sur americano
+AMAZONIA|Gran selva de Sudamérica
+YUCATAN|Península mexicana de los mayas
+ANTILLAS|Islas del mar Caribe
+GALAPAGOS|Archipiélago ecuatoriano de las tortugas
+ANTOFAGASTA|Ciudad del norte de Chile
+CHIAPAS|Estado del sur de México
+SONORA|Estado del norte de México
+JALISCO|Estado mexicano del tequila
+OAXACA|Estado mexicano del mole
+CHIHUAHUA|Estado mexicano y raza de perro
+MENDOZA|Provincia argentina del vino
+SALTA|Provincia del noroeste argentino
+NEUQUEN|Provincia de la Patagonia argentina
+BARILOCHE|Ciudad argentina de los lagos
+IQUITOS|Ciudad peruana del Amazonas
+TRUJILLO|Ciudad del norte del Perú
+CALLAO|Puerto de Lima
+VALDIVIA|Ciudad del sur de Chile
+CONCEPCION|Ciudad chilena del Biobío
+MARACAIBO|Ciudad venezolana del lago
+BARRANQUILLA|Puerto colombiano del Caribe
+CALI|Ciudad colombiana de la salsa
+MANIZALES|Ciudad colombiana del café
+CUENCA|Ciudad ecuatoriana y española
+LOJA|Ciudad ecuatoriana y provincia andaluza
+COCHABAMBA|Ciudad boliviana del valle
+ORURO|Ciudad boliviana del altiplano
+MONTERREY|Ciudad industrial mexicana
+PUEBLA|Ciudad mexicana de los azulejos
+MERIDA|Ciudad extremeña y capital de Yucatán
+LEON|Ciudad castellana y ciudad mexicana
+MANAOS|Ciudad brasileña del Amazonas
+SALVADOR|Ciudad brasileña de Bahía
+RECIFE|Ciudad brasileña de los canales
+FORTALEZA|Ciudad del nordeste brasileño
+CURITIBA|Ciudad del sur de Brasil
+PORTOALEGRE|Ciudad gaúcha de Brasil
+BELEM|Ciudad brasileña de la desembocadura del Amazonas
+HOUSTON|Ciudad tejana del centro espacial
+DALLAS|Ciudad de Texas
+DETROIT|Ciudad estadounidense del automóvil
+SEATTLE|Ciudad del noroeste estadounidense
+DENVER|Ciudad estadounidense de las Rocosas
+PORTLAND|Ciudad del noroeste de Estados Unidos
+VANCOUVER|Ciudad canadiense del Pacífico
+QUEBEC|Provincia canadiense francófona
+ALASKA|Estado más septentrional de Estados Unidos
+FLORIDA|Estado estadounidense de las playas
+TEXAS|Estado estadounidense del petróleo
+NEVADA|Estado estadounidense del desierto y el juego
+OREGON|Estado del noroeste estadounidense
+MONTANA|Estado del norte de Estados Unidos
+ARIZONA|Estado del Gran Cañón
+UTAH|Estado estadounidense de los mormones
+IDAHO|Estado estadounidense de la patata
+IOWA|Estado agrícola de Estados Unidos
+OHIO|Estado y río de Estados Unidos
+INDIANA|Estado del medio oeste americano
+MICHIGAN|Estado y lago de Norteamérica
+MISURI|Estado y río de Estados Unidos
+KANSAS|Estado del centro de Estados Unidos
+ALABAMA|Estado del sur de Estados Unidos
+GEORGIA|Estado americano y país del Cáucaso
+VIRGINIA|Estado del este de Estados Unidos
+MARYLAND|Estado de la costa este americana
+DELAWARE|Pequeño estado del este americano
+VERMONT|Estado de Nueva Inglaterra
+MAINE|Estado del extremo noreste americano
+CALIFORNIA|Estado americano del cine y el oro
+CERVANTES|Autor del Quijote
+QUEVEDO|Poeta satírico del Siglo de Oro
+GONGORA|Poeta cordobés del culteranismo
+LOPE|Dramaturgo llamado Fénix de los ingenios
+CALDERON|Autor de La vida es sueño
+TIRSO|Fraile autor del Burlador de Sevilla
+GALDOS|Autor de los Episodios Nacionales
+CLARIN|Autor de La Regenta
+BECQUER|Poeta sevillano de las Rimas
+MACHADO|Poeta de Campos de Castilla
+LORCA|Poeta y dramaturgo granadino
+UNAMUNO|Escritor y rector de Salamanca
+BAROJA|Novelista vasco de la generación del noventa y ocho
+CELA|Novelista gallego de La colmena
+DELIBES|Novelista vallisoletano de Los santos inocentes
+ALEIXANDRE|Poeta español premio Nobel
+JIMENEZ|Poeta de Platero y yo
+ALBERTI|Poeta gaditano del veintisiete
+CERNUDA|Poeta sevillano del veintisiete
+HERNANDEZ|Poeta pastor de Orihuela
+BORGES|Escritor argentino de los laberintos
+NERUDA|Poeta chileno de los versos de amor
+MISTRAL|Poeta chilena premio Nobel
+VALLEJO|Poeta peruano de Trilce
+CORTAZAR|Autor argentino de Rayuela
+RULFO|Autor mexicano de Pedro Páramo
+PAZ|Poeta mexicano premio Nobel
+FUENTES|Novelista mexicano de La región más transparente
+SABATO|Escritor argentino de El túnel
+ONETTI|Escritor uruguayo de Montevideo
+BENEDETTI|Poeta uruguayo de La tregua
+VELAZQUEZ|Pintor de Las meninas
+GOYA|Pintor de los fusilamientos del tres de mayo
+MURILLO|Pintor sevillano de las inmaculadas
+ZURBARAN|Pintor extremeño de los monjes
+GRECO|Pintor cretense afincado en Toledo
+SOROLLA|Pintor valenciano de la luz
+PICASSO|Pintor malagueño del Guernica
+DALI|Pintor ampurdanés de los relojes blandos
+MIRO|Pintor barcelonés de las constelaciones
+GAUDI|Arquitecto de la Sagrada Familia
+CHILLIDA|Escultor donostiarra del Peine del Viento
+FALLA|Compositor gaditano del amor brujo
+ALBENIZ|Compositor de la suite Iberia
+GRANADOS|Compositor de las Goyescas
+RODRIGO|Compositor del concierto de Aranjuez
+TARREGA|Guitarrista y compositor del Recuerdos de la Alhambra
+CASALS|Violonchelista catalán universal
+CABALLE|Soprano barcelonesa de fama mundial
+DOMINGO|Tenor madrileño de renombre
+BUNUEL|Cineasta aragonés del surrealismo
+BERLANGA|Director de Bienvenido míster Marshall
+SAURA|Cineasta aragonés de Cría cuervos
+ALMODOVAR|Cineasta manchego de fama internacional
+AMENABAR|Director de Mar adentro
+COLON|Navegante que llegó a América
+MAGALLANES|Navegante de la primera vuelta al mundo
+ELCANO|Marino que completó la primera vuelta al mundo
+BALBOA|Descubridor del océano Pacífico
+ORELLANA|Explorador que recorrió el Amazonas
+CABEZADEVACA|Explorador de Norteamérica
+CORTES|Conquistador del imperio azteca
+PIZARRO|Conquistador del imperio inca
+ALMAGRO|Conquistador de Chile
+VALDIVIA|Fundador de Santiago de Chile
+CABRAL|Navegante portugués que llegó a Brasil
+VESPUCIO|Navegante que dio nombre a América
+CANO|Apellido del marino de Guetaria
+LEGAZPI|Conquistador de Filipinas
+BOLIVAR|Libertador de cinco naciones
+SUCRE|Mariscal de Ayacucho
+MORELOS|Cura insurgente mexicano
+HIDALGO|Cura del grito de Dolores
+JUAREZ|Presidente mexicano reformista
+MARTI|Poeta y héroe de la independencia cubana
+ARTIGAS|Prócer de la independencia uruguaya
+OHIGGINS|Libertador de Chile
+MIRANDA|Precursor de la independencia venezolana
+SANTANDER|Prócer colombiano y ciudad cántabra
+VIRIATO|Caudillo lusitano frente a Roma
+SENECA|Filósofo cordobés de la Roma antigua
+TRAJANO|Emperador romano nacido en Itálica
+ADRIANO|Emperador romano hispano
+AVERROES|Filósofo cordobés del islam
+MAIMONIDES|Sabio judío de Córdoba
+ALFONSO|Rey sabio de Castilla
+JAIME|Rey conquistador de Aragón
+CARLOS|Emperador que abdicó en Yuste
+FELIPE|Rey que mandó construir El Escorial
+GODOY|Valido de Carlos cuarto
+CADALSO|Escritor de las Cartas marruecas
+JOVELLANOS|Ilustrado asturiano
+CANOVAS|Político de la Restauración
+CAJAL|Científico premio Nobel de medicina
+OCHOA|Bioquímico español premio Nobel
+SEVERO|Nombre del científico de los ácidos nucleicos
+BLASCO|Novelista valenciano de Cañas y barro

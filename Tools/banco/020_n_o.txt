@@ -1,0 +1,347 @@
+# Vocabulario general: palabras con N, Ñ y O
+NACIMIENTO|Venida al mundo
+NACION|País con gobierno propio
+NADA|Ausencia total de cosas
+NADADOR|Practica la natación
+NAIPE|Carta de la baraja
+NALGA|Parte carnosa del trasero
+NARANJA|Cítrico de color vivo
+NARCISO|Flor amarilla de primavera
+NARIZ|Órgano del olfato
+NARRACION|Relato de unos hechos
+NATA|Crema que sube en la leche
+NATACION|Deporte de la piscina
+NATURALEZA|Conjunto del mundo físico
+NAUFRAGIO|Hundimiento del barco
+NAVAJA|Cuchillo que se pliega
+NAVE|Barco o embarcación
+NAVIDAD|Fiesta del veinticinco de diciembre
+NEBLINA|Niebla poco espesa
+NECESIDAD|Carencia de algo preciso
+NEGOCIO|Trato con ánimo de ganancia
+NEGRO|Color de la noche
+NERVIO|Conduce las señales del cuerpo
+NEUMATICO|Rueda de goma del coche
+NEVERA|Conserva en frío los alimentos
+NIDO|Hogar de las aves
+NIEBLA|Nube a ras de suelo
+NIETO|Hijo de un hijo
+NIEVE|Precipitación blanca del invierno
+NINO|Persona de corta edad
+NIQUEL|Metal blanco y brillante
+NITIDEZ|Claridad de la imagen
+NIVEL|Altura respecto a un plano
+NOBLEZA|Clase de los aristócratas
+NOCHE|Tiempo entre el ocaso y el alba
+NOMBRE|Palabra que designa
+NORIA|Rueda que saca agua del pozo
+NORMA|Regla que se ha de cumplir
+NORTE|Punto cardinal de la brújula
+NOTA|Apunte breve
+NOTARIO|Da fe de los contratos
+NOTICIA|Información de un suceso
+NOVATO|Recién llegado al oficio
+NOVELA|Obra narrativa larga
+NOVIEMBRE|Mes de los difuntos
+NOVIO|Prometido de la novia
+NUBE|Masa de vapor en el cielo
+NUCA|Parte posterior del cuello
+NUDO|Lazada apretada
+NUERA|Esposa del hijo
+NUEZ|Fruto seco arrugado
+NUMERO|Signo de cantidad
+NARIGUDO|De nariz muy grande
+NACER|Empezar a vivir
+NACIONAL|De todo el país
+NADAR|Avanzar en el agua
+NARRAR|Contar una historia
+NATAL|Del lugar de nacimiento
+NATIVO|Nacido en ese lugar
+NATURAL|Sin artificio alguno
+NAUFRAGO|Superviviente del hundimiento
+NAUSEA|Ganas de vomitar
+NAUTICO|Relativo a la navegación
+NAVEGAR|Ir por el mar
+NAVIERA|Empresa de barcos
+NEBULOSA|Nube de polvo estelar
+NECEDAD|Dicho o hecho tonto
+NECESARIO|Que hace mucha falta
+NECESITAR|Tener necesidad
+NECIO|Falto de entendimiento
+NECTAR|Jugo dulce de la flor
+NEFASTO|De muy malas consecuencias
+NEGAR|Decir que no
+NEGLIGENCIA|Descuido en el deber
+NEGOCIAR|Tratar un acuerdo
+NEGREAR|Tirar a color oscuro
+NEGRURA|Oscuridad completa
+NEOLOGISMO|Palabra recién creada
+NERVIOSO|Alterado e inquieto
+NEUTRAL|Que no toma partido
+NEVAR|Caer copos
+NICHO|Hueco del cementerio
+NIEBLA|Bruma que impide ver
+NINEZ|Edad de los niños
+NINERA|Cuida a los pequeños
+NITIDO|Limpio y claro
+NITROGENO|Gas principal del aire
+NIVELAR|Poner al mismo nivel
+NOBLE|De sentimientos elevados
+NOCIVO|Perjudicial para la salud
+NOCTURNO|Que sucede de noche
+NOMADA|Que va de un sitio a otro
+NOMBRAR|Designar para un cargo
+NOMINA|Papel del sueldo
+NOQUEAR|Dejar fuera de combate
+NORMAL|Corriente y habitual
+NOSTALGIA|Pena por lo ausente
+NOTABLE|Digno de atención
+NOTAR|Darse cuenta de algo
+NOTORIO|Sabido por todos
+NOVEDAD|Cosa recién aparecida
+NOVELISTA|Escribe novelas
+NOVENO|Que sigue al octavo
+NOVILLO|Toro joven
+NUBLADO|Cielo cubierto
+NUCLEAR|Relativo al átomo
+NUCLEO|Parte central de algo
+NUDILLO|Articulación del dedo
+NUDISTA|Practica el desnudo
+NUMERAR|Poner números
+NUMEROSO|Que son muchos
+NUPCIAL|Relativo a la boda
+NUTRIA|Mamífero que nada en el río
+NUTRIR|Alimentar el cuerpo
+NANDU|Ave corredora sudamericana
+NOÑO|Soso y remilgado
+OASIS|Paraje con agua en el desierto
+OBEDIENCIA|Cumplimiento de la orden
+OBESIDAD|Exceso de peso corporal
+OBISPO|Prelado de una diócesis
+OBJETIVO|Fin que se persigue
+OBJETO|Cosa material
+OBLIGACION|Deber que se impone
+OBRA|Trabajo realizado
+OBRERO|Trabajador manual
+OBSEQUIO|Regalo que se hace
+OBSERVATORIO|Recinto de los telescopios
+OBSTACULO|Impedimento en el camino
+OCASION|Momento oportuno
+OCASO|Puesta del sol
+OCEANO|Mar de gran extensión
+OCIO|Tiempo libre
+OCTUBRE|Mes décimo
+OCUPACION|Trabajo que se realiza
+ODIO|Aversión profunda
+OESTE|Occidente del mapa
+OFENSA|Agravio que se hace
+OFERTA|Producto a precio rebajado
+OFICINA|Local de trabajo administrativo
+OFICIO|Profesión manual
+OIDO|Sentido de la audición
+OJERA|Sombra bajo el ojo
+OJO|Órgano de la visión
+OLA|Onda de la superficie del mar
+OLFATO|Sentido de los olores
+OLIVA|Fruto del olivo
+OLLA|Recipiente de cocer
+OLMO|Árbol de sombra de las plazas
+OLOR|Lo que percibe la nariz
+OLVIDO|Fallo de la memoria
+OMBLIGO|Cicatriz del vientre
+OMOPLATO|Hueso plano de la espalda
+ONDA|Ondulación que se propaga
+ONZA|Porción de chocolate
+OPERACION|Intervención quirúrgica
+OPINION|Parecer sobre algo
+OPORTUNIDAD|Ocasión favorable
+OPOSICION|Prueba para un puesto público
+ORACION|Rezo a la divinidad
+ORADOR|Habla ante el público
+ORDEN|Buena disposición de las cosas
+ORDENADOR|Máquina de procesar datos
+OREJA|Parte visible del oído
+ORGANISMO|Ser vivo completo
+ORGANO|Instrumento de la iglesia
+ORGULLO|Alta estima de uno mismo
+ORIENTE|Por donde sale el sol
+ORIFICIO|Agujero pequeño
+ORIGEN|Principio de algo
+ORILLA|Borde del agua
+ORINA|Líquido de la vejiga
+ORO|Metal de las joyas
+ORQUESTA|Conjunto de músicos
+ORTIGA|Planta que escuece al tocarla
+ORUGA|Larva de la mariposa
+OSCURIDAD|Falta de luz
+OSO|Animal del bosque de gran tamaño
+OSTRA|Molusco de perla
+OTONO|Estación de la vendimia
+OVACION|Aplauso muy caluroso
+OVEJA|Hembra del carnero
+OVILLO|Bola de hilo enrollado
+OXIGENO|Gas que respiramos
+OYENTE|Escucha la radio
+OBCECAR|Cegar la razón
+OBEDECER|Cumplir lo mandado
+OBESO|De peso excesivo
+OBJETAR|Poner reparos
+OBLICUO|Inclinado, ni recto ni paralelo
+OBLIGAR|Forzar a hacer algo
+OBRAR|Actuar de cierto modo
+OBSCENO|Ofensivo al pudor
+OBSEQUIAR|Hacer regalos
+OBSERVAR|Mirar con atención
+OBSESION|Idea fija que no se va
+OBSTINADO|Terco en su empeño
+OBSTRUIR|Cerrar el paso
+OBTENER|Conseguir algo
+OBTURAR|Tapar un conducto
+OBVIO|Claro como el agua
+OCASIONAR|Ser causa de algo
+OCCIDENTE|Parte donde se pone el sol
+OCULISTA|Médico de los ojos
+OCULTAR|Esconder a la vista
+OCUPAR|Llenar un espacio
+OCURRIR|Suceder un hecho
+ODIAR|Sentir aversión
+ODISEA|Viaje lleno de peripecias
+ODONTOLOGO|Especialista de los dientes
+OFENDER|Herir en el amor propio
+OFICIAL|Grado del ejército
+OFRECER|Poner a disposición
+OFRENDA|Don que se dedica
+OFUSCAR|Turbar el entendimiento
+OIR|Percibir los sonidos
+OJALA|Expresión de deseo
+OJEADA|Mirada rápida
+OJEAR|Mirar por encima
+OJIVA|Arco apuntado gótico
+OLEADA|Golpe de mar
+OLEAJE|Sucesión de las olas
+OLEO|Pintura de aceite
+OLER|Percibir por el olfato
+OLFATEAR|Aspirar el olor
+OLIMPIADA|Juegos deportivos mundiales
+OLVIDAR|No acordarse de algo
+OMISION|Falta por no hacer
+OMNIPOTENTE|Que todo lo puede
+ONDEAR|Moverse la bandera
+ONDULAR|Rizar el cabello
+OPACIDAD|Falta de transparencia
+OPERAR|Intervenir al enfermo
+OPINAR|Dar el parecer
+OPIO|Droga de la adormidera
+OPONER|Poner enfrente
+OPORTUNO|Que llega a tiempo
+OPRIMIR|Apretar con fuerza
+OPTAR|Escoger una posibilidad
+OPTICA|Tienda de gafas
+OPTIMISTA|Que todo lo ve bien
+OPULENCIA|Gran riqueza
+ORAL|Que se hace de palabra
+ORAR|Elevar la plegaria
+ORATORIA|Arte de hablar en público
+ORDENAR|Poner en su sitio
+ORDENAR|Sacar la leche a la vaca
+ORFANATO|Casa de los huérfanos
+ORFEBRE|Trabaja el oro y la plata
+ORGANIZAR|Poner en orden
+ORGULLOSO|Que presume de algo
+ORIENTAL|De los países de Asia
+ORIENTAR|Indicar la dirección
+ORIGINAL|Que no es copia
+ORIGINAR|Dar principio a algo
+ORINAR|Hacer aguas menores
+ORLA|Adorno del borde
+ORNAMENTO|Adorno de una obra
+ORTOGRAFIA|Escritura correcta
+ORUJO|Aguardiente del hollejo
+OSADIA|Atrevimiento temerario
+OSAR|Atreverse a hacer algo
+OSCILAR|Moverse como el péndulo
+OSCURECER|Quitar la claridad
+OSTENTAR|Mostrar con vanidad
+OTORGAR|Conceder una gracia
+OVALADO|Con forma de huevo
+OVEJERO|Perro que guarda el rebaño
+OXIDAR|Cubrir de herrumbre
+OZONO|Capa que filtra el sol
+NAFTA|Derivado ligero del petróleo
+NARANJAL|Plantío de cítricos
+NARANJO|Árbol de fruta anaranjada
+NARCOTICO|Sustancia que adormece
+NASAL|Relativo a la nariz
+NATILLAS|Postre cremoso de huevo
+NAVAJAZO|Corte hecho con navaja
+NAVEGANTE|Quien surca los mares
+NAVIDENO|Propio de las fiestas de diciembre
+NEBULOSO|Confuso y poco claro
+NEGATIVA|Respuesta que rechaza
+NEGOCIANTE|Persona de negocios
+NEUMONIA|Infección de los pulmones
+NEURONA|Célula del cerebro
+NEUTRO|Que no es ni lo uno ni lo otro
+NEVADA|Caída abundante de nieve
+NIEVA|Cae nieve del cielo
+NIMIO|De muy poca importancia
+NIVELACION|Igualación de alturas
+NOBILIARIO|Relativo a la nobleza
+NOGAL|Árbol de la nuez
+NOMENCLATURA|Conjunto de nombres técnicos
+NONATO|Que no ha nacido
+NORDESTE|Punto entre el norte y el este
+NOROESTE|Punto entre el norte y el oeste
+NORUEGA|País de los fiordos
+NOTARIA|Despacho donde se firma la escritura
+NOVATADA|Broma pesada al recién llegado
+NOVECIENTOS|Nueve centenas
+NOVENARIO|Rezo de nueve días
+NUBARRON|Nube grande y oscura
+NUBLAR|Cubrirse el cielo
+NUDOSO|Lleno de nudos
+NUEVE|Tres veces tres
+NUEVO|Sin estrenar
+NULIDAD|Falta de validez
+NUTRICION|Alimentación del cuerpo
+NUTRITIVO|Que alimenta mucho
+OBERTURA|Pieza que abre la ópera
+OBISPADO|Territorio del obispo
+OBSTINARSE|Empeñarse en algo
+OCTAVA|Intervalo musical de ocho notas
+OCTOGENARIO|Que tiene ochenta años
+OCULTO|Escondido a la vista
+ODORIFERO|Que despide buen olor
+OFENSIVA|Ataque del ejército
+OFICIAR|Celebrar la misa
+OFICIOSO|Que se mete donde no le llaman
+OLEODUCTO|Tubería del petróleo
+OLIVAR|Campo de olivos
+OMITIR|Dejar de decir algo
+ONDULACION|Movimiento en ondas
+OPERARIO|Obrero de la fábrica
+OPINABLE|Que admite pareceres distintos
+OPRESION|Tiranía sobre un pueblo
+OPTIMO|Lo mejor de todo
+ORACULO|Respuesta de los dioses
+ORCA|Ballena asesina
+ORDENANZA|Reglamento municipal
+OREAR|Airear la ropa
+ORFANDAD|Situación del huérfano
+ORFEON|Coro de muchas voces
+ORGANILLO|Instrumento de manivela
+ORGANIZADOR|Quien monta el acto
+ORIFICE|Artífice del oro
+ORIGINARIO|Procedente de un lugar
+ORLAR|Adornar con una cenefa
+ORNITOLOGO|Estudia las aves
+ORTOPEDIA|Corrección de las deformidades
+OSAMENTA|Conjunto de los huesos
+OSEO|De hueso
+OSTENTOSO|Llamativo y lujoso
+OTEAR|Mirar desde lo alto
+OTORRINO|Médico de oídos y garganta
+OVALO|Figura alargada y redondeada
+OVARIO|Glándula femenina
+OVEJUNO|Relativo al ganado lanar
+OXIDO|Compuesto del oxígeno

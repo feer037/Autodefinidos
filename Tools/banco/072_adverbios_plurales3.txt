@@ -1,0 +1,326 @@
+# Adverbios en mente y plurales en ciones y es
+ABIERTAMENTE|De manera franca y sin ocultar
+ALEGREMENTE|De modo alegre
+AMABLEMENTE|Con amabilidad
+APENAS|Casi no
+ATENTAMENTE|Con atención y cortesía
+BREVEMENTE|De manera breve
+CIERTAMENTE|Con toda certeza
+CLARAMENTE|De manera clara
+COMODAMENTE|Con comodidad
+COMPLETAMENTE|Del todo
+DEBIDAMENTE|Como es debido
+DEBILMENTE|Con poca fuerza
+DIARIAMENTE|Todos los días
+DIFICILMENTE|Con dificultad
+DIRECTAMENTE|Sin rodeos
+DISTINTAMENTE|De manera diferente
+DULCEMENTE|Con dulzura
+ENORMEMENTE|En gran medida
+ESCASAMENTE|Con escasez
+ESPECIALMENTE|De manera particular
+EXACTAMENTE|Con exactitud
+FACILMENTE|Sin dificultad
+FELIZMENTE|Por fortuna
+FIELMENTE|Con fidelidad
+FINALMENTE|Al final de todo
+FIRMEMENTE|Con firmeza
+FRANCAMENTE|Con franqueza
+FRIAMENTE|Sin emoción alguna
+FUERTEMENTE|Con mucha fuerza
+GENERALMENTE|Por lo común
+GRATAMENTE|De modo agradable
+GRAVEMENTE|De manera grave
+HABILMENTE|Con habilidad
+HUMILDEMENTE|Con humildad
+IGUALMENTE|Del mismo modo
+INTENSAMENTE|Con intensidad
+JUSTAMENTE|Con justicia o precisamente
+LEALMENTE|Con lealtad
+LENTAMENTE|Con lentitud
+LIBREMENTE|Sin ataduras
+LIGERAMENTE|Un poco
+LOCAMENTE|De manera desatada
+MALAMENTE|De mala manera
+MENSUALMENTE|Cada mes
+MUTUAMENTE|El uno al otro
+NORMALMENTE|Por lo general
+NUEVAMENTE|Otra vez
+OFICIALMENTE|De manera oficial
+PERFECTAMENTE|De modo perfecto
+PLENAMENTE|Del todo
+POSIBLEMENTE|Tal vez
+PRECISAMENTE|Justo en ese punto
+PRIMERAMENTE|En primer lugar
+PRINCIPALMENTE|Sobre todo
+PROBABLEMENTE|Con mucha probabilidad
+PRONTAMENTE|Sin tardanza
+PROPIAMENTE|En sentido estricto
+PUBLICAMENTE|Delante de todos
+RAPIDAMENTE|Con rapidez
+RARAMENTE|Pocas veces
+REALMENTE|De verdad
+RECIENTEMENTE|Hace poco tiempo
+RIGIDAMENTE|Con rigidez
+SANAMENTE|De manera saludable
+SECAMENTE|De modo brusco
+SENCILLAMENTE|De forma sencilla
+SERIAMENTE|Con seriedad
+SOBRIAMENTE|Con sobriedad
+SOLAMENTE|Únicamente
+SUAVEMENTE|Con suavidad
+SUMAMENTE|En grado muy alto
+TERRIBLEMENTE|De modo espantoso
+TOTALMENTE|Por completo
+TRISTEMENTE|Con tristeza
+ULTIMAMENTE|En los últimos tiempos
+UNICAMENTE|Solo eso
+UTILMENTE|De modo provechoso
+VAGAMENTE|De manera imprecisa
+VELOZMENTE|A gran velocidad
+VERDADERAMENTE|De verdad
+VIVAMENTE|Con mucha viveza
+ACCIONES|Hechos que se realizan
+ADICIONES|Sumas de cantidades
+AFICIONES|Gustos por un pasatiempo
+ATENCIONES|Cuidados que se prestan
+CANCIONES|Piezas musicales con letra
+COLECCIONES|Conjuntos reunidos de cosas
+CONDICIONES|Requisitos que se exigen
+CUESTIONES|Asuntos que se plantean
+DECISIONES|Resoluciones que se toman
+DIRECCIONES|Señas de los domicilios
+EMOCIONES|Alteraciones del ánimo
+ESTACIONES|Paradas del ferrocarril
+FUNCIONES|Representaciones teatrales
+ILUSIONES|Esperanzas que alegran
+INTENCIONES|Propósitos que se tienen
+LECCIONES|Temas que se aprenden
+NACIONES|Países del mundo
+OBLIGACIONES|Deberes que se imponen
+OPERACIONES|Intervenciones quirúrgicas
+OPINIONES|Pareceres sobre algo
+ORACIONES|Rezos o frases con sentido
+PORCIONES|Partes de un todo
+POSICIONES|Lugares que se ocupan
+PREGUNTAS|Consultas que se hacen
+RACIONES|Porciones de comida
+RAZONES|Motivos que se alegan
+REUNIONES|Juntas de varias personas
+SOLUCIONES|Respuestas a los problemas
+VACACIONES|Días de descanso
+VOTACIONES|Emisiones de los votos
+CAMIONES|Vehículos de gran carga
+CAMPEONES|Vencedores de la competición
+CINTURONES|Sujetan los pantalones
+COLCHONES|Piezas mullidas de la cama
+CORAZONES|Órganos que bombean la sangre
+GUANTES|Prendas de las manos
+JAMONES|Perniles curados
+LADRONES|Quienes roban
+LEONES|Fieras de melena
+LIMONES|Cítricos amarillos
+MELONES|Frutas grandes y dulces
+MILLONES|Conjuntos de mil millares
+MONTONES|Conjuntos amontonados
+PANTALONES|Prendas de dos perneras
+RATONES|Roedores pequeños
+RENGLONES|Líneas de un escrito
+SALONES|Estancias principales
+SILLONES|Asientos amplios con brazos
+TALONES|Partes traseras de los pies
+TIBURONES|Escualos de aleta dorsal
+ALBUMES|Libros de fotos
+ARBOLES|Plantas de tronco leñoso
+BAULES|Arcones de viaje
+CARACTERES|Modos de ser de las personas
+CESPEDES|Hierbas cortas de los jardines
+CRISTALES|Vidrios transparentes
+DELFINES|Cetáceos juguetones
+ESPANOLES|Naturales de España
+FRANCESES|Naturales de París
+HOSPITALES|Centros de enfermos
+HOTELES|Alojamientos de viajeros
+JARDINES|Terrenos con flores
+MANTELES|Cubren la mesa
+MANUALES|Libros de instrucciones
+MUEBLES|Sillas, mesas y armarios
+NIVELES|Alturas respecto a un plano
+PAPELES|Hojas de escribir
+PASTELES|Dulces de repostería
+PORTALES|Entradas de los edificios
+PUENTES|Cruzan los ríos
+TUNELES|Galerías bajo tierra
+UMBRALES|Partes bajas de las puertas
+ANIMALES|Seres vivos que se mueven
+ANILLOS|Sortijas de los dedos
+CARTELES|Anuncios pegados en la pared
+CUARTELES|Edificios de los soldados
+FIELES|Creyentes de una religión
+HILOS|Hebras de coser
+IGUALES|Sin diferencia entre sí
+MALES|Daños y desgracias
+PANALES|Celdillas de cera
+PINCELES|Utensilios del pintor
+RIELES|Carriles del tren
+TONELES|Recipientes grandes de vino
+TOTALES|Sumas completas
+TROPICALES|Propios de las zonas cálidas
+VOCALES|Letras como la a o la e
+ALBORES|Primeras luces del día
+AMORES|Sentimientos que mueven el mundo
+CALORES|Sensaciones de mucho calor
+COLORES|Verde, rojo o azul
+DOLORES|Sensaciones que hacen sufrir
+FAVORES|Servicios que se hacen
+HONORES|Muestras de respeto
+HORRORES|Cosas que causan espanto
+LICORES|Bebidas dulces y fuertes
+OLORES|Lo que percibe la nariz
+PINTORES|Artistas del lienzo
+PROFESORES|Quienes dan clase
+RUMORES|Noticias sin confirmar
+SABORES|Gustos de los alimentos
+SENORES|Tratamientos de cortesía
+TEMBLORES|Movimientos involuntarios
+TEMORES|Miedos ante un peligro
+VALORES|Precios o cualidades morales
+VAPORES|Gases del agua caliente
+ALTARES|Mesas de los templos
+AZAHARES|Flores del naranjo
+BAZARES|Tiendas de mil cosas
+COLLARES|Adornos del cuello
+HOGARES|Casas de las familias
+LUGARES|Sitios determinados
+MANJARES|Comidas exquisitas
+MILLARES|Conjuntos de mil
+PALADARES|Cielos de la boca
+PILARES|Soportes que sostienen
+LUNARES|Manchas pequeñas de la piel
+MILITARES|Miembros del ejército
+PARTICULARES|Asuntos o personas privadas
+POPULARES|Queridos por el pueblo
+ESCOLARES|Alumnos del colegio
+FAMILIARES|Parientes cercanos
+CAPACES|Que pueden con ello
+JUECES|Quienes dictan sentencia
+NARICES|Órganos del olfato
+PERDICES|Aves de caza
+RAICES|Partes bajo tierra de las plantas
+BARNICES|Capas brillantes sobre la madera
+MATICES|Tonos sutiles de un color
+CICATRICES|Marcas de las heridas
+CODORNICES|Aves menudas de caza
+LOMBRICES|Gusanos de la tierra
+PECES|Animales de escamas
+VECES|Ocasiones repetidas
+NUECES|Frutos secos de dos mitades
+LUCES|Focos encendidos
+CRUCES|Símbolos del cristianismo
+VOCES|Sonidos de la garganta
+ARROCES|Platos de grano blanco
+DISFRACES|Trajes de carnaval
+ANTIFACES|Máscaras de los ojos
+ALTIVECES|Muestras de orgullo
+CADUCES|Que pierden vigencia
+AGUJAS|Llevan el hilo al coser
+ALMENDRAS|Frutos secos del turrón
+ANTENAS|Captan la señal
+AVELLANAS|Frutos secos redondos
+BALANZAS|Sirven para pesar
+BOMBILLAS|Dan luz eléctrica
+BUFANDAS|Prendas del cuello
+CADENAS|Series de eslabones
+CAMPANAS|Suenan en la torre
+CANASTAS|Cestos grandes de mimbre
+CAZUELAS|Recipientes hondos de barro
+CORBATAS|Adornos del cuello de la camisa
+CORTINAS|Tapan las ventanas
+CUCHARAS|Sirven para la sopa
+ESCALERAS|Sirven para subir pisos
+ESPINAS|Púas de las plantas
+ESTUFAS|Aparatos que calientan
+GAVIOTAS|Aves blancas del puerto
+GOLONDRINAS|Aves migratorias de cola ahorquillada
+GORRAS|Prendas con visera
+HERRADURAS|Hierros de los cascos
+HORMIGAS|Insectos laboriosos
+LAGRIMAS|Gotas que salen del ojo
+LECHUGAS|Verduras de la ensalada
+MANZANAS|Frutas del árbol del paraíso
+MARIPOSAS|Insectos de alas coloridas
+MEDALLAS|Premios que se cuelgan
+MONEDAS|Piezas metálicas de pago
+MONTANAS|Grandes elevaciones
+NARANJAS|Cítricos de gajos
+OLIVAS|Frutos del olivo
+PALOMAS|Aves de la paz
+PATATAS|Tubérculos de la tortilla
+PERSIANAS|Cierres de las ventanas
+PLAYAS|Riberas arenosas
+PLUMAS|Escriben con tinta
+PUERTAS|Se abren para entrar
+SABANAS|Ropas de la cama
+SEMILLAS|Granos que germinan
+TIJERAS|Cortan con dos hojas
+TOALLAS|Secan el cuerpo
+VENTANAS|Aberturas del muro
+ZANAHORIAS|Raíces naranjas y dulces
+ABEJORROS|Insectos peludos y zumbones
+ABANICOS|Se abren para dar aire
+ABRIGOS|Prendas de invierno
+ANZUELOS|Ganchos de pescar
+BARRILES|Recipientes de cerveza
+BOLIGRAFOS|Escriben con tinta y bolita
+BOSQUES|Terrenos poblados de árboles
+CABALLOS|Animales de silla
+CABELLOS|Pelos de la cabeza
+CAMINOS|Vías de tierra
+CANGREJOS|Crustáceos de pinzas
+CASTILLOS|Fortalezas medievales
+CUADROS|Pinturas enmarcadas
+CUCHILLOS|Cortan la carne
+DEDOS|Extremos de las manos
+DIENTES|Piezas de la boca
+ELEFANTES|Paquidermos de trompa
+ESPEJOS|Reflejan la imagen
+GATOS|Felinos domésticos
+HUESOS|Piezas del esqueleto
+HUEVOS|Los ponen las gallinas
+JUGUETES|Entretienen a los niños
+LIBROS|Obras impresas
+MOLINOS|Muelen el grano
+MONTES|Elevaciones del terreno
+OJOS|Órganos de la vista
+PERROS|Cánidos domésticos
+PLATOS|Piezas de la vajilla
+POZOS|Hoyos hondos con agua
+PUERTOS|Refugios de los barcos
+QUESOS|Productos curados de la leche
+RELOJES|Marcan las horas
+RIOS|Corrientes continuas de agua
+SOMBREROS|Prendas de copa y ala
+TEJADOS|Cubiertas de las casas
+TORNILLOS|Piezas de rosca
+TRENES|Convoyes sobre raíles
+VASOS|Recipientes de beber
+ZAPATOS|Calzados de la calle
+BOTINES|Botas cortas
+CALCETINES|Prendas de los pies
+COJINES|Almohadones del sofá
+JARDINERAS|Recipientes alargados de plantas
+PATINES|Se deslizan con ruedas
+PEINES|Arreglan el cabello
+TRAMPOLINES|Tablas de saltar al agua
+VIOLINES|Instrumentos de cuatro cuerdas
+BOTONES|Piezas que abrochan
+CAJONES|Compartimentos del mueble
+CUPONES|Vales con descuento
+JABONES|Productos de higiene
+MELOCOTONES|Frutas aterciopeladas
+PANTALLAS|Muestran las imágenes
+PERDIGONES|Balines de la escopeta
+PULMONES|Órganos de la respiración
+SALMONES|Peces rosados de río
+TABLONES|Tablas gruesas
+TAPONES|Cierran las botellas

@@ -1,0 +1,213 @@
+# Deportes, juegos y ocio
+FUTBOL|Deporte de once contra once
+BALONCESTO|Deporte de la canasta
+BALONMANO|Deporte de siete jugadores por equipo
+VOLEIBOL|Deporte del balón por encima de la red
+TENIS|Deporte de raqueta y red
+PADEL|Deporte de pala en pista con paredes
+GOLF|Deporte de palos y hoyos
+RUGBY|Deporte del balón ovalado
+BEISBOL|Deporte del bate y las bases
+HOCKEY|Deporte del stick y el disco
+BOXEO|Deporte de los puños
+JUDO|Arte marcial de proyecciones
+KARATE|Arte marcial de golpes secos
+TAEKWONDO|Arte marcial coreana de patadas
+ESGRIMA|Deporte del florete y el sable
+ATLETISMO|Deporte de pista y campo
+MARATON|Carrera de cuarenta y dos kilómetros
+CICLISMO|Deporte sobre dos ruedas
+NATACION|Deporte de la piscina
+WATERPOLO|Deporte de balón dentro del agua
+REMO|Deporte de la embarcación y las palas
+PIRAGUISMO|Deporte de la canoa
+VELA|Deporte de la navegación con viento
+SURF|Deporte de deslizarse sobre las olas
+ESQUI|Deporte de deslizarse sobre la nieve
+SNOWBOARD|Tabla para deslizarse en la nieve
+PATINAJE|Deporte sobre cuchillas o ruedas
+GIMNASIA|Deporte de aparatos y suelo
+HALTEROFILIA|Deporte del levantamiento de pesas
+LUCHA|Deporte de derribar al contrario
+TRIATLON|Prueba de nadar, pedalear y correr
+DECATLON|Prueba atlética de diez disciplinas
+PENTATLON|Prueba de cinco disciplinas
+ALPINISMO|Deporte de escalar montañas
+ESCALADA|Ascenso por la pared rocosa
+SENDERISMO|Caminatas por rutas señalizadas
+EQUITACION|Deporte a caballo
+HIPICA|Competición ecuestre
+POLO|Deporte a caballo con mazas
+AJEDREZ|Juego de piezas y jaque mate
+DAMAS|Juego de tablero de fichas
+PARCHIS|Juego de dado y cuatro colores
+DOMINO|Juego de fichas con puntos
+BILLAR|Juego de tacos y bolas
+BOLOS|Juego de derribar palos
+PETANCA|Juego de bolas metálicas
+MUS|Juego de cartas por parejas
+TUTE|Juego de naipes español
+BRISCA|Juego de cartas sencillo
+POKER|Juego de cartas de apuestas
+BINGO|Juego de cartones numerados
+RULETA|Juego del casino de la bolita
+QUINIELA|Apuesta de resultados de fútbol
+LOTERIA|Sorteo de números
+CRUCIGRAMA|Pasatiempo de palabras cruzadas
+SUDOKU|Pasatiempo de números en cuadrícula
+JEROGLIFICO|Pasatiempo de figuras y letras
+ADIVINANZA|Acertijo que se propone
+PUZLE|Rompecabezas de piezas
+COMBA|Juego de saltar la cuerda
+ESCONDITE|Juego de buscar a los que se ocultan
+RAYUELA|Juego de saltar casillas pintadas
+CANICAS|Juego de bolitas de cristal
+PEONZA|Juguete que gira sobre su punta
+COMETA|Juguete que vuela atado a un hilo
+COLUMPIO|Asiento que se balancea
+TOBOGAN|Rampa por la que se desliza uno
+BALANCIN|Tabla que sube y baja
+YOYO|Juguete que sube y baja del hilo
+MUNECA|Juguete con figura humana
+PELOTA|Esfera de jugar
+BALON|Pelota grande del partido
+RAQUETA|Golpea la pelota en el tenis
+PALO|Instrumento con el que se golpea en el golf
+BATE|Instrumento para golpear en béisbol
+GUANTE|Protege la mano del deportista
+CASCO|Protege la cabeza del ciclista
+RED|Malla que divide la pista
+PORTERIA|Meta que se defiende
+CANASTA|Aro con red del baloncesto
+ARO|Anilla por la que entra el balón
+TABLERO|Superficie del juego
+FICHA|Pieza que se mueve en el tablero
+DADO|Cubo de seis caras numeradas
+NAIPE|Carta de la baraja
+BARAJA|Conjunto de cartas
+COMODIN|Carta que vale por cualquiera
+AS|Carta de mayor valor
+SOTA|Figura de la baraja española
+CABALLO|Pieza del ajedrez que salta
+ALFIL|Pieza del ajedrez que va en diagonal
+TORRE|Pieza del ajedrez de líneas rectas
+PEON|Pieza más humilde del ajedrez
+JAQUE|Amenaza al rey en el ajedrez
+MATE|Jaque del que no se escapa
+TABLAS|Empate en el ajedrez
+GOL|Tanto que sube al marcador
+TANTO|Punto conseguido en el juego
+PENALTI|Falta castigada desde el punto
+CORNER|Saque de esquina
+FALTA|Infracción del reglamento
+TARJETA|Cartulina que muestra el árbitro
+ARBITRO|Hace cumplir las reglas
+LINIER|Juez de banda del fútbol
+ENTRENADOR|Dirige al equipo
+DELANTERO|Jugador de ataque
+DEFENSA|Jugador que protege su portería
+PORTERO|Guardián de la meta
+CENTROCAMPISTA|Jugador de la zona media
+CAPITAN|Lleva el brazalete del equipo
+SUPLENTE|Jugador del banquillo
+TITULAR|Jugador que sale de inicio
+FICHAJE|Incorporación de un jugador
+TRASPASO|Cambio de club de un jugador
+CANTERA|Jugadores formados en el club
+AFICION|Seguidores de un equipo
+HINCHA|Simpatizante fervoroso
+GRADA|Asientos del estadio
+ESTADIO|Recinto del partido
+CAMPO|Terreno de juego
+PISTA|Superficie donde se compite
+TATAMI|Superficie de las artes marciales
+RING|Cuadrilátero del boxeo
+VELODROMO|Pista de ciclismo
+HIPODROMO|Recinto de las carreras de caballos
+PISCINA|Vaso de agua para nadar
+GIMNASIO|Local con aparatos de ejercicio
+VESTUARIO|Sala de cambiarse
+TAQUILLA|Armario del vestuario
+LIGA|Competición de todos contra todos
+COPA|Torneo por eliminatorias
+TORNEO|Certamen deportivo
+CAMPEONATO|Competición por un título
+CLASIFICACION|Tabla con el orden de los equipos
+ASCENSO|Paso a una categoría superior
+DESCENSO|Bajada de categoría
+PRORROGA|Tiempo añadido al partido
+DESCANSO|Pausa entre las dos partes
+SAQUE|Puesta en juego del balón
+REBOTE|Balón que rechaza el tablero
+ASISTENCIA|Pase que acaba en tanto
+REGATE|Finta para superar al rival
+MARCAJE|Vigilancia de un jugador
+CONTRAATAQUE|Ataque rápido tras robar el balón
+SAQUEDEBANDA|Puesta en juego desde la línea lateral
+CRONOMETRO|Mide los tiempos
+MEDALLA|Premio que se cuelga al cuello
+TROFEO|Copa que recibe el campeón
+PODIO|Plataforma de los tres primeros
+RECORD|Mejor marca conseguida
+MARCA|Registro de un resultado
+OLIMPIADA|Juegos de cada cuatro años
+ANTORCHA|Llama que abre los Juegos
+MASCOTA|Figura simbólica de un evento
+DOPAJE|Uso de sustancias prohibidas
+FEDERACION|Organismo rector de un deporte
+CLUB|Sociedad deportiva
+SOCIO|Miembro de un club
+DIRECTIVA|Junta que dirige el club
+PRESIDENTE|Máximo cargo del club
+DERBI|Partido entre rivales vecinos
+CLASICO|Enfrentamiento de los dos grandes
+AMISTOSO|Partido sin puntos en juego
+PRETEMPORADA|Preparación previa a la competición
+ENTRENAMIENTO|Sesión de preparación
+CALENTAMIENTO|Ejercicios previos al esfuerzo
+ESTIRAMIENTO|Ejercicio de elongación muscular
+RESISTENCIA|Capacidad de aguantar el esfuerzo
+VELOCIDAD|Rapidez del deportista
+POTENCIA|Fuerza aplicada con rapidez
+AGILIDAD|Soltura en el movimiento
+TECNICA|Modo correcto de ejecutar
+TACTICA|Plan de juego del equipo
+ESTRATEGIA|Plan general para vencer
+SPRINT|Esfuerzo final a máxima velocidad
+PELOTON|Grupo principal de ciclistas
+ESCAPADA|Grupo que se adelanta al pelotón
+MAILLOT|Camiseta del ciclista
+ETAPA|Jornada de una vuelta ciclista
+CONTRARRELOJ|Etapa individual contra el crono
+PUERTO|Ascensión de montaña en ciclismo
+META|Línea final de la carrera
+SALIDA|Punto de inicio de la prueba
+CARRIL|Espacio asignado a cada nadador
+RELEVO|Prueba por equipos de postas
+CROL|Estilo de natación más veloz
+BRAZA|Estilo de natación de brazos simétricos
+ESPALDA|Estilo de natación boca arriba
+MARIPOSA|Estilo de natación de brazos a la vez
+TRAMPOLIN|Tabla de los saltos de piscina
+FLOTADOR|Ayuda a mantenerse a flote
+BANADOR|Prenda para nadar
+CHANDAL|Ropa deportiva de dos piezas
+ZAPATILLA|Calzado para correr
+BOTA|Calzado del futbolista
+TACO|Saliente de la suela
+RAQUETAZO|Golpe fuerte con la raqueta
+DRIBLAR|Sortear al contrario con el balón
+CHUTAR|Golpear el balón con el pie
+REMATAR|Culminar la jugada
+BLOQUEAR|Detener el avance del rival
+DEFENDER|Proteger la propia portería
+ATACAR|Ir en busca del tanto
+MARCAR|Conseguir un tanto
+EMPATAR|Igualar el marcador
+GANAR|Salir vencedor
+PERDER|Salir derrotado
+COMPETIR|Luchar por la victoria
+ENTRENAR|Prepararse para competir
+ARBITRAR|Dirigir el encuentro
+CLASIFICAR|Pasar a la siguiente ronda
+ELIMINAR|Dejar fuera de la competición

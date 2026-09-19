@@ -1,0 +1,355 @@
+# Vocabulario general: palabras con V, X, Y y Z
+VACA|Hembra del toro
+VACACIONES|Días de descanso
+VACIO|Sin nada dentro
+VACUNA|Previene la enfermedad
+VAGON|Coche del ferrocarril
+VAINA|Funda de la espada
+VAINILLA|Aroma del helado blanco
+VAJILLA|Conjunto de platos y fuentes
+VALLA|Cerca que delimita
+VALLE|Terreno llano entre montes
+VALOR|Coraje ante el peligro
+VALS|Baile vienés de tres tiempos
+VALVULA|Regula el paso del fluido
+VAMPIRO|Muerto que chupa sangre
+VAPOR|Agua en forma de gas
+VAQUERO|Guarda las reses en el rancho
+VARA|Palo largo y delgado
+VARIEDAD|Diversidad de cosas
+VASIJA|Recipiente de barro
+VASO|Recipiente para beber
+VECINDARIO|Conjunto de los vecinos
+VEGETACION|Plantas de un lugar
+VEHICULO|Medio de transporte
+VEJEZ|Última etapa de la vida
+VELA|Lona que impulsa el barco
+VELOCIDAD|Rapidez del movimiento
+VELODROMO|Pista de ciclismo
+VENA|Conduce la sangre al corazón
+VENDA|Tira que cubre la herida
+VENENO|Sustancia que mata
+VENGANZA|Desquite por una ofensa
+VENTAJA|Superioridad sobre otro
+VENTANA|Abertura del muro con cristal
+VENTILADOR|Aparato que mueve el aire
+VERANO|Estación más calurosa
+VERDAD|Lo que es conforme a la realidad
+VERDURA|Hortaliza de la huerta
+VEREDA|Senda estrecha
+VERGUENZA|Turbación ante los demás
+VERJA|Reja de hierro de la entrada
+VERRUGA|Bulto pequeño de la piel
+VERSO|Línea de una poesía
+VERTEDERO|Lugar donde se echa la basura
+VESTIBULO|Entrada de un edificio
+VESTIDO|Prenda femenina de una pieza
+VETERINARIO|Médico de animales
+VIA|Camino del tren
+VIAJE|Traslado a un lugar lejano
+VIBORA|Serpiente venenosa
+VICIO|Costumbre mala y arraigada
+VICTIMA|Quien sufre el daño
+VICTORIA|Triunfo sobre el rival
+VIDA|Existencia de un ser
+VIDRIERA|Ventanal de cristales de colores
+VIDRIO|Material duro y transparente
+VIENTO|Aire que corre
+VIENTRE|Cavidad del abdomen
+VIERNES|Día que precede al sábado
+VIGA|Madero que sostiene el techo
+VIGILANTE|Cuida y observa
+VILLA|Población con privilegios
+VINAGRE|Líquido ácido del aliño
+VINO|Bebida de la uva fermentada
+VINEDO|Terreno plantado de vides
+VIOLIN|Instrumento de cuatro cuerdas y arco
+VIRTUD|Cualidad moral buena
+VIRUELA|Enfermedad de las pústulas
+VISERA|Ala delantera de la gorra
+VISION|Capacidad de ver
+VISITA|Persona que viene a casa
+VISPERA|Día anterior a una fiesta
+VISTA|Sentido con que se ve
+VITAMINA|Nutriente necesario para la salud
+VITRINA|Armario de cristal
+VIUDA|Mujer que perdió al marido
+VIVIENDA|Lugar donde se habita
+VOCABULARIO|Conjunto de palabras
+VOCACION|Inclinación a una profesión
+VOLANTE|Se agarra al conducir
+VOLCAN|Montaña que echa lava
+VOLEIBOL|Deporte del balón sobre la red
+VOLUMEN|Espacio que ocupa un cuerpo
+VOLUNTAD|Facultad de decidir
+VOTO|Papeleta de la elección
+VOZ|Sonido que emite la garganta
+VUELO|Trayecto del avión
+VUELTA|Giro completo
+XILOFONO|Instrumento de láminas y baquetas
+YATE|Embarcación de recreo
+YEGUA|Hembra del caballo
+YEMA|Parte amarilla del huevo
+YERNO|Marido de la hija
+YESO|Material blanco de escayola
+YOGUR|Producto lácteo fermentado
+YUDO|Arte marcial japonés de agarres
+YUNQUE|Pieza donde golpea el herrero
+YUNTA|Par de bueyes de labor
+ZAFIRO|Piedra preciosa azul
+ZAGUAN|Entrada de la casa antigua
+ZANAHORIA|Raíz naranja del conejo
+ZANJA|Excavación larga y estrecha
+ZAPATERO|Arregla el calzado
+ZAPATILLA|Calzado cómodo de estar en casa
+ZAPATO|Calzado de suela dura
+ZARZA|Arbusto espinoso de moras
+ZARZUELA|Teatro lírico español
+ZEPELIN|Dirigible antiguo
+ZOCALO|Franja baja de la pared
+ZODIACO|Franja celeste de los doce signos
+ZONA|Extensión de terreno
+ZOOLOGICO|Parque de los animales
+ZORRO|Mamífero astuto de cola espesa
+ZUECO|Calzado de madera
+ZUMBIDO|Ruido del moscardón
+ZUMO|Líquido exprimido de la fruta
+ZURDO|Que usa la mano izquierda
+VACACIONAL|Propio del descanso estival
+VACIAR|Dejar sin contenido
+VACILAR|Dudar entre dos cosas
+VACUNAR|Poner la vacuna
+VADEAR|Cruzar el río a pie
+VAGABUNDO|Anda sin rumbo ni casa
+VAGAR|Andar sin destino
+VAGUEDAD|Falta de precisión
+VALER|Tener cierto precio
+VALEROSO|Lleno de valor
+VALIDO|Que sirve legalmente
+VALIENTE|Que no teme al peligro
+VALLADO|Cerca de una finca
+VALORAR|Poner precio a algo
+VANAGLORIA|Presunción vana
+VANIDAD|Deseo de ser admirado
+VAPOROSO|Ligero y transparente
+VARAR|Encallar la embarcación
+VARIAR|Cambiar algo
+VARIOPINTO|De clases muy diversas
+VARON|Persona de sexo masculino
+VASALLO|Súbdito del señor feudal
+VASTO|De gran extensión
+VATICINAR|Predecir el futuro
+VECINDAD|Cercanía de las casas
+VEDAR|Prohibir por ley
+VEGETAL|Ser vivo de raíz y hojas
+VEHEMENTE|Impetuoso y apasionado
+VEJAR|Maltratar y humillar
+VELADA|Reunión nocturna
+VELAR|Pasar la noche cuidando
+VELERO|Barco que navega a vela
+VELLO|Pelo fino del cuerpo
+VELOZ|Que va muy rápido
+VENCER|Ganar al contrario
+VENDAR|Cubrir con vendas
+VENDAVAL|Viento muy fuerte
+VENDER|Dar a cambio de dinero
+VENDIMIA|Recogida de la uva
+VENERAR|Rendir culto
+VENGAR|Tomar la revancha
+VENIDERO|Que está por llegar
+VENTANAL|Ventana muy grande
+VENTEAR|Soplar el viento
+VENTILAR|Renovar el aire
+VENTURA|Buena suerte
+VERANEAR|Pasar el estío fuera
+VERAZ|Que dice la verdad
+VERBENA|Fiesta popular nocturna
+VERBO|Palabra que expresa acción
+VERDEAR|Tirar a color de hierba
+VERDUGO|Ejecuta la sentencia
+VERDULERIA|Tienda de hortalizas
+VEREDICTO|Fallo del jurado
+VERGEL|Huerto con flores y frutales
+VERIFICAR|Comprobar que es cierto
+VERSATIL|Que se adapta a todo
+VERSICULO|Cada parte de un capítulo bíblico
+VERSION|Manera de contar un hecho
+VERTER|Derramar un líquido
+VERTICAL|Perpendicular al suelo
+VERTICE|Punto donde se juntan dos lados
+VERTIENTE|Ladera por donde corre el agua
+VERTIGO|Sensación de mareo en lo alto
+VESTIR|Ponerse la ropa
+VETAR|Impedir con el veto
+VETERANO|Con muchos años de oficio
+VIABLE|Que se puede llevar a cabo
+VIADUCTO|Puente sobre un valle
+VIAJAR|Recorrer tierras lejanas
+VIAJERO|El que viaja
+VIBRAR|Temblar con rapidez
+VICEVERSA|Al revés, al contrario
+VICIAR|Echar a perder una costumbre
+VIDENTE|Dice ver el futuro
+VIEJO|De muchos años
+VIGENTE|Que está en vigor
+VIGILAR|Estar atento y guardar
+VIGOR|Fuerza y energía
+VILIPENDIAR|Despreciar públicamente
+VINCULAR|Unir con un lazo
+VINDICAR|Reclamar con razón
+VIOLAR|Quebrantar una ley
+VIOLENTO|Que actúa con fuerza brutal
+VIOLETA|Flor morada y pequeña
+VIRAR|Cambiar de rumbo
+VIRGEN|Que no ha sido tocado
+VIRIL|Propio del varón
+VIRUS|Causa infecciones
+VISAR|Sellar un documento
+VISCOSO|Espeso y pegajoso
+VISIBLE|Que se puede ver
+VISITAR|Ir a ver a alguien
+VISLUMBRAR|Ver de manera confusa
+VISUAL|Relativo a la vista
+VITAL|Necesario para la vida
+VITOREAR|Aclamar con vivas
+VIUDO|Que perdió a su esposa
+VIVAZ|Despierto y vivaracho
+VIVERO|Criadero de plantas
+VIVIR|Tener vida
+VIVO|Que no está muerto
+VOCEAR|Pregonar a gritos
+VOLADOR|Que vuela
+VOLAR|Desplazarse por el aire
+VOLCAR|Tumbar un recipiente
+VOLTEAR|Dar vueltas en el aire
+VOLUNTARIO|Que se ofrece sin cobrar
+VOLVER|Regresar al lugar
+VOMITAR|Echar por la boca
+VORAZ|Que come con ansia
+VOTAR|Depositar la papeleta
+VULGAR|Corriente y poco fino
+VULNERABLE|Que puede ser dañado
+YACER|Estar tendido
+YACIMIENTO|Lugar con restos o minerales
+YERBA|Hierba, en América
+YERMO|Terreno sin cultivar
+YERRO|Error cometido
+YUGO|Madero que une los bueyes
+YUXTAPONER|Poner una cosa junto a otra
+ZAFAR|Soltarse de una atadura
+ZAHERIR|Herir con palabras
+ZALAMERO|Que halaga con exceso
+ZAMBULLIR|Meter de golpe en el agua
+ZAMPAR|Comer con voracidad
+ZANCADA|Paso muy largo
+ZANCADILLA|Traspié que se pone a otro
+ZANCUDO|De piernas muy largas
+ZANGANO|Macho de la abeja
+ZANJAR|Resolver de una vez
+ZAPAR|Excavar una mina bajo el muro
+ZAPATEAR|Golpear el suelo con el pie
+ZARANDEAR|Mover con sacudidas
+ZARCILLO|Pendiente de aro
+ZARPA|Mano de la fiera
+ZARPAR|Partir el barco del puerto
+ZIGZAG|Línea de ángulos alternos
+ZOZOBRA|Inquietud y angustia
+ZUMBAR|Sonar el insecto al volar
+ZURCIR|Coser un roto con puntadas
+ZURRAR|Dar una paliza
+ZURRON|Bolsa de cuero del pastor
+VACIEDAD|Necedad sin contenido
+VAGUADA|Línea más honda del valle
+VAHO|Vapor que empaña el cristal
+VAIVEN|Movimiento de ida y vuelta
+VALIA|Valor de una persona
+VALIJA|Maleta del correo
+VALLISOLETANO|Natural de Valladolid
+VANIDOSO|Que presume de todo
+VAQUERIA|Establo de las vacas
+VARADERO|Lugar donde se repara el barco
+VARICES|Venas hinchadas de la pierna
+VARITA|Vara pequeña del mago
+VASCO|Natural de Bilbao
+VASTAGO|Brote tierno de la planta
+VECINAL|Camino entre pueblos
+VEHEMENCIA|Ímpetu al hablar
+VELAMEN|Conjunto de las velas
+VELATORIO|Sala donde se vela al difunto
+VELOCIPEDO|Bicicleta antigua
+VENAL|Que se deja sobornar
+VENCEDOR|El que gana
+VENCIMIENTO|Fecha final de un plazo
+VENDAJE|Conjunto de vendas
+VENDEDOR|Quien despacha el género
+VENERABLE|Digno de respeto
+VENTANILLA|Abertura de atención al público
+VENTISCA|Nieve con viento fuerte
+VENTOSA|Copa que se pega por succión
+VERACIDAD|Cualidad de lo verdadero
+VERBAL|Que se dice de palabra
+VERDOSO|Que tira a verde
+VERDUGON|Señal que deja el golpe
+VERGONZOSO|Que da vergüenza
+VERIDICO|Que es verdad
+VERMUT|Aperitivo antes de comer
+VERTEBRA|Hueso de la columna
+VERTEDERA|Pieza del arado que voltea la tierra
+VESPERTINO|De la tarde
+VESTIGIO|Huella del pasado
+VESTUARIO|Sala donde se cambian los jugadores
+VETUSTO|Muy viejo y anticuado
+VIANDA|Comida que se sirve
+VIATICO|Provisión para el camino
+VIBORA|Culebra de mordedura mortal
+VICARIO|Sacerdote que sustituye
+VICIOSO|Entregado a los vicios
+VICTORIOSO|Que ha vencido
+VIDRIERO|Trabaja el cristal
+VIGESIMO|Que ocupa el lugar veinte
+VIGIA|Vigila desde lo alto
+VIGILIA|Noche en vela
+VILEZA|Acción ruin
+VILLANCICO|Canción de Navidad
+VILLANO|Malvado de la película
+VINATERO|Comercia con vinos
+VINCULO|Lazo que une
+VIOLENCIA|Uso de la fuerza bruta
+VIOLONCHELO|Instrumento grave de arco
+VIRAJE|Cambio brusco de dirección
+VIRREY|Gobernaba en nombre del rey
+VIRTUOSO|De gran perfección en su arte
+VISIONARIO|Que ve lo que no hay
+VISTAZO|Mirada rápida
+VISTOSO|Que llama mucho la atención
+VITALICIO|Que dura toda la vida
+VIVAQUE|Campamento militar al raso
+VIVENCIA|Experiencia vivida
+VIVERES|Provisiones de comida
+VIVIENTE|Que está vivo
+VIZCONDE|Título por debajo del conde
+VOCABLO|Palabra de una lengua
+VOCALIZAR|Pronunciar con claridad
+VOCERIO|Griterío de mucha gente
+VOLANTAZO|Giro brusco al conducir
+VOLATIL|Que se evapora fácilmente
+VOLTIO|Unidad de tensión eléctrica
+VORAGINE|Remolino que se traga todo
+VOTANTE|Quien acude a las urnas
+VUELCO|Giro que da un vehículo
+ZAFIEDAD|Grosería y mal gusto
+ZAGAL|Muchacho pastor
+ZALEA|Piel de oveja curtida
+ZAMBOMBA|Instrumento navideño de fricción
+ZAMPONA|Flauta rústica de cañas
+ZANCO|Palo alto para andar
+ZAPATERIA|Tienda de calzado
+ZARABANDA|Baile antiguo muy animado
+ZARPAZO|Golpe dado con la zarpa
+ZARZAMORA|Fruto negro del zarzal
+ZODIACAL|Relativo a los signos del cielo
+ZOOLOGIA|Ciencia de los animales
+ZOQUETE|Persona torpe y ruda
+ZORRERA|Madriguera del zorro
+ZUMBON|Burlón y guasón
+ZURDERA|Condición del que usa la izquierda

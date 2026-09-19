@@ -1,0 +1,473 @@
+# Vocabulario general: palabras que empiezan por E
+EBANISTA|Carpintero de muebles finos
+EBANO|Madera negra y dura
+EBRIO|Que ha bebido de más
+ECLIPSE|Ocultación del Sol por la Luna
+ECONOMIA|Administración de los recursos
+ECUADOR|Línea que parte la Tierra en dos
+EDAD|Años cumplidos
+EDICION|Tirada de un libro
+EDIFICIO|Construcción de varias plantas
+EDITOR|Publica libros
+EDUCACION|Formación de la persona
+EFECTO|Consecuencia de una causa
+EFICAZ|Que logra lo que busca
+EGIPTO|País de las pirámides
+EGOISTA|Solo piensa en sí mismo
+EJE|Barra central de la rueda
+EJEMPLO|Caso que ilustra algo
+EJERCICIO|Práctica que se repite
+EJERCITO|Conjunto de las tropas
+ELASTICO|Que se estira y recupera
+ELEFANTE|Paquidermo de trompa
+ELEGANTE|De buen gusto en el vestir
+ELEMENTO|Parte de un conjunto
+ELOGIO|Alabanza que se dedica
+EMBAJADA|Sede diplomática
+EMBALSE|Pantano artificial
+EMBARAZO|Estado de la futura madre
+EMBARCACION|Barco de cualquier tipo
+EMBLEMA|Símbolo que representa
+EMBOSCADA|Ataque desde el escondite
+EMBUDO|Ayuda a llenar la botella
+EMBUSTE|Mentira que se cuenta
+EMIGRANTE|Deja su país por trabajo
+EMISORA|Estación de radio
+EMOCION|Alteración del ánimo
+EMPACHO|Indigestión por comer mucho
+EMPANADA|Masa rellena al horno
+EMPEDRADO|Calle con piedras
+EMPEINE|Parte alta del pie
+EMPENO|Constancia en el objetivo
+EMPERADOR|Soberano de un imperio
+EMPLEO|Puesto de trabajo
+EMPRESA|Sociedad de negocios
+EMPUJON|Golpe para apartar
+ENANO|De muy baja estatura
+ENCAJE|Labor calada de hilo
+ENCANTO|Atractivo que cautiva
+ENCERADO|Pizarra del aula
+ENCIA|Carne que sujeta los dientes
+ENCINA|Árbol de las bellotas
+ENCUENTRO|Reunión casual de dos
+ENEMIGO|Contrario en la guerra
+ENERGIA|Capacidad de hacer trabajo
+ENERO|Mes que abre el año
+ENFADO|Molestia con alguien
+ENFERMO|Falto de salud
+ENGANO|Falta de verdad
+ENIGMA|Misterio por resolver
+ENJAMBRE|Grupo de abejas en vuelo
+ENLACE|Unión entre dos cosas
+ENOJO|Irritación del ánimo
+ENSALADA|Plato frío de lechuga
+ENSAYO|Prueba antes del estreno
+ENSENANZA|Transmisión del saber
+ENTIERRO|Sepelio del difunto
+ENTRADA|Billete del espectáculo
+ENTREGA|Acto de dar algo
+ENTUSIASMO|Ánimo exaltado y alegre
+ENVASE|Recipiente del producto
+ENVIDIA|Pesar por el bien ajeno
+ENVIO|Paquete que se manda
+EPIDEMIA|Enfermedad que se extiende
+EPILOGO|Parte final del libro
+EPISODIO|Capítulo de una serie
+EPOCA|Periodo histórico
+EQUILIBRIO|Estabilidad sin caerse
+EQUIPAJE|Maletas del viajero
+EQUIPO|Grupo que juega unido
+ERIZO|Animal cubierto de púas
+ERMITA|Capilla en el campo
+ERROR|Equivocación cometida
+ERUPCION|Salida de lava del volcán
+ESCALA|Serie de notas musicales
+ESCALERA|Sirve para subir pisos
+ESCANDALO|Alboroto que indigna
+ESCAPARATE|Vitrina de la tienda
+ESCARCHA|Rocío helado de la mañana
+ESCASEZ|Falta de lo necesario
+ESCENA|Parte de un acto teatral
+ESCLAVO|Persona sin libertad
+ESCOBA|Instrumento de barrer
+ESCOLTA|Acompaña y protege
+ESCOMBRO|Resto de una demolición
+ESCORPION|Arácnido de aguijón
+ESCRITOR|Autor de novelas
+ESCUDO|Defiende del golpe
+ESCUELA|Centro de primeras letras
+ESCULTURA|Obra tallada en piedra
+ESFERA|Cuerpo perfectamente redondo
+ESFUERZO|Empleo de la fuerza
+ESGRIMA|Deporte del florete
+ESLABON|Anilla de la cadena
+ESMALTE|Barniz de las uñas
+ESMERALDA|Piedra preciosa verde
+ESPACIO|Lugar entre los astros
+ESPADA|Arma blanca larga
+ESPALDA|Parte trasera del tronco
+ESPANTO|Terror súbito
+ESPARRAGO|Brote blanco comestible
+ESPECIA|Condimento de la cocina
+ESPECTRO|Aparición fantasmal
+ESPEJO|Refleja la imagen
+ESPERA|Tiempo que se aguarda
+ESPIGA|Flor del trigo
+ESPINA|Púa del rosal
+ESPIRAL|Curva que gira alejándose
+ESPONJA|Absorbe el agua del baño
+ESPOSA|Mujer casada
+ESPUMA|Burbujas de la cerveza
+ESQUELETO|Armazón de los huesos
+ESQUINA|Encuentro de dos calles
+ESTACION|Parada del ferrocarril
+ESTADIO|Recinto del fútbol
+ESTADO|Nación con gobierno
+ESTANQUE|Balsa de agua del jardín
+ESTANTE|Tabla de la librería
+ESTATUA|Figura de bronce o piedra
+ESTELA|Rastro que deja el barco
+ESTIERCOL|Abono del establo
+ESTILO|Manera propia de hacer
+ESTOMAGO|Órgano de la digestión
+ESTORNUDO|Expulsión brusca por la nariz
+ESTRELLA|Astro que brilla de noche
+ESTRENO|Primera representación
+ESTRIBO|Apoyo del pie del jinete
+ESTUDIO|Aplicación al aprender
+ESTUFA|Aparato que calienta
+ETAPA|Tramo de la carrera
+ETERNIDAD|Tiempo sin fin
+ETIQUETA|Rótulo del producto
+EUROPA|Continente del viejo mundo
+EVANGELIO|Libro de la vida de Cristo
+EVENTO|Acontecimiento señalado
+EVIDENCIA|Prueba que no admite duda
+EXAMEN|Prueba para aprobar
+EXCESO|Más de lo debido
+EXCUSA|Razón que disculpa
+EXHIBICION|Muestra ante el público
+EXILIO|Vida fuera de la patria
+EXITO|Buen resultado logrado
+EXPERTO|Que sabe mucho del tema
+EXPLOSION|Estallido violento
+EXPORTACION|Venta al extranjero
+EXPOSICION|Muestra de cuadros
+EXPRESION|Modo de decir algo
+EXTRACTO|Resumen de un texto
+EXTREMO|Punta final de algo
+EBULLICION|Hervor del agua
+ECHAR|Arrojar fuera de sí
+ECLESIASTICO|Relativo a la iglesia
+ECOLOGIA|Ciencia del medio ambiente
+ECONOMIZAR|Gastar menos
+ECUACION|Igualdad con incógnitas
+ECUANIME|Justo y sereno
+EDIFICAR|Construir una casa
+EDUCAR|Formar a los hijos
+EFECTIVO|Dinero en metálico
+EFERVESCENTE|Que hace burbujas
+EFIMERO|Que dura poquísimo
+EGREGIO|Ilustre y famoso
+EJECUTAR|Llevar a cabo una orden
+EJERCER|Practicar la profesión
+ELABORAR|Fabricar con cuidado
+ELECCION|Votación de los cargos
+ELECTRICIDAD|Energía de los enchufes
+ELEGIR|Escoger lo preferido
+ELEVAR|Subir a lo alto
+ELIMINAR|Quitar del medio
+ELOCUENCIA|Arte de hablar bien
+ELUDIR|Esquivar la responsabilidad
+EMANAR|Desprenderse un olor
+EMANCIPAR|Dar la libertad
+EMBALAR|Envolver para el transporte
+EMBARCAR|Subir al barco
+EMBARRANCAR|Encallar en la arena
+EMBAUCAR|Engañar con artimañas
+EMBELESAR|Dejar absorto de gusto
+EMBESTIR|Arremeter el toro
+EMBOTELLAR|Meter en botellas
+EMBRAGUE|Pedal izquierdo del coche
+EMBRIAGAR|Poner ebrio
+EMBRION|Ser en sus primeras fases
+EMBROLLO|Lío muy enredado
+EMBRUJO|Hechizo que atrae
+EMERGER|Salir del agua
+EMIGRAR|Irse a otro país
+EMINENTE|Que destaca sobre todos
+EMITIR|Lanzar ondas al aire
+EMOTIVO|Que conmueve el ánimo
+EMPACAR|Hacer las maletas
+EMPALMAR|Unir dos cables
+EMPANAR|Rebozar con pan rallado
+EMPAPAR|Calar de agua
+EMPAREJAR|Formar parejas
+EMPATAR|Terminar en tablas
+EMPEDRAR|Cubrir con adoquines
+EMPEORAR|Ir a peor
+EMPEQUENECER|Hacer más pequeño
+EMPERATRIZ|Soberana del imperio
+EMPEZAR|Dar comienzo
+EMPINAR|Levantar en alto
+EMPIRICO|Basado en la experiencia
+EMPLEADO|Trabajador de la empresa
+EMPOBRECER|Dejar sin recursos
+EMPOLLAR|Calentar los huevos
+EMPRENDER|Acometer una tarea
+EMPUJAR|Hacer fuerza para mover
+EMULAR|Imitar al mejor
+ENAJENAR|Vender una propiedad
+ENALTECER|Poner por las nubes
+ENAMORAR|Despertar el amor
+ENARBOLAR|Levantar la bandera
+ENCABEZAR|Ir el primero
+ENCADENAR|Atar con cadenas
+ENCALLAR|Varar el barco en el fondo
+ENCANTAR|Gustar muchísimo
+ENCARCELAR|Meter en prisión
+ENCARGO|Petición que se hace
+ENCARNADO|De color rojo
+ENCENDER|Prender la luz
+ENCERRAR|Meter bajo llave
+ENCHUFE|Toma de corriente
+ENCICLOPEDIA|Obra de todos los saberes
+ENCOGER|Menguar al lavar
+ENCOMENDAR|Confiar una misión
+ENCONTRAR|Hallar lo buscado
+ENCUADERNAR|Coser las hojas del libro
+ENCUBRIR|Tapar el delito
+ENCUESTA|Consulta de opiniones
+ENDEBLE|Débil y poco firme
+ENDEREZAR|Poner derecho
+ENDEUDAR|Llenar de deudas
+ENDULZAR|Poner dulce
+ENDURECER|Poner duro
+ENFERMEDAD|Alteración de la salud
+ENFERMERA|Cuida a los pacientes
+ENFOCAR|Ajustar la nitidez
+ENFRENTAR|Poner cara a cara
+ENFRIAR|Bajar la temperatura
+ENFURECER|Poner furioso
+ENGANCHAR|Sujetar con un gancho
+ENGENDRAR|Dar vida a un ser
+ENGORDAR|Ganar kilos
+ENGRANAJE|Conjunto de ruedas dentadas
+ENGRASAR|Poner grasa al motor
+ENGULLIR|Tragar sin masticar
+ENHEBRAR|Meter el hilo en la aguja
+ENJABONAR|Cubrir de espuma
+ENJAULAR|Meter en la jaula
+ENJUAGAR|Aclarar con agua
+ENLAZAR|Unir dos cosas
+ENLOQUECER|Volver loco
+ENMARCAR|Poner el marco
+ENMASCARAR|Cubrir con careta
+ENMENDAR|Corregir el error
+ENMUDECER|Quedarse sin habla
+ENNEGRECER|Poner negro
+ENOJAR|Causar enfado
+ENORGULLECER|Llenar de orgullo
+ENORME|De gran tamaño
+ENRAIZAR|Echar raíces la planta
+ENREDAR|Liar los hilos
+ENRIQUECER|Hacer rico
+ENROJECER|Ponerse colorado
+ENROLLAR|Formar un rollo
+ENSANCHAR|Hacer más ancho
+ENSANGRENTAR|Manchar de sangre
+ENSARTAR|Meter en un hilo las cuentas
+ENSAYAR|Probar antes de actuar
+ENSENAR|Mostrar cómo se hace
+ENSILLAR|Poner la montura
+ENSORDECER|Dejar sin oído
+ENSUCIAR|Llenar de manchas
+ENTABLAR|Iniciar una conversación
+ENTENDER|Comprender lo dicho
+ENTERAR|Dar noticia de algo
+ENTERRAR|Meter bajo tierra
+ENTIDAD|Organismo o empresa
+ENTONAR|Cantar con afinación
+ENTORNO|Lo que rodea a algo
+ENTORPECER|Poner dificultades
+ENTRAR|Pasar adentro
+ENTREGAR|Poner en manos de otro
+ENTRENAR|Prepararse para competir
+ENTRETENER|Hacer pasar el rato
+ENTREVISTA|Serie de preguntas al personaje
+ENTUSIASMAR|Llenar de ilusión
+ENUMERAR|Ir contando una por una
+ENVASAR|Meter en un bote
+ENVEJECER|Cumplir años
+ENVENENAR|Dar veneno
+ENVIAR|Mandar por correo
+ENVIDIAR|Desear lo del otro
+ENVOLVER|Cubrir con papel
+ENYESAR|Escayolar el brazo roto
+EPICO|Propio de las grandes gestas
+EPILEPSIA|Enfermedad de las convulsiones
+EQUIPAR|Dotar de lo necesario
+EQUITACION|Deporte del caballo
+EQUIVALER|Tener el mismo valor
+EQUIVOCAR|Tomar una cosa por otra
+ERGUIR|Levantar bien derecho
+ERIZAR|Poner de punta el pelo
+EROSION|Desgaste por el agua y el viento
+ERRANTE|Que va sin rumbo fijo
+ERRAR|Fallar el tiro
+ERUDITO|De gran saber libresco
+ESBELTO|Alto y bien proporcionado
+ESBOZO|Apunte rápido de un dibujo
+ESCABECHE|Adobo de vinagre
+ESCALAR|Trepar por la pared rocosa
+ESCALOFRIO|Temblor de frío o miedo
+ESCAMA|Placa de la piel del pez
+ESCAMPAR|Dejar de llover
+ESCANCIAR|Servir la sidra en alto
+ESCANDALIZAR|Provocar indignación
+ESCAPAR|Huir del encierro
+ESCARABAJO|Insecto de caparazón duro
+ESCARBAR|Remover la tierra
+ESCARMIENTO|Lección que deja el castigo
+ESCASO|Que apenas alcanza
+ESCAYOLA|Inmoviliza el hueso roto
+ESCENARIO|Tablas del teatro
+ESCEPTICO|Que de todo duda
+ESCLARECER|Poner en claro un caso
+ESCOCER|Producir picor la herida
+ESCOGER|Tomar lo que se prefiere
+ESCOLAR|Alumno del colegio
+ESCONDER|Poner fuera de la vista
+ESCOPETA|Arma de caza de dos cañones
+ESCRIBANO|Notario antiguo
+ESCRIBIR|Trazar letras
+ESCRITURA|Documento del notario
+ESCRUPULO|Reparo de conciencia
+ESCUCHAR|Prestar oído
+ESCUDERO|Acompañante del caballero
+ESCUDRINAR|Mirar con mucho detalle
+ESCULPIR|Labrar una figura
+ESCUPIR|Echar saliva fuera
+ESCURRIR|Dejar salir el agua
+ESENCIA|Naturaleza propia de algo
+ESFORZAR|Emplear mucha energía
+ESFUMAR|Desvanecerse poco a poco
+ESLOGAN|Frase corta de publicidad
+ESMERO|Cuidado en el trabajo
+ESPACIAL|Relativo al cosmos
+ESPANTAR|Ahuyentar del susto
+ESPANOL|Natural de Madrid o Sevilla
+ESPARCIR|Extender por el suelo
+ESPECIAL|Distinto de lo corriente
+ESPECTACULO|Función ante el público
+ESPECULAR|Hacer cábalas
+ESPERANZA|Confianza en el futuro
+ESPERAR|Aguardar con paciencia
+ESPESO|Denso y pastoso
+ESPIAR|Vigilar en secreto
+ESPINAZO|Columna vertebral
+ESPIRITU|Alma inmaterial
+ESPLENDOR|Brillo y magnificencia
+ESPOLEAR|Picar al caballo
+ESPONTANEO|Que sale sin pensarlo
+ESPOSO|Marido casado
+ESQUELA|Aviso del fallecimiento
+ESQUIAR|Deslizarse sobre la nieve
+ESQUIVAR|Evitar el golpe
+ESTABLECER|Fundar un negocio
+ESTABLO|Cuadra del ganado
+ESTACA|Palo clavado en el suelo
+ESTAFA|Engaño para sacar dinero
+ESTALLAR|Reventar de golpe
+ESTAMPA|Lámina con dibujo
+ESTANCIA|Habitación amplia
+ESTANDARTE|Bandera de una cofradía
+ESTANO|Metal blanco y blando
+ESTATURA|Altura de una persona
+ESTATUTO|Reglamento de una sociedad
+ESTERA|Alfombra de esparto
+ESTERIL|Que no da fruto
+ESTIMAR|Tener aprecio
+ESTIMULO|Lo que anima a actuar
+ESTIRAR|Alargar tirando
+ESTIRPE|Linaje de una familia
+ESTORBAR|Poner trabas
+ESTRAGO|Daño muy grande
+ESTRATEGIA|Plan para ganar
+ESTRECHO|Paso angosto entre dos mares
+ESTREMECER|Hacer temblar
+ESTRENAR|Usar por primera vez
+ESTRENIR|Retener el vientre
+ESTRIBILLO|Verso que se repite
+ESTRICTO|Riguroso con la norma
+ESTROPEAR|Echar a perder
+ESTRUCTURA|Armazón de la obra
+ESTRUENDO|Ruido tremendo
+ESTRUJAR|Apretar para sacar el jugo
+ESTUARIO|Desembocadura amplia
+ESTUCHE|Caja de los lápices
+ESTUDIANTE|Quien asiste a clase
+ESTUPENDO|Magnífico y excelente
+ESTUPOR|Asombro que paraliza
+ETERNO|Que no acaba nunca
+ETICA|Doctrina de la conducta
+ETIQUETAR|Poner el rótulo
+EUCALIPTO|Árbol de hoja balsámica
+EUFORIA|Alegría desbordante
+EVACUAR|Desalojar el edificio
+EVADIR|Escapar de la cárcel
+EVALUAR|Poner nota
+EVAPORAR|Convertir en vapor
+EVITAR|Impedir que ocurra
+EVOCAR|Traer a la memoria
+EVOLUCION|Cambio gradual de las especies
+EXAGERAR|Decir más de lo que es
+EXALTAR|Enardecer los ánimos
+EXCAVAR|Hacer un hoyo profundo
+EXCEDER|Pasar del límite
+EXCELENTE|De calidad superior
+EXCENTRICO|De gustos raros
+EXCITAR|Poner nervioso
+EXCLAMAR|Decir con énfasis
+EXCLUIR|Dejar fuera
+EXCURSION|Salida al campo
+EXCUSAR|Disculpar una falta
+EXENTO|Libre de una obligación
+EXHALAR|Echar el aliento
+EXHAUSTO|Agotado del todo
+EXHIBIR|Mostrar en público
+EXHUMAR|Desenterrar el cadáver
+EXIGIR|Pedir con autoridad
+EXIMIR|Librar de una carga
+EXISTIR|Tener ser y realidad
+EXONERAR|Librar de la culpa
+EXORBITANTE|Excesivo sin medida
+EXORCISMO|Rito contra el demonio
+EXPANDIR|Extender en todas direcciones
+EXPEDIENTE|Conjunto de papeles de un caso
+EXPEDIR|Emitir un certificado
+EXPERIENCIA|Saber que da la vida
+EXPERIMENTO|Prueba de laboratorio
+EXPIAR|Pagar la culpa
+EXPIRAR|Terminar el plazo
+EXPLICAR|Hacer comprender
+EXPLORAR|Recorrer lo desconocido
+EXPLOTAR|Hacer estallar
+EXPONER|Presentar al público
+EXPRESAR|Decir lo que se siente
+EXPRIMIR|Sacar el zumo
+EXPULSAR|Echar fuera
+EXQUISITO|De sabor delicioso
+EXTASIS|Arrobamiento del alma
+EXTENDER|Desplegar sobre la mesa
+EXTENUAR|Dejar sin fuerzas
+EXTERIOR|Parte de fuera
+EXTINGUIR|Apagar el incendio
+EXTIRPAR|Arrancar de raíz
+EXTORSION|Chantaje para sacar dinero
+EXTRAER|Sacar de dentro
+EXTRANJERO|De otro país
+EXTRANO|Raro y poco común
+EXTRAVIAR|Perder un objeto
+EXUBERANTE|De vegetación abundante
+EYECTAR|Expulsar con fuerza

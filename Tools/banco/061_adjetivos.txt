@@ -1,0 +1,618 @@
+# Adjetivos y adverbios
+ABIGARRADO|De colores mezclados sin gracia
+ABOMINABLE|Digno de aborrecimiento
+ABRUPTO|De pendiente muy brusca
+ABSOLUTORIO|Que declara inocente
+ABUNDANTE|Que hay en gran cantidad
+ACEPTABLE|Que se puede admitir
+ACERTADAMENTE|Con acierto
+ACHACOSO|Lleno de achaques
+ACOGEDOR|Que resulta cálido y grato
+ACUCIANTE|Que apremia mucho
+ADORABLE|Digno de ser amado
+ADUSTO|Seco y severo en el trato
+AFANOSO|Que pone mucho empeño
+AFECTADO|Falto de naturalidad
+AFORTUNADAMENTE|Por suerte
+AGARRADO|Tacaño con el dinero
+AGRACIADO|De rostro atractivo
+AGRADECIDO|Que muestra gratitud
+AGRESTE|Áspero y silvestre
+AHITO|Lleno de comida
+AIROSO|Que sale bien de un trance
+ALEGREMENTE|Con alegría
+ALTANERO|Que mira por encima del hombro
+ALTISONANTE|De palabras pomposas
+AMARGADO|Lleno de resentimiento
+AMBICIOSO|Que aspira a mucho
+AMENO|Agradable y entretenido
+AMIGABLE|De trato cordial
+AMPULOSO|De estilo hinchado
+ANACRONICO|Impropio de su época
+ANDRAJOSO|Vestido de harapos
+ANGELICAL|Puro como un ángel
+ANIMOSO|Lleno de ánimo
+ANODINO|Insulso y sin relieve
+ANSIOSO|Lleno de ansia
+ANTICUADO|Fuera de moda
+ANTIPATICO|Que no cae bien
+APACIBLE|Manso y tranquilo
+APAGADO|Sin brillo ni vivacidad
+APARATOSO|Que impresiona por su aparato
+APASIONANTE|Que despierta gran interés
+APATICO|Falto de interés por todo
+APOCADO|Tímido y encogido
+APRESURADO|Hecho con prisa
+APROPIADO|Adecuado para su fin
+ARDIENTE|Que abrasa o apasiona
+ARISCO|Áspero e intratable
+ARMONIOSO|De partes bien concertadas
+ARRIESGADO|Que entraña peligro
+ARROGANTE|Altivo y soberbio
+ARRUGADO|Lleno de pliegues
+ASEADO|Limpio y cuidado
+ASOMBROSO|Que causa gran admiración
+ASPERO|Rugoso al tacto
+ASTUTO|Hábil para salirse con la suya
+ATENTO|Que escucha con interés
+ATERRADOR|Que infunde terror
+ATINADO|Dicho con acierto
+ATONITO|Pasmado de sorpresa
+ATRACTIVO|Que gusta y atrae
+ATREVIDO|Que se arriesga sin miedo
+AUDIBLE|Que se puede oír
+AUSTERO|Sobrio y sin adornos
+AUTENTICO|Verdadero y genuino
+AUTORITARIO|Que impone su voluntad
+AVARICIOSO|Apegado al dinero
+AVISPADO|Listo y despierto
+BARATO|De poco precio
+BASTO|Tosco y sin pulir
+BEATO|Excesivamente devoto
+BELICOSO|Inclinado a la guerra
+BENDITO|Que ha recibido bendición
+BENEFICIOSO|Que hace bien
+BENEVOLO|De buena voluntad
+BIENINTENCIONADO|Que obra con buen fin
+BLANDUZCO|Algo blando
+BOCHORNOSO|Que causa vergüenza
+BONDADOSO|De gran bondad
+BORROSO|Que se ve poco claro
+BRILLANTE|Que reluce mucho
+BRIOSO|Lleno de brío
+BRONCO|Áspero y desapacible
+BRUSCO|De modales rudos
+BULLICIOSO|Que arma mucho ruido
+BURDO|Grosero y sin finura
+CABAL|Completo y justo
+CABIZBAJO|Con la cabeza gacha
+CADUCO|Que ha perdido vigencia
+CALLADO|Que habla poco
+CALLEJERO|Que anda por las calles
+CALUROSO|Que da mucho calor
+CAMPECHANO|Sencillo y llano
+CANDIDO|Ingenuo y sin malicia
+CANSINO|Pesado y lento
+CAPRICHOSO|Que sigue sus antojos
+CARINOSO|Que muestra cariño
+CATASTROFICO|De consecuencias desastrosas
+CAUTELOSO|Que obra con cautela
+CELOSO|Que siente celos
+CEÑUDO|De gesto adusto
+CERTERO|Que da en el blanco
+CHABACANO|Vulgar y de mal gusto
+CHARLATAN|Que habla mucho sin fundamento
+CHILLON|De color o voz estridente
+CHISPEANTE|Ingenioso y vivo
+CIRCUNSPECTO|Prudente y mesurado
+CLARIVIDENTE|De gran lucidez
+COJITRANCO|Que cojea mucho
+COLERICO|Que se irrita al momento
+COLOSAL|De tamaño enorme
+COMEDIDO|Moderado en sus actos
+COMPASIVO|Que se apiada del que sufre
+COMPETENTE|Que sabe hacer su trabajo
+COMPLACIENTE|Que procura agradar
+COMPRENSIVO|Que entiende a los demás
+COMUNICATIVO|Que habla con facilidad
+CONCIENZUDO|Que trabaja a fondo
+CONCRETO|Preciso y determinado
+CONFIADO|Que se fía de todos
+CONFORTABLE|Cómodo y agradable
+CONFUSO|Poco claro y enredado
+CONSIDERADO|Respetuoso con los demás
+CONSISTENTE|De firme consistencia
+CONSTANTE|Que persevera
+CONTUNDENTE|Que no admite réplica
+CONVINCENTE|Que convence
+CORDIAL|Afectuoso en el trato
+CORPULENTO|De cuerpo grande
+CORRIENTE|Común y ordinario
+CORTES|De buenos modales
+COSTOSO|Que cuesta mucho dinero
+CRUDO|Sin cocinar o muy duro
+CRUJIENTE|Que cruje al morderse
+CUIDADOSO|Que pone atención
+CULPABLE|Que ha cometido la falta
+CUMPLIDOR|Que cumple lo que promete
+CURIOSO|Que quiere saberlo todo
+CURTIDO|Endurecido por la experiencia
+DADIVOSO|Que da con generosidad
+DEBIL|Falto de fuerza
+DECENTE|Digno y honesto
+DECIDIDO|Firme en su resolución
+DECISIVO|Que resuelve el asunto
+DEFECTUOSO|Con imperfecciones
+DELEZNABLE|Despreciable y poco firme
+DELGADO|De poco grosor
+DELICIOSO|De sabor exquisito
+DEMACRADO|De rostro consumido
+DENODADO|Esforzado y valiente
+DEPRIMENTE|Que hunde el ánimo
+DERROCHADOR|Que gasta sin medida
+DESABRIDO|Soso y áspero
+DESAFIANTE|Que reta con la actitud
+DESAGRADECIDO|Que no agradece
+DESALENTADOR|Que quita los ánimos
+DESALINADO|Descuidado en el aspecto
+DESAPACIBLE|Poco grato
+DESCARADO|Sin vergüenza ninguna
+DESCOMUNAL|Fuera de lo común por grande
+DESCONFIADO|Que recela de todo
+DESCONSIDERADO|Que no respeta a nadie
+DESCUIDADO|Falto de atención
+DESDICHADO|De muy mala suerte
+DESEABLE|Digno de desearse
+DESENFADADO|Libre de cortapisas
+DESGARBADO|De figura poco airosa
+DESIGUAL|Que no es parejo
+DESINTERESADO|Que no busca provecho
+DESLUMBRANTE|Que ciega por su brillo
+DESMEDIDO|Sin medida alguna
+DESORDENADO|Falto de orden
+DESPABILADO|Listo y despierto
+DESPIERTO|De entendimiento vivo
+DESPISTADO|Que anda en las nubes
+DESPOTICO|Que abusa del poder
+DESTACADO|Que sobresale
+DESVALIDO|Falto de amparo
+DESVERGONZADO|Que no tiene pudor
+DETALLADO|Con todos los pormenores
+DIAFANO|Claro y transparente
+DIESTRO|Hábil con las manos
+DIFICULTOSO|Que ofrece dificultad
+DIGNO|Merecedor de respeto
+DILIGENTE|Rápido y cuidadoso
+DISCRETO|Que sabe guardar reserva
+DISPARATADO|Sin ningún sentido
+DISPONIBLE|Que se puede usar
+DISTANTE|Que está lejos
+DISTINGUIDO|De porte elegante
+DISTRAIDO|Que no atiende
+DIVERTIDO|Que hace pasar buen rato
+DOCIL|Obediente y manso
+DOLIENTE|Que sufre un dolor
+DOMINANTE|Que impone su voluntad
+DUDOSO|Que ofrece dudas
+DURADERO|Que dura mucho
+EFICAZ|Que logra su efecto
+EFUSIVO|Que expresa con calor su afecto
+EJEMPLAR|Digno de imitación
+ELEGANTE|De gusto refinado
+ELOCUENTE|Que habla con arte
+EMBUSTERO|Que dice mentiras
+EMINENTE|Que destaca sobre todos
+EMOCIONANTE|Que conmueve
+EMPALAGOSO|Dulzón hasta el hartazgo
+EMPRENDEDOR|Que acomete proyectos
+ENCANTADOR|Que cautiva
+ENDEBLE|Débil y poco resistente
+ENERGICO|Que actúa con fuerza
+ENFERMIZO|De salud delicada
+ENGANOSO|Que induce a error
+ENORME|De tamaño muy grande
+ENREVESADO|Complicado y confuso
+ENTRANABLE|Muy querido
+ENTRETENIDO|Que hace pasar el rato
+ENVIDIABLE|Digno de envidia
+ERRATICO|Que va sin rumbo fijo
+ESBELTO|Alto y bien proporcionado
+ESCABROSO|Áspero o delicado
+ESCASO|Que no llega a lo necesario
+ESCRUPULOSO|Muy cuidadoso o aprensivo
+ESCUALIDO|Flaco y macilento
+ESMERADO|Hecho con esmero
+ESPACIOSO|De mucho espacio
+ESPANTOSO|Que causa espanto
+ESPESO|Denso y trabado
+ESPLENDIDO|Magnífico o generoso
+ESPONTANEO|Que sale sin premeditar
+ESQUIVO|Que rehúye el trato
+ESTRECHO|De poca anchura
+ESTRIDENTE|De sonido agudo y molesto
+ESTUPENDO|Excelente y admirable
+EVIDENTE|Claro como la luz
+EXACTO|Justo y sin error
+EXAGERADO|Que se pasa de la medida
+EXCELENTE|De calidad superior
+EXIGENTE|Que pide mucho
+EXPERTO|Muy hábil en su oficio
+EXQUISITO|De gusto delicado
+EXTENSO|De gran extensión
+FABULOSO|Increíble de tan bueno
+FACIL|Que cuesta poco
+FALAZ|Que engaña con apariencia de verdad
+FALSO|Que no es verdadero
+FAMOSO|Conocido por todos
+FANTASTICO|Propio de la fantasía
+FATIGOSO|Que cansa mucho
+FAVORABLE|Que beneficia
+FEBRIL|Con fiebre o muy agitado
+FEHACIENTE|Que prueba con certeza
+FEROZ|De gran fiereza
+FERTIL|Que produce mucho
+FERVIENTE|Lleno de fervor
+FESTIVO|Alegre y de fiesta
+FIRME|Estable y sin moverse
+FLAMANTE|Nuevo y reluciente
+FLEXIBLE|Que se dobla sin romperse
+FLOJO|Sin tensión ni fuerza
+FORMIDABLE|Estupendo y enorme
+FORTUITO|Ocurrido por azar
+FORZOSO|Que no se puede evitar
+FRAGIL|Que se rompe con facilidad
+FRANCO|Sincero y abierto
+FRESCO|Algo frío y agradable
+FRONDOSO|De follaje espeso
+FRUCTIFERO|Que da mucho fruto
+FRUGAL|Parco en el comer
+FUNESTO|De consecuencias muy malas
+FURTIVO|Hecho a escondidas
+GALANTE|Atento con las damas
+GALLARDO|Apuesto y airoso
+GARBOSO|De andar gracioso
+GELIDO|Extremadamente frío
+GENEROSO|Que da sin reservas
+GENIAL|De gran ingenio
+GENTIL|Amable y cortés
+GLACIAL|Frío como el hielo
+GLORIOSO|Lleno de gloria
+GOLOSO|Aficionado a los dulces
+GRACIOSO|Que tiene gracia
+GRANDIOSO|Imponente y magnífico
+GRATIFICANTE|Que produce satisfacción
+GRAVE|Serio y de importancia
+GROSERO|Falto de educación
+GRUESO|De mucho espesor
+HABIL|Que hace las cosas con destreza
+HABLADOR|Que habla por los codos
+HALAGUENO|Que promete algo bueno
+HARAGAN|Que huye del trabajo
+HEROICO|Propio de los héroes
+HERMOSO|De gran belleza
+HONDO|De mucha profundidad
+HONESTO|Recto y sincero
+HORRENDO|Espantosamente feo
+HOSCO|De trato áspero
+HUECO|Vacío por dentro
+HUMEDO|Cargado de agua
+HUMILDE|Que no presume de nada
+HURANO|Que rehúye a la gente
+IDONEO|Que conviene perfectamente
+IGNORANTE|Que no sabe
+ILUSORIO|Que no es real
+IMPACIENTE|Que no sabe esperar
+IMPECABLE|Sin tacha ninguna
+IMPERIOSO|Que manda con autoridad
+IMPETUOSO|Que actúa con ímpetu
+IMPONENTE|Que impresiona
+IMPORTANTE|De mucha entidad
+IMPRUDENTE|Que no mide el riesgo
+IMPULSIVO|Que obra sin pensar
+INADECUADO|Que no conviene
+INCANSABLE|Que nunca se fatiga
+INCIERTO|Que no es seguro
+INCLEMENTE|Riguroso y duro
+INCOMODO|Poco confortable
+INCREIBLE|Difícil de creer
+INDECISO|Que no sabe decidirse
+INDISPENSABLE|Absolutamente necesario
+INDOLENTE|Perezoso y sin interés
+INEFICAZ|Que no da resultado
+INESPERADO|Que llega sin avisar
+INESTABLE|Que no se mantiene firme
+INFAME|Vil y despreciable
+INFATIGABLE|Que no se cansa
+INFELIZ|Falto de felicidad
+INFINITO|Que no tiene fin
+INFORMAL|Que no cumple lo que dice
+INGENIOSO|De ocurrencias agudas
+INGENUO|Sin ninguna malicia
+INJUSTO|Contrario a la justicia
+INMENSO|De tamaño incalculable
+INMORAL|Contrario a la buena conducta
+INNEGABLE|Que no se puede negar
+INOCENTE|Libre de culpa
+INOFENSIVO|Que no causa daño
+INQUIETO|Que no para quieto
+INSACIABLE|Que nunca tiene bastante
+INSENSATO|Falto de juicio
+INSIGNIFICANTE|De ninguna importancia
+INSIPIDO|Falto de sabor
+INSOLENTE|Descarado y altivo
+INSOPORTABLE|Que no se aguanta
+INSTRUIDO|De buena formación
+INTACHABLE|Sin defecto alguno
+INTELIGENTE|De gran entendimiento
+INTENSO|De mucha fuerza
+INTERESANTE|Que despierta atención
+INTIMO|Muy cercano y privado
+INTREPIDO|Que no conoce el miedo
+INUSUAL|Poco frecuente
+INUTIL|Que no sirve
+JOCOSO|Gracioso y alegre
+JOVIAL|Alegre y de buen humor
+JUGOSO|Lleno de jugo
+JUICIOSO|De buen criterio
+JUSTO|Que obra con equidad
+LABORIOSO|Muy trabajador
+LACONICO|Breve al expresarse
+LAMENTABLE|Digno de lástima
+LANGUIDO|Falto de fuerza y ánimo
+LEAL|Fiel a los suyos
+LENTO|Que va despacio
+LEVE|De poco peso o gravedad
+LIBRE|Sin ataduras
+LIGERO|De poco peso
+LIMPIO|Sin suciedad
+LISO|Sin asperezas
+LLAMATIVO|Que atrae la atención
+LLEVADERO|Que se soporta bien
+LOABLE|Digno de alabanza
+LOCUAZ|Que habla en exceso
+LOZANO|Fresco y vigoroso
+LUCIDO|De mente clara
+LUJOSO|Lleno de lujo
+LUMINOSO|Que despide luz
+LUSTROSO|Que tiene brillo
+MACIZO|Lleno y sin huecos
+MAGISTRAL|Hecho con maestría
+MAGNANIMO|De ánimo generoso
+MAJESTUOSO|Que impone por su grandeza
+MALEABLE|Que se moldea con facilidad
+MALIGNO|Que causa daño
+MALSANO|Perjudicial para la salud
+MANIFIESTO|Claro y patente
+MANSO|Apacible y dócil
+MARAVILLOSO|Digno de admiración
+MEDIOCRE|De calidad mediana
+MEMORABLE|Digno de recordar
+MENUDO|De pequeño tamaño
+MESURADO|Comedido y prudente
+METICULOSO|Cuidadoso hasta el detalle
+MEZQUINO|Ruin y tacaño
+MINUCIOSO|Que atiende a todo detalle
+MISERABLE|Muy pobre o ruin
+MODERADO|Que evita los extremos
+MODESTO|Que no presume
+MODOSO|De buenos modales
+MOHINO|Triste y disgustado
+MOLESTO|Que incomoda
+MONOTONO|Siempre igual
+MORDAZ|De crítica hiriente
+MUGRIENTO|Lleno de mugre
+MUSTIO|Marchito y decaído
+NATURAL|Sin artificio
+NECESARIO|Que hace falta
+NEFASTO|De muy mal signo
+NEGLIGENTE|Descuidado en su deber
+NERVIOSO|Inquieto y alterado
+NITIDO|Limpio y claro
+NOBLE|De sentimientos elevados
+NOCIVO|Dañino para la salud
+NOTABLE|Digno de atención
+NOTORIO|Sabido por todos
+NUMEROSO|Que son muchos
+NUTRITIVO|Que alimenta
+OBEDIENTE|Que cumple lo mandado
+OBSTINADO|Terco en su empeño
+OCIOSO|Que no hace nada
+ODIOSO|Que causa aversión
+OLOROSO|Que huele bien
+OPACO|Que no deja pasar la luz
+OPORTUNO|Que llega a tiempo
+OPTIMISTA|Que ve el lado bueno
+OPULENTO|Muy rico
+ORDENADO|Que lo tiene todo en su sitio
+ORGULLOSO|Que presume de algo
+OSADO|Atrevido y audaz
+OSCURO|Sin luz
+PACIENTE|Que sabe esperar
+PACIFICO|Amigo de la paz
+PALIDO|De color muy claro
+PARCO|Moderado y escaso
+PARLANCHIN|Que no para de hablar
+PASMOSO|Que deja asombrado
+PAUSADO|Que va sin prisas
+PECULIAR|Propio y distintivo
+PENOSO|Que causa pena y fatiga
+PEQUENO|De poco tamaño
+PERFECTO|Sin defecto alguno
+PEREZOSO|Enemigo del trabajo
+PERMANENTE|Que dura sin cambiar
+PERPETUO|Que dura siempre
+PERSPICAZ|De ingenio agudo
+PERTINAZ|Que insiste sin ceder
+PESADO|De mucho peso o cargante
+PESIMO|Malo con exceso
+PICARO|Astuto y desvergonzado
+PINTORESCO|Muy típico y vistoso
+PLACENTERO|Agradable y grato
+PLACIDO|Sosegado y tranquilo
+POBRE|Falto de recursos
+PODEROSO|De mucho poder
+POLVORIENTO|Cubierto de polvo
+POPULAR|Querido por todos
+PORTENTOSO|Admirable y prodigioso
+POSIBLE|Que puede ocurrir
+POTENTE|De mucha fuerza
+PRECAVIDO|Que toma precauciones
+PRECIOSO|De gran belleza o valor
+PRECIPITADO|Hecho con excesiva prisa
+PRECISO|Exacto y necesario
+PRECOZ|Que se adelanta a su edad
+PREDILECTO|El preferido
+PREOCUPANTE|Que da que pensar
+PRESUMIDO|Que se cree superior
+PREVISOR|Que mira por lo que vendrá
+PRIMOROSO|Hecho con delicadeza
+PROFUNDO|De mucha hondura
+PROLIJO|Excesivamente largo
+PROPICIO|Favorable a algo
+PROSPERO|Que va muy bien
+PROVECHOSO|Que da beneficio
+PRUDENTE|Que obra con cautela
+PUJANTE|Que crece con fuerza
+PULCRO|Aseado y cuidado
+PUNTUAL|Que llega a su hora
+PURO|Sin mezcla alguna
+QUEBRADIZO|Que se rompe fácilmente
+QUEJUMBROSO|Que siempre se queja
+QUIETO|Que no se mueve
+RACIONAL|Dotado de razón
+RADIANTE|Que resplandece de alegría
+RAPIDO|Que va muy deprisa
+RARO|Poco común
+RASTRERO|Bajo y vil
+RAZONABLE|Conforme a la razón
+REACIO|Que se resiste
+REBELDE|Que no obedece
+RECIENTE|De hace poco
+RECIO|Fuerte y robusto
+RECTO|Sin curvas ni dobleces
+REDONDO|De forma circular
+REFINADO|De gusto muy fino
+REGIO|Propio de un rey
+RELUCIENTE|Que reluce mucho
+REMOTO|Muy lejano
+RENUENTE|Que se muestra remiso
+REPUGNANTE|Que da mucho asco
+RESBALADIZO|Que hace resbalar
+RESUELTO|Decidido y firme
+RETORCIDO|De mala intención
+RIGUROSO|Muy severo
+RISUENO|De rostro alegre
+ROBUSTO|Fuerte y bien formado
+ROTUNDO|Claro y terminante
+RUDO|Tosco y sin modales
+RUIDOSO|Que hace mucho ruido
+RUIN|Vil y despreciable
+RUTILANTE|De brillo resplandeciente
+SABIO|De grandes conocimientos
+SABROSO|De buen sabor
+SAGAZ|Astuto y perspicaz
+SAGRADO|Digno de veneración
+SALUDABLE|Bueno para la salud
+SANO|Que goza de salud
+SATISFECHO|Contento con lo logrado
+SECO|Sin humedad
+SEDIENTO|Que tiene mucha sed
+SENCILLO|Sin complicaciones
+SENSATO|De buen juicio
+SENSIBLE|Que se emociona
+SERENO|Tranquilo y sin agitación
+SERIO|Poco dado a la broma
+SEVERO|Duro en el trato
+SIGILOSO|Que obra en silencio
+SIGNIFICATIVO|Que tiene mucho sentido
+SILENCIOSO|Que no hace ruido
+SIMPATICO|Que cae bien a todos
+SINCERO|Que dice lo que siente
+SINGULAR|Único y raro
+SINIESTRO|Que anuncia desgracia
+SOBERBIO|Orgulloso en exceso
+SOBRIO|Moderado y sin excesos
+SOLEMNE|Celebrado con gran pompa
+SOLIDO|Firme y macizo
+SOLITARIO|Que vive apartado
+SOMBRIO|Oscuro y triste
+SONORO|Que suena bien
+SORDO|Que no oye
+SORPRENDENTE|Que causa sorpresa
+SOSEGADO|Tranquilo y apacible
+SOSPECHOSO|Que da lugar a recelo
+SUAVE|Agradable al tacto
+SUBLIME|De una excelencia extrema
+SUCIO|Lleno de manchas
+SUCULENTO|Muy sabroso
+SUFICIENTE|Que basta
+SUMISO|Que obedece sin quejarse
+SUNTUOSO|De gran lujo
+SUPERFICIAL|Que no profundiza
+SUSPICAZ|Que desconfía de todo
+SUTIL|Fino y delicado
+TACANO|Que no suelta un euro
+TAIMADO|Astuto y disimulado
+TEDIOSO|Que aburre mucho
+TEMERARIO|Que se arriesga sin medida
+TEMEROSO|Lleno de miedo
+TEMPLADO|Ni frío ni caliente
+TENAZ|Que no ceja en su empeño
+TENUE|Delgado y sutil
+TERCO|Que no da su brazo a torcer
+TERRIBLE|Que causa espanto
+TIERNO|Blando y cariñoso
+TIMIDO|Falto de desparpajo
+TOLERANTE|Que respeta a los demás
+TORPE|Falto de habilidad
+TOSCO|Basto y sin pulir
+TOZUDO|Obstinado hasta el final
+TRANQUILO|Sin agitación
+TRANSPARENTE|Que deja ver a través
+TRAVIESO|Inquieto y revoltoso
+TREMENDO|Enorme y espantoso
+TRISTE|Que tiene pena
+TURBIO|Poco claro
+UFANO|Satisfecho y orgulloso
+URGENTE|Que no admite espera
+UTIL|Que sirve para algo
+VAGO|Que rehúye el trabajo
+VALEROSO|Lleno de valor
+VALIOSO|De mucho valor
+VANIDOSO|Que presume de todo
+VARIADO|De muchas clases
+VASTO|De gran extensión
+VEHEMENTE|Impetuoso al hablar
+VELOZ|Que va muy rápido
+VENERABLE|Digno de respeto
+VENTAJOSO|Que da ventaja
+VERAZ|Que dice la verdad
+VERDOSO|Que tira a verde
+VERGONZOSO|Que causa vergüenza
+VERSATIL|Que se adapta a todo
+VIEJO|De muchos años
+VIGOROSO|Lleno de energía
+VIVAZ|Despierto y vivaracho
+VOLUBLE|De carácter cambiante
+VORAZ|Que come con ansia
+VULGAR|Común y poco fino
+ZAFIO|Grosero y sin educación
+ZALAMERO|Que halaga con exceso
+ADREDE|A propósito y con intención
+ANTANO|En tiempos pasados
+APENAS|Casi nada
+CASI|Por poco, aproximadamente
+DEPRISA|Con rapidez
+DESPACIO|Con lentitud
+ENSEGUIDA|Inmediatamente después
+ENTONCES|En aquel momento
+JAMAS|En ningún momento
+LUEGO|Después de un rato
+MIENTRAS|Durante el tiempo en que
+NUNCA|En ningún tiempo
+QUIZA|Tal vez, acaso
+SIEMPRE|En todo momento
+TAMPOCO|Negación que se añade a otra
+TARDE|Fuera de la hora debida
+TEMPRANO|Antes de la hora
+TODAVIA|Aún, hasta ahora

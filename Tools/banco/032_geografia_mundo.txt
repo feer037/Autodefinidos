@@ -1,0 +1,305 @@
+# Geografía del mundo: países, capitales, ríos, mares y montañas
+ALEMANIA|País de Berlín
+FRANCIA|País de la torre Eiffel
+ITALIA|País de la bota
+PORTUGAL|País vecino del oeste peninsular
+GRECIA|País del Partenón
+SUIZA|País de los relojes y los Alpes
+AUSTRIA|País de Mozart
+BELGICA|País de Bruselas
+HOLANDA|País de los molinos y los tulipanes
+DINAMARCA|País de Copenhague
+SUECIA|País de Estocolmo
+NORUEGA|País de los fiordos
+FINLANDIA|País de Helsinki
+ISLANDIA|País de los géiseres
+IRLANDA|Isla esmeralda
+ESCOCIA|País de las gaitas y los lagos
+GALES|País del príncipe británico
+INGLATERRA|País de Londres
+POLONIA|País de Varsovia
+HUNGRIA|País de Budapest
+RUMANIA|País de Bucarest y Drácula
+BULGARIA|País de Sofía
+SERBIA|País de Belgrado
+CROACIA|País de Zagreb y Dubrovnik
+ESLOVENIA|País de Liubliana
+ALBANIA|País de Tirana
+TURQUIA|País entre Europa y Asia
+RUSIA|País más extenso del mundo
+UCRANIA|País de Kiev
+BIELORRUSIA|País de Minsk
+LITUANIA|República báltica de Vilna
+LETONIA|República báltica de Riga
+ESTONIA|República báltica de Tallin
+CHIPRE|Isla del Mediterráneo oriental
+MALTA|Isla mediterránea de La Valeta
+MONACO|Principado del Gran Premio
+LUXEMBURGO|Gran ducado europeo
+LIECHTENSTEIN|Principado alpino diminuto
+CHINA|País más poblado de Asia
+JAPON|País del sol naciente
+INDIA|País del Taj Mahal
+COREA|Península asiática dividida en dos países
+VIETNAM|País de Hanói
+TAILANDIA|País de Bangkok
+CAMBOYA|País de Angkor
+BIRMANIA|País de Rangún
+INDONESIA|País de Yakarta y Bali
+FILIPINAS|Archipiélago asiático de Manila
+MALASIA|País de Kuala Lumpur
+NEPAL|País del Everest
+PAKISTAN|País de Islamabad
+AFGANISTAN|País de Kabul
+IRAN|País de Teherán
+IRAK|País de Bagdad
+SIRIA|País de Damasco
+LIBANO|País de Beirut
+ISRAEL|País de Jerusalén
+JORDANIA|País de Petra
+ARABIA|Reino de La Meca
+KUWAIT|Emirato del golfo Pérsico
+CATAR|Emirato de Doha
+OMAN|Sultanato de Mascate
+YEMEN|País del sur de Arabia
+EGIPTO|País del Nilo
+LIBIA|País de Trípoli
+TUNEZ|País del norte de África y su capital
+ARGELIA|País de Argel
+MARRUECOS|País de Rabat
+SENEGAL|País de Dakar
+MALI|País de Bamako
+NIGERIA|País africano más poblado
+GHANA|País de Acra
+KENIA|País de Nairobi y los safaris
+TANZANIA|País del Kilimanjaro
+ETIOPIA|País de Adís Abeba
+SUDAN|País de Jartum
+SOMALIA|País del cuerno de África
+UGANDA|País de Kampala
+ANGOLA|País de Luanda
+MOZAMBIQUE|País de Maputo
+ZAMBIA|País de Lusaka
+ZIMBABUE|País de Harare
+NAMIBIA|País del desierto del Namib
+BOTSUANA|País del Kalahari
+MADAGASCAR|Gran isla del océano Índico
+CANADA|País de Ottawa y el arce
+MEXICO|País de los aztecas
+CUBA|Isla de La Habana
+JAMAICA|Isla del reggae
+HAITI|País caribeño de Puerto Príncipe
+PANAMA|País del canal interoceánico
+COSTARICA|País de San José
+NICARAGUA|País de Managua
+HONDURAS|País de Tegucigalpa
+SALVADOR|País centroamericano más pequeño
+GUATEMALA|País del Petén
+BELICE|País caribeño de habla inglesa
+COLOMBIA|País de Bogotá
+VENEZUELA|País de Caracas
+ECUADOR|País de Quito
+PERU|País de Machu Picchu
+BOLIVIA|País de La Paz y Sucre
+CHILE|País de la larga costa del Pacífico
+ARGENTINA|País del tango
+URUGUAY|País de Montevideo
+PARAGUAY|País de Asunción
+BRASIL|País de Brasilia
+GUYANA|País de Georgetown
+SURINAM|País de Paramaribo
+AUSTRALIA|País de Camberra y los canguros
+NUEVAZELANDA|País de Wellington
+FIYI|Archipiélago del Pacífico sur
+SAMOA|Islas polinesias
+PARIS|Capital del Sena
+LONDRES|Capital del Támesis
+ROMA|Ciudad eterna
+BERLIN|Capital alemana del muro
+LISBOA|Capital del Tajo
+ATENAS|Capital de la Acrópolis
+VIENA|Capital del Danubio austríaco
+BRUSELAS|Capital de la Unión Europea
+AMSTERDAM|Capital de los canales
+COPENHAGUE|Capital de la sirenita
+ESTOCOLMO|Capital sueca del Nobel
+OSLO|Capital noruega
+HELSINKI|Capital finlandesa
+DUBLIN|Capital irlandesa
+EDIMBURGO|Capital escocesa del castillo
+VARSOVIA|Capital polaca
+PRAGA|Capital checa del puente de Carlos
+BUDAPEST|Capital húngara del Danubio
+BUCAREST|Capital rumana
+SOFIA|Capital búlgara
+BELGRADO|Capital serbia
+MOSCU|Capital del Kremlin
+KIEV|Capital ucraniana
+ANKARA|Capital turca
+ESTAMBUL|Ciudad turca del Bósforo
+JERUSALEN|Ciudad santa de tres religiones
+DAMASCO|Capital siria
+BAGDAD|Capital iraquí
+TEHERAN|Capital iraní
+CAIRO|Capital egipcia
+NAIROBI|Capital keniana
+PRETORIA|Capital sudafricana
+ARGEL|Capital argelina
+RABAT|Capital marroquí
+DAKAR|Capital senegalesa
+PEKIN|Capital china
+TOKIO|Capital japonesa
+SEUL|Capital surcoreana
+DELHI|Capital india
+BANGKOK|Capital tailandesa
+YAKARTA|Capital indonesia
+MANILA|Capital filipina
+HANOI|Capital vietnamita
+CANBERRA|Capital australiana
+OTTAWA|Capital canadiense
+WASHINGTON|Capital estadounidense
+HABANA|Capital cubana
+BOGOTA|Capital colombiana
+CARACAS|Capital venezolana
+QUITO|Capital ecuatoriana
+LIMA|Capital peruana
+SANTIAGO|Capital chilena
+BUENOSAIRES|Capital argentina
+MONTEVIDEO|Capital uruguaya
+ASUNCION|Capital paraguaya
+BRASILIA|Capital brasileña
+AMAZONAS|Río más caudaloso del mundo
+NILO|Río de los faraones
+DANUBIO|Río azul de los valses
+RIN|Río alemán de la Lorelei
+SENA|Río de París
+TAMESIS|Río de Londres
+VOLGA|Río más largo de Europa
+MISISIPI|Gran río norteamericano
+YANGTSE|Río más largo de Asia
+GANGES|Río sagrado de la India
+INDO|Río que da nombre a la India
+MEKONG|Río del sudeste asiático
+CONGO|Gran río africano ecuatorial
+NIGER|Río del oeste de África
+ZAMBEZE|Río de las cataratas Victoria
+ORINOCO|Río venezolano
+PARANA|Río del Río de la Plata
+COLORADO|Río del Gran Cañón
+YUKON|Río de Alaska
+ELBA|Río de Hamburgo
+ODER|Río fronterizo germanopolaco
+LOIRA|Río francés de los castillos
+RODANO|Río francés que desemboca en el Mediterráneo
+GARONA|Río de Burdeos
+PO|Río más largo de Italia
+TIBER|Río de Roma
+ALPES|Cordillera del Mont Blanc
+ANDES|Cordillera de América del Sur
+HIMALAYA|Cordillera del techo del mundo
+ROCOSAS|Cordillera del oeste norteamericano
+CARPATOS|Cordillera de Rumanía
+URALES|Montes entre Europa y Asia
+CAUCASO|Montes entre el mar Negro y el Caspio
+ATLAS|Cordillera del noroeste africano
+EVEREST|Montaña más alta del planeta
+KILIMANJARO|Techo de África
+ACONCAGUA|Cumbre más alta de América
+MONTBLANC|Techo de los Alpes
+FUJI|Volcán sagrado japonés
+ETNA|Volcán de Sicilia
+VESUBIO|Volcán que sepultó Pompeya
+POPOCATEPETL|Volcán mexicano
+SAHARA|Mayor desierto cálido
+GOBI|Desierto de Mongolia
+KALAHARI|Desierto del sur de África
+ATACAMA|Desierto más seco del mundo
+PACIFICO|Océano más extenso
+INDICO|Océano entre África y Australia
+ARTICO|Océano del polo norte
+BALTICO|Mar del norte de Europa
+ADRIATICO|Mar entre Italia y los Balcanes
+EGEO|Mar de las islas griegas
+JONICO|Mar del sur de Italia
+NEGRO|Mar al que da el Bósforo
+CASPIO|Mayor lago salado del mundo
+ROJO|Mar entre Egipto y Arabia
+MUERTO|Mar donde nadie se hunde
+CARIBE|Mar de las Antillas
+BERING|Estrecho entre Asia y América
+MAGALLANES|Estrecho del sur de América
+BOSFORO|Estrecho de Estambul
+SUEZ|Canal entre el Mediterráneo y el mar Rojo
+PANAMA|Canal entre dos océanos
+NIAGARA|Cataratas entre Canadá y Estados Unidos
+IGUAZU|Cataratas entre Argentina y Brasil
+VICTORIA|Cataratas del Zambeze
+BAIKAL|Lago más profundo del mundo
+TITICACA|Lago navegable más alto
+GINEBRA|Lago suizo y ciudad de la ONU
+COMO|Lago del norte de Italia
+NESS|Lago escocés del monstruo
+GROENLANDIA|Isla más grande del mundo
+SICILIA|Isla mayor del Mediterráneo
+CERDENA|Isla italiana al oeste
+CORCEGA|Isla natal de Napoleón
+CRETA|Isla griega de Cnosos
+RODAS|Isla griega del coloso
+CAPRI|Isla italiana de la gruta azul
+TASMANIA|Isla al sur de Australia
+BORNEO|Gran isla del sudeste asiático
+SUMATRA|Isla indonesia
+JAVA|Isla más poblada de Indonesia
+CEILAN|Antiguo nombre de Sri Lanka
+BALI|Isla indonesia de los templos
+HAWAI|Archipiélago del Pacífico estadounidense
+CANAL|Manga entre Francia e Inglaterra
+NUEVAYORK|Ciudad de la estatua de la Libertad
+CHICAGO|Ciudad del lago Michigan
+BOSTON|Ciudad del té y la universidad
+MIAMI|Ciudad de Florida
+LOSANGELES|Ciudad de Hollywood
+SANFRANCISCO|Ciudad del puente rojo
+TORONTO|Mayor ciudad canadiense
+MONTREAL|Ciudad canadiense francófona
+ACAPULCO|Puerto mexicano del Pacífico
+CANCUN|Destino turístico del Caribe mexicano
+CUZCO|Antigua capital inca
+RIO|Ciudad brasileña del Corcovado
+SAOPAULO|Mayor ciudad de Brasil
+VALPARAISO|Puerto chileno
+ROSARIO|Ciudad argentina del Paraná
+CORDOBA|Ciudad argentina mediterránea
+MEDELLIN|Ciudad colombiana de la eterna primavera
+CARTAGENA|Ciudad amurallada de Colombia
+GUAYAQUIL|Puerto principal de Ecuador
+AREQUIPA|Ciudad blanca peruana
+SUCRE|Capital constitucional boliviana
+POTOSI|Ciudad boliviana de la plata
+ASIA|Continente más extenso
+AFRICA|Continente del Sáhara
+EUROPA|Continente del viejo mundo
+OCEANIA|Continente de Australia
+ANTARTIDA|Continente helado del sur
+AMERICA|Continente descubierto en mil cuatrocientos noventa y dos
+ECUADOR|Paralelo cero
+TROPICO|Paralelo de Cáncer o Capricornio
+MERIDIANO|Línea que va de polo a polo
+LATITUD|Distancia angular al ecuador
+LONGITUD|Distancia angular al meridiano de Greenwich
+ARCHIPIELAGO|Conjunto de islas
+PENINSULA|Tierra casi rodeada de agua
+ISTMO|Lengua de tierra entre dos mares
+GOLFO|Gran entrante del mar en la costa
+FIORDO|Entrante marino de paredes altas
+ATOLON|Isla coralina en anillo
+GEISER|Surtidor natural de agua caliente
+SABANA|Llanura tropical de hierba alta
+ESTEPA|Llanura fría y sin árboles
+TUNDRA|Llanura helada del norte
+TAIGA|Bosque de coníferas siberiano
+PAMPA|Llanura argentina de ganado
+ALTIPLANO|Meseta andina elevada
+ESPANA|País de la piel de toro
+CHAD|País africano del lago homónimo
+BANGLADESH|País asiático de Daca

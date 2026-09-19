@@ -1,0 +1,248 @@
+# Historia, mitología y religión
+FARAON|Soberano del antiguo Egipto
+PIRAMIDE|Tumba monumental egipcia
+ESFINGE|Figura de cuerpo de león y cabeza humana
+MOMIA|Cadáver embalsamado egipcio
+PAPIRO|Soporte de escritura del Nilo
+JEROGLIFICO|Escritura egipcia de figuras
+OBELISCO|Monolito de punta piramidal
+SARCOFAGO|Caja que guarda la momia
+NILO|Río que daba vida a Egipto
+CLEOPATRA|Última reina de Egipto
+CESAR|Título de los emperadores romanos
+IMPERIO|Estado que domina muchos territorios
+LEGION|Unidad principal del ejército romano
+GLADIADOR|Luchador del circo romano
+COLISEO|Anfiteatro de Roma
+FORO|Plaza pública de la ciudad romana
+ACUEDUCTO|Construcción que traía el agua
+CALZADA|Camino empedrado romano
+TOGA|Vestidura de los ciudadanos romanos
+SENADO|Asamblea de la Roma antigua
+CONSUL|Magistrado supremo de la república romana
+PATRICIO|Noble de la antigua Roma
+PLEBEYO|Ciudadano común romano
+ESCLAVO|Persona sin libertad en la Antigüedad
+ANFORA|Vasija antigua de dos asas
+ACROPOLIS|Ciudad alta de Atenas
+PARTENON|Templo de la diosa Atenea
+AGORA|Plaza pública griega
+POLIS|Ciudad estado de Grecia
+ESPARTA|Ciudad griega de guerreros
+TROYA|Ciudad del caballo de madera
+ODISEA|Viaje de Ulises
+ILIADA|Poema de la guerra de Troya
+HOMERO|Poeta ciego de la antigua Grecia
+ULISES|Héroe griego del regreso a Ítaca
+AQUILES|Héroe griego del talón vulnerable
+HECTOR|Héroe troyano vencido por Aquiles
+HELENA|Belleza que causó la guerra de Troya
+PARIS|Príncipe troyano del rapto
+PENELOPE|Esposa que tejía esperando
+ITACA|Isla del rey que tardó veinte años
+ZEUS|Dios supremo del Olimpo
+HERA|Esposa del dios supremo griego
+POSEIDON|Dios griego de los mares
+HADES|Dios griego del inframundo
+ATENEA|Diosa griega de la sabiduría
+APOLO|Dios griego de la luz y las artes
+ARTEMISA|Diosa griega de la caza
+AFRODITA|Diosa griega del amor
+ARES|Dios griego de la guerra
+HERMES|Mensajero de los dioses griegos
+HEFESTO|Dios griego del fuego y la forja
+DIONISO|Dios griego del vino
+DEMETER|Diosa griega de la agricultura
+OLIMPO|Monte de los dioses griegos
+JUPITER|Dios supremo romano
+JUNO|Esposa del dios supremo romano
+NEPTUNO|Dios romano del mar
+PLUTON|Dios romano del inframundo
+MINERVA|Diosa romana de la sabiduría
+VENUS|Diosa romana del amor
+MARTE|Dios romano de la guerra
+MERCURIO|Mensajero de los dioses romanos
+VULCANO|Dios romano de la fragua
+BACO|Dios romano del vino
+CERES|Diosa romana de las cosechas
+DIANA|Diosa romana de la caza
+CUPIDO|Dios del amor con arco y flechas
+HERCULES|Héroe de los doce trabajos
+TESEO|Héroe que venció al Minotauro
+MINOTAURO|Monstruo del laberinto de Creta
+LABERINTO|Construcción de pasillos sin salida
+MEDUSA|Monstruo de cabellos de serpientes
+CENTAURO|Ser mitad hombre mitad caballo
+SIRENA|Ser que atraía a los marineros
+CICLOPE|Gigante de un solo ojo
+QUIMERA|Monstruo mitológico de varias partes
+FENIX|Ave que renace de sus cenizas
+PEGASO|Caballo alado de la mitología
+DRAGON|Monstruo alado que echa fuego
+TITAN|Gigante anterior a los dioses griegos
+PROMETEO|Titán que robó el fuego
+ATLAS|Titán que sostiene el cielo
+NARCISO|Joven enamorado de su reflejo
+MIDAS|Rey que convertía todo en oro
+ICARO|Voló demasiado cerca del sol
+DEDALO|Constructor del laberinto de Creta
+ORFEO|Músico que bajó al inframundo
+ODIN|Dios principal de los nórdicos
+THOR|Dios nórdico del trueno
+VALKIRIA|Guerrera de la mitología nórdica
+VIKINGO|Navegante guerrero escandinavo
+DRAKKAR|Nave de los vikingos
+RUNA|Signo de la escritura nórdica
+DRUIDA|Sacerdote de los celtas
+MENHIR|Piedra hincada prehistórica
+DOLMEN|Monumento megalítico de losas
+MEGALITO|Gran piedra levantada en la prehistoria
+NEOLITICO|Edad de la piedra pulida
+PALEOLITICO|Edad de la piedra tallada
+ALTAMIRA|Cueva cántabra de las pinturas
+PREHISTORIA|Tiempo anterior a la escritura
+MESOPOTAMIA|Tierra entre dos ríos
+SUMERIO|Pueblo antiguo de Mesopotamia
+BABILONIA|Ciudad de los jardines colgantes
+ZIGURAT|Templo escalonado mesopotámico
+FENICIO|Pueblo navegante del Líbano antiguo
+CARTAGO|Ciudad rival de Roma
+ANIBAL|General cartaginés de los elefantes
+ESCIPION|General romano que venció a Cartago
+CELTIBERO|Pueblo prerromano de la meseta
+NUMANCIA|Ciudad celtíbera que resistió a Roma
+VISIGODO|Pueblo germánico que reinó en Toledo
+ALARICO|Rey visigodo que saqueó Roma
+RECAREDO|Rey visigodo que se hizo católico
+CALIFATO|Estado islámico gobernado por un califa
+EMIRATO|Territorio gobernado por un emir
+ALANDALUS|Nombre árabe de la península ibérica
+MEZQUITA|Templo del islam
+ALHAMBRA|Palacio nazarí de Granada
+ALCAZAR|Fortaleza palaciega
+ALMOHADE|Dinastía norteafricana medieval
+MOZARABE|Cristiano que vivía en tierra musulmana
+MUDEJAR|Musulmán que vivía en tierra cristiana
+RECONQUISTA|Recuperación cristiana de la península
+CID|Caballero castellano del Cantar
+PELAYO|Vencedor de Covadonga
+FERNANDO|Rey católico esposo de Isabel
+ISABEL|Reina católica de Castilla
+COLON|Descubridor de América
+CARABELA|Nave del descubrimiento
+INDIAS|Nombre dado a las tierras descubiertas
+CONQUISTADOR|Quien tomó territorios en América
+CORTES|Conquistador del imperio azteca
+PIZARRO|Conquistador del imperio inca
+AZTECA|Pueblo antiguo de México
+MAYA|Civilización de Yucatán
+INCA|Pueblo andino del Cuzco
+MACHUPICCHU|Ciudadela inca de los Andes
+TENOCHTITLAN|Capital de los aztecas
+QUETZALCOATL|Serpiente emplumada azteca
+FEUDALISMO|Sistema social de la Edad Media
+VASALLO|Quien debe fidelidad al señor
+SENORIO|Territorio bajo un señor feudal
+CASTILLO|Fortaleza medieval
+FOSO|Zanja que rodea la fortaleza
+ALMENA|Diente del muro defensivo
+TORREON|Torre principal del castillo
+CABALLERO|Guerrero medieval a caballo
+ARMADURA|Traje de hierro del caballero
+YELMO|Casco del caballero
+LANZA|Arma de asta del caballero
+ESCUDERO|Ayudante del caballero
+TORNEO|Justa entre caballeros
+CRUZADA|Expedición cristiana a Tierra Santa
+TEMPLARIO|Monje guerrero medieval
+MONASTERIO|Casa de una comunidad religiosa
+ABADIA|Monasterio regido por un abad
+SCRIPTORIUM|Sala donde copiaban los manuscritos
+CODICE|Libro manuscrito antiguo
+PERGAMINO|Piel preparada para escribir
+IMPRENTA|Invento de Gutenberg
+GUTENBERG|Inventor de la imprenta moderna
+RENACIMIENTO|Época del resurgir de las artes clásicas
+HUMANISMO|Corriente que pone al hombre en el centro
+REFORMA|Movimiento religioso de Lutero
+LUTERO|Fraile que inició la Reforma
+CONTRARREFORMA|Respuesta católica a la Reforma
+INQUISICION|Tribunal religioso de la fe
+ARMADA|Flota de guerra española
+LEPANTO|Batalla naval contra los turcos
+TRAFALGAR|Batalla naval de mil ochocientos cinco
+NAPOLEON|Emperador corso
+WATERLOO|Derrota final de Napoleón
+REVOLUCION|Cambio profundo y violento
+BASTILLA|Prisión tomada en París en mil setecientos ochenta y nueve
+GUILLOTINA|Máquina de la Revolución francesa
+ILUSTRACION|Siglo de las luces
+ENCICLOPEDIA|Gran obra del saber ilustrado
+INDUSTRIAL|Revolución de las máquinas de vapor
+VAPOR|Fuerza motriz de la primera industria
+FERROCARRIL|Transporte que cambió el siglo diecinueve
+COLONIA|Territorio dominado por una potencia
+INDEPENDENCIA|Emancipación de una colonia
+BOLIVAR|Libertador de varias naciones americanas
+SANMARTIN|Libertador del sur de América
+GUERRAMUNDIAL|Conflicto que abarcó el planeta
+TRINCHERA|Zanja de la guerra de posiciones
+ARMISTICIO|Cese pactado de las hostilidades
+TRATADO|Acuerdo firmado entre naciones
+ONU|Organización nacida en mil novecientos cuarenta y cinco
+GUERRAFRIA|Tensión entre bloques sin combate directo
+MURO|Barrera que dividió Berlín
+TELON|Frontera ideológica de Europa del este
+DEMOCRACIA|Gobierno elegido por el pueblo
+MONARQUIA|Gobierno de un rey
+REPUBLICA|Estado con jefe elegido
+DICTADURA|Régimen sin libertades
+CONSTITUCION|Ley fundamental de un Estado
+SUFRAGIO|Derecho al voto
+BIBLIA|Libro sagrado de los cristianos
+EVANGELIO|Relato de la vida de Jesús
+APOSTOL|Cada uno de los doce discípulos
+PROFETA|Quien habla en nombre de Dios
+MESIAS|Salvador esperado
+PARABOLA|Relato con enseñanza moral
+MILAGRO|Hecho que supera las leyes naturales
+BAUTISMO|Primer sacramento cristiano
+COMUNION|Sacramento del pan y el vino
+CONFESION|Sacramento del perdón
+MISA|Celebración del culto católico
+CORAN|Libro sagrado del islam
+MECA|Ciudad santa del islam
+RAMADAN|Mes de ayuno musulmán
+MEZQUITA|Casa de oración del islam
+MINARETE|Torre desde la que se llama a la oración
+IMAN|Quien dirige la oración musulmana
+TORA|Libro sagrado del judaísmo
+SINAGOGA|Templo judío
+RABINO|Maestro de la ley judía
+SABADO|Día de descanso judío
+BUDA|Fundador del budismo
+NIRVANA|Estado de paz del budismo
+KARMA|Consecuencia de los actos según el hinduismo
+YOGA|Disciplina física y espiritual de la India
+MONJE|Religioso de vida retirada
+MONJA|Religiosa de clausura
+ERMITANO|Religioso que vive solo
+PEREGRINO|Quien viaja a un lugar sagrado
+SANTUARIO|Templo de devoción y peregrinación
+CATEDRAL|Iglesia principal de la diócesis
+BASILICA|Iglesia de rango especial
+ERMITA|Capilla pequeña y aislada
+CLAUSTRO|Patio con galerías del monasterio
+ALTAR|Mesa del sacrificio en el templo
+CALIZ|Copa de la consagración
+HOSTIA|Pan de la comunión
+INCIENSO|Resina que se quema en el culto
+ROSARIO|Sarta de cuentas para rezar
+CRUCIFIJO|Imagen de Cristo en la cruz
+CAMPANARIO|Torre de las campanas
+CURA|Sacerdote de la parroquia
+OBISPO|Prelado que rige una diócesis
+CARDENAL|Prelado que elige al Papa
+PAPA|Cabeza de la Iglesia católica
+VATICANO|Estado más pequeño del mundo
+CONCLAVE|Reunión que elige al pontífice

@@ -1,0 +1,289 @@
+# Palabras derivadas: oficios, cualidades, lugares y diminutivos
+ALFARERIA|Taller donde se hace loza de barro
+ARMERIA|Tienda de armas
+BARBERIA|Local donde se afeita
+CARNICERIA|Tienda de carne
+CERRAJERIA|Taller de cerraduras
+CERVECERIA|Local de cañas
+CHURRERIA|Puesto de masa frita
+CONFITERIA|Tienda de dulces
+CRISTALERIA|Conjunto de vasos y copas
+DROGUERIA|Tienda de productos de limpieza
+DULCERIA|Establecimiento de dulces
+FERRETERIA|Tienda de herramientas
+FLORISTERIA|Tienda de flores
+FRUTERIA|Tienda de fruta
+GUARDERIA|Centro de niños pequeños
+HELADERIA|Local de helados
+HERBORISTERIA|Tienda de plantas medicinales
+JOYERIA|Tienda de alhajas
+JUGUETERIA|Tienda de juguetes
+LAVANDERIA|Local donde lavan la ropa
+LECHERIA|Despacho de leche
+LIBRERIA|Tienda de libros
+MARISQUERIA|Local de marisco
+MERCERIA|Tienda de hilos y botones
+PANADERIA|Despacho de pan
+PAPELERIA|Tienda de material de escritorio
+PASTELERIA|Tienda de tartas
+PELETERIA|Comercio de pieles
+PELUQUERIA|Local donde cortan el pelo
+PERFUMERIA|Tienda de perfumes
+PESCADERIA|Tienda de pescado
+PIZZERIA|Local de masa italiana al horno
+RELOJERIA|Tienda de relojes
+SASTRERIA|Taller donde se hacen trajes
+TAPICERIA|Taller donde se forran muebles
+TINTORERIA|Local donde limpian la ropa
+ZAPATERIA|Tienda de calzado
+ALTIVEZ|Orgullo desdeñoso
+AMPLITUD|Gran extensión o anchura
+ARIDEZ|Sequedad del terreno
+ASPEREZA|Falta de suavidad
+AVIDEZ|Ansia por conseguir algo
+BAJEZA|Acción vil y ruin
+BELLEZA|Cualidad de lo hermoso
+BLANCURA|Cualidad de lo blanco
+BRAVURA|Fiereza del animal
+BREVEDAD|Corta duración
+CERTEZA|Seguridad plena
+CLARIDAD|Cualidad de lo que se ve bien
+CRUDEZA|Aspereza y dureza
+DELGADEZ|Falta de carnes
+DENSIDAD|Masa por unidad de volumen
+DESTREZA|Habilidad y soltura
+DUREZA|Resistencia a ser rayado
+ESCASEZ|Falta de lo necesario
+ESTRECHEZ|Falta de anchura
+FEALDAD|Falta de hermosura
+FIEREZA|Carácter feroz
+FINURA|Delicadeza en el trato
+FIRMEZA|Solidez y constancia
+FLAQUEZA|Debilidad del ánimo
+FLOJERA|Falta de fuerzas
+FRANQUEZA|Sinceridad al hablar
+FRESCURA|Sensación de frescor
+GORDURA|Exceso de carnes
+GRANDEZA|Cualidad de lo magnífico
+HERMOSURA|Gran belleza
+HONRADEZ|Rectitud en el obrar
+LARGURA|Dimensión de lo largo
+LENTITUD|Falta de rapidez
+LIGEREZA|Poco peso
+LIMPIEZA|Ausencia de suciedad
+LLANEZA|Sencillez en el trato
+LOCURA|Pérdida del juicio
+MADUREZ|Sazón de la fruta o de la persona
+NEGRURA|Oscuridad absoluta
+NITIDEZ|Claridad de la imagen
+NOBLEZA|Elevación del ánimo
+PALIDEZ|Falta de color en el rostro
+PEQUENEZ|Cualidad de lo diminuto
+POBREZA|Falta de recursos
+PUREZA|Ausencia de mezcla
+RAPIDEZ|Gran velocidad
+RIQUEZA|Abundancia de bienes
+RUDEZA|Falta de finura
+SIMPLEZA|Cosa sin sustancia
+SOLTURA|Desenvoltura al obrar
+SORDERA|Pérdida de la audición
+TERNURA|Afecto delicado
+TERQUEDAD|Obstinación insistente
+TERSURA|Lisura de la piel
+TIBIEZA|Estado templado
+TORPEZA|Falta de habilidad
+TRISTEZA|Pena del ánimo
+VEJEZ|Última edad de la vida
+VIVEZA|Agudeza y rapidez de ingenio
+ARTESANO|Quien trabaja con las manos
+BANQUERO|Dueño o directivo de un banco
+BARQUERO|Quien lleva la barca
+BOMBERO|Quien apaga incendios
+CABRERO|Pastor de cabras
+CAMARERO|Quien sirve las mesas
+CAMIONERO|Conductor de camiones
+CARBONERO|Vendedor de carbón
+CARCELERO|Quien vigila a los presos
+CARPINTERO|Quien trabaja la madera
+CARTERO|Quien reparte el correo
+COCINERO|Quien guisa la comida
+CONSEJERO|Quien aconseja o es miembro de un consejo
+COSECHERO|Dueño de la cosecha
+ENFERMERO|Quien cuida a los enfermos
+ESCUDERO|Ayudante del caballero
+GANADERO|Quien cría reses
+GRANJERO|Quien trabaja la granja
+GUERRILLERO|Combatiente irregular
+HORTELANO|Quien cultiva la huerta
+JARDINERO|Quien cuida el jardín
+JORNALERO|Quien trabaja a jornal
+LECHERO|Quien reparte la leche
+MARINERO|Quien trabaja en el barco
+MINERO|Quien trabaja en la mina
+MOLINERO|Quien trabaja en el molino
+OBRERO|Trabajador manual
+PANADERO|Quien hace el pan
+PORTERO|Quien guarda la portería
+RANCHERO|Dueño de un rancho
+TENDERO|Dueño de la tienda
+TORERO|Quien lidia toros
+VAQUERO|Quien guarda las vacas
+VIAJERO|Quien viaja
+ZAPATERO|Quien hace o arregla el calzado
+ARTICULISTA|Quien escribe artículos
+AUTOMOVILISTA|Conductor de coche
+CICLISTA|Quien monta en bicicleta
+DENTISTA|Quien cuida la dentadura
+DEPORTISTA|Quien practica un deporte
+ECOLOGISTA|Defensor del medio ambiente
+ELECTRICISTA|Quien instala la electricidad
+ESPECIALISTA|Experto en una materia
+FLORISTA|Quien vende flores
+FUTBOLISTA|Quien juega al fútbol
+GUITARRISTA|Quien toca la guitarra
+HUMORISTA|Quien hace reír
+MAQUINISTA|Quien conduce la locomotora
+MASAJISTA|Quien da masajes
+MODISTA|Quien cose vestidos
+MOTORISTA|Quien conduce una moto
+NOVELISTA|Quien escribe novelas
+OCULISTA|Médico de los ojos
+PERIODISTA|Quien informa en los medios
+PIANISTA|Quien toca el piano
+PROTAGONISTA|Personaje principal
+RECEPCIONISTA|Quien atiende en la entrada
+SOCIALISTA|Partidario del socialismo
+TAXISTA|Quien conduce un taxi
+TELEFONISTA|Quien atiende la centralita
+TENISTA|Quien juega al tenis
+TURISTA|Quien viaja por placer
+VIOLINISTA|Quien toca el violín
+CAPITALISMO|Sistema económico de la propiedad privada
+SOCIALISMO|Doctrina de la propiedad colectiva
+COMUNISMO|Doctrina de la sociedad sin clases
+LIBERALISMO|Doctrina de la libertad individual
+ANARQUISMO|Doctrina contraria al Estado
+FEDERALISMO|Doctrina de la unión de estados
+NACIONALISMO|Exaltación de la propia nación
+PACIFISMO|Doctrina contraria a la guerra
+FEMINISMO|Movimiento por la igualdad de la mujer
+ROMANTICISMO|Movimiento del sentimiento
+REALISMO|Fidelidad a la realidad
+NATURALISMO|Corriente que retrata lo natural
+SIMBOLISMO|Corriente artística de los símbolos
+CLASICISMO|Gusto por lo clásico
+ATEISMO|Negación de la existencia de Dios
+BUDISMO|Religión nacida en la India
+JUDAISMO|Religión del pueblo hebreo
+ISLAMISMO|Religión de Mahoma
+CRISTIANISMO|Religión de Jesucristo
+PAGANISMO|Creencias anteriores al cristianismo
+OPTIMISMO|Tendencia a ver lo bueno
+PESIMISMO|Tendencia a ver lo malo
+EGOISMO|Amor excesivo a uno mismo
+ALTRUISMO|Preocupación por los demás
+HEROISMO|Conducta propia del héroe
+CIVISMO|Comportamiento de buen ciudadano
+TURISMO|Viajes de placer
+DEPORTISMO|Afición al deporte
+ABANIQUITO|Abanico pequeño
+ARBOLITO|Árbol pequeño
+BARQUITO|Barco pequeño
+BOLSILLO|Bolsa pequeña de la ropa
+CAMPANILLA|Campana pequeña
+CARRETILLA|Carro de una rueda
+CASITA|Casa pequeña
+CERILLA|Palito que prende fuego
+CHIQUILLO|Niño de corta edad
+CIGARRILLO|Pitillo de tabaco
+COLMILLO|Diente puntiagudo
+CORDERILLO|Cordero muy joven
+CUCHARILLA|Cuchara pequeña del café
+FLORECILLA|Flor pequeña
+GATITO|Cría del gato
+HOMBRECILLO|Hombre de pequeña estatura
+LADRILLO|Bloque de barro cocido
+LENTEJUELA|Laminita brillante
+LIBRETA|Cuaderno pequeño
+LUCECITA|Luz pequeña
+MANTEQUILLA|Grasa batida de la leche
+MESILLA|Mueble junto a la cama
+MOLINILLO|Muele el café
+MONEDERO|Bolsa de las monedas
+PAJARILLO|Pájaro pequeño
+PANECILLO|Pan pequeño
+PASTILLA|Comprimido pequeño
+PELUSILLA|Vello muy fino
+PERRITO|Cachorro de perro
+PIEDRECILLA|Piedra menuda
+PLATILLO|Plato pequeño
+POLVILLO|Polvo muy fino
+PUERTECILLA|Puerta pequeña
+RATONCILLO|Ratón pequeño
+SEMILLITA|Semilla diminuta
+SILLITA|Silla pequeña de niño
+TAZON|Taza grande
+VENTANILLA|Ventana pequeña
+ZAPATILLA|Calzado ligero de casa
+CAJON|Caja grande o compartimento
+CASERON|Casa grande y vieja
+CUCHARON|Cuchara grande de servir
+HOMBRON|Hombre muy grande
+PORTON|Puerta grande
+SILLON|Asiento grande y cómodo
+TIJERETAZO|Corte dado con las tijeras
+CABEZAZO|Golpe dado con la cabeza
+CODAZO|Golpe dado con el codo
+MANOTAZO|Golpe dado con la mano
+PORTAZO|Golpe al cerrar la puerta
+PUERTAZO|Golpe fuerte de la puerta
+PUNETAZO|Golpe dado con el puño
+RODILLAZO|Golpe dado con la rodilla
+TIJERAZO|Corte de tijeras
+ZAPATAZO|Golpe dado con el zapato
+ARBOLADO|Terreno con árboles
+ENCINAR|Bosque de encinas
+MANZANAR|Terreno de manzanos
+MELONAR|Terreno sembrado de melones
+PATATAL|Campo de patatas
+PINAR|Bosque de pinos
+TOMATERA|Planta del tomate
+TRIGAL|Campo de trigo
+VINEDO|Terreno de vides
+ARROZAL|Campo inundado de arroz
+CANAVERAL|Terreno de cañas
+MAIZAL|Campo sembrado de maíz
+CEBADAL|Campo de cebada
+AVELLANAR|Terreno de avellanos
+CASTANAR|Bosque de castaños
+NARANJAL|Plantío de naranjos
+ALMENDRAL|Terreno de almendros
+BELLOTERA|Temporada del fruto de la encina
+COLMENAR|Lugar de las colmenas
+GALLINERO|Recinto de las gallinas
+HORMIGUERO|Nido de las hormigas
+PALOMAR|Alojamiento de las palomas
+AVISPERO|Nido de avispas
+TERMITERO|Nido de termitas
+CONEJERA|Madriguera de conejos
+PERRERA|Recinto de los perros
+POCILGA|Alojamiento del cerdo
+VAQUERIZA|Establo de vacas
+CABALLERIZA|Cuadra de los caballos
+CENICERO|Recipiente de la ceniza
+AZUCARERO|Recipiente del azúcar
+SALERO|Recipiente de la sal
+ACEITERA|Vasija del aceite
+VINAGRERA|Recipiente del vinagre
+CAFETERA|Prepara el café
+TETERA|Recipiente del té
+LECHERA|Recipiente de la leche
+PANERA|Cesta del pan
+FRUTERO|Recipiente de la fruta
+BASURERO|Lugar donde se tira la basura
+PAPELERA|Recoge los papeles
+LLAVERO|Anilla de las llaves
+COSTURERO|Caja de la costura
+JOYERO|Caja de las alhajas
+MONEDERO|Cartera de las monedas
+BILLETERO|Cartera de los billetes

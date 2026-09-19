@@ -1,0 +1,353 @@
+# Vocabulario general: palabras con T y con U
+TABACO|Planta que se fuma
+TABERNA|Local de vinos
+TABIQUE|Pared delgada
+TABLA|Pieza plana y larga de madera
+TABLERO|Superficie del ajedrez
+TABURETE|Asiento sin respaldo
+TACON|Parte alta del zapato
+TACTO|Sentido de la piel
+TAJADA|Porción cortada de carne
+TALADRO|Hace agujeros en la pared
+TALCO|Polvo blanco y suave
+TALENTO|Capacidad para algo
+TALLER|Local de reparaciones
+TALLO|Tronco tierno de la planta
+TALON|Parte trasera del pie
+TAMANO|Dimensión de una cosa
+TAMBOR|Instrumento de percusión
+TANQUE|Carro de combate
+TAPA|Cubierta de la olla
+TAPIA|Muro que cierra un solar
+TAPIZ|Tela grande de adorno mural
+TAPON|Cierra la botella
+TAQUILLA|Ventanilla de las entradas
+TARDE|Parte del día tras la comida
+TAREA|Trabajo que hay que hacer
+TARIFA|Precio de un servicio
+TARJETA|Cartulina con datos
+TARRO|Bote de cristal
+TARTA|Pastel grande de cumpleaños
+TATUAJE|Dibujo grabado en la piel
+TAXI|Coche de alquiler con conductor
+TAZA|Vasija del café
+TEATRO|Local de representaciones
+TECHO|Cubierta de la habitación
+TECLA|Pieza que se pulsa
+TECNICA|Modo de hacer algo con arte
+TEJA|Pieza curva del tejado
+TEJADO|Cubierta exterior de la casa
+TEJIDO|Tela hecha con hilos
+TELA|Paño de la ropa
+TELARANA|Red que teje la araña
+TELEFONO|Aparato para hablar de lejos
+TELESCOPIO|Acerca los astros a la vista
+TELEVISION|Aparato de imágenes y sonido
+TELON|Cortina del escenario
+TEMA|Materia de la que se trata
+TEMBLOR|Movimiento involuntario
+TEMOR|Miedo a algo
+TEMPERATURA|Grado de calor
+TEMPESTAD|Tormenta violenta
+TEMPLO|Edificio del culto
+TEMPORADA|Época del año
+TENAZA|Herramienta que sujeta y corta
+TENDENCIA|Inclinación hacia algo
+TENEDOR|Cubierto de púas
+TENIENTE|Grado militar bajo el capitán
+TENIS|Deporte de la red y la raqueta
+TENSION|Estado de lo estirado
+TENTACION|Impulso a hacer algo prohibido
+TEORIA|Explicación razonada
+TERCIOPELO|Tejido suave y velloso
+TERMITA|Insecto que roe la madera
+TERMOMETRO|Mide la fiebre
+TERNERA|Cría de la vaca
+TERNURA|Cariño delicado
+TERRAZA|Espacio descubierto del piso
+TERREMOTO|Sacudida de la tierra
+TERRENO|Porción de tierra
+TERROR|Miedo muy intenso
+TESORO|Riqueza escondida
+TESTAMENTO|Escritura de última voluntad
+TESTIGO|Presenció los hechos
+TETERA|Recipiente de la infusión
+TIA|Hermana del padre
+TIBURON|Escualo de dientes afilados
+TIEMPO|Duración de las cosas
+TIENDA|Local de venta al público
+TIERRA|Suelo que pisamos
+TIGRE|Felino de rayas negras
+TIJERA|Corta con dos hojas
+TILO|Árbol de la infusión calmante
+TIMBRE|Suena al llamar a la puerta
+TIMON|Gobierna el rumbo del barco
+TINAJA|Vasija grande de barro
+TINIEBLA|Oscuridad profunda
+TINTA|Líquido de escribir
+TINTE|Producto que da color
+TIO|Hermano del padre
+TIRANTE|Sujeta el pantalón al hombro
+TIRITA|Cubre una herida pequeña
+TITERE|Muñeco de guiñol
+TITULO|Nombre de una obra
+TIZA|Barrita blanca de escribir
+TOALLA|Seca el cuerpo
+TOBILLO|Une el pie a la pierna
+TOCADISCOS|Reproduce los vinilos
+TOCINO|Grasa del cerdo salada
+TODO|La totalidad de algo
+TOLDO|Cubierta de lona
+TOMATE|Fruto rojo de la ensalada
+TOMILLO|Hierba aromática de monte
+TONELADA|Mil kilos
+TONO|Altura de un sonido
+TONTERIA|Dicho sin sustancia
+TOPO|Mamífero que vive bajo tierra
+TORMENTA|Lluvia con truenos
+TORNADO|Torbellino destructor
+TORNILLO|Se aprieta con destornillador
+TORNO|Máquina que hace girar la pieza
+TORO|Macho de la vaca
+TORPEDO|Proyectil submarino
+TORRE|Edificio alto y estrecho
+TORTA|Pastel plano y redondo
+TORTILLA|Plato de huevo batido
+TORTUGA|Reptil de caparazón
+TOS|Golpe de aire de la garganta
+TOSTADA|Rebanada de pan dorado
+TRABAJO|Empleo del esfuerzo
+TRACTOR|Vehículo del campo
+TRADICION|Costumbre que se transmite
+TRADUCCION|Paso de una lengua a otra
+TRAFICO|Circulación de vehículos
+TRAGEDIA|Obra de desenlace desgraciado
+TRAICION|Falta a la lealtad
+TRAJE|Vestido completo
+TRAMPA|Engaño para cazar
+TRAMPOLIN|Tabla de saltar al agua
+TRANQUILIDAD|Estado de calma
+TRANVIA|Vehículo urbano sobre raíles
+TRAPECIO|Aparato del circo colgante
+TRAPO|Paño de limpiar
+TRASERO|Parte de atrás
+TRASTO|Cosa vieja e inútil
+TRATADO|Acuerdo entre naciones
+TRATAMIENTO|Cura que prescribe el médico
+TRAVESIA|Viaje por mar
+TRAVESURA|Diablura de niño
+TRAYECTO|Recorrido de un viaje
+TRENZA|Peinado de tres mechones
+TRIANGULO|Figura de tres lados
+TRIBUNAL|Conjunto de jueces
+TRIBUTO|Impuesto que se paga
+TRIGO|Cereal del pan
+TRINEO|Vehículo que se desliza en la nieve
+TRIPULACION|Personal del barco
+TRISTEZA|Pena del ánimo
+TRIUNFO|Victoria conseguida
+TROFEO|Copa del campeón
+TROMBON|Instrumento de viento de vara
+TROMPETA|Instrumento de metal y pistones
+TRONCO|Tallo grueso del árbol
+TRONO|Asiento del rey
+TROPA|Conjunto de soldados
+TROPEZON|Traspié al andar
+TROTE|Paso vivo del caballo
+TRUCHA|Pez de río muy apreciado
+TRUENO|Ruido de la tormenta
+TRUFA|Hongo negro muy caro
+TUBERIA|Conducto del agua
+TUBO|Cilindro hueco
+TUERCA|Se enrosca en el tornillo
+TULIPAN|Flor de bulbo holandesa
+TUMBA|Sepulcro del difunto
+TUNEL|Galería bajo la tierra
+TURBANTE|Tocado de tela enrollada
+TURISMO|Viajes de placer
+TURNO|Vez que corresponde a cada uno
+TURRON|Dulce navideño de almendra
+UBRE|Mama de la vaca
+ULCERA|Llaga del estómago
+ULTIMO|Que va detrás de todos
+UMBRAL|Parte baja de la puerta
+UNIDAD|Cada una de las partes iguales
+UNIFORME|Traje reglamentario
+UNIVERSIDAD|Centro de estudios superiores
+UNIVERSO|Todo lo que existe
+UNA|Lámina dura del dedo
+URBE|Ciudad muy grande
+URGENCIA|Necesidad inmediata
+URNA|Caja de los votos
+URRACA|Ave ladrona de objetos brillantes
+USO|Empleo que se hace de algo
+USURA|Interés abusivo del préstamo
+UTENSILIO|Herramienta de uso corriente
+UVA|Fruto de la vid
+TABERNERO|Sirve el vino
+TABLADO|Suelo de tablas del baile
+TABULAR|Ordenar en columnas
+TACANO|Que no suelta un euro
+TACHAR|Borrar con rayas
+TACITO|Que se sobreentiende
+TACITURNO|Callado y melancólico
+TAJAR|Cortar de un golpe
+TALAR|Cortar los árboles
+TALENTOSO|De grandes dotes
+TAMBALEAR|Moverse sin equilibrio
+TAMIZAR|Pasar por el cedazo
+TANTEAR|Probar con cautela
+TANEDOR|El que toca un instrumento
+TAPAR|Cubrir algo
+TAPIAR|Cerrar con muro
+TAPIZAR|Forrar de tela un mueble
+TARAREAR|Cantar sin palabras
+TARDANZA|Retraso en llegar
+TARDAR|Emplear mucho tiempo
+TARDIO|Que llega fuera de tiempo
+TARTAMUDO|Que repite las sílabas
+TASAR|Poner precio
+TATARABUELO|Padre del bisabuelo
+TEATRAL|Propio de la escena
+TECLADO|Conjunto de teclas
+TECNICO|Experto en una técnica
+TECNOLOGIA|Aplicación de la ciencia
+TEDIO|Aburrimiento pesado
+TEJER|Entrelazar los hilos
+TELAR|Máquina de tejer
+TELEGRAMA|Mensaje breve por cable
+TELEVISOR|Aparato del salón
+TEMBLAR|Moverse por el frío o el miedo
+TEMERARIO|Que se arriesga sin medida
+TEMER|Tener miedo
+TEMPLADO|Ni frío ni caliente
+TEMPLAR|Poner a la temperatura justa
+TEMPORAL|Vendaval de lluvia y viento
+TEMPRANO|Antes de la hora
+TENAZ|Que no ceja en su empeño
+TENDER|Extender la ropa mojada
+TENDERO|Dueño de la tienda
+TENDON|Fibra que une el músculo al hueso
+TENEBROSO|Oscuro y temible
+TENER|Poseer alguna cosa
+TENIR|Dar color a la tela
+TENTAR|Inducir a algo prohibido
+TEORICO|Basado solo en ideas
+TERAPIA|Tratamiento de una dolencia
+TERCIAR|Mediar entre dos
+TERCO|Que no da su brazo a torcer
+TERGIVERSAR|Torcer el sentido de lo dicho
+TERMINAR|Poner fin a algo
+TERNERO|Cría joven de la vaca
+TERRAPLEN|Desnivel de tierra
+TERRENAL|De este mundo
+TERRIBLE|Que causa espanto
+TERRITORIO|Extensión de tierra
+TERRON|Trozo de azúcar
+TERTULIA|Reunión para charlar
+TESON|Firmeza en el propósito
+TESTAR|Hacer testamento
+TESTARUDO|Cabezota y obstinado
+TESTIFICAR|Declarar como testigo
+TILDAR|Calificar de manera negativa
+TIMAR|Estafar con engaño
+TIMIDO|Falto de desparpajo
+TINGLADO|Cobertizo o enredo
+TINTORERIA|Local donde limpian la ropa
+TIRANIA|Gobierno cruel y despótico
+TIRAR|Arrojar lejos
+TIRITAR|Temblar de frío
+TITILAR|Centellear la estrella
+TITUBEAR|Vacilar al decidirse
+TITULAR|Encabezamiento de la noticia
+TIZNAR|Manchar de hollín
+TOCAR|Poner la mano sobre algo
+TOLERAR|Soportar sin quejarse
+TOMAR|Coger algo con la mano
+TONIFICAR|Dar vigor al cuerpo
+TOPAR|Chocar con algo
+TOPOGRAFIA|Descripción del terreno
+TORCER|Doblar algo recto
+TOREAR|Lidiar la res brava
+TORERO|Lidiador de toros
+TORMENTO|Sufrimiento muy grande
+TORNAR|Volver al estado anterior
+TORNEO|Competición de varios equipos
+TORPE|Falto de habilidad
+TORTURA|Tormento que se inflige
+TOSCO|Basto y sin pulir
+TOSTAR|Dorar al fuego
+TOTAL|Suma completa
+TOXICO|Que envenena
+TRABAJAR|Ejercer un oficio
+TRABAR|Sujetar dos piezas
+TRADICIONAL|Que viene de antiguo
+TRADUCIR|Verter a otra lengua
+TRAER|Llevar hacia aquí
+TRAFICANTE|Comercia ilegalmente
+TRAGAR|Pasar por la garganta
+TRAGICO|De final desdichado
+TRAGO|Sorbo de bebida
+TRAICIONAR|Faltar a la lealtad
+TRAJINAR|Andar de un lado a otro
+TRAMAR|Urdir un plan oculto
+TRAMITAR|Hacer las gestiones
+TRAMO|Parte de un recorrido
+TRAMPEAR|Hacer trampas
+TRANCE|Momento crítico
+TRANQUILO|Sin agitación ninguna
+TRANSCRIBIR|Copiar un texto
+TRANSFERIR|Pasar de un sitio a otro
+TRANSITAR|Pasar por una vía
+TRANSMITIR|Enviar una señal
+TRANSPARENTE|Que deja ver a través
+TRANSPORTE|Traslado de personas o cosas
+TRASLADAR|Cambiar de lugar
+TRASNOCHAR|Acostarse muy tarde
+TRASPASAR|Atravesar de parte a parte
+TRASPLANTE|Cambio de un órgano
+TRATAR|Manejar un asunto
+TRAVIESO|Inquieto y revoltoso
+TRAZAR|Dibujar las líneas
+TREPAR|Subir agarrándose
+TRIBUTAR|Pagar impuestos
+TRILLAR|Separar el grano de la paja
+TRINAR|Cantar los pájaros
+TRINCHERA|Zanja de defensa
+TRIPLICAR|Hacer tres veces mayor
+TRIPULAR|Gobernar la nave
+TRISTON|Algo apenado
+TRITURAR|Moler en trozos pequeños
+TRIUNFAR|Salir vencedor
+TROCEAR|Partir en trozos
+TRONAR|Retumbar el cielo
+TROPEZAR|Dar con el pie en un obstáculo
+TROTAR|Ir al trote
+TRUNCAR|Cortar por lo sano
+TUMBAR|Echar por tierra
+TUMULTO|Alboroto de la multitud
+TUNANTE|Pícaro y granuja
+TURBAR|Alterar la calma
+TURBIO|Agua sucia y poco clara
+TUTELA|Protección de un menor
+TUTEAR|Hablar de tú
+UBICAR|Situar en un lugar
+UFANO|Satisfecho y orgulloso
+ULTIMAR|Dar los últimos toques
+ULTRAJE|Ofensa muy grave
+ULULAR|Dar gritos el búho
+UNANIME|Aceptado por todos
+UNGIR|Aplicar óleo sagrado
+UNIFICAR|Reducir a una unidad
+UNIR|Juntar dos cosas
+UNISONO|Todos a la vez
+UNTAR|Extender una capa de grasa
+URBANO|De la ciudad
+URDIR|Preparar un plan
+URGIR|Correr mucha prisa
+USAR|Emplear algo
+USUARIO|Quien utiliza un servicio
+USURPAR|Apoderarse de lo ajeno
+UTIL|Que sirve para algo
+UTILIZAR|Sacar provecho de algo
+UTOPIA|Ideal irrealizable

@@ -1,0 +1,375 @@
+# Léxico especializado: mar, milicia, campo, textil, construcción e imprenta
+PROA|Parte delantera del barco
+POPA|Parte trasera del barco
+BABOR|Costado izquierdo de la nave
+ESTRIBOR|Costado derecho de la nave
+CUBIERTA|Piso del barco
+BODEGA|Espacio de carga del buque
+CAMAROTE|Dormitorio de la nave
+PUENTE|Lugar de mando del barco
+TIMON|Gobierna el rumbo
+QUILLA|Pieza inferior del casco
+CASCO|Cuerpo de la embarcación
+MASTIL|Palo que sostiene la vela
+BOTAVARA|Palo horizontal de la vela mayor
+FOQUE|Vela triangular de proa
+TRINQUETE|Palo de proa del velero
+MESANA|Palo de popa
+VERGA|Palo cruzado que sostiene la vela
+JARCIA|Conjunto de cabos del buque
+AMARRA|Cabo que sujeta el barco
+CABO|Cuerda de a bordo
+NUDO|Lazada marinera o unidad de velocidad
+ANCLA|Hierro que fondea la nave
+CADENA|Serie de eslabones del ancla
+ESCOTILLA|Abertura de la cubierta
+OJODEBUEY|Ventana redonda del barco
+SENTINA|Parte más baja de la bodega
+LASTRE|Peso que da estabilidad
+CALADO|Profundidad que alcanza el casco
+ESLORA|Longitud del barco
+MANGA|Anchura del barco
+FLETE|Precio del transporte marítimo
+SINGLADURA|Navegación de un día
+DERROTA|Rumbo que sigue el barco
+BITACORA|Caja de la brújula de a bordo
+SEXTANTE|Instrumento de medir la altura de los astros
+CARTA|Mapa de navegación
+FARO|Torre que guía a los navegantes
+BOYA|Señal flotante
+ESCOLLO|Peñasco a flor de agua
+BAJIO|Fondo de poca profundidad
+ARRECIFE|Banco de rocas o coral
+MAREA|Subida y bajada del mar
+RESACA|Retroceso de la ola
+DERIVA|Desvío del rumbo por la corriente
+NAUFRAGIO|Hundimiento de la nave
+SALVAVIDAS|Aro que mantiene a flote
+BOTE|Embarcación auxiliar
+CHALUPA|Lancha del barco
+REMOLCADOR|Barco que arrastra a otros
+DIQUE|Obra que contiene el agua
+ASTILLERO|Donde se construyen barcos
+VARADERO|Lugar donde se repara el casco
+MUELLE|Andén del puerto
+DARSENA|Parte resguardada del puerto
+ESPIGON|Muro que entra en el mar
+FARDO|Bulto de mercancía
+ESTIBA|Colocación de la carga
+CALAFATE|Quien tapa las juntas del casco
+GRUMETE|Aprendiz de marinero
+CONTRAMAESTRE|Jefe de la marinería
+TIMONEL|Quien lleva el timón
+PATRON|Quien manda una embarcación menor
+ARMADOR|Dueño del buque
+NAVIERA|Empresa de barcos
+SINGAR|Impulsar el bote con un remo
+BOGAR|Remar
+CIAR|Remar hacia atrás
+ARRIAR|Bajar la vela o la bandera
+IZAR|Subir la vela o la bandera
+FONDEAR|Echar el ancla
+ATRACAR|Amarrar al muelle
+ZARPAR|Salir del puerto
+VARAR|Encallar en el fondo
+ESCORAR|Inclinarse el barco
+NAVEGAR|Ir por el agua
+ABORDAR|Llegar al costado de otro barco
+REGATA|Competición de veleros
+BARLOVENTO|Parte de donde viene el viento
+SOTAVENTO|Parte opuesta al viento
+BRUJULA|Instrumento que señala el norte
+CUARTEL|Edificio de la tropa
+REGIMIENTO|Unidad militar
+BATALLON|Unidad de varias compañías
+COMPANIA|Unidad militar pequeña
+PELOTON|Grupo reducido de soldados
+ESCUADRON|Unidad de caballería o aviación
+BRIGADA|Gran unidad militar
+DIVISION|Gran unidad del ejército
+GUARNICION|Tropa que defiende una plaza
+DESTACAMENTO|Grupo separado de tropa
+CENTINELA|Soldado de guardia
+GUARDIA|Servicio de vigilancia
+RONDA|Recorrido de vigilancia
+RELEVO|Cambio de la guardia
+DIANA|Toque que despierta a la tropa
+RETRETA|Toque de recogida
+FORMACION|Colocación ordenada de la tropa
+DESFILE|Marcha ante las autoridades
+MANIOBRA|Ejercicio militar
+INSTRUCCION|Adiestramiento del recluta
+RECLUTA|Soldado que se incorpora
+VETERANO|Soldado con experiencia
+SOLDADO|Militar de tropa
+CABO|Grado inferior de la milicia
+SARGENTO|Suboficial de la tropa
+ALFEREZ|Grado inicial de oficial
+TENIENTE|Oficial bajo el capitán
+CAPITAN|Oficial que manda una compañía
+COMANDANTE|Jefe militar
+CORONEL|Jefe de un regimiento
+GENERAL|Militar de alta graduación
+MARISCAL|Grado militar muy alto
+ORDENANZA|Soldado al servicio de un oficial
+ARTILLERIA|Cuerpo de los cañones
+CABALLERIA|Tropa montada
+INFANTERIA|Tropa que combate a pie
+INGENIEROS|Cuerpo militar de obras
+INTENDENCIA|Servicio de abastecimiento
+FUSIL|Arma larga del soldado
+BAYONETA|Cuchillo del fusil
+CARTUCHERA|Bolsa de la munición
+CANANA|Cinto con cartuchos
+OBUS|Pieza de artillería
+MORTERO|Arma que lanza proyectiles en arco
+METRALLETA|Arma automática ligera
+GRANADA|Proyectil de mano
+TRINCHERA|Zanja de defensa
+PARAPETO|Muro que protege del fuego
+BUNKER|Refugio fortificado
+ALAMBRADA|Cerca de alambre de espino
+EMBOSCADA|Ataque desde el escondite
+ASEDIO|Cerco a una plaza fuerte
+ASALTO|Ataque para tomar una posición
+TREGUA|Suspensión pactada del combate
+RENDICION|Entrega al enemigo
+BOTIN|Parte del saqueo
+TROFEO|Objeto tomado al enemigo
+CONDECORACION|Medalla que premia el mérito
+GALON|Distintivo del grado en la manga
+UNIFORME|Traje reglamentario del cuerpo
+CASACA|Chaqueta militar antigua
+GUERRERA|Chaqueta del uniforme
+POLAINA|Prenda que cubre la pierna
+MOCHILA|Petate que carga el soldado
+CANTIMPLORA|Botella del soldado
+ARADO|Apero que abre surcos
+REJA|Pieza del arado que corta la tierra
+YUGO|Madero que une a los bueyes
+YUNTA|Par de bueyes de labor
+GARROCHA|Vara larga del vaquero
+AGUIJADA|Vara para picar a los bueyes
+TRILLO|Tabla que separa el grano
+BIELDO|Horca de aventar la mies
+HORCA|Apero de varias púas
+HOZ|Herramienta curva de segar
+GUADANA|Herramienta de segar a dos manos
+CRIBA|Utensilio que separa el grano
+ERA|Terreno donde se trilla
+PARVA|Mies tendida para trillar
+GAVILLA|Haz de mies
+FAJINA|Conjunto de haces
+ALMIAR|Montón de paja al aire libre
+PAJAR|Lugar donde se guarda la paja
+GRANERO|Almacén del grano
+SILO|Depósito de grano
+MOLINO|Muele el cereal
+MUELA|Piedra del molino
+TOLVA|Depósito por donde cae el grano
+HARNERO|Criba de grano
+AZADA|Herramienta de cavar
+LAYA|Pala de labrar
+ESCARDILLO|Utensilio de quitar hierbas
+PODADERA|Herramienta de cortar ramas
+INJERTO|Rama unida a otra planta
+ACODO|Rama que se entierra para criar raíz
+ESQUEJE|Tallo que se planta
+VIVERO|Criadero de plantas
+ERIAL|Tierra sin cultivar
+BARBECHO|Tierra que descansa
+RASTROJO|Restos de la mies segada
+SEMENTERA|Tierra sembrada
+LINDE|Límite de una finca
+MOJON|Piedra que marca el límite
+ACEQUIA|Canal de riego
+NORIA|Rueda que saca agua
+POZAL|Cubo del pozo
+ABREVADERO|Pilón donde beben las reses
+ZAHURDA|Pocilga del cerdo
+APRISCO|Redil del ganado
+MAJADA|Lugar donde pernocta el rebaño
+TRASHUMANCIA|Traslado estacional del ganado
+CANADA|Vía pecuaria del ganado
+CENCERRO|Campana del cuello del ganado
+ESQUILEO|Corte de la lana
+VELLON|Lana de una oveja
+ORDENO|Extracción de la leche
+CUAJO|Fermento que cuaja la leche
+LAGAR|Lugar donde se pisa la uva
+PRENSA|Máquina que exprime la uva
+MOSTO|Zumo de uva sin fermentar
+BARRICA|Tonel de crianza del vino
+TONEL|Recipiente grande de vino
+BOTA|Odre de cuero para el vino
+ODRE|Pellejo para líquidos
+ALMAZARA|Molino de aceite
+ORUJO|Resto del prensado de la uva
+TELAR|Máquina de tejer
+LANZADERA|Pieza del telar que va y viene
+URDIMBRE|Hilos longitudinales del tejido
+TRAMA|Hilos transversales del tejido
+HUSO|Instrumento para hilar
+RUECA|Vara donde se enrolla el copo
+MADEJA|Hilo recogido en vueltas
+OVILLO|Bola de hilo
+CARRETE|Bobina del hilo
+DEDAL|Protege el dedo al coser
+ALFILETERO|Estuche de los alfileres
+BASTIDOR|Armazón que tensa la tela para bordar
+PATRON|Modelo de papel para cortar la tela
+TIJERETA|Corte hecho con tijeras
+COSTURA|Unión cosida de dos telas
+PESPUNTE|Costura de puntadas seguidas
+DOBLADILLO|Pliegue cosido del borde
+PUNTADA|Cada pasada de la aguja
+REMIENDO|Trozo que tapa un roto
+ZURCIDO|Arreglo cosido de un descosido
+ENCAJE|Labor calada de hilo
+BORDADO|Dibujo hecho con hilo
+PUNTO|Labor hecha con agujas
+GANCHILLO|Aguja de punta curva
+CROCHET|Labor de aguja curva
+TINTE|Producto que da color a la tela
+LINO|Fibra vegetal fresca
+ALGODON|Fibra blanca y suave
+LANA|Fibra del ganado ovino
+SEDA|Fibra del gusano
+YUTE|Fibra vegetal de sacos
+CANAMO|Fibra de cuerdas
+ESPARTO|Fibra de las alpargatas
+RASO|Tejido liso y brillante
+TERCIOPELO|Tejido velloso y suave
+PANA|Tejido de canutillos
+FRANELA|Tejido suave de abrigo
+LONETA|Tela recia y ligera
+TUL|Tejido fino y transparente
+GASA|Tela muy fina
+ORGANZA|Tela vaporosa y rígida
+CREPE|Tejido de superficie rugosa
+LOSA|Piedra plana del suelo
+SILLAR|Piedra labrada del muro
+MAMPUESTO|Piedra sin labrar de la obra
+ARGAMASA|Mezcla de cal, arena y agua
+MORTERO|Mezcla que une los ladrillos
+HORMIGON|Mezcla de cemento, grava y agua
+ENCOFRADO|Molde del hormigón
+ARMADURA|Estructura de hierros del hormigón
+CIMENTACION|Base de la construcción
+ZAPATA|Base que reparte la carga del pilar
+PILAR|Soporte vertical de la obra
+VIGA|Madero o hierro horizontal
+DINTEL|Pieza que salva el hueco de la puerta
+JAMBA|Lado vertical del hueco
+ARCO|Elemento curvo que salva un vano
+DOVELA|Piedra en cuña del arco
+CLAVE|Piedra central del arco
+BOVEDA|Cubierta curva
+CUPULA|Bóveda semiesférica
+LINTERNA|Remate acristalado de la cúpula
+CIMBORRIO|Cuerpo que se alza sobre el crucero
+CONTRAFUERTE|Machón que refuerza el muro
+ARBOTANTE|Arco exterior que descarga el empuje
+PINACULO|Remate en punta del gótico
+GARGOLA|Caño con figura que desagua el tejado
+CORNISA|Saliente que remata el muro
+FRISO|Franja decorada de la fachada
+FRONTON|Remate triangular del edificio
+CAPITEL|Parte alta de la columna
+FUSTE|Cuerpo de la columna
+BASA|Pieza inferior de la columna
+PEDESTAL|Base que sostiene una estatua
+ZOCALO|Franja baja del muro
+ALERO|Borde saliente del tejado
+CANALON|Recoge el agua del tejado
+BAJANTE|Tubería que baja el agua
+ALBANAL|Conducto de aguas sucias
+ARQUETA|Caja registro del saneamiento
+TABIQUE|Pared delgada de división
+REVOCO|Capa de mortero del muro
+ENLUCIDO|Capa fina que alisa la pared
+GOTELE|Acabado rugoso de la pared
+ZAHORRA|Grava que compacta el firme
+ADOQUIN|Piedra del pavimento
+BORDILLO|Escalón que limita la acera
+ACERADO|Conjunto de las aceras
+ANDAMIO|Estructura para trabajar en alto
+PUNTAL|Madero que sostiene una obra
+TIRANTE|Pieza que trabaja a tracción
+CERCHA|Armazón triangular de la cubierta
+TIJERA|Armadura del tejado
+PARHILERA|Viga más alta del tejado
+LIMPIEZA|Retirada del escombro
+IMPRENTA|Taller donde se estampa
+TIPO|Pieza con la letra en relieve
+GALERADA|Prueba de imprenta
+LINOTIPIA|Antigua máquina de componer
+PRENSA|Máquina que estampa
+PLANCHA|Lámina con la imagen a imprimir
+TINTA|Materia que deja la impresión
+OFFSET|Sistema de impresión indirecta
+HUECOGRABADO|Impresión de plancha rebajada
+SERIGRAFIA|Estampación con pantalla
+TIRADA|Número de ejemplares impresos
+PLIEGO|Hoja grande que se dobla
+CUADERNILLO|Grupo de hojas plegadas
+GUILLOTINA|Máquina que corta el papel
+ENCUADERNACION|Cosido y cubierta del libro
+TAPA|Cubierta dura del libro
+GUARDA|Hoja que une la tapa con el libro
+CAJA|Superficie escrita de la página
+MARGEN|Espacio en blanco del borde
+INTERLINEADO|Espacio entre renglones
+TIPOGRAFO|Quien compone los textos
+CAJISTA|Antiguo componedor de la imprenta
+CORRECTOR|Quien enmienda las pruebas
+MAQUETISTA|Quien diseña la página
+EDITOR|Quien publica la obra
+GRABADOR|Artista que hace estampas
+BURIL|Punzón de grabar
+GUBIA|Formón de media caña
+XILOGRAFIA|Grabado en madera
+AGUAFUERTE|Grabado al ácido
+LITOGRAFIA|Estampación sobre piedra
+FILIGRANA|Marca al trasluz del papel
+PERGAMINO|Piel preparada para escribir
+PAPIRO|Soporte de escritura egipcio
+VITELA|Piel muy fina de escribir
+TINTERO|Recipiente de la tinta
+PLUMILLA|Punta metálica de escribir
+CALIGRAFO|Experto en letra bonita
+ESCRIBANIA|Juego de escritorio
+ATRIL|Soporte para leer
+FACISTOL|Atril grande del coro
+MINA|Excavación del mineral
+GALERIA|Pasillo subterráneo de la mina
+POZO|Excavación vertical de la mina
+FILON|Veta de mineral
+VETA|Franja de mineral en la roca
+YACIMIENTO|Lugar donde hay mineral
+ESCOMBRERA|Montón de material inútil
+BOCAMINA|Entrada de la mina
+JAULA|Ascensor de la mina
+VAGONETA|Vagón pequeño de la mina
+PICO|Herramienta de arrancar mineral
+BARRENO|Agujero cargado con explosivo
+DINAMITA|Explosivo de la voladura
+GRISU|Gas peligroso de las minas
+MENA|Mineral del que se extrae el metal
+GANGA|Materia sin valor que acompaña al mineral
+FUNDICION|Taller donde se funde el metal
+CRISOL|Vasija donde se funde
+LINGOTE|Barra de metal fundido
+ESCORIA|Residuo de la fundición
+ALTOHORNO|Horno donde se obtiene el hierro
+FORJA|Taller donde se trabaja el hierro
+YUNQUE|Pieza donde golpea el herrero
+FUELLE|Instrumento que aviva el fuego
+TENAZA|Herramienta que sujeta el hierro caliente
+TEMPLE|Tratamiento que endurece el acero
+SOLDADURA|Unión de dos metales
+REMACHE|Pieza que une chapas
+TORNO|Máquina que labra piezas girando
+FRESADORA|Máquina que desbasta el metal
+LIMA|Herramienta que desgasta
+CALIBRE|Instrumento que mide con precisión

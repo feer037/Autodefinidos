@@ -1,0 +1,657 @@
+# Más formas verbales conjugadas
+ABRAZA|Rodea con los brazos
+ABRIGA|Protege del frío
+ACARICIA|Roza con ternura
+ACAMPA|Planta la tienda de campaña
+ACECHA|Vigila escondido
+ACLAMA|Vitorea con entusiasmo
+ACOGE|Recibe en su casa
+ACOMPANA|Va junto a otro
+ACONSEJA|Da una recomendación
+ACORTA|Hace más corto
+ACOSTA|Echa en la cama
+ACTUA|Interviene en escena
+ADELANTA|Deja atrás a otro
+ADIVINA|Acierta lo oculto
+ADMITE|Deja entrar
+ADORNA|Pone adornos
+ADQUIERE|Consigue o compra
+ADVIERTE|Avisa de un riesgo
+AFEITA|Corta la barba
+AFIRMA|Sostiene que es cierto
+AFLOJA|Suelta la tensión
+AGRADECE|Da las gracias
+AGRANDA|Hace más grande
+AGRUPA|Reúne en un grupo
+AGUARDA|Espera con paciencia
+AHOGA|Corta la respiración
+AHORCA|Cuelga del cuello
+ALABA|Habla bien de alguien
+ALARGA|Hace más largo
+ALCANZA|Llega hasta algo
+ALIMENTA|Da de comer
+ALISA|Quita las arrugas
+ALIVIA|Quita el dolor
+ALMUERZA|Toma la comida del mediodía
+ALQUILA|Cede por una renta
+ALUMBRA|Da luz
+ALZA|Levanta en alto
+AMANECE|Sale el sol
+AMARGA|Hace desagradable el sabor
+AMENAZA|Anuncia un daño
+AMPLIA|Hace más grande
+ANALIZA|Estudia por partes
+ANCLA|Echa el hierro al fondo
+ANHELA|Desea con ansia
+ANUDA|Hace un nudo
+APARECE|Se deja ver
+APARENTA|Da a entender lo que no es
+APELA|Recurre la sentencia
+APESTA|Huele muy mal
+APLICA|Pone sobre algo
+APORTA|Contribuye con algo
+APRECIA|Tiene en estima
+APRENDE|Adquiere conocimientos
+APRESURA|Da prisa
+APROVECHA|Saca partido
+APUNTA|Dirige el arma
+ARANA|Hiere con las uñas
+ARDIO|Se consumió en llamas
+ARENGA|Habla para enardecer
+ARMONIZA|Pone en armonía
+ARRANCA|Saca de raíz
+ARRASTRA|Lleva por el suelo
+ARREGLA|Compone lo roto
+ARREPIENTE|Se duele de lo hecho
+ARRIESGA|Pone en peligro
+ARRIMA|Acerca a la pared
+ARROJA|Lanza con fuerza
+ASCIENDE|Sube de categoría
+ASEA|Pone limpio
+ASEGURA|Da por cierto
+ASIENTE|Dice que sí
+ASOMBRA|Deja admirado
+ASPIRA|Toma aire
+ASUME|Se hace cargo
+ATACA|Acomete al rival
+ATIENDE|Presta atención
+ATRAE|Tira hacia sí
+ATRAVIESA|Cruza de lado a lado
+ATREVE|Se arriesga a algo
+AUMENTA|Hace mayor
+AUXILIA|Presta socorro
+AVANZA|Va hacia delante
+AVERGUENZA|Causa vergüenza
+AVISA|Da la advertencia
+AYUNA|Se priva de comer
+BALANCEA|Mueve de un lado a otro
+BARNIZA|Da brillo a la madera
+BAUTIZA|Administra el bautismo
+BENDICE|Da la bendición
+BORDEA|Va por el borde
+BOSTEZA|Abre la boca de sueño
+BRAMA|Da voces el toro
+BRILLA|Despide luz
+BRINCA|Da saltos
+BROMEA|Dice cosas en broma
+BUCEA|Nada bajo el agua
+CABALGA|Va montado a caballo
+CADUCA|Pierde la validez
+CALIFICA|Pone nota
+CALMA|Pone tranquilo
+CALZA|Pone los zapatos
+CAMBIA|Pone una cosa por otra
+CANCELA|Anula la reserva
+CAPTURA|Apresa al fugitivo
+CARECE|No tiene algo
+CASTIGA|Impone una pena
+CAUSA|Provoca un efecto
+CAUTIVA|Atrae poderosamente
+CEDIO|Dio paso al otro
+CELEBRA|Festeja con alegría
+CENSURA|Prohíbe publicar
+CERCA|Rodea con una valla
+CHARLA|Conversa sin formalidad
+CHILLA|Da gritos agudos
+CHOCA|Se da un golpe
+CIRCULA|Va por la vía
+CITA|Menciona a un autor
+CLASIFICA|Ordena por clases
+COBIJA|Da refugio
+COJEA|Anda con dificultad
+COLABORA|Trabaja con otros
+COLECCIONA|Reúne objetos iguales
+COLGO|Suspendió de un gancho
+COLMA|Llena hasta el borde
+COMBINA|Une en proporción
+COMENTA|Da su opinión
+COMPARA|Ve las diferencias
+COMPARTE|Reparte con otros
+COMPITE|Lucha por ganar
+COMPONE|Crea una obra musical
+COMPRENDE|Entiende bien
+COMPRUEBA|Verifica que es cierto
+COMULGA|Recibe la hostia
+CONCEDE|Otorga lo pedido
+CONCLUYE|Da por terminado
+CONDENA|Impone la pena
+CONDUCE|Lleva el volante
+CONECTA|Enchufa dos partes
+CONFIESA|Reconoce su culpa
+CONFIRMA|Da por seguro
+CONFUNDE|Toma una cosa por otra
+CONGELA|Convierte en hielo
+CONMUEVE|Emociona hondamente
+CONQUISTA|Gana por las armas
+CONSERVA|Mantiene en buen estado
+CONSIDERA|Tiene en cuenta
+CONSIGNA|Deja en depósito
+CONSISTE|Está formado por algo
+CONSPIRA|Trama contra el poder
+CONSTA|Está compuesto de partes
+CONSTRUYE|Levanta un edificio
+CONSULTA|Pide parecer
+CONSUME|Gasta un producto
+CONTAGIA|Transmite la enfermedad
+CONTAMINA|Ensucia el ambiente
+CONTEMPLA|Mira con calma
+CONTIENE|Tiene dentro
+CONTRATA|Toma a su servicio
+CONTRIBUYE|Aporta a un fin
+CONVIENE|Resulta provechoso
+CONVIERTE|Cambia en otra cosa
+CONVIVE|Vive con otros
+COOPERA|Obra junto a otros
+CORONA|Pone la corona
+CORRIGE|Enmienda los fallos
+CORTEJA|Galantea a una dama
+COSECHA|Recoge el fruto
+COTIZA|Paga a la seguridad social
+CRECIO|Aumentó de tamaño
+CRUJE|Suena la madera al doblarse
+CULTIVA|Trabaja la tierra
+CUMPLE|Hace lo prometido
+CURIOSEA|Mira por entretenimiento
+CUSTODIA|Guarda con vigilancia
+DEBATE|Discute un asunto
+DECAE|Va a menos
+DECLARA|Manifiesta ante el juez
+DECORA|Adorna una estancia
+DEDICA|Ofrece a alguien
+DEDUCE|Saca una conclusión
+DEFIENDE|Protege del ataque
+DEFINE|Dice lo que algo es
+DELATA|Descubre al culpable
+DEMUESTRA|Prueba con hechos
+DENUNCIA|Pone en conocimiento del juez
+DEPENDE|Está sujeto a otro
+DEPOSITA|Deja en custodia
+DERRAMA|Vierte un líquido
+DERRIBA|Echa abajo
+DERRITE|Funde con el calor
+DERROTA|Vence al contrario
+DESAFIA|Reta a otro
+DESANIMA|Quita las ganas
+DESAPARECE|Deja de verse
+DESATA|Suelta el nudo
+DESAYUNA|Toma el primer alimento
+DESCARGA|Quita el peso
+DESCIENDE|Baja de nivel
+DESCONFIA|No se fía
+DESCUBRE|Halla lo oculto
+DESEMBARCA|Baja del barco
+DESEMPENA|Cumple una función
+DESFILA|Marcha ante el público
+DESGARRA|Rasga con violencia
+DESHACE|Deshace lo hecho
+DESLIZA|Resbala suavemente
+DESMAYA|Pierde el conocimiento
+DESMIENTE|Niega lo dicho
+DESMONTA|Separa las piezas
+DESNUDA|Quita la ropa
+DESOBEDECE|No cumple la orden
+DESPEGA|Levanta el vuelo
+DESPEINA|Revuelve el cabello
+DESPIERTA|Sale del sueño
+DESPRECIA|No hace estima
+DESTACA|Sobresale entre otros
+DESTAPA|Quita la tapa
+DESTINA|Asigna a un fin
+DESTRUYE|Deshace por completo
+DESVIA|Cambia la dirección
+DETIENE|Para al sospechoso
+DEVORA|Come con ansia
+DEVUELVE|Entrega lo prestado
+DIBUJA|Traza con lápiz
+DICTA|Dice para que otro escriba
+DIFUNDE|Extiende una noticia
+DIGIERE|Asimila la comida
+DIMITE|Renuncia al cargo
+DISCULPA|Perdona la falta
+DISCUTE|Debate acaloradamente
+DISFRUTA|Lo pasa muy bien
+DISIMULA|Oculta lo que siente
+DISMINUYE|Hace más pequeño
+DISPONE|Coloca de cierto modo
+DISTINGUE|Diferencia dos cosas
+DISTRAE|Aparta la atención
+DIVIERTE|Hace pasar buen rato
+DIVISA|Ve a lo lejos
+DOBLEGA|Hace ceder
+DOMESTICA|Amansa al animal
+DOMINA|Tiene bajo control
+DUPLICA|Hace el doble
+ECLIPSA|Oscurece el mérito ajeno
+EDIFICA|Construye una casa
+EJECUTA|Lleva a cabo
+EJERCE|Practica la profesión
+ELABORA|Fabrica con cuidado
+ELEVA|Sube a lo alto
+ELIMINA|Quita del medio
+EMBARCA|Sube al barco
+EMIGRA|Se va a otro país
+EMITE|Lanza ondas al aire
+EMPAPA|Cala de agua
+EMPATA|Iguala el marcador
+EMPEORA|Va a peor
+EMPLEA|Da trabajo o usa algo
+ENAMORA|Despierta el amor
+ENCAJA|Mete una pieza en otra
+ENCARGA|Pide un servicio
+ENCIERRA|Mete bajo llave
+ENCOGE|Mengua al lavarse
+ENCUENTRA|Halla lo buscado
+ENFADA|Causa enfado
+ENFRIA|Baja la temperatura
+ENGORDA|Gana kilos
+ENHEBRA|Mete el hilo en la aguja
+ENJUAGA|Aclara con agua
+ENLAZA|Une dos cosas
+ENREDA|Lía los hilos
+ENRIQUECE|Hace rico
+ENROLLA|Forma un rollo
+ENSANCHA|Hace más ancho
+ENSAYA|Prueba antes de actuar
+ENTERRO|Metió bajo tierra
+ENTREGA|Pone en manos de otro
+ENTRENA|Prepara para competir
+ENVEJECE|Cumple años
+ENVENENA|Da veneno
+ENVUELVE|Cubre con papel
+EQUIVOCA|Toma una cosa por otra
+ESCALA|Trepa por la pared
+ESCAPA|Huye del encierro
+ESCARBA|Remueve la tierra
+ESCOGE|Toma lo que prefiere
+ESCONDE|Pone fuera de la vista
+ESCURRE|Deja salir el agua
+ESFUERZA|Emplea mucha energía
+ESQUIVA|Evita el golpe
+ESTALLA|Revienta de golpe
+ESTIRA|Alarga tirando
+ESTORBA|Pone trabas
+ESTRENA|Usa por primera vez
+ESTROPEA|Echa a perder
+EVACUA|Desaloja el edificio
+EXAMINA|Estudia con detalle
+EXCLAMA|Dice con énfasis
+EXCLUYE|Deja fuera
+EXCUSA|Disculpa una falta
+EXHIBE|Muestra en público
+EXIGE|Pide con autoridad
+EXISTE|Tiene ser y realidad
+EXPLORA|Recorre lo desconocido
+EXPLOTA|Estalla con estruendo
+EXPONE|Presenta al público
+EXPRESA|Dice lo que siente
+EXPULSA|Echa fuera
+EXTIENDE|Despliega sobre la mesa
+EXTRAE|Saca de dentro
+FABRICO|Produjo en serie
+FACILITA|Pone las cosas fáciles
+FALLECE|Deja de vivir
+FALSIFICA|Imita para engañar
+FAVORECE|Ayuda a alguien
+FELICITA|Da la enhorabuena
+FERMENTA|Transforma el azúcar en alcohol
+FESTEJA|Celebra con fiesta
+FIGURA|Aparece en una lista
+FIJA|Sujeta firmemente
+FINANCIA|Aporta el dinero
+FINGE|Aparenta lo que no es
+FLORECE|Echa flores
+FLOTA|Se mantiene sobre el agua
+FLUYE|Corre el líquido
+FOMENTA|Impulsa una actividad
+FORMULA|Expresa con precisión
+FORTALECE|Da más fuerza
+FORZA|Obliga por la fuerza
+FRACASA|Sale mal el intento
+FRACCIONA|Parte en porciones
+FREGA|Limpia restregando
+FRENA|Reduce la velocidad
+FROTA|Restriega con fuerza
+FRUSTRA|Deja sin efecto
+GALOPA|Corre el caballo a saltos
+GARANTIZA|Da seguridad de algo
+GASTA|Emplea el dinero
+GATEA|Anda a cuatro patas
+GENERA|Produce o crea
+GESTIONA|Hace los trámites
+GIME|Se queja con dolor
+GOBIERNA|Dirige el país
+GRABA|Registra el sonido
+GRADUA|Ajusta la medida
+GRUNE|Emite sonidos de enfado
+GUISA|Prepara la comida
+HABITA|Vive en un lugar
+HALAGA|Dice cosas gratas
+HALLA|Da con lo buscado
+HEREDA|Recibe los bienes
+HIELA|Convierte en hielo
+HILA|Convierte la lana en hilo
+HINCHA|Llena de aire
+HOJEA|Pasa las páginas
+HORNEA|Cuece en el horno
+HUMEA|Echa humo
+HUMILLA|Rebaja la dignidad ajena
+HUNDE|Echa al fondo
+IGNORA|No sabe nada de ello
+IGUALA|Pone al mismo nivel
+ILUMINA|Da luz a un lugar
+ILUSTRA|Pone dibujos al texto
+IMAGINA|Representa en la mente
+IMPIDE|Pone un obstáculo
+IMPLICA|Lleva consigo
+IMPLORA|Pide con súplicas
+IMPONE|Obliga a aceptar
+IMPRIME|Estampa sobre papel
+IMPULSA|Da empuje
+INAUGURA|Abre oficialmente
+INCLINA|Ladea un cuerpo
+INCLUYE|Mete dentro
+INCUBA|Empolla los huevos
+INDAGA|Investiga un asunto
+INDICA|Señala el camino
+INFLA|Llena de aire
+INFLUYE|Ejerce poder sobre otro
+INFORMA|Da noticia
+INGRESA|Mete dinero en el banco
+INICIA|Da comienzo
+INSCRIBE|Apunta en una lista
+INSINUA|Da a entender sin decirlo
+INSPIRA|Da ideas al artista
+INSTALA|Monta una máquina
+INSTRUYE|Enseña conocimientos
+INTEGRA|Forma parte de un todo
+INTERPRETA|Da sentido a una obra
+INTERRUMPE|Corta lo que se hace
+INTERVIENE|Toma parte en un asunto
+INTUYE|Percibe sin razonar
+INUNDA|Cubre de agua
+INVADE|Entra por la fuerza
+INVENTA|Crea algo nuevo
+INVIERTE|Pone dinero en un negocio
+INVESTIGA|Indaga a fondo
+INVOCA|Llama a la divinidad
+IRRITA|Pone de mal humor
+JUBILA|Retira del trabajo
+JUSTIFICA|Prueba que tenía razón
+LADEA|Inclina hacia un lado
+LAMENTA|Siente mucho una desgracia
+LAME|Pasa la lengua
+LANZA|Arroja con fuerza
+LEGALIZA|Da forma legal
+LIBERA|Pone en libertad
+LIGA|Ata dos cosas
+LIJA|Alisa con papel de vidrio
+LIMITA|Pone un tope
+LIQUIDA|Vende a bajo precio
+LOCALIZA|Da con el paradero
+LUBRICA|Engrasa un mecanismo
+MACHACA|Golpea hasta desmenuzar
+MADURA|Llega a su punto
+MAJA|Machaca en el mortero
+MALGASTA|Derrocha el dinero
+MALTRATA|Trata con violencia
+MAMA|Chupa la leche materna
+MANCHA|Deja señales de suciedad
+MANIFIESTA|Expresa en público
+MANIPULA|Maneja a su antojo
+MANTIENE|Sostiene una cosa
+MARCHITA|Hace perder la lozanía
+MARCA|Pone una señal
+MASTICA|Muele la comida en la boca
+MAULLA|Da voces el gato
+MEDITA|Piensa con hondura
+MEJORA|Pone en mejor estado
+MENCIONA|Cita de pasada
+MENOSPRECIA|Tiene en poco
+MEZCLA|Junta cosas distintas
+MIMA|Trata con cariño
+MODELA|Da forma al barro
+MODERA|Pone mesura
+MODIFICA|Cambia algo
+MOLESTA|Causa incomodidad
+MUERDE|Clava los dientes
+MULTIPLICA|Repite un número
+MURMURA|Habla mal por lo bajo
+NAVEGA|Va por el mar
+NEGOCIA|Trata un acuerdo
+NIVELA|Pone al mismo nivel
+NOMBRA|Designa para el cargo
+NOTIFICA|Comunica oficialmente
+OBSERVA|Mira con atención
+OBTIENE|Consigue algo
+OCUPA|Llena un espacio
+OCURRE|Sucede un hecho
+OFENDE|Hiere el amor propio
+OFRECE|Pone a disposición
+OLVIDA|No se acuerda
+OPERA|Interviene al enfermo
+OPINA|Da su parecer
+OPRIME|Aprieta con fuerza
+ORDENA|Pone en su sitio
+ORGANIZA|Pone en orden
+ORIENTA|Indica la dirección
+OSCILA|Se mueve como el péndulo
+OTORGA|Concede una gracia
+OXIDA|Cubre de herrumbre
+PADECE|Sufre un mal
+PALPA|Toca con las manos
+PARPADEA|Abre y cierra los ojos
+PARTICIPA|Toma parte
+PASEA|Anda por gusto
+PATINA|Se desliza sobre cuchillas
+PECA|Comete una falta contra la ley divina
+PEDALEA|Mueve los pedales
+PENSO|Usó el entendimiento
+PERDONA|Remite la falta
+PERFORA|Agujerea a fondo
+PERJUDICA|Causa daño
+PERMANECE|Se queda en un sitio
+PERMITE|Da licencia
+PERSIGUE|Va detrás del que huye
+PERSUADE|Convence con razones
+PERTENECE|Es propiedad de alguien
+PESCA|Coge peces
+PICOTEA|Come un poco de todo
+PIROPEA|Dice requiebros
+PISOTEA|Pisa con desprecio
+PLANCHA|Quita las arrugas
+PLANEA|Vuela sin motor
+PLANTA|Mete en tierra la planta
+POSEE|Tiene en propiedad
+PRACTICA|Ejercita a menudo
+PREDICE|Anuncia lo que vendrá
+PREGONA|Anuncia a voces
+PRESENCIA|Está delante viendo
+PRESIDE|Ocupa el primer puesto
+PRESUME|Alardea de algo
+PRETENDE|Aspira a algo
+PREVIENE|Evita un mal a tiempo
+PRIVA|Quita lo que se tiene
+PROCEDE|Obra de cierta manera
+PROCLAMA|Anuncia solemnemente
+PRODUCE|Hace o fabrica
+PROGRESA|Avanza hacia lo mejor
+PROHIBE|No deja hacer algo
+PROLONGA|Alarga en el tiempo
+PROPAGA|Extiende una noticia
+PROPONE|Hace una oferta
+PROTEGE|Pone a salvo
+PROTESTA|Muestra su desacuerdo
+PROVOCA|Da motivo a algo
+PROYECTA|Lanza la imagen a la pantalla
+PUBLICA|Saca a la luz
+PULE|Saca brillo
+PULSA|Aprieta el botón
+PURIFICA|Quita lo impuro
+QUEBRANTA|Viola una ley
+QUEJA|Manifiesta su dolor
+RASCA|Frota con las uñas
+RASGA|Rompe la tela
+REACCIONA|Responde a un estímulo
+REANUDA|Continúa lo interrumpido
+REBASA|Pasa del límite
+REBOTA|Salta tras el choque
+RECAUDA|Reúne el dinero
+RECHAZA|No acepta algo
+RECLAMA|Exige un derecho
+RECOGE|Levanta del suelo
+RECOMIENDA|Aconseja a favor
+RECONOCE|Identifica a alguien
+RECORRE|Anda un trayecto
+RECORTA|Corta los bordes
+RECTIFICA|Corrige un error
+RECUPERA|Vuelve a conseguir
+REDACTA|Pone por escrito
+REDUCE|Hace más pequeño
+REEMPLAZA|Pone otro en su lugar
+REFLEJA|Devuelve la imagen
+REFORMA|Cambia para mejorar
+REFRESCA|Quita el calor
+REFUERZA|Da más fuerza
+REGISTRA|Anota en un libro
+REGRESA|Vuelve al origen
+REGULA|Ajusta el funcionamiento
+REHUSA|No quiere aceptar
+REINA|Gobierna como rey
+REITERA|Vuelve a decir
+RELACIONA|Pone en relación
+RELAJA|Afloja la tensión
+RELATA|Cuenta con detalle
+RELEVA|Sustituye a otro
+REMA|Mueve la barca con remos
+REMATA|Da el golpe final
+REMEDIA|Pone solución
+REMIENDA|Cose un roto
+RENUEVA|Pone nuevo lo viejo
+RENUNCIA|Deja voluntariamente
+REPARA|Arregla lo estropeado
+REPASA|Vuelve sobre lo estudiado
+REPLICA|Contesta lo dicho
+REPONE|Vuelve a poner
+REPRENDE|Riñe a alguien
+REPRESENTA|Actúa en el teatro
+REPRIME|Contiene un impulso
+REPRODUCE|Saca copias
+RESBALA|Se desliza sin querer
+RESCATA|Salva de un peligro
+RESERVA|Guarda para después
+RESIDE|Vive en un lugar
+RESISTE|Aguanta sin ceder
+RESPALDA|Apoya a alguien
+RESPETA|Tiene consideración
+RESTA|Quita una cantidad
+RESUME|Reduce a lo esencial
+RETIRA|Aparta de un sitio
+RETUERCE|Tuerce mucho algo
+REUNE|Junta a varios
+REVELA|Descubre un secreto
+REVIENTA|Estalla por la presión
+REVISA|Examina de nuevo
+REVUELVE|Mezcla dando vueltas
+RODEA|Da la vuelta alrededor
+RUEDA|Gira sobre sí mismo
+SACRIFICA|Ofrece en holocausto
+SACUDE|Agita con violencia
+SALPICA|Esparce gotas
+SALUDA|Da los buenos días
+SALVA|Libra de un peligro
+SANCIONA|Impone un castigo
+SATISFACE|Cumple un deseo
+SELECCIONA|Escoge los mejores
+SENALA|Indica con el dedo
+SEPARA|Pone aparte
+SEPULTA|Da sepultura
+SIEMBRA|Echa la simiente
+SIMULA|Finge lo que no es
+SITUA|Pone en un lugar
+SOBORNA|Compra la voluntad
+SOBRA|Queda de más
+SOBREVIVE|Queda con vida
+SOCORRE|Presta ayuda
+SOLICITA|Pide de manera formal
+SOLTO|Dejó libre
+SOLUCIONA|Da con la salida
+SOMETE|Pone bajo dominio
+SOPORTA|Aguanta el peso
+SORPRENDE|Coge desprevenido
+SOSPECHA|Recela de alguien
+SOSTIENE|Mantiene en alto
+SUAVIZA|Hace más suave
+SUBRAYA|Marca con una raya
+SUCEDE|Ocurre un hecho
+SUFRE|Padece un dolor
+SUGIERE|Insinúa una idea
+SUPERA|Vence una dificultad
+SUPLICA|Ruega con humildad
+SUPONE|Da por sentado
+SUPRIME|Hace desaparecer
+SURGE|Aparece de pronto
+SUSPENDE|Cuelga en el aire
+SUSPIRA|Respira hondo de pena
+SUSTITUYE|Pone otro en su lugar
+SUSURRA|Habla muy bajito
+TALA|Corta los árboles
+TAPIZA|Forra de tela un mueble
+TARAREA|Canta sin palabras
+TEJE|Entrelaza los hilos
+TEME|Tiene miedo
+TIEMBLA|Se mueve de frío
+TIRITA|Tiembla de frío
+TITUBEA|Vacila al decidirse
+TOLERA|Soporta sin quejarse
+TORNEA|Labra en el torno
+TRADUCE|Vierte a otra lengua
+TRAICIONA|Falta a la lealtad
+TRAMITA|Hace las gestiones
+TRANQUILIZA|Devuelve la calma
+TRANSMITE|Envía una señal
+TRANSPORTA|Lleva de un sitio a otro
+TRASLADA|Cambia de lugar
+TRATA|Maneja un asunto
+TRAZA|Dibuja las líneas
+TRITURA|Muele en trozos pequeños
+TROPIEZA|Da con el pie en un obstáculo
+TUMBA|Echa por tierra
+UNTA|Extiende una capa de grasa
+UTILIZA|Saca provecho de algo
+VACIA|Deja sin contenido
+VACILA|Duda entre dos cosas
+VACUNA|Pone la vacuna
+VALORA|Pone precio a algo
+VENDA|Cubre con vendas
+VENERA|Rinde culto
+VENGA|Toma la revancha
+VIBRA|Tiembla con rapidez
+VIGILA|Está atento y guarda
+VINCULA|Une con un lazo
+VIOLA|Quebranta una ley
+VISITA|Va a ver a alguien
+VISLUMBRA|Ve de manera confusa
+VUELCA|Tumba un recipiente
+ZAMBULLE|Mete de golpe en el agua
+ZARPA|Parte el barco del puerto
+ZURCE|Cose un roto con puntadas

@@ -1,0 +1,362 @@
+# Nombres de pila, gentilicios y formas femeninas
+ANA|Nombre de mujer, madre de la Virgen
+ANTONIO|Nombre del santo de Padua
+BEATRIZ|Nombre de la amada de Dante
+CARMEN|Nombre de mujer muy español
+CARLOS|Nombre de varios reyes de España
+CLARA|Nombre de mujer y santa de Asís
+DAVID|Nombre del rey bíblico de Israel
+DIEGO|Nombre del pintor Velázquez
+ELENA|Nombre de mujer de origen griego
+ELISA|Nombre de mujer de la bagatela de Beethoven
+EMILIO|Nombre de la obra de Rousseau
+ENRIQUE|Nombre de varios reyes ingleses
+ESTEBAN|Nombre del primer mártir cristiano
+EUGENIO|Nombre de varón de origen griego
+FELIPE|Nombre de varios reyes de España
+FERNANDO|Nombre del rey católico
+FRANCISCO|Nombre del santo de Asís
+GABRIEL|Nombre del arcángel de la Anunciación
+GERMAN|Nombre de varón
+GLORIA|Nombre de mujer que significa fama
+GONZALO|Nombre del Gran Capitán
+GREGORIO|Nombre de varios papas
+GUILLERMO|Nombre del conquistador normando
+HECTOR|Nombre del héroe troyano
+HUGO|Nombre de varón de origen germánico
+IGNACIO|Nombre del fundador de los jesuitas
+INES|Nombre de mujer y de una santa romana
+IRENE|Nombre de mujer que significa paz
+ISABEL|Nombre de la reina de Castilla
+ISIDRO|Nombre del patrón de Madrid
+JAIME|Nombre del rey conquistador de Aragón
+JAVIER|Nombre del santo misionero navarro
+JORGE|Nombre del santo del dragón
+JOSE|Nombre del esposo de la Virgen
+JUANA|Nombre de la reina llamada la Loca
+JULIA|Nombre de mujer de origen romano
+JULIAN|Nombre de varón
+LAURA|Nombre de la amada de Petrarca
+LEANDRO|Nombre del amante de Hero
+LEONOR|Nombre de la esposa de Alfonso octavo
+LORENZO|Nombre del santo de la parrilla
+LUCAS|Nombre de uno de los evangelistas
+LUCIA|Nombre de mujer que evoca la luz
+LUIS|Nombre de varios reyes de Francia
+MANUEL|Nombre de varón que significa Dios con nosotros
+MARCOS|Nombre de uno de los evangelistas
+MARGARITA|Nombre de mujer y flor
+MARIA|Nombre de la madre de Jesús
+MARIANO|Nombre de varón relativo a la Virgen
+MARTA|Nombre de la hermana de Lázaro
+MARTIN|Nombre del santo que partió su capa
+MATEO|Nombre de uno de los evangelistas
+MIGUEL|Nombre del arcángel que venció al dragón
+NURIA|Nombre de mujer de un santuario catalán
+OLGA|Nombre de mujer de origen ruso
+PABLO|Nombre del apóstol de los gentiles
+PATRICIA|Nombre de mujer de origen latino
+PEDRO|Nombre del primer papa
+PILAR|Nombre de la patrona de Zaragoza
+RAFAEL|Nombre del arcángel de Tobías
+RAMON|Nombre del santo no nacido
+RAQUEL|Nombre de la esposa de Jacob
+ROCIO|Nombre de la Virgen almonteña
+RODRIGO|Nombre del último rey godo
+ROSA|Nombre de mujer y flor
+SANDRA|Nombre de mujer abreviado de Alejandra
+SARA|Nombre de la esposa de Abraham
+SILVIA|Nombre de mujer de origen latino
+SIMON|Nombre del apóstol pescador
+SOFIA|Nombre de mujer que significa sabiduría
+SUSANA|Nombre de la casta bíblica
+TERESA|Nombre de la santa de Ávila
+TOMAS|Nombre del apóstol incrédulo
+VICENTE|Nombre del santo mártir de Valencia
+VICTOR|Nombre de varón que significa vencedor
+VIRGINIA|Nombre de mujer y de un estado americano
+ADRIAN|Nombre de varón de origen romano
+AGUSTIN|Nombre del santo de Hipona
+ALBERTO|Nombre de varón germánico
+ALEJANDRO|Nombre del conquistador macedonio
+ALFONSO|Nombre de varios reyes castellanos
+ALFREDO|Nombre de varón germánico
+ALICIA|Nombre de la niña de las maravillas
+ALVARO|Nombre de varón de origen germánico
+AMPARO|Nombre de mujer y de la Virgen valenciana
+ANDRES|Nombre del apóstol hermano de Pedro
+ANGELA|Nombre de mujer derivado del mensajero celestial
+ANGEL|Nombre de varón de origen griego
+ARTURO|Nombre del rey de la Tabla Redonda
+AURORA|Nombre de mujer y luz del amanecer
+BARBARA|Nombre de la santa de la torre
+BARTOLOME|Nombre de uno de los apóstoles
+BELEN|Nombre de mujer y ciudad del nacimiento
+BENITO|Nombre del fundador de los benedictinos
+BERNARDO|Nombre de varón y raza de perro de montaña
+BLANCA|Nombre de mujer y color de la nieve
+BRUNO|Nombre de varón de origen germánico
+CANDELA|Nombre de mujer y luz de cera
+CATALINA|Nombre de la santa de la rueda
+CECILIA|Nombre de la patrona de la música
+CELIA|Nombre de mujer de origen latino
+CESAR|Nombre del emperador romano
+CONSUELO|Nombre de mujer que alivia la pena
+CRISTINA|Nombre de mujer seguidora de Cristo
+CRISTOBAL|Nombre del descubridor de América
+DANIEL|Nombre del profeta de los leones
+DOLORES|Nombre de mujer y penas de la Virgen
+DOMINGO|Nombre del fundador de los dominicos
+EDUARDO|Nombre de varios reyes ingleses
+ELOY|Nombre del patrón de los orfebres
+EMILIA|Nombre de mujer de origen romano
+ERNESTO|Nombre de varón germánico
+ESPERANZA|Nombre de mujer y virtud teologal
+ESTHER|Nombre de la reina bíblica de Persia
+EVA|Nombre de la primera mujer
+FABIAN|Nombre de varón de origen romano
+FATIMA|Nombre de mujer y santuario portugués
+FELISA|Nombre de mujer que significa feliz
+FIDEL|Nombre de varón que significa leal
+FLORA|Nombre de la diosa romana de las flores
+GEMA|Nombre de mujer y piedra preciosa
+GERARDO|Nombre de varón germánico
+GUADALUPE|Nombre de mujer y Virgen extremeña
+HELENA|Nombre de mujer de la guerra de Troya
+HILARIO|Nombre de varón que significa alegre
+HORACIO|Nombre del poeta latino
+IRMA|Nombre de mujer de origen germánico
+JACINTO|Nombre de varón y flor
+JACOBO|Nombre de varón equivalente a Santiago
+JOAQUIN|Nombre del padre de la Virgen
+JOEL|Nombre de un profeta bíblico
+JONAS|Nombre del profeta de la ballena
+JUDIT|Nombre de la heroína bíblica
+JUSTO|Nombre de varón y santo complutense
+LEONARDO|Nombre del genio de Vinci
+LIDIA|Nombre de mujer y antigua región de Asia
+LOLA|Nombre de mujer, forma familiar de Dolores
+LORENA|Nombre de mujer y región francesa
+LOURDES|Nombre de mujer y santuario francés
+LUISA|Nombre de mujer de origen germánico
+MACARENA|Nombre de mujer y Virgen sevillana
+MARCELO|Nombre de varón de origen romano
+MARCIAL|Nombre del poeta latino de Bílbilis
+MARINA|Nombre de mujer relativo al mar
+MARIO|Nombre del general romano
+MERCEDES|Nombre de mujer y Virgen barcelonesa
+MONICA|Nombre de la madre de san Agustín
+NATALIA|Nombre de mujer relativo a la Navidad
+NICOLAS|Nombre del santo de los regalos
+NIEVES|Nombre de mujer y de la Virgen de agosto
+NOELIA|Nombre de mujer relativo a la Navidad
+NOEMI|Nombre de la suegra de Rut
+NORBERTO|Nombre de varón germánico
+OCTAVIO|Nombre del primer emperador romano
+OLIVIA|Nombre de mujer relativo al olivo
+OSCAR|Nombre de varón y estatuilla del cine
+PALOMA|Nombre de mujer y ave de la paz
+PAULA|Nombre de mujer de origen latino
+PAZ|Nombre de mujer y ausencia de guerra
+PENELOPE|Nombre de la esposa de Ulises
+PIEDAD|Nombre de mujer y virtud
+PURIFICACION|Nombre de mujer y fiesta de la Candelaria
+RAIMUNDO|Nombre de varón germánico
+REBECA|Nombre de la esposa de Isaac
+REMEDIOS|Nombre de mujer y advocación mariana
+RICARDO|Nombre del rey inglés corazón de león
+ROBERTO|Nombre de varón germánico
+ROMAN|Nombre de varón relativo a Roma
+ROSARIO|Nombre de mujer y sarta de cuentas
+RUBEN|Nombre del hijo mayor de Jacob
+RUTH|Nombre de la moabita bíblica
+SALVADOR|Nombre de varón y advocación de Cristo
+SAMUEL|Nombre del profeta que ungió a David
+SANTIAGO|Nombre del patrón de España
+SATURNINO|Nombre de varón de origen romano
+SEBASTIAN|Nombre del santo de las flechas
+SERGIO|Nombre de varón de origen romano
+SOLEDAD|Nombre de mujer y advocación mariana
+TIMOTEO|Nombre del discípulo de san Pablo
+TOBIAS|Nombre del personaje bíblico del pez
+URSULA|Nombre de la santa de las once mil vírgenes
+VALENTIN|Nombre del santo de los enamorados
+VERONICA|Nombre de la mujer del paño y lance taurino
+VIOLETA|Nombre de mujer y flor morada
+YOLANDA|Nombre de mujer de origen germánico
+FRANCES|Natural de París
+ITALIANO|Natural de Roma
+ALEMAN|Natural de Berlín
+PORTUGUES|Natural de Lisboa
+BRITANICO|Natural de Gran Bretaña
+INGLES|Natural de Londres
+ESCOCES|Natural de Edimburgo
+IRLANDES|Natural de Dublín
+BELGA|Natural de Bruselas
+HOLANDES|Natural de Ámsterdam
+SUIZO|Natural de Berna
+AUSTRIACO|Natural de Viena
+SUECO|Natural de Estocolmo
+NORUEGO|Natural de Oslo
+DANES|Natural de Copenhague
+FINLANDES|Natural de Helsinki
+POLACO|Natural de Varsovia
+CHECO|Natural de Praga
+HUNGARO|Natural de Budapest
+RUMANO|Natural de Bucarest
+BULGARO|Natural de Sofía
+GRIEGO|Natural de Atenas
+TURCO|Natural de Ankara
+RUSO|Natural de Moscú
+UCRANIANO|Natural de Kiev
+CROATA|Natural de Zagreb
+SERBIO|Natural de Belgrado
+ALBANES|Natural de Tirana
+MALTES|Natural de La Valeta
+CHIPRIOTA|Natural de Nicosia
+EGIPCIO|Natural de El Cairo
+MARROQUI|Natural de Rabat
+ARGELINO|Natural de Argel
+TUNECINO|Natural de Túnez
+LIBIO|Natural de Trípoli
+SENEGALES|Natural de Dakar
+NIGERIANO|Natural de Abuya
+KENIANO|Natural de Nairobi
+ETIOPE|Natural de Adís Abeba
+SUDAFRICANO|Natural de Pretoria
+ANGOLENO|Natural de Luanda
+CHINO|Natural de Pekín
+JAPONES|Natural de Tokio
+COREANO|Natural de Seúl
+INDIO|Natural de Nueva Delhi
+PAKISTANI|Natural de Islamabad
+IRANI|Natural de Teherán
+IRAQUI|Natural de Bagdad
+SIRIO|Natural de Damasco
+LIBANES|Natural de Beirut
+ISRAELI|Natural de Jerusalén
+JORDANO|Natural de Amán
+SAUDI|Natural de Riad
+TAILANDES|Natural de Bangkok
+VIETNAMITA|Natural de Hanói
+FILIPINO|Natural de Manila
+INDONESIO|Natural de Yakarta
+AUSTRALIANO|Natural de Camberra
+NEOZELANDES|Natural de Wellington
+CANADIENSE|Natural de Ottawa
+ESTADOUNIDENSE|Natural de Washington
+MEXICANO|Natural del país azteca
+CUBANO|Natural de La Habana
+DOMINICANO|Natural de Santo Domingo
+PUERTORRIQUENO|Natural de San Juan
+GUATEMALTECO|Natural de Guatemala
+HONDURENO|Natural de Tegucigalpa
+NICARAGUENSE|Natural de Managua
+COSTARRICENSE|Natural de San José
+PANAMENO|Natural del país del canal
+COLOMBIANO|Natural de Bogotá
+VENEZOLANO|Natural de Caracas
+ECUATORIANO|Natural de Quito
+PERUANO|Natural de Lima
+BOLIVIANO|Natural de La Paz
+CHILENO|Natural de Santiago de Chile
+ARGENTINO|Natural de Buenos Aires
+URUGUAYO|Natural de Montevideo
+PARAGUAYO|Natural de Asunción
+BRASILENO|Natural de Brasilia
+EUROPEO|Del continente del viejo mundo
+AFRICANO|Del continente del Sáhara
+ASIATICO|Del continente más extenso
+AMERICANO|Del continente descubierto por Colón
+OCEANICO|Del continente de Australia
+LATINO|De los pueblos de lengua romance
+HISPANO|De lengua española
+NORDICO|De los países del norte de Europa
+ESLAVO|De los pueblos del este de Europa
+ORIENTAL|De los países de Asia
+OCCIDENTAL|De los países de Europa y América
+CATALAN|Natural de Barcelona
+VASCO|Natural del País Vasco
+GALLEGO|Natural de Galicia
+ANDALUZ|Natural del sur de España
+ARAGONES|Natural de Zaragoza
+ASTURIANO|Natural de Oviedo
+CANTABRO|Natural de Santander
+EXTREMENO|Natural de Badajoz o Cáceres
+MANCHEGO|Natural de la tierra del Quijote
+NAVARRO|Natural de Pamplona
+RIOJANO|Natural de Logroño
+MURCIANO|Natural de la huerta del Segura
+VALENCIANO|Natural de la ciudad de las Fallas
+CASTELLANO|Natural de Castilla
+LEONES|Natural de León
+CANARIO|Natural del archipiélago atlántico
+CEUTI|Natural de Ceuta
+MELILLENSE|Natural de Melilla
+ACTRIZ|Intérprete femenina
+ALCALDESA|Mujer que rige el ayuntamiento
+BAILARINA|Mujer que baila profesionalmente
+CAMARERA|Mujer que sirve las mesas
+CAMPESINA|Mujer que trabaja el campo
+CANTANTE|Quien interpreta canciones
+CARTERA|Mujer que reparte el correo
+COCINERA|Mujer que guisa
+COSTURERA|Mujer que cose
+CRIADA|Sirvienta de la casa
+DOCTORA|Mujer con título de medicina
+DUQUESA|Esposa del duque
+EMPERATRIZ|Soberana de un imperio
+ENFERMERA|Mujer que cuida enfermos
+HEROINA|Mujer de gran valor
+JUEZA|Mujer que dicta sentencia
+LAVANDERA|Mujer que lava la ropa
+MAESTRA|Mujer que enseña
+MARQUESA|Esposa del marqués
+MODISTA|Mujer que hace vestidos
+MONJA|Religiosa de clausura
+NINERA|Mujer que cuida niños
+PANADERA|Mujer que hace el pan
+PASTORA|Mujer que guarda el rebaño
+PELUQUERA|Mujer que corta el pelo
+POETISA|Mujer que escribe versos
+PORTERA|Mujer que guarda el portal
+PRINCESA|Hija del rey
+PROFESORA|Mujer que da clases
+REINA|Esposa del rey o soberana
+SACERDOTISA|Mujer del culto antiguo
+SIRVIENTA|Mujer del servicio doméstico
+TENDERA|Mujer que atiende la tienda
+VENDEDORA|Mujer que vende
+ZAPATERA|Mujer que arregla el calzado
+BURRA|Hembra del asno
+CABALLA|Pez azul de mesa
+CERDA|Hembra del cerdo
+CIERVA|Hembra del ciervo
+CONEJA|Hembra del conejo
+GALLINA|Hembra del gallo
+GATA|Hembra del gato
+LEONA|Hembra del león
+LOBA|Hembra del lobo
+OSA|Hembra del oso
+OVEJA|Hembra del carnero
+PERRA|Hembra del perro
+POTRA|Cría hembra del caballo
+TIGRESA|Hembra del tigre
+VACA|Hembra del toro
+YEGUA|Hembra del caballo
+ZORRA|Hembra del zorro
+PATA|Hembra del pato
+PALOMA|Hembra del palomo
+JABALINA|Hembra del jabalí
+ELEFANTA|Hembra del elefante
+BALLENATO|Cría de la ballena
+CACHORRO|Cría del perro o del león
+POLLUELO|Cría recién nacida del ave
+TERNERA|Cría hembra de la vaca
+LECHON|Cría del cerdo
+CABRITO|Cría de la cabra
+CORDERO|Cría de la oveja
+POTRILLO|Caballo muy joven
+GAZAPO|Cría del conejo
+RENACUAJO|Cría de la rana
+ALEVIN|Cría del pez

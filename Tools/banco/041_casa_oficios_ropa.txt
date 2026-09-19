@@ -1,0 +1,350 @@
+# Casa, oficios, ropa, herramientas y transporte
+VESTIBULO|Entrada de la vivienda
+RECIBIDOR|Primera estancia de la casa
+PASILLO|Corredor que une las habitaciones
+SALON|Estancia principal
+COMEDOR|Estancia donde se come
+COCINA|Estancia donde se guisa
+DESPENSA|Cuarto donde se guardan víveres
+LAVADERO|Lugar donde se lava la ropa
+TENDEDERO|Donde se seca la colada
+DORMITORIO|Estancia de las camas
+BANO|Cuarto del aseo
+ASEO|Servicio pequeño de la casa
+DESPACHO|Cuarto de trabajo
+BIBLIOTECA|Sala de los libros
+TRASTERO|Cuarto de los objetos que no se usan
+BUHARDILLA|Estancia bajo el tejado
+SOTANO|Piso bajo el nivel del suelo
+GARAJE|Lugar donde se guarda el coche
+TERRAZA|Espacio descubierto de la vivienda
+BALCON|Saliente con barandilla
+GALERIA|Corredor acristalado
+PATIO|Espacio interior descubierto
+JARDIN|Terreno de plantas junto a la casa
+PORCHE|Espacio techado ante la entrada
+ESCALERA|Sirve para subir de piso
+ASCENSOR|Cabina que sube y baja
+PORTAL|Entrada del edificio
+PORTERIA|Puesto del conserje
+BUZON|Recibe la correspondencia
+REJA|Enrejado que protege la ventana
+PERSIANA|Cierre enrollable de la ventana
+CONTRAVENTANA|Postigo de madera de la ventana
+CORTINA|Tela que cubre la ventana
+VISILLO|Cortina fina y transparente
+ALFOMBRA|Cubre parte del suelo
+MOQUETA|Recubrimiento textil del suelo
+PARQUE|Suelo de tablillas de madera
+BALDOSA|Pieza del pavimento
+AZULEJO|Pieza vidriada de la pared
+ZOCALO|Franja baja de la pared
+TABIQUE|Pared delgada de división
+VIGA|Madero que sostiene el techo
+COLUMNA|Soporte vertical
+CIMIENTO|Base sobre la que se levanta el edificio
+TEJADO|Cubierta exterior de la casa
+TEJA|Pieza curva de la cubierta
+CANALON|Recoge el agua del tejado
+CHIMENEA|Conducto por el que sale el humo
+RADIADOR|Emisor de la calefacción
+CALDERA|Produce el agua caliente
+TERMO|Depósito que conserva el calor
+ENCHUFE|Toma de corriente
+INTERRUPTOR|Enciende y apaga la luz
+BOMBILLA|Da luz eléctrica
+LAMPARA|Soporte que alumbra
+FLEXO|Lámpara de brazo articulado
+ARANA|Lámpara colgante de muchos brazos
+MUEBLE|Silla, mesa o armario
+ARMARIO|Mueble para guardar la ropa
+COMODA|Mueble bajo de cajones
+APARADOR|Mueble del comedor
+VITRINA|Mueble de puertas de cristal
+ESTANTERIA|Mueble de baldas
+MESA|Mueble de tablero y patas
+MESILLA|Mueble junto a la cama
+SILLA|Asiento con respaldo
+BUTACA|Asiento cómodo con brazos
+SILLON|Asiento amplio y mullido
+SOFA|Asiento largo para varios
+TABURETE|Asiento sin respaldo
+BANCO|Asiento largo sin tapizar
+CAMA|Mueble para dormir
+COLCHON|Pieza mullida de la cama
+SOMIER|Base que sostiene el colchón
+ALMOHADA|Sostiene la cabeza al dormir
+SABANA|Ropa de cama que toca el cuerpo
+MANTA|Ropa de cama que abriga
+EDREDON|Cobertor relleno y ligero
+COLCHA|Cubierta decorativa de la cama
+FUNDA|Cubierta protectora
+CUNA|Cama del bebé
+LITERA|Cama de dos pisos
+ESPEJO|Refleja la imagen
+CUADRO|Pintura enmarcada de la pared
+JARRON|Recipiente decorativo de flores
+MACETA|Tiesto de las plantas
+RELOJ|Marca las horas en la pared
+TELEVISOR|Aparato de imagen y sonido
+NEVERA|Conserva fríos los alimentos
+CONGELADOR|Conserva bajo cero
+LAVADORA|Máquina de lavar la ropa
+LAVAVAJILLAS|Máquina que friega los platos
+SECADORA|Máquina que seca la ropa
+HORNO|Aparato de asar
+MICROONDAS|Calienta con ondas
+CAMPANA|Extrae los humos de la cocina
+FREGADERO|Pila donde se friega
+GRIFO|Da paso al agua
+BANERA|Recipiente para el baño
+DUCHA|Chorro de agua de aseo
+LAVABO|Pila del cuarto de baño
+BIDE|Pieza sanitaria del aseo
+INODORO|Taza del retrete
+CISTERNA|Depósito que descarga el agua
+TOALLA|Paño para secarse
+ALBORNOZ|Bata de tela de toalla
+ESCOBA|Sirve para barrer
+RECOGEDOR|Recoge la basura barrida
+FREGONA|Utensilio de fregar el suelo
+CUBO|Recipiente del agua de fregar
+BAYETA|Paño para limpiar
+PLUMERO|Quita el polvo
+ASPIRADORA|Máquina que aspira el polvo
+DETERGENTE|Producto que limpia la ropa
+LEJIA|Desinfectante blanqueador
+SUAVIZANTE|Producto que ablanda la ropa
+JABON|Producto de higiene
+ESTROPAJO|Utensilio que friega los cacharros
+PLANCHA|Aparato que quita las arrugas
+COSTURERO|Caja de los hilos y agujas
+DEDAL|Protege el dedo al coser
+ALFILER|Sujeta la tela provisionalmente
+AGUJA|Lleva el hilo al coser
+HILO|Hebra de coser
+BOTON|Pieza que abrocha
+CREMALLERA|Cierre de dientes
+VELCRO|Cierre de tiras adherentes
+CORCHETE|Cierre metálico de dos piezas
+OJAL|Abertura por donde entra el botón
+DOBLADILLO|Pliegue cosido del borde
+FORRO|Tela interior de una prenda
+CAMISA|Prenda de cuello y botones
+CAMISETA|Prenda ligera de manga corta
+BLUSA|Camisa de señora
+JERSEY|Prenda de punto de abrigo
+CHALECO|Prenda sin mangas
+CHAQUETA|Prenda abierta de vestir
+AMERICANA|Chaqueta de traje
+ABRIGO|Prenda larga contra el frío
+GABARDINA|Abrigo impermeable
+ANORAK|Chaqueta acolchada con capucha
+PANTALON|Prenda de dos perneras
+VAQUERO|Pantalón de tela recia azul
+FALDA|Prenda que cae desde la cintura
+VESTIDO|Prenda femenina de una pieza
+TRAJE|Conjunto de chaqueta y pantalón
+ESMOQUIN|Traje de etiqueta masculino
+CHAQUE|Traje de ceremonia de día
+PIJAMA|Ropa de dormir
+BATA|Prenda holgada de casa
+DELANTAL|Protege la ropa al cocinar
+MONO|Prenda de trabajo de una pieza
+UNIFORME|Ropa reglamentaria
+CALCETIN|Prenda del pie
+MEDIA|Prenda fina de la pierna
+CALZONCILLO|Ropa interior masculina
+BRAGA|Ropa interior femenina
+SUJETADOR|Prenda interior que sostiene el pecho
+CAMISON|Prenda femenina de dormir
+BUFANDA|Prenda larga del cuello
+GUANTE|Prenda de las manos
+MANOPLA|Guante sin dedos separados
+GORRO|Prenda de la cabeza
+SOMBRERO|Prenda de copa y ala
+GORRA|Prenda con visera
+BOINA|Prenda plana sin visera
+PANUELO|Tela cuadrada de uso varios
+CORBATA|Adorno del cuello de la camisa
+PAJARITA|Lazo del cuello de etiqueta
+CINTURON|Ciñe el pantalón
+TIRANTE|Sujeta el pantalón por el hombro
+ZAPATO|Calzado de suela
+BOTA|Calzado de caña alta
+SANDALIA|Calzado abierto
+ZAPATILLA|Calzado cómodo
+CHANCLA|Calzado de playa
+ALPARGATA|Calzado de esparto
+CORDON|Ata el zapato
+SUELA|Parte inferior del zapato
+TACON|Alza del talón del zapato
+PLANTILLA|Pieza interior del calzado
+BOLSO|Complemento para llevar cosas
+CARTERA|Guarda el dinero y los documentos
+MONEDERO|Guarda las monedas
+MOCHILA|Bolsa que se lleva a la espalda
+MALETA|Equipaje del viajero
+PARAGUAS|Protege de la lluvia
+SOMBRILLA|Protege del sol
+BASTON|Ayuda a caminar
+GAFAS|Lentes para ver mejor
+RELOJ|Se lleva en la muñeca
+ANILLO|Joya del dedo
+PENDIENTE|Joya de la oreja
+COLLAR|Joya del cuello
+PULSERA|Joya de la muñeca
+BROCHE|Joya que se prende en la ropa
+MARTILLO|Herramienta de golpear
+DESTORNILLADOR|Herramienta de atornillar
+ALICATES|Herramienta de apretar y cortar
+TENAZA|Herramienta de agarrar
+LLAVE|Herramienta que aprieta tuercas
+SIERRA|Herramienta de cortar madera
+SERRUCHO|Sierra de mano de hoja ancha
+CEPILLO|Herramienta que alisa la madera
+FORMON|Herramienta de cortar madera a golpe
+LIMA|Herramienta que desgasta el metal
+LIJA|Papel que pule la superficie
+TALADRO|Herramienta que hace agujeros
+BROCA|Punta que perfora
+CLAVO|Pieza puntiaguda que se clava
+TORNILLO|Pieza de rosca
+TUERCA|Pieza que se enrosca en el tornillo
+ARANDELA|Anilla plana del tornillo
+ESCUADRA|Herramienta que marca el ángulo recto
+NIVEL|Instrumento que comprueba la horizontal
+PLOMADA|Pesa que marca la vertical
+METRO|Cinta que mide
+CINCEL|Herramienta que talla la piedra
+MAZO|Martillo grande de madera
+PICO|Herramienta de cavar terreno duro
+PALA|Herramienta de mover tierra
+AZADA|Herramienta de cavar la huerta
+RASTRILLO|Apero de recoger hojas
+HORCA|Apero de varias púas
+GUADANA|Herramienta de segar
+HOZ|Herramienta curva de segar
+PODADERA|Herramienta de cortar ramas
+TIJERA|Corta con dos hojas
+CARRETILLA|Carro de una rueda
+ANDAMIO|Estructura de trabajo en altura
+ESCALERADEMANO|Utensilio portátil para subir
+CUERDA|Soga para atar
+ALAMBRE|Hilo de metal
+CADENA|Serie de eslabones
+GANCHO|Pieza curva de colgar
+POLEA|Rueda que facilita subir pesos
+ALBANIL|Levanta paredes
+CARPINTERO|Trabaja la madera
+FONTANERO|Arregla las tuberías
+ELECTRICISTA|Instala los cables
+PINTOR|Da color a las paredes
+CERRAJERO|Trabaja con llaves y cerraduras
+CRISTALERO|Coloca los vidrios
+HERRERO|Trabaja el hierro en la fragua
+SOLDADOR|Une los metales al fuego
+MECANICO|Repara los motores
+ELECTRICISTA|Profesional de la instalación eléctrica
+PANADERO|Elabora el pan
+PASTELERO|Hace tartas y dulces
+CARNICERO|Despacha la carne
+PESCADERO|Vende el pescado
+FRUTERO|Vende frutas y verduras
+CHARCUTERO|Vende embutidos
+TENDERO|Atiende en la tienda
+DEPENDIENTE|Atiende al cliente
+CAJERO|Cobra en la caja
+SASTRE|Confecciona trajes a medida
+MODISTA|Cose ropa de señora
+ZAPATERO|Arregla el calzado
+PELUQUERO|Corta y peina el cabello
+BARBERO|Afeita y arregla la barba
+JOYERO|Trabaja o vende alhajas
+RELOJERO|Repara relojes
+OPTICO|Gradúa la vista
+FARMACEUTICO|Despacha medicamentos
+VETERINARIO|Cura a los animales
+ENFERMERO|Asiste al paciente
+MAESTRO|Enseña en la escuela
+PROFESOR|Imparte clases
+BIBLIOTECARIO|Cuida de los libros
+ARCHIVERO|Custodia los documentos
+PERIODISTA|Informa de la actualidad
+FOTOGRAFO|Hace fotografías
+TRADUCTOR|Vierte textos a otra lengua
+INTERPRETE|Traduce de viva voz
+ABOGADO|Defiende en el juicio
+NOTARIO|Da fe de los documentos
+PROCURADOR|Representa ante el tribunal
+JUEZ|Dicta la sentencia
+FISCAL|Ejerce la acusación
+POLICIA|Vela por el orden
+BOMBERO|Apaga los incendios
+MILITAR|Sirve en el ejército
+MARINERO|Trabaja en el barco
+PILOTO|Conduce la aeronave
+AZAFATA|Atiende a los pasajeros
+MAQUINISTA|Conduce el tren
+REVISOR|Comprueba los billetes
+CONDUCTOR|Lleva el volante
+TAXISTA|Conduce un coche de alquiler
+CARTERO|Reparte la correspondencia
+BASURERO|Recoge los residuos
+BARRENDERO|Limpia las calles
+JARDINERO|Cuida las plantas
+AGRICULTOR|Cultiva la tierra
+GANADERO|Cría reses
+PASTOR|Guarda el rebaño
+PESCADOR|Faena en el mar
+MINERO|Trabaja bajo tierra
+LENADOR|Corta árboles
+ARQUITECTO|Proyecta edificios
+INGENIERO|Diseña obras y máquinas
+APAREJADOR|Dirige la ejecución de la obra
+DELINEANTE|Dibuja los planos
+CONTABLE|Lleva las cuentas
+ADMINISTRATIVO|Trabaja en la oficina
+SECRETARIA|Organiza la agenda del jefe
+RECEPCIONISTA|Atiende en la entrada
+CONSERJE|Cuida del edificio
+VIGILANTE|Custodia un recinto
+CAMIONERO|Conduce vehículos pesados
+MENSAJERO|Reparte paquetes
+REPARTIDOR|Lleva la mercancía a domicilio
+COCHE|Automóvil de cuatro ruedas
+FURGONETA|Vehículo pequeño de carga
+CAMION|Vehículo grande de transporte
+AUTOBUS|Vehículo de muchos pasajeros
+AUTOCAR|Autobús de viajes largos
+TRANVIA|Vehículo urbano sobre raíles
+METRO|Ferrocarril subterráneo
+TREN|Convoy sobre vías
+LOCOMOTORA|Arrastra los vagones
+VAGON|Coche del tren
+AVION|Aeronave de alas fijas
+HELICOPTERO|Aeronave de rotor
+PLANEADOR|Aeronave sin motor
+GLOBO|Aeronave que se eleva con aire caliente
+BARCO|Nave que navega
+VELERO|Barco impulsado por el viento
+FERRY|Barco que transporta vehículos
+CRUCERO|Barco de viajes de placer
+YATE|Embarcación de recreo
+LANCHA|Embarcación pequeña a motor
+CANOA|Embarcación estrecha de remo
+BALSA|Embarcación de troncos
+SUBMARINO|Nave que navega sumergida
+BICICLETA|Vehículo de pedales
+MOTO|Vehículo de dos ruedas a motor
+CICLOMOTOR|Moto de poca cilindrada
+PATINETE|Vehículo ligero de dos ruedas
+TRINEO|Vehículo que se desliza por la nieve
+CARRO|Vehículo de tracción animal
+CARROZA|Coche de caballos de lujo
+AMBULANCIA|Vehículo sanitario
+GRUA|Vehículo que remolca coches
+TRACTOR|Vehículo agrícola
+EXCAVADORA|Máquina que abre zanjas
+APISONADORA|Máquina que compacta el firme
+HORMIGONERA|Máquina que mezcla el hormigón

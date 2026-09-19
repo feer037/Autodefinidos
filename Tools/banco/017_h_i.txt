@@ -1,0 +1,415 @@
+# Vocabulario general: palabras con H y con I
+HABA|Legumbre de vaina ancha
+HABANO|Puro de Cuba
+HABITANTE|Vecino de una ciudad
+HABITO|Costumbre muy arraigada
+HACHA|Corta leña de un golpe
+HACIENDA|Finca grande de campo
+HADA|Ser mágico de los cuentos
+HALAGO|Palabra que agrada
+HALCON|Ave de cetrería
+HALL|Vestíbulo de un hotel
+HAMACA|Red colgante para tumbarse
+HAMBRE|Necesidad de comer
+HAMBURGUESA|Carne picada entre panes
+HANGAR|Cobertizo de los aviones
+HARINA|Polvo del cereal molido
+HAREN|Estancia de las mujeres del sultán
+HARTAZGO|Exceso de comida
+HASTIO|Aburrimiento profundo
+HAZANA|Acción heroica
+HEBILLA|Cierre del cinturón
+HEBRA|Hilo de coser
+HEBREO|Lengua de Israel
+HECHIZO|Encantamiento de la bruja
+HECHO|Suceso que ocurre
+HECTAREA|Diez mil metros cuadrados
+HEDOR|Olor muy desagradable
+HELADERIA|Local de los cucuruchos
+HELADO|Postre frío de verano
+HELECHO|Planta de hoja en penacho
+HELICE|Gira y mueve el barco
+HELICOPTERO|Vuela con aspas
+HEMBRA|Animal de sexo femenino
+HEMISFERIO|Mitad de la esfera terrestre
+HEMORRAGIA|Pérdida abundante de sangre
+HENO|Forraje seco
+HEPATITIS|Inflamación del hígado
+HERALDO|Mensajero antiguo
+HERBOLARIO|Tienda de plantas medicinales
+HEREDERO|Recibe los bienes del difunto
+HEREJE|Contrario al dogma
+HERENCIA|Bienes que se reciben
+HERIDA|Rotura de la piel
+HERMANO|Hijo de los mismos padres
+HERMITA|Capilla solitaria del campo
+HEROE|Protagonista valiente
+HERRADURA|Hierro del casco del caballo
+HERRAMIENTA|Utensilio de trabajo
+HERRERO|Trabaja el hierro al fuego
+HERVIDOR|Calienta el agua
+HIDALGO|Noble de sangre castellana
+HIEDRA|Trepadora de hoja perenne
+HIEL|Bilis amarga
+HIELO|Agua congelada
+HIENA|Carroñera de risa siniestra
+HIERBA|Planta verde y menuda
+HIERRO|Metal del imán
+HIGADO|Glándula que depura la sangre
+HIGIENE|Limpieza del cuerpo
+HIGO|Fruto dulce de la higuera
+HIGUERA|Árbol de las brevas
+HIJASTRO|Hijo del cónyuge
+HILERA|Fila ordenada
+HILO|Hebra fina y larga
+HIMNO|Canto solemne de un país
+HINCHA|Seguidor de un club
+HIPO|Contracción involuntaria del diafragma
+HIPODROMO|Pista de carreras de caballos
+HIPOPOTAMO|Gran mamífero del río africano
+HIPOTECA|Préstamo sobre la vivienda
+HISTORIA|Relato del pasado
+HOCICO|Morro del animal
+HOGAR|Casa de la familia
+HOGUERA|Fuego al aire libre
+HOJA|Lámina verde del árbol
+HOLANDA|País de los tulipanes
+HOLGURA|Espacio de sobra
+HOLLIN|Negro que deja el humo
+HOMBRE|Ser humano varón
+HOMBRO|Une el brazo al tronco
+HOMENAJE|Acto en honor de alguien
+HONDA|Tira que lanza piedras
+HONESTIDAD|Rectitud de conducta
+HONGO|Vegetal sin clorofila
+HONOR|Buena reputación
+HORA|Sexagésima parte del día
+HORIZONTE|Línea entre cielo y tierra
+HORMIGA|Insecto laborioso del suelo
+HORMIGON|Mezcla de cemento y grava
+HORNO|Aparato para asar
+HORQUILLA|Sujeta el pelo
+HORROR|Espanto muy grande
+HORTALIZA|Verdura de la huerta
+HOSPITAL|Centro de enfermos
+HOSTAL|Alojamiento sencillo
+HOTEL|Establecimiento de huéspedes
+HOYO|Concavidad en el suelo
+HUCHA|Guarda los ahorros del niño
+HUELGA|Paro de los trabajadores
+HUELLA|Marca del pie
+HUERTO|Terreno de hortalizas
+HUESO|Pieza dura del esqueleto
+HUESPED|Persona alojada
+HUEVO|Lo pone el ave
+HUIDA|Escape apresurado
+HUMANIDAD|Conjunto de las personas
+HUMEDAD|Agua en el ambiente
+HUMILDAD|Ausencia de soberbia
+HUMO|Sube por la chimenea
+HUMOR|Disposición del ánimo
+HUNDIMIENTO|Caída al fondo del mar
+HURACAN|Viento devastador
+HURON|Mamífero que caza conejos
+HURTO|Robo sin violencia
+HUSMEAR|Olfatear buscando algo
+HABILIDAD|Destreza para algo
+HABILITAR|Poner en condiciones
+HABITACION|Cuarto de la casa
+HABITAR|Vivir en un lugar
+HABITUAL|Que se hace siempre
+HABLADOR|Que habla por los codos
+HABLAR|Usar la palabra
+HACENDADO|Dueño de tierras
+HACINAR|Amontonar sin orden
+HALAGAR|Decir cosas agradables
+HALLAR|Dar con lo buscado
+HAMBRIENTO|Muerto de hambre
+HARAGAN|Holgazán que nada hace
+HARAPO|Ropa rota y vieja
+HARTAR|Saciar con exceso
+HECHICERA|Mujer que hace conjuros
+HEDIONDO|De olor repugnante
+HELAR|Convertir en hielo
+HEMATOMA|Moradura de un golpe
+HEMBRILLA|Argolla donde entra el macho
+HENDIDURA|Corte estrecho y largo
+HEREDAR|Recibir los bienes
+HERIR|Causar una lesión
+HERMANDAD|Cofradía religiosa
+HERMETICO|Cerrado por completo
+HERMOSO|De gran belleza
+HERNIA|Salida de una víscera
+HEROICO|Propio de los valientes
+HEROINA|Mujer de gran valor
+HERRAR|Poner herraduras
+HERRUMBRE|Óxido del hierro
+HERVIR|Bullir el agua al fuego
+HIBERNAR|Pasar el invierno dormido
+HIDRATAR|Aportar agua al cuerpo
+HIDRAULICO|Que funciona con agua
+HIDROGENO|Elemento más ligero
+HIGIENICO|Limpio y saludable
+HILAR|Convertir la lana en hilo
+HILVANAR|Coser con puntadas largas
+HINCAR|Clavar en el suelo
+HINCHAR|Llenar de aire
+HIPNOTIZAR|Dormir con sugestión
+HIPOTESIS|Suposición que se comprueba
+HISPANO|De lengua española
+HISTERIA|Nerviosismo descontrolado
+HISTORIADOR|Estudia el pasado
+HISTORIETA|Cuento en viñetas
+HOCICAR|Hozar el cerdo en la tierra
+HOJALATA|Lámina de acero estañado
+HOJEAR|Pasar las páginas
+HOLGAZAN|Enemigo del trabajo
+HOMBRERA|Refuerzo del hombro
+HOMENAJEAR|Rendir tributo a alguien
+HOMICIDIO|Muerte causada a otro
+HOMOGENEO|De composición uniforme
+HONDONADA|Terreno hundido
+HONDURA|Profundidad de algo
+HONESTO|Sincero y recto
+HONRA|Estima pública de alguien
+HONRAR|Dar honor a alguien
+HORADAR|Hacer un agujero
+HORARIO|Distribución de las horas
+HORCA|Instrumento de ahorcar
+HORMIGUERO|Nido de las hormigas
+HORNEAR|Cocer en el horno
+HORQUETA|Palo terminado en dos puntas
+HORRENDO|Que causa horror
+HORRIPILANTE|Que pone los pelos de punta
+HORTELANO|Cultiva la huerta
+HOSCO|De trato áspero
+HOSPEDAR|Dar alojamiento
+HOSTELERIA|Negocio de bares y hoteles
+HOSTIGAR|Acosar sin descanso
+HOSTIL|Enemigo y agresivo
+HOZAR|Remover la tierra con el hocico
+HUECO|Espacio vacío
+HUELLAR|Dejar marcas al pisar
+HUERFANO|Niño sin padres
+HUERTA|Terreno de regadío
+HUESUDO|De huesos salientes
+HUIR|Salir corriendo del peligro
+HULE|Tela impermeable de la mesa
+HUMANO|Propio de las personas
+HUMEAR|Echar humo
+HUMEDECER|Mojar ligeramente
+HUMILDE|Que no presume
+HUMILLAR|Rebajar la dignidad ajena
+HUNDIR|Echar al fondo
+HURGAR|Revolver con los dedos
+HURTAR|Quitar a escondidas
+HUSO|Aparato de hilar
+IBERICO|De la península de España y Portugal
+ICEBERG|Montaña de hielo a la deriva
+IDEA|Concepto de la mente
+IDEAL|Modelo perfecto
+IDIOMA|Lengua de un país
+IDOLO|Imagen que se adora
+IGLESIA|Templo de los cristianos
+IGLU|Casa de hielo esquimal
+IGUANA|Reptil tropical de cresta
+ILUSION|Esperanza de algo bueno
+IMAGEN|Figura que se percibe
+IMAN|Atrae los metales
+IMITACION|Copia de un original
+IMPERIO|Estado con muchos territorios
+IMPORTE|Cantidad a pagar
+IMPRENTA|Taller donde se imprime
+IMPUESTO|Tributo que se paga
+IMPULSO|Empuje que mueve
+INCENDIO|Fuego que arrasa
+INCENSARIO|Recipiente del incienso
+INCIENSO|Resina aromática del culto
+INCLINACION|Desvío de la vertical
+INDICE|Dedo que señala
+INDICIO|Señal que apunta a algo
+INDUSTRIA|Sector de las fábricas
+INFANCIA|Primera edad de la vida
+INFANTE|Hijo del rey no heredero
+INFIERNO|Lugar de los condenados
+INFLUENCIA|Poder sobre los demás
+INFORME|Escrito con datos de un asunto
+INGENIERO|Proyecta máquinas y puentes
+INGENIO|Chispa de la inteligencia
+INGLES|Idioma de Londres
+INGRESO|Dinero que entra
+INJERTO|Rama unida a otro árbol
+INJUSTICIA|Falta de equidad
+INMUEBLE|Edificio de viviendas
+INOCENTE|Libre de culpa
+INQUILINO|Vive de alquiler
+INSECTO|Animal de seis patas
+INSIGNIA|Distintivo de un grupo
+INSPECTOR|Revisa y vigila
+INSTANTE|Momento brevísimo
+INSTINTO|Impulso natural del animal
+INSTRUMENTO|Sirve para tocar música
+INSULTO|Palabra que ofende
+INTERES|Ganancia del préstamo
+INTERIOR|Parte de dentro
+INTERVALO|Espacio entre dos momentos
+INTESTINO|Tripa de la digestión
+INUNDACION|Desbordamiento del agua
+INVASION|Entrada del ejército enemigo
+INVENTO|Creación nueva y útil
+INVIERNO|Estación de la nieve
+INYECCION|Pinchazo con jeringa
+IRA|Enfado violento
+IRIS|Círculo coloreado del ojo
+IRLANDA|Isla esmeralda de Dublín
+ISLA|Tierra entre aguas
+ISLOTE|Isla muy pequeña
+ITALIANO|Natural de Roma
+ITINERARIO|Ruta del viaje
+IZQUIERDA|Lado del corazón
+IDEALIZAR|Ver mejor de lo que es
+IDEAR|Pensar una solución
+IDENTICO|Exactamente igual
+IDENTIDAD|Conjunto de datos de la persona
+IDIOTA|Falto de entendimiento
+IDONEO|Que sirve perfectamente
+IGNORAR|No saber algo
+IGUALAR|Poner al mismo nivel
+ILEGAL|Contrario a la ley
+ILESO|Que sale sin daño
+ILICITO|Prohibido por la ley
+ILIMITADO|Sin límite alguno
+ILUMINAR|Dar luz a un lugar
+ILUSIONISTA|Mago de trucos
+ILUSTRAR|Poner dibujos al texto
+ILUSTRE|De gran renombre
+IMAGINAR|Representar en la mente
+IMBECIL|Falto de inteligencia
+IMITAR|Hacer lo mismo que otro
+IMPACIENTE|Que no sabe esperar
+IMPACTO|Choque de un proyectil
+IMPAR|Número no divisible por dos
+IMPEDIR|Poner obstáculo
+IMPERAR|Dominar sobre todo
+IMPERMEABLE|Que no cala el agua
+IMPERTINENTE|Inoportuno y molesto
+IMPLANTAR|Establecer algo nuevo
+IMPLICAR|Llevar consigo
+IMPLORAR|Pedir con súplicas
+IMPONER|Obligar a aceptar
+IMPORTAR|Traer del extranjero
+IMPOSIBLE|Que no puede ser
+IMPRESCINDIBLE|Que no puede faltar
+IMPRESION|Huella que deja algo
+IMPRIMIR|Estampar sobre papel
+IMPROVISAR|Hacer sin preparación
+IMPRUDENTE|Que no mide el riesgo
+IMPULSAR|Dar empuje
+INAUGURAR|Abrir oficialmente
+INCAPAZ|Que no puede con ello
+INCIERTO|Que no se sabe seguro
+INCITAR|Empujar a obrar
+INCLINAR|Ladear un cuerpo
+INCLUIR|Meter dentro
+INCOMODO|Poco confortable
+INCORPORAR|Añadir a un conjunto
+INCREIBLE|Difícil de creer
+INCUBAR|Empollar los huevos
+INCULTO|Falto de estudios
+INDAGAR|Investigar un asunto
+INDECISO|Que no sabe decidirse
+INDEMNIZAR|Compensar un daño
+INDEPENDENCIA|Libertad de un país
+INDICAR|Señalar el camino
+INDIFERENTE|Que no le importa nada
+INDIGENA|Natural del país
+INDIGESTION|Empacho de comida
+INDIGNAR|Provocar mucho enfado
+INDIRECTA|Alusión sin decirlo claro
+INDISPENSABLE|Absolutamente necesario
+INDIVIDUO|Persona cualquiera
+INDOMABLE|Que no se deja domar
+INDUCIR|Mover a hacer algo
+INDULTO|Perdón de la pena
+INEPTO|Incapaz para el cargo
+INESPERADO|Que llega sin avisar
+INEVITABLE|Que no se puede evitar
+INEXPERTO|Sin práctica ninguna
+INFALIBLE|Que nunca falla
+INFAME|Malvado y despreciable
+INFECCION|Invasión de microbios
+INFELIZ|Falto de felicidad
+INFERIOR|De menor categoría
+INFIEL|Que traiciona a su pareja
+INFINITO|Sin fin ni medida
+INFLAR|Llenar de aire
+INFLEXIBLE|Que no cede jamás
+INFLUIR|Ejercer poder sobre otro
+INFORMAR|Dar noticia
+INFRACCION|Falta contra la norma
+INFUNDIR|Provocar un sentimiento
+INFUSION|Bebida caliente de hierbas
+INGENIOSO|De ocurrencias agudas
+INGENUO|Que se lo cree todo
+INGERIR|Tomar por la boca
+INGRATO|Que no agradece nada
+INGRESAR|Meter dinero en el banco
+INHALAR|Aspirar vapores
+INHUMANO|Cruel y sin piedad
+INICIAR|Dar comienzo
+INJURIA|Ofensa grave de palabra
+INJUSTO|Contrario a la justicia
+INMEDIATO|Que ocurre al momento
+INMENSO|De tamaño incalculable
+INMIGRANTE|Llega de otro país
+INMORTAL|Que no muere nunca
+INMOVIL|Que no se mueve
+INNATO|Que se tiene de nacimiento
+INNOVAR|Introducir novedades
+INOCULAR|Introducir un virus
+INOFENSIVO|Que no hace daño
+INOLVIDABLE|Que no se olvida
+INOXIDABLE|Que no cría herrumbre
+INQUIETO|Que no para quieto
+INSCRIBIR|Apuntar en una lista
+INSEGURO|Falto de firmeza
+INSENSATO|Que obra sin juicio
+INSERTAR|Meter una cosa en otra
+INSISTIR|Repetir con empeño
+INSOLENTE|Descarado y altanero
+INSOMNIO|Falta de sueño
+INSPIRAR|Dar ideas al artista
+INSTALAR|Montar una máquina
+INSTAURAR|Establecer un régimen
+INSTRUIR|Enseñar conocimientos
+INSULTAR|Decir palabras ofensivas
+INTEGRAR|Formar parte de un todo
+INTELIGENTE|De gran capacidad mental
+INTENCION|Propósito de hacer algo
+INTENSO|De mucha fuerza
+INTENTAR|Probar a hacer algo
+INTERCAMBIO|Cambio mutuo
+INTERNO|Del interior
+INTERPRETE|Traduce de viva voz
+INTERROGAR|Hacer muchas preguntas
+INTERRUMPIR|Cortar lo que se hace
+INTIMIDAD|Vida privada
+INTRIGA|Enredo para conseguir algo
+INTRODUCIR|Meter dentro
+INTUIR|Percibir sin razonar
+INUNDAR|Cubrir de agua
+INUTIL|Que no sirve para nada
+INVADIR|Entrar por la fuerza
+INVALIDO|Impedido físicamente
+INVENTAR|Crear algo nuevo
+INVERTIR|Poner dinero en un negocio
+INVESTIGAR|Indagar a fondo
+INVITAR|Convidar a alguien
+INVOCAR|Llamar a la divinidad
+INYECTAR|Poner una vacuna
+IRONIA|Burla fina y disimulada
+IRRADIAR|Emitir energía
+IRREAL|Que no existe
+IRRITAR|Poner de mal humor
+IRRUMPIR|Entrar de golpe
+IZAR|Subir la bandera

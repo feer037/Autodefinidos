@@ -1,0 +1,479 @@
+# Formas verbales conjugadas, habituales en los autodefinidos
+ABRE|Quita el cierre
+ABRIO|Descorrió el cerrojo
+ABRIRE|Descorreré el pestillo
+ACABA|Llega al final
+ACABO|Terminé la tarea
+ACUDE|Va donde le llaman
+ACUSA|Señala al culpable
+AMABA|Sentía amor
+AMAMOS|Sentimos cariño, nosotros
+AMARA|Sintiera cariño
+AMARE|Sentiré cariño
+AMASA|Trabaja la harina
+AMEN|Quieran con amor, ellos
+ANDA|Camina a pie
+ANDABA|Caminaba despacio
+ANDUVO|Recorrió a pie
+APAGA|Quita la luz
+APARTA|Pone a un lado
+ARDE|Está en llamas
+ARDIA|Se consumía en llamas
+ARDIO|Se quemó del todo
+ASA|Cocina al horno
+ASOMA|Saca la cabeza
+ATABA|Sujetaba con soga
+ATARA|Amarrase con nudo
+AVISA|Da la alerta
+AYUDA|Presta auxilio
+BAILA|Se mueve al compás
+BAJA|Desciende un piso
+BARRE|Limpia con escoba
+BEBE|Toma un líquido
+BEBIA|Tomaba vino
+BEBIO|Apuró el vaso
+BESA|Junta los labios
+BORRA|Hace desaparecer lo escrito
+BRILLA|Despide luz
+BUSCA|Trata de hallar
+CABE|Tiene sitio bastante
+CAE|Va contra el suelo
+CAIA|Se venía abajo
+CALLA|No dice nada
+CAMBIA|Sustituye una cosa
+CANTA|Entona una melodía
+CANTABA|Entonaba una canción
+CANTE|Entone, subjuntivo
+CANTO|Entoné una copla
+CASA|Une en matrimonio
+CAVA|Abre un hoyo
+CAZA|Persigue la pieza
+CEDE|Da paso al otro
+CENA|Toma el último plato del día
+CERRO|Echó el cerrojo
+CIERRA|Echa la llave
+COCE|Hierve al fuego
+COGE|Toma con la mano
+COGIO|Agarró con la mano
+COME|Toma alimento
+COMIA|Tomaba el almuerzo
+COMIO|Dio cuenta del plato
+CORRE|Va muy deprisa
+CORRIA|Iba a la carrera
+CORRIO|Fue veloz
+CORTA|Divide con filo
+COSE|Une con hilo
+CREA|Da vida a una obra
+CREE|Tiene por cierto
+CREIA|Tenía por seguro
+CREYO|Dio por cierto
+CRECE|Se hace mayor
+CRUZA|Pasa al otro lado
+CUBRE|Tapa por encima
+CUENTA|Narra una historia
+CURA|Devuelve la salud
+DA|Entrega algo
+DABA|Entregaba con la mano
+DAN|Entregan ellos
+DARA|Entregará mañana
+DEBE|Tiene una deuda
+DEJA|Abandona en un sitio
+DESEA|Quiere conseguir
+DICE|Expresa con palabras
+DIJO|Manifestó de palabra
+DIO|Entregó en su día
+DORMIA|Descansaba en la cama
+DUERME|Descansa dormido
+DURA|Se prolonga en el tiempo
+ECHA|Arroja fuera
+ENTRA|Pasa adentro
+ERA|Existía antes
+ERES|Existes tú
+ESTA|Se halla presente
+FUE|Marchó en su día
+FUI|Marché yo
+GANA|Vence en el juego
+GIRA|Da la vuelta
+GRITA|Alza mucho la voz
+GUARDA|Pone a buen recaudo
+HABIA|Existía entonces
+HABLA|Usa la palabra
+HACE|Realiza una obra
+HACIA|Realizaba una tarea
+HARA|Realizará mañana
+HIZO|Llevó a cabo
+HUYE|Escapa del peligro
+HUYO|Escapó a la carrera
+IBA|Se dirigía a un sitio
+IRAN|Marcharán ellos
+IRAS|Marcharás tú
+JUEGA|Se divierte con reglas
+JUGO|Tomó parte en la partida
+LAVA|Limpia con agua
+LEE|Recorre lo escrito
+LEIA|Recorría las páginas
+LEYO|Terminó el libro
+LLAMA|Da voces a alguien
+LLEGA|Alcanza el destino
+LLENA|Ocupa todo el hueco
+LLEVA|Transporta consigo
+LLORA|Vierte lágrimas
+LLOVIA|Caía agua del cielo
+LUCE|Muestra con orgullo
+MATA|Quita la vida
+MEDIA|Tomaba las medidas
+MIDE|Toma las dimensiones
+MIRA|Fija los ojos
+MOJA|Empapa de agua
+MUERE|Pierde la vida
+MURIO|Perdió la vida
+NACE|Viene al mundo
+NACIO|Vino al mundo
+NADA|Se mueve en el agua
+NIEGA|Dice que no
+NOTA|Se da cuenta
+OYE|Percibe el sonido
+OYO|Escuchó el ruido
+PAGA|Abona lo debido
+PARA|Detiene la marcha
+PASA|Va de un sitio a otro
+PEGA|Une con cola
+PELA|Quita la piel a la fruta
+PESA|Tiene cierta masa
+PIDE|Solicita un favor
+PIDIO|Rogó un favor
+PIENSA|Usa el entendimiento
+PISA|Pone el pie encima
+PONE|Coloca en su sitio
+PUDO|Tuvo fuerza para ello
+PUEDE|Tiene capacidad
+PUSO|Colocó en su sitio
+QUEDA|Permanece en el sitio
+QUIERE|Siente amor
+QUISO|Sintió cariño
+QUITA|Aparta una cosa
+RIE|Muestra alegría
+RIEGA|Echa agua a la planta
+RIO|Soltó la carcajada
+ROBA|Toma lo ajeno
+ROMPE|Hace pedazos
+SABE|Conoce la materia
+SACA|Extrae de dentro
+SALE|Va hacia fuera
+SALIO|Marchó a la calle
+SALTA|Da un brinco
+SANA|Recobra la salud
+SECA|Quita la humedad
+SEA|Exista, en subjuntivo
+SERA|Existirá mañana
+SIGUE|Va detrás de otro
+SIRVE|Atiende en la mesa
+SOMOS|Existimos nosotros
+SON|Existen ellos
+SOPLA|Echa aire por la boca
+SUBE|Va hacia arriba
+SUBIO|Ascendió al piso
+SUDA|Echa sudor
+SUENA|Produce un ruido
+TAPA|Cubre el recipiente
+TEME|Tiene miedo
+TIENE|Posee alguna cosa
+TIRA|Arroja con fuerza
+TOCA|Pone la mano encima
+TOMA|Coge lo que le dan
+TOSE|Expulsa aire con ruido
+TRAE|Lleva hacia aquí
+TRAJO|Llevó hasta aquí
+USA|Se sirve de algo
+VA|Se dirige a un sitio
+VALE|Tiene cierto precio
+VAN|Marchan ellos
+VE|Percibe con los ojos
+VEIA|Percibía con la vista
+VENDE|Da a cambio de dinero
+VENIA|Se acercaba
+VIENE|Llega hasta aquí
+VINO|Llegó hasta aquí
+VIO|Percibió con los ojos
+VIVE|Tiene vida
+VIVIA|Tenía existencia
+VOLO|Fue por el aire
+VUELA|Va por el aire
+VUELVE|Regresa al punto de partida
+ABRIA|Descorría la puerta
+ACABAN|Dan fin, ellos
+ACERCA|Pone más cerca
+ACIERTA|Da en el blanco
+ADORA|Ama con devoción
+ADORNA|Embellece con detalles
+AFEITA|Corta la barba
+AFINA|Pone a tono el piano
+AGARRA|Coge con la mano
+AGITA|Mueve con fuerza
+AGUANTA|Soporta con paciencia
+AHORRA|Guarda el dinero
+AISLA|Deja apartado
+ALCANZA|Llega hasta algo
+ALEGRA|Da alegría
+ALEJA|Pone más lejos
+ALQUILA|Da en arriendo
+ALUMBRA|Da luz
+AMARRA|Ata el barco
+ANIMA|Da ánimos
+ANOTA|Escribe una nota
+APLASTA|Deja plano de un golpe
+APOYA|Presta ayuda
+APRIETA|Hace fuerza al cerrar
+APRUEBA|Da por bueno
+ARANA|Hiere con las uñas
+ARMA|Monta las piezas
+ARRANCA|Saca de raíz
+ARRASTRA|Lleva por el suelo
+ARREGLA|Compone lo roto
+ASALTA|Ataca por sorpresa
+ASISTE|Acude a la cita
+ASOMBRA|Deja pasmado
+ASPIRA|Toma aire
+ASUSTA|Da un susto
+ATACA|Acomete al rival
+ATRAE|Tira hacia sí
+AUMENTA|Hace mayor
+AVANZA|Va hacia delante
+AVERIGUA|Llega a saber
+BARAJA|Mezcla los naipes
+BASTA|Es suficiente
+BORDA|Cose dibujos
+BOTA|Da saltos la pelota
+BRINDA|Levanta la copa
+BROTA|Nace de la tierra
+CABALGA|Va a caballo
+CALCULA|Hace las cuentas
+CALIENTA|Sube la temperatura
+CALMA|Pone tranquilo
+CAMINA|Va dando pasos
+CARGA|Pone el peso encima
+CASTIGA|Impone una pena
+CELEBRA|Festeja con alegría
+CENSURA|Prohíbe publicar
+CEPILLA|Pasa el cepillo
+CIERRA|Junta las hojas de la puerta
+CITA|Nombra a un autor
+COBRA|Recibe el dinero
+COLOCA|Pone en su sitio
+COMBATE|Lucha contra el enemigo
+COMIENZA|Da principio
+COMPRA|Adquiere pagando
+CONFIA|Se fía de alguien
+CONOCE|Sabe cómo es algo
+CONSIGUE|Logra lo buscado
+CONTESTA|Da respuesta
+CONTINUA|Sigue adelante
+CONVENCE|Logra que otro acepte
+COPIA|Reproduce el original
+CORRIGE|Enmienda los fallos
+CRITICA|Juzga con dureza
+CUELGA|Suspende de un gancho
+CUIDA|Pone atención y esmero
+CULPA|Echa la culpa
+CUMPLE|Hace lo prometido
+DANA|Causa perjuicio
+DEBATE|Discute un asunto
+DECIDE|Toma una resolución
+DEFIENDE|Protege del ataque
+DEJARA|Abandonará el sitio
+DENUNCIA|Pone en conocimiento del juez
+DESATA|Suelta el nudo
+DESCANSA|Repone las fuerzas
+DESCUBRE|Halla lo oculto
+DESEARA|Querrá conseguir
+DESPIDE|Dice adiós
+DESTAPA|Quita la tapa
+DIBUJA|Traza con lápiz
+DIRIGE|Guía y manda
+DISPARA|Hace fuego
+DIVIDE|Parte en trozos
+DOBLA|Pliega por la mitad
+DOMINA|Tiene bajo control
+DUDA|No está seguro
+EDUCA|Forma a los hijos
+ELIGE|Toma lo que prefiere
+EMPIEZA|Da comienzo
+EMPUJA|Hace fuerza para mover
+ENCIENDE|Prende la luz
+ENGANA|Falta a la verdad
+ENSENA|Muestra cómo se hace
+ENSUCIA|Llena de manchas
+ENTIENDE|Comprende bien
+ENVIA|Manda por correo
+ESCAPA|Huye del encierro
+ESCRIBE|Traza las letras
+ESCUCHA|Presta oído
+ESPERA|Aguarda con paciencia
+ESTUDIA|Se aplica al aprender
+EVITA|Impide que ocurra
+EXIGE|Pide con autoridad
+EXPLICA|Hace comprender
+FABRICA|Produce en serie
+FALLA|No da el resultado esperado
+FALTA|No acude a clase
+FIRMA|Pone la rúbrica
+FORMA|Da figura a algo
+FRIE|Cocina en aceite
+FUMA|Consume tabaco
+FUNCIONA|Anda bien la máquina
+GASTA|Emplea el dinero
+GOBIERNA|Dirige el país
+GOLPEA|Da golpes
+GOZA|Disfruta de algo
+GUARDABA|Ponía a buen recaudo
+GUIA|Muestra el camino
+HEREDA|Recibe los bienes
+HIERVE|Bulle el agua
+HUELE|Percibe por la nariz
+IGNORA|No sabe nada de ello
+IMITA|Hace lo mismo que otro
+IMPIDE|Pone un obstáculo
+IMPORTA|Trae del extranjero
+INDICA|Señala el camino
+INSISTE|Repite con empeño
+INTENTA|Prueba a hacer algo
+INVITA|Convida a alguien
+JURA|Promete solemnemente
+JUZGA|Dicta sentencia
+LADRA|Da voces el perro
+LANZA|Arroja con fuerza
+LEVANTA|Pone en alto
+LIBERA|Pone en libertad
+LIMPIA|Quita la suciedad
+LOGRA|Consigue el objetivo
+LUCHA|Combate cuerpo a cuerpo
+MANDA|Da las órdenes
+MANEJA|Usa con las manos
+MARCA|Pone una señal
+MARCHA|Va hacia un sitio
+MEJORA|Pone en mejor estado
+MERECE|Es digno de algo
+MEZCLA|Junta cosas distintas
+MIENTE|Falta a la verdad
+MOLESTA|Causa incomodidad
+MONTA|Se sube al caballo
+MUERDE|Clava los dientes
+MUEVE|Cambia de sitio
+MULTA|Impone una sanción
+NAVEGA|Va por el mar
+NECESITA|Tiene necesidad
+NOMBRA|Designa para el cargo
+OBEDECE|Cumple la orden
+OBLIGA|Fuerza a hacer algo
+OBSERVA|Mira con atención
+OCULTA|Esconde a la vista
+OCUPA|Llena un espacio
+ODIA|Siente aversión
+OFENDE|Hiere el amor propio
+OFRECE|Pone a disposición
+OLVIDA|No se acuerda de algo
+OPERA|Interviene al enfermo
+OPINA|Da su parecer
+ORDENA|Pone en su sitio
+PARECE|Da la impresión
+PARTE|Divide en trozos
+PASEA|Anda por gusto
+PATINA|Se desliza sobre cuchillas
+PEINA|Arregla el cabello
+PELEA|Riñe con otro
+PERDONA|Remite la falta
+PERMITE|Da licencia
+PERSIGUE|Va detrás del que huye
+PESCA|Coge peces
+PINTA|Cubre de color
+PLANCHA|Quita las arrugas
+PRACTICA|Ejercita a menudo
+PREFIERE|Escoge antes que otro
+PREGUNTA|Hace una consulta
+PREPARA|Deja dispuesto
+PRESENTA|Da a conocer
+PRESTA|Deja por un tiempo
+PROHIBE|No deja hacer algo
+PROMETE|Da su palabra
+PRUEBA|Pone a prueba
+QUEMA|Consume con fuego
+RASCA|Frota con las uñas
+RECIBE|Toma lo que le envían
+RECOGE|Levanta del suelo
+RECUERDA|Trae a la memoria
+REGALA|Da sin cobrar
+REPARA|Arregla lo estropeado
+REPARTE|Da a cada uno lo suyo
+REPITE|Vuelve a hacer lo mismo
+RESPETA|Tiene consideración
+RESPIRA|Toma aire
+RESPONDE|Da contestación
+RESUELVE|Da con la solución
+REVISA|Examina de nuevo
+REZA|Dirige la oración
+RODEA|Da la vuelta alrededor
+SALUDA|Da los buenos días
+SEPARA|Pone aparte
+SIENTE|Experimenta una emoción
+SOPORTA|Aguanta el peso
+SUFRE|Padece un dolor
+SUJETA|Agarra con fuerza
+SUMA|Añade cantidades
+TARDA|Emplea mucho tiempo
+TERMINA|Pone fin
+TIEMBLA|Se mueve de frío
+TRABAJA|Ejerce su oficio
+TRADUCE|Vierte a otra lengua
+TRAGA|Pasa por la garganta
+TRATA|Maneja un asunto
+TREPA|Sube agarrándose
+TRIUNFA|Sale vencedor
+VENCE|Gana al contrario
+VIAJA|Recorre tierras
+VIGILA|Está atento y guarda
+VISITA|Va a ver a alguien
+VOTA|Deposita la papeleta
+ANDEMOS|Caminemos, nosotros
+CANTAD|Entonad vosotros
+COMED|Alimentaos vosotros
+CORRED|Id deprisa, vosotros
+MIRAD|Fijad la vista, vosotros
+OIDME|Escuchadme
+SALID|Marchad fuera
+SUBID|Id hacia arriba
+TENED|Poseed, vosotros
+VENID|Acercaos aquí
+AMARON|Sintieron amor
+BEBIERON|Apuraron el vaso
+CAYERON|Dieron con el suelo
+COMIERON|Dieron cuenta de la mesa
+DIERON|Entregaron ellos
+DIJERON|Manifestaron de palabra
+FUERON|Marcharon ellos
+HABLARON|Usaron la palabra
+HICIERON|Llevaron a cabo
+PUSIERON|Colocaron en su sitio
+SALIERON|Fueron hacia fuera
+TUVIERON|Poseyeron en su día
+VIERON|Percibieron con la vista
+VINIERON|Llegaron hasta aquí
+AMARIA|Sentiría cariño
+COMERIA|Tomaría alimento
+DIRIA|Manifestaría de palabra
+HARIA|Llevaría a cabo
+PODRIA|Tendría capacidad
+QUERRIA|Sentiría amor
+SABRIA|Tendría conocimiento
+SERIA|Existiría entonces
+TENDRIA|Poseería algo
+VENDRIA|Llegaría hasta aquí
+ANDARA|Caminase a pie
+CANTARA|Entonase una copla
+COMIERA|Tomase alimento
+DIERA|Entregase algo
+FUERA|Marchase de aquí
+HICIERA|Llevase a cabo
+PUDIERA|Tuviese capacidad
+SUPIERA|Tuviese conocimiento
+TUVIERA|Poseyese algo
+VINIERA|Llegase hasta aquí

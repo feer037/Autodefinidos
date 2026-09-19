@@ -1,0 +1,254 @@
+# Plantas, flores, árboles y naturaleza
+ABEDUL|Árbol de corteza blanca y papelosa
+ABETO|Conífera de las montañas
+ACACIA|Árbol de flores en racimo colgante
+ACEBO|Arbusto de bayas rojas navideño
+ADELFA|Arbusto de flores rosas venenoso
+ALAMO|Árbol de ribera de hoja tembladora
+ALCORNOQUE|Árbol del que se saca el corcho
+ALGARROBO|Árbol de vainas dulces
+ALHELI|Flor de aroma intenso
+ALMENDRO|Árbol de flor temprana
+ALOE|Planta de hojas carnosas medicinales
+AMAPOLA|Flor roja de los sembrados
+ARCE|Árbol de hoja de la bandera canadiense
+AVELLANO|Arbusto de fruto seco redondo
+AZAHAR|Flor blanca de los cítricos
+AZALEA|Arbusto de flores muy vistosas
+AZUCENA|Flor blanca de tallo alto
+BAMBU|Gramínea gigante y hueca
+BAOBAB|Árbol africano de tronco enorme
+BEGONIA|Planta de flores y hojas decorativas
+BONSAI|Árbol cultivado en miniatura
+BREZO|Arbusto de flores menudas moradas
+CACTUS|Planta carnosa con espinas
+CAMELIA|Flor japonesa de pétalos apretados
+CANELO|Árbol de la corteza aromática
+CARDO|Planta espinosa de flor morada
+CAROLINA|Árbol de gran copa de las plazas
+CASTANO|Árbol del erizo
+CEDRO|Conífera de madera olorosa
+CEREZO|Árbol de flor rosada en primavera
+CHOPO|Álamo negro de las riberas
+CIPRES|Conífera alta y estrecha
+CLAVEL|Flor de pétalos dentados
+COCOTERO|Palmera del fruto de agua
+CRISANTEMO|Flor de noviembre
+DALIA|Flor de pétalos numerosos
+ENCINA|Árbol de la bellota
+ENEBRO|Arbusto de la ginebra
+ESPARRAGUERA|Planta del brote comestible
+ESPINO|Arbusto de ramas con púas
+EUCALIPTO|Árbol de hojas balsámicas
+FRESNO|Árbol de madera flexible
+GARDENIA|Flor blanca muy perfumada
+GERANIO|Planta de balcón florida
+GIRASOL|Planta de gran flor amarilla
+GLADIOLO|Flor de espiga alta
+HAYA|Árbol de hoja caduca y tronco liso
+HELECHO|Planta de hojas en fronda
+HIEDRA|Trepadora de muros
+HIGUERA|Árbol del higo
+HORTENSIA|Arbusto de flores en bola
+JACARANDA|Árbol de flores azules
+JARA|Arbusto mediterráneo de flor blanca
+JAZMIN|Trepadora de flor muy olorosa
+LAUREL|Árbol de la corona de los triunfadores
+LAVANDA|Planta morada del perfume
+LILA|Arbusto de flores en racimo morado
+LIMONERO|Árbol del cítrico amarillo
+LIRIO|Flor de tres pétalos elegantes
+MADRESELVA|Trepadora de flor dulce
+MAGNOLIO|Árbol de grandes flores blancas
+MALVA|Planta de flor morada y uso medicinal
+MANZANO|Árbol del fruto del paraíso
+MARGARITA|Flor blanca de los prados
+MELOCOTONERO|Árbol de fruta aterciopelada
+MEMBRILLO|Árbol del dulce de otoño
+MIMOSA|Arbusto de flores amarillas en bolita
+MORERA|Árbol de la hoja del gusano de seda
+MUERDAGO|Planta parásita de los besos navideños
+NARANJO|Árbol de la flor de azahar
+NARCISO|Flor amarilla de bulbo
+NENUFAR|Planta flotante de los estanques
+NOGAL|Árbol de la nuez
+OLIVO|Árbol de la aceituna
+OLMO|Árbol de sombra de las plazas
+ORQUIDEA|Flor exótica muy apreciada
+ORTIGA|Hierba que escuece al tocarla
+PALMERA|Árbol tropical de penacho
+PENSAMIENTO|Flor de pétalos aterciopelados
+PERAL|Árbol de fruta alargada
+PETUNIA|Planta de flor en trompeta
+PINO|Conífera de piñas
+PLATANERA|Planta de la fruta amarilla
+POMELO|Árbol del cítrico amargo
+RETAMA|Arbusto de flor amarilla del monte
+ROBLE|Árbol de madera muy dura
+ROMERO|Arbusto aromático de flor azulada
+ROSA|Flor de los enamorados
+SAUCE|Árbol de ramas colgantes
+SAUCO|Arbusto de flores blancas medicinales
+SECUOYA|Árbol más alto del mundo
+TILO|Árbol de la infusión relajante
+TOMILLO|Hierba aromática del monte bajo
+TREBOL|Planta de tres hojas
+TULIPAN|Flor de bulbo holandesa
+VID|Planta de la uva
+VIOLETA|Flor morada y menuda
+ZARZA|Arbusto espinoso de moras
+RAIZ|Parte de la planta bajo la tierra
+TALLO|Eje que sostiene la planta
+HOJA|Órgano verde de la fotosíntesis
+FLOR|Órgano reproductor de la planta
+FRUTO|Producto del ovario de la flor
+SEMILLA|Grano del que nace la planta
+POLEN|Polvo fecundante de la flor
+NECTAR|Jugo azucarado de las flores
+PETALO|Hoja coloreada de la corola
+COROLA|Conjunto de los pétalos
+SAVIA|Líquido nutritivo de la planta
+CORTEZA|Capa exterior del tronco
+RAMA|Brazo que sale del tronco
+TRONCO|Tallo leñoso del árbol
+COPA|Conjunto de ramas del árbol
+BROTE|Yema que empieza a crecer
+CAPULLO|Flor aún sin abrir
+ESPINA|Púa de la planta
+BULBO|Raíz redonda del tulipán
+TUBERCULO|Engrosamiento subterráneo del tallo
+RIZOMA|Tallo subterráneo horizontal
+ESTAMBRE|Órgano masculino de la flor
+PISTILO|Órgano femenino de la flor
+FOTOSINTESIS|Proceso que usa la luz del sol
+CLOROFILA|Pigmento verde de las hojas
+GERMINAR|Empezar a brotar la semilla
+FLORECER|Abrirse las flores
+MARCHITAR|Perder la lozanía
+PODAR|Cortar las ramas sobrantes
+INJERTAR|Unir una rama a otro tronco
+SEMBRAR|Echar la simiente a la tierra
+COSECHAR|Recoger el fruto maduro
+REGAR|Dar agua al cultivo
+ABONAR|Añadir nutrientes a la tierra
+LABRAR|Trabajar la tierra con el arado
+BARBECHO|Tierra que descansa
+HUERTO|Terreno de hortalizas
+VIVERO|Criadero de plantas jóvenes
+INVERNADERO|Recinto para cultivar al abrigo
+JARDIN|Terreno de plantas ornamentales
+PARQUE|Jardín público de la ciudad
+BOSQUE|Terreno poblado de árboles
+SELVA|Bosque tropical muy denso
+ARBOLEDA|Grupo de árboles
+PINAR|Bosque de coníferas
+ROBLEDAL|Bosque de robles
+HAYEDO|Bosque de hayas
+ENCINAR|Bosque de encinas
+OLIVAR|Campo de olivos
+VINEDO|Terreno plantado de vides
+NARANJAL|Plantío de cítricos
+TRIGAL|Campo sembrado de cereal
+PRADO|Terreno de hierba para el ganado
+PASTIZAL|Tierra de pastos
+MATORRAL|Terreno de arbustos bajos
+MALEZA|Vegetación espesa y silvestre
+BROZA|Restos vegetales del suelo
+HOJARASCA|Hojas caídas del otoño
+MUSGO|Planta que cubre piedras húmedas
+LIQUEN|Simbiosis de hongo y alga
+HONGO|Ser vivo sin clorofila
+SETA|Hongo de sombrero comestible
+TRUFA|Hongo subterráneo muy caro
+CHAMPINON|Seta cultivada blanca
+NISCALO|Seta anaranjada de otoño
+BOLETO|Seta de sombrero carnoso
+AMANITA|Género de setas, algunas mortales
+ALGA|Vegetal acuático sin raíz
+PLANCTON|Seres diminutos que flotan en el mar
+ARRECIFE|Formación coralina marina
+CORAL|Animal que forma arrecifes
+DUNA|Montículo de arena movediza
+OASIS|Zona fértil en el desierto
+MANANTIAL|Brote natural de agua
+ARROYO|Corriente pequeña de agua
+CASCADA|Caída de agua del río
+TORRENTE|Corriente impetuosa de montaña
+LAGUNA|Depósito natural de agua pequeño
+PANTANO|Embalse artificial
+MARISMA|Terreno bajo inundado por el mar
+ESTUARIO|Desembocadura ancha de un río
+DELTA|Desembocadura en brazos
+CAUCE|Lecho por donde corre el agua
+RIBERA|Orilla del río
+ORILLA|Borde de un cauce o del mar
+ACANTILADO|Corte vertical de la costa
+CALA|Ensenada pequeña y recogida
+ENSENADA|Entrada del mar en la costa
+ISLOTE|Isla muy pequeña y rocosa
+BAHIA|Entrada amplia del mar
+PROMONTORIO|Altura que entra en el mar
+CABO|Punta de tierra en el mar
+CORDILLERA|Cadena de montañas
+SIERRA|Conjunto de montes en línea
+COLINA|Elevación suave del terreno
+CERRO|Monte aislado de poca altura
+LOMA|Elevación larga y suave
+MESETA|Llanura elevada
+VALLE|Depresión entre montañas
+CANON|Garganta profunda excavada por un río
+DESFILADERO|Paso estrecho entre montes
+BARRANCO|Corte abrupto del terreno
+PRECIPICIO|Corte de gran caída
+CUMBRE|Punto más alto de una montaña
+LADERA|Falda de la montaña
+PENDIENTE|Inclinación del terreno
+GLACIAR|Masa de hielo que fluye
+NEVERO|Nieve que no se derrite en verano
+ALUD|Desprendimiento de nieve
+VOLCAN|Montaña que expulsa lava
+CRATER|Boca de un volcán
+LAVA|Roca fundida que sale del volcán
+MAGMA|Roca fundida del interior terrestre
+GEODA|Cavidad con cristales
+ESTALACTITA|Formación que cuelga del techo de la cueva
+ESTALAGMITA|Formación que crece desde el suelo de la cueva
+CAVERNA|Cueva grande y profunda
+GRUTA|Cavidad natural en la roca
+SIMA|Cavidad muy profunda y vertical
+ROCIO|Gotas del amanecer sobre las hojas
+ESCARCHA|Rocío helado
+NIEBLA|Nube a ras del suelo
+BRUMA|Niebla ligera sobre el mar
+NUBE|Masa de vapor de agua en el cielo
+CHUBASCO|Lluvia fuerte y breve
+TORMENTA|Lluvia con aparato eléctrico
+RELAMPAGO|Resplandor de la tormenta
+TRUENO|Estruendo que sigue al rayo
+RAYO|Descarga eléctrica del cielo
+GRANIZO|Precipitación de hielo
+NIEVE|Precipitación de cristales blancos
+VENTISCA|Nieve arrastrada por el viento
+HELADA|Bajada de la temperatura bajo cero
+SEQUIA|Falta prolongada de lluvias
+INUNDACION|Exceso de agua que cubre el terreno
+HURACAN|Ciclón tropical de vientos destructores
+TORNADO|Torbellino de viento en embudo
+BRISA|Viento suave y agradable
+VENDAVAL|Viento fuerte del sur
+CIERZO|Viento frío del valle del Ebro
+LEVANTE|Viento del este mediterráneo
+PONIENTE|Viento del oeste
+TRAMONTANA|Viento del norte en Cataluña
+ARCOIRIS|Franja de colores tras la lluvia
+AURORA|Luz que precede al amanecer
+CREPUSCULO|Claridad tras la puesta del sol
+ECLIPSE|Ocultación de un astro por otro
+SOLSTICIO|Día más largo o más corto del año
+EQUINOCCIO|Día que iguala a la noche
+MAREA|Subida y bajada periódica del mar
+CORRIENTE|Movimiento continuo del agua
+OLEAJE|Sucesión de olas
+RESACA|Retroceso de la ola en la orilla
+ESPUMA|Burbujas de la ola al romper
+SALITRE|Sal que deja el mar

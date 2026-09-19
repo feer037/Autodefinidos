@@ -1,0 +1,471 @@
+# Sustantivos abstractos: terminaciones en ción, miento, idad, ancia
+ABDICACION|Renuncia al trono
+ABERRACION|Desviación de lo normal
+ABOLICION|Supresión de una ley
+ABSORCION|Acción de chupar un líquido
+ACELERACION|Aumento de la velocidad
+ACEPTACION|Buena acogida de algo
+ACLARACION|Explicación que despeja dudas
+ACOTACION|Nota al margen del texto
+ACREDITACION|Documento que identifica
+ACTIVACION|Puesta en marcha
+ACTUACION|Intervención ante el público
+ACUMULACION|Amontonamiento de cosas
+ACUSACION|Imputación de un delito
+ADAPTACION|Ajuste a nuevas condiciones
+ADICION|Suma de cantidades
+ADIVINACION|Predicción de lo oculto
+ADJUDICACION|Concesión en una subasta
+ADMIRACION|Asombro ante algo grande
+ADMISION|Entrada permitida
+ADOPCION|Toma de un hijo ajeno como propio
+ADORACION|Culto de amor a la divinidad
+ADQUISICION|Compra de un bien
+AFILIACION|Inscripción en una organización
+AFIRMACION|Dicho que sostiene algo
+AGITACION|Movimiento inquieto
+AGLOMERACION|Amontonamiento de gente
+AGRUPACION|Conjunto organizado
+ALIMENTACION|Modo de comer
+ALTERACION|Cambio del estado normal
+ALUCINACION|Visión que no existe
+AMPLIACION|Aumento del tamaño
+ANIMACION|Alegría y movimiento
+ANOTACION|Nota que se escribe
+APARICION|Presencia inesperada
+APLICACION|Puesta en práctica
+APRECIACION|Juicio sobre el valor de algo
+APROBACION|Conformidad que se da
+APROXIMACION|Acercamiento a algo
+ARTICULACION|Punto donde se unen dos huesos
+ASIGNACION|Cantidad destinada a algo
+ASOCIACION|Grupo con un fin común
+ASPIRACION|Deseo de alcanzar algo
+ATENCION|Interés que se presta
+AUTORIZACION|Permiso que se concede
+AVERIGUACION|Indagación de un hecho
+BENDICION|Gracia que se invoca
+CALCULACION|Operación con cantidades
+CALIFICACION|Nota que se pone
+CANCELACION|Anulación de un compromiso
+CELEBRACION|Fiesta por un motivo
+CIRCULACION|Movimiento por las vías
+CITACION|Llamada ante el juez
+CLASIFICACION|Orden por categorías
+COLABORACION|Trabajo hecho con otros
+COLECCION|Conjunto reunido de cosas
+COLOCACION|Puesta en su sitio
+COMBINACION|Unión ordenada de elementos
+COMPARACION|Examen de las diferencias
+COMPENSACION|Reparación de un daño
+COMPETICION|Prueba entre rivales
+COMPOSICION|Obra creada por un autor
+COMPRENSION|Capacidad de entender
+COMUNICACION|Transmisión de un mensaje
+CONCENTRACION|Reunión de mucha gente
+CONDENSACION|Paso del vapor a líquido
+CONDUCCION|Manejo del vehículo
+CONFESION|Reconocimiento de la culpa
+CONFIGURACION|Disposición de las partes
+CONFIRMACION|Ratificación de algo
+CONFUSION|Falta de claridad
+CONGREGACION|Comunidad religiosa
+CONSAGRACION|Dedicación a lo sagrado
+CONSERVACION|Mantenimiento en buen estado
+CONSIDERACION|Respeto hacia los demás
+CONSTRUCCION|Obra que se levanta
+CONSULTACION|Petición de parecer
+CONTAMINACION|Suciedad del medio ambiente
+CONTEMPLACION|Mirada atenta y serena
+CONTINUACION|Prosecución de algo
+CONTRACCION|Encogimiento de un músculo
+CONTRIBUCION|Aportación a un fin
+CONVERSACION|Charla entre personas
+CONVICCION|Idea firme y arraigada
+COOPERACION|Trabajo conjunto
+CORRECCION|Enmienda de un error
+CORRUPCION|Abuso del cargo por interés
+CREACION|Obra hecha de la nada
+CURACION|Recuperación de la salud
+DECLARACION|Manifestación ante la autoridad
+DECORACION|Adorno de una estancia
+DEDICACION|Entrega a una tarea
+DEFINICION|Explicación del significado
+DEFORMACION|Alteración de la forma
+DEGRADACION|Pérdida de categoría
+DEMOSTRACION|Prueba evidente
+DENOMINACION|Nombre que se da
+DESAPARICION|Hecho de dejar de verse
+DESCRIPCION|Relato de cómo es algo
+DESIGNACION|Nombramiento para un cargo
+DESILUSION|Pérdida de la ilusión
+DESTRUCCION|Ruina total de algo
+DETENCION|Arresto policial
+DETERMINACION|Firmeza al decidir
+DEVOLUCION|Entrega de lo recibido
+DIGESTION|Asimilación del alimento
+DIRECCION|Rumbo o domicilio
+DISCRIMINACION|Trato desigual e injusto
+DISCUSION|Debate acalorado
+DISMINUCION|Reducción de la cantidad
+DISPOSICION|Colocación y ánimo para algo
+DISTRACCION|Falta de atención
+DISTRIBUCION|Reparto entre varios
+DIVERSION|Entretenimiento agradable
+DIVISION|Reparto en partes
+DOCUMENTACION|Conjunto de papeles
+DONACION|Entrega desinteresada
+DURACION|Tiempo que algo dura
+EDUCACION|Formación de la persona
+EJECUCION|Cumplimiento de una orden
+ELABORACION|Proceso de fabricar
+ELECCION|Votación o preferencia
+ELIMINACION|Supresión de algo
+EMISION|Difusión de un programa
+EMOCION|Alteración del ánimo
+EQUIVOCACION|Error cometido
+ESTACION|Parada del ferrocarril
+EVACUACION|Desalojo de un lugar
+EVALUACION|Juicio sobre unos resultados
+EVOLUCION|Cambio gradual
+EXAGERACION|Dicho que pasa de la medida
+EXCEPCION|Caso que se sale de la regla
+EXCURSION|Salida al campo
+EXHIBICION|Muestra ante el público
+EXPEDICION|Viaje organizado
+EXPLICACION|Aclaración de algo
+EXPLORACION|Recorrido de lo desconocido
+EXPLOTACION|Aprovechamiento de un recurso
+EXPORTACION|Venta al extranjero
+EXPOSICION|Muestra de obras
+EXPRESION|Modo de decir algo
+EXTENSION|Superficie que abarca algo
+FABRICACION|Producción de un artículo
+FASCINACION|Atracción irresistible
+FEDERACION|Unión de asociaciones
+FELICITACION|Enhorabuena que se da
+FERMENTACION|Transformación del mosto
+FIJACION|Sujeción firme
+FILIACION|Datos personales
+FORMACION|Preparación que se recibe
+FUNCION|Tarea propia o espectáculo
+FUNDACION|Creación de una institución
+GENERACION|Conjunto de coetáneos
+GESTION|Trámite que se realiza
+GRADUACION|Obtención de un grado
+GRABACION|Registro de sonido
+HABITACION|Cuarto de la casa
+IDENTIFICACION|Reconocimiento de alguien
+ILUMINACION|Conjunto de luces
+ILUSION|Esperanza que alegra
+ILUSTRACION|Dibujo de un texto
+IMAGINACION|Facultad de figurarse cosas
+IMITACION|Copia de un modelo
+IMPRESION|Huella que deja algo
+IMPROVISACION|Actuación sin preparar
+INCLINACION|Desviación o afición
+INDEMNIZACION|Reparación económica
+INDICACION|Señal que orienta
+INFECCION|Invasión de microbios
+INFLAMACION|Hinchazón dolorosa
+INFORMACION|Noticia que se da
+INICIACION|Comienzo en una práctica
+INSCRIPCION|Texto grabado o apunte
+INSPIRACION|Idea que llega al artista
+INSTALACION|Montaje de un equipo
+INSTRUCCION|Enseñanza que se recibe
+INTENCION|Propósito de hacer algo
+INTERPRETACION|Modo de entender una obra
+INTERRUPCION|Corte de lo que se hace
+INTRODUCCION|Entrada de un escrito
+INUNDACION|Anegamiento por el agua
+INVASION|Entrada violenta en un país
+INVENCION|Creación de algo nuevo
+INVERSION|Colocación de capital
+INVESTIGACION|Estudio a fondo
+INVITACION|Convite que se hace
+LIBERACION|Puesta en libertad
+LIMITACION|Restricción que se pone
+LOCALIZACION|Hallazgo del paradero
+MANIFESTACION|Marcha reivindicativa
+MEDICACION|Conjunto de medicinas
+MEDITACION|Reflexión profunda
+MENCION|Cita de pasada
+MIGRACION|Traslado de población
+MODERACION|Mesura en el obrar
+MODIFICACION|Cambio introducido
+MOTIVACION|Razón que impulsa
+MULTIPLICACION|Operación de repetir un número
+MUTACION|Cambio en el material genético
+NARRACION|Relato de unos hechos
+NAVEGACION|Viaje por mar o por aire
+NEGOCIACION|Trato para acordar
+NOTIFICACION|Aviso oficial
+NUMERACION|Serie de los números
+OBLIGACION|Deber que se impone
+OBSERVACION|Mirada atenta
+OCUPACION|Trabajo o toma de un lugar
+OPERACION|Intervención quirúrgica
+OPINION|Parecer sobre algo
+OPOSICION|Resistencia o prueba selectiva
+ORACION|Rezo o frase con sentido
+ORDENACION|Puesta en orden
+ORGANIZACION|Entidad ordenada para un fin
+ORIENTACION|Determinación del rumbo
+PARTICIPACION|Toma de parte en algo
+PERCEPCION|Captación por los sentidos
+PERFECCION|Estado sin defecto
+PERSECUCION|Acoso al que huye
+PLANIFICACION|Trazado de un plan
+POBLACION|Conjunto de los habitantes
+POSICION|Lugar que se ocupa
+PREOCUPACION|Inquietud por algo
+PREPARACION|Disposición previa
+PRESENTACION|Acto de dar a conocer
+PRESION|Fuerza sobre una superficie
+PREVENCION|Medida que evita un mal
+PRODUCCION|Conjunto de lo producido
+PROHIBICION|Orden que impide algo
+PROMOCION|Impulso o conjunto de compañeros
+PRONUNCIACION|Modo de articular los sonidos
+PROPORCION|Relación entre las partes
+PROPOSICION|Propuesta que se hace
+PROTECCION|Amparo que se da
+PUBLICACION|Obra que se saca a la luz
+PUNTUACION|Signos que ordenan el texto
+RACION|Porción de comida
+REACCION|Respuesta a un estímulo
+REBELION|Alzamiento contra el poder
+RECAUDACION|Dinero reunido
+RECEPCION|Acogida o vestíbulo del hotel
+RECOMENDACION|Consejo que se da
+RECONCILIACION|Vuelta a la buena relación
+RECUPERACION|Vuelta al estado anterior
+REDACCION|Escrito sobre un tema
+REDUCCION|Disminución de algo
+REFLEXION|Pensamiento detenido
+REFORMACION|Cambio para mejorar
+RELACION|Trato entre personas
+RENOVACION|Sustitución por algo nuevo
+REPARACION|Arreglo de lo estropeado
+REPETICION|Vuelta a hacer lo mismo
+REPRESENTACION|Función teatral
+REPRODUCCION|Copia de un original
+REPUTACION|Fama que se tiene
+RESOLUCION|Decisión que se toma
+RESPIRACION|Entrada y salida del aire
+RESTAURACION|Arreglo de una obra antigua
+REUNION|Junta de varias personas
+REVELACION|Descubrimiento de un secreto
+REVISION|Nuevo examen de algo
+REVOLUCION|Cambio profundo y violento
+ROTACION|Giro sobre un eje
+SALVACION|Libración de un peligro
+SATISFACCION|Gusto por lo logrado
+SELECCION|Conjunto de los escogidos
+SENSACION|Impresión de los sentidos
+SEPARACION|Puesta aparte
+SITUACION|Estado en que algo se halla
+SOLUCION|Respuesta a un problema
+SUBVENCION|Ayuda económica oficial
+SUCESION|Serie ordenada de cosas
+SUGERENCIA|Idea que se propone
+SUPERACION|Vencimiento de una dificultad
+SUPRESION|Eliminación de algo
+SUSPENSION|Interrupción temporal
+SUSTITUCION|Cambio de una cosa por otra
+TENTACION|Impulso a hacer lo prohibido
+TERMINACION|Final de algo
+TRADICION|Costumbre transmitida
+TRADUCCION|Paso a otra lengua
+TRANSFORMACION|Cambio de forma
+TRANSMISION|Envío de una señal
+TRIPULACION|Personal de una nave
+UBICACION|Lugar donde algo está
+UNIFICACION|Reducción a una unidad
+UTILIZACION|Empleo que se hace de algo
+VACACION|Día de descanso
+VACILACION|Duda al decidirse
+VACUNACION|Aplicación de vacunas
+VALORACION|Juicio sobre el valor
+VARIACION|Cambio de una cosa
+VENERACION|Respeto muy profundo
+VIBRACION|Temblor rápido
+VIOLACION|Quebranto de una ley
+VOTACION|Emisión de los votos
+ABASTECIMIENTO|Suministro de provisiones
+ACERCAMIENTO|Aproximación entre dos partes
+ACOMPANAMIENTO|Lo que acompaña a un plato
+ACONTECIMIENTO|Suceso importante
+ADELANTAMIENTO|Maniobra de pasar a otro coche
+AGOTAMIENTO|Falta total de fuerzas
+AISLAMIENTO|Separación de todo contacto
+ALEJAMIENTO|Distancia que se toma
+ALOJAMIENTO|Sitio donde hospedarse
+ALUMBRAMIENTO|Parto de la madre
+ALZAMIENTO|Levantamiento contra el poder
+APARCAMIENTO|Lugar donde dejar el coche
+APLAZAMIENTO|Traslado a otra fecha
+ARMAMENTO|Conjunto de las armas
+ARREPENTIMIENTO|Pesar por lo hecho
+ASENTAMIENTO|Lugar donde se establece un grupo
+ATRAGANTAMIENTO|Obstrucción de la garganta
+AYUNTAMIENTO|Corporación del municipio
+CALENTAMIENTO|Subida de la temperatura
+CANSANCIO|Falta de fuerzas
+CASAMIENTO|Unión matrimonial
+COMPORTAMIENTO|Manera de conducirse
+CONOCIMIENTO|Saber que se tiene
+CONSENTIMIENTO|Permiso que se da
+CONVENCIMIENTO|Certeza firme
+CRECIMIENTO|Aumento de tamaño
+CUMPLIMIENTO|Realización de lo debido
+DERRUMBAMIENTO|Caída de una construcción
+DESCUBRIMIENTO|Hallazgo de lo ignorado
+DESLIZAMIENTO|Movimiento suave por una superficie
+DESPLAZAMIENTO|Traslado de un lugar a otro
+DESPRENDIMIENTO|Caída de tierras o generosidad
+ENCARCELAMIENTO|Ingreso en prisión
+ENCUADRAMIENTO|Colocación dentro de un marco
+ENFRENTAMIENTO|Choque entre dos partes
+ENRIQUECIMIENTO|Aumento de la riqueza
+ENTENDIMIENTO|Facultad de comprender
+ENTRENAMIENTO|Sesión de preparación
+ENVEJECIMIENTO|Paso de los años
+ESTABLECIMIENTO|Local de negocio
+ESTANCAMIENTO|Detención del curso de algo
+ESTREMECIMIENTO|Temblor súbito
+FALLECIMIENTO|Muerte de una persona
+FINANCIAMIENTO|Aporte de fondos
+FUNCIONAMIENTO|Modo en que algo trabaja
+HUNDIMIENTO|Caída al fondo
+LANZAMIENTO|Acción de arrojar algo
+LEVANTAMIENTO|Alzamiento o elevación
+MANTENIMIENTO|Conservación en buen estado
+MEJORAMIENTO|Paso a mejor estado
+MOVIMIENTO|Cambio de posición
+NACIMIENTO|Venida al mundo
+OFRECIMIENTO|Propuesta que se hace
+PADECIMIENTO|Sufrimiento que se soporta
+PENSAMIENTO|Idea de la mente
+PLANTEAMIENTO|Modo de exponer un problema
+PROCEDIMIENTO|Manera de obrar
+RAZONAMIENTO|Serie de ideas encadenadas
+RECIBIMIENTO|Acogida que se da
+RECOGIMIENTO|Concentración interior
+RECONOCIMIENTO|Identificación o gratitud
+REMORDIMIENTO|Pesar de la conciencia
+RENDIMIENTO|Provecho que algo produce
+RESENTIMIENTO|Rencor guardado
+SALVAMENTO|Rescate de un peligro
+SEGUIMIENTO|Vigilancia continuada
+SENTIMIENTO|Emoción del corazón
+SOSTENIMIENTO|Mantenimiento de algo
+SUFRIMIENTO|Dolor que se padece
+TRATAMIENTO|Modo de curar o de tratar
+VENCIMIENTO|Fecha final de un plazo
+YACIMIENTO|Lugar con minerales o restos
+ACTIVIDAD|Conjunto de tareas
+AFINIDAD|Semejanza o atracción
+AGILIDAD|Soltura de movimientos
+AMABILIDAD|Trato agradable
+ANSIEDAD|Inquietud angustiosa
+ANTIGUEDAD|Tiempo remoto o pieza vieja
+AUTORIDAD|Poder para mandar
+CANTIDAD|Número o porción de algo
+CAPACIDAD|Cabida o aptitud
+CARIDAD|Virtud de socorrer al pobre
+CASUALIDAD|Coincidencia fortuita
+CIUDAD|Población grande
+CLARIDAD|Luz que permite ver
+COMODIDAD|Bienestar sin esfuerzo
+CRUELDAD|Falta de compasión
+CURIOSIDAD|Ganas de saber
+DEBILIDAD|Falta de fuerza
+DENSIDAD|Masa por unidad de volumen
+DIFICULTAD|Estorbo que complica algo
+DIGNIDAD|Respeto que uno merece
+ENFERMEDAD|Alteración de la salud
+ETERNIDAD|Tiempo sin fin
+FACILIDAD|Poca dificultad
+FACULTAD|Poder o centro universitario
+FELICIDAD|Estado de dicha
+FIDELIDAD|Constancia en el afecto
+GENEROSIDAD|Largueza al dar
+GRAVEDAD|Fuerza que atrae al suelo
+HABILIDAD|Destreza para algo
+HUMANIDAD|Conjunto de las personas
+HUMEDAD|Agua en el ambiente
+HUMILDAD|Ausencia de soberbia
+IDENTIDAD|Conjunto de rasgos propios
+IGUALDAD|Falta de diferencias
+INTENSIDAD|Grado de fuerza
+LIBERTAD|Ausencia de ataduras
+LOCALIDAD|Población o asiento
+MAYORIA|Parte más numerosa
+MITAD|Cada una de dos partes iguales
+NECESIDAD|Falta de algo preciso
+NOVEDAD|Cosa recién aparecida
+OPORTUNIDAD|Ocasión favorable
+PROPIEDAD|Lo que se posee
+REALIDAD|Lo que existe de verdad
+RESPONSABILIDAD|Obligación de responder
+SEGURIDAD|Ausencia de peligro
+SENCILLEZ|Falta de complicación
+SERENIDAD|Calma del ánimo
+SOCIEDAD|Conjunto de personas
+SOLEDAD|Estado de estar solo
+TEMPESTAD|Tormenta violenta
+UNIVERSIDAD|Centro de estudios superiores
+UTILIDAD|Provecho que se saca
+VARIEDAD|Diversidad de cosas
+VELOCIDAD|Rapidez del movimiento
+VERDAD|Lo conforme a la realidad
+VOLUNTAD|Facultad de decidir
+ABUNDANCIA|Gran cantidad
+ARROGANCIA|Soberbia del que se cree superior
+CIRCUNSTANCIA|Condición que rodea un hecho
+CONSTANCIA|Firmeza en el empeño
+DISTANCIA|Espacio entre dos puntos
+ELEGANCIA|Gusto refinado
+FRAGANCIA|Olor muy agradable
+IGNORANCIA|Falta de conocimientos
+IMPORTANCIA|Valor de una cosa
+INFANCIA|Primera edad de la vida
+SUSTANCIA|Materia de que algo consta
+TOLERANCIA|Respeto a lo ajeno
+VIGILANCIA|Cuidado atento
+ADOLESCENCIA|Edad entre niñez y juventud
+APARIENCIA|Aspecto exterior
+AUSENCIA|Falta de alguien
+CLEMENCIA|Perdón del poderoso
+COINCIDENCIA|Encuentro casual
+COMPETENCIA|Rivalidad o aptitud
+CONCIENCIA|Conocimiento del bien y el mal
+CONFERENCIA|Charla ante un público
+CONSECUENCIA|Efecto de una causa
+CREENCIA|Idea que se tiene por cierta
+DECADENCIA|Declive de algo
+DIFERENCIA|Resultado de la resta
+EXCELENCIA|Calidad superior
+EXISTENCIA|Hecho de existir
+EXPERIENCIA|Saber que da la vida
+FRECUENCIA|Repetición en el tiempo
+HERENCIA|Bienes que se reciben
+INDEPENDENCIA|Libertad de un país
+INFLUENCIA|Poder sobre los demás
+INOCENCIA|Ausencia de culpa
+INSISTENCIA|Repetición con empeño
+INTELIGENCIA|Capacidad de comprender
+PACIENCIA|Virtud de saber esperar
+PERTENENCIA|Cosa que se posee
+PRESENCIA|Hecho de estar delante
+PROCEDENCIA|Origen de algo
+PRUDENCIA|Cautela al obrar
+RESIDENCIA|Casa donde se vive
+RESISTENCIA|Capacidad de aguantar
+SECUENCIA|Serie ordenada
+TENDENCIA|Inclinación hacia algo
+TRANSPARENCIA|Cualidad de dejar ver a través
+URGENCIA|Necesidad inmediata
+VIOLENCIA|Uso de la fuerza bruta

@@ -1,0 +1,361 @@
+# Vocabulario general: palabras con J, K y L
+JABALI|Cerdo salvaje del monte
+JABON|Pastilla de lavar
+JACA|Caballo de poca alzada
+JACINTO|Flor bulbosa muy olorosa
+JACTANCIA|Alarde presuntuoso
+JADEO|Respiración agitada
+JAMON|Pernil curado del cerdo
+JARABE|Medicina líquida y dulce
+JARDIN|Terreno con flores
+JARDINERO|Cuida las plantas
+JARRA|Vasija con asa y pico
+JARRON|Recipiente decorativo
+JAULA|Encierro de barrotes
+JAZMIN|Flor blanca de olor intenso
+JEFE|Persona que manda
+JEQUE|Autoridad árabe
+JERARQUIA|Orden de los cargos
+JEREZ|Vino andaluz de Cádiz
+JERGA|Habla de un oficio
+JERINGA|Instrumento de inyectar
+JEROGLIFICO|Escritura egipcia con dibujos
+JERSEY|Prenda de lana de punto
+JILGUERO|Pájaro cantor de colores
+JINETE|Monta a caballo
+JIRAFA|Animal del cuello largo
+JIRON|Trozo desgarrado de tela
+JORNADA|Día de trabajo
+JORNAL|Paga de un día
+JOROBA|Bulto de la espalda
+JOTA|Danza popular de Aragón
+JOVEN|De pocos años
+JOYA|Alhaja de valor
+JOYERO|Vende anillos y pulseras
+JUBILADO|Que ya no trabaja por edad
+JUDIA|Legumbre de vaina verde
+JUDIO|Practicante del judaísmo
+JUEGO|Diversión con reglas
+JUERGA|Fiesta ruidosa y alegre
+JUEVES|Día que sigue al miércoles
+JUEZ|Administra justicia
+JUGADOR|Participa en el partido
+JUGO|Líquido de la fruta
+JUGUETE|Entretiene a los niños
+JUICIO|Vista en el tribunal
+JULIO|Mes de las vacaciones
+JUNCO|Planta de los pantanos
+JUNGLA|Selva tropical espesa
+JUNIO|Mes que abre el verano
+JUNTA|Asamblea de socios
+JURADO|Tribunal popular
+JURAMENTO|Promesa solemne
+JUSTICIA|Virtud de dar a cada uno lo suyo
+JUSTO|Que obra con equidad
+JUVENTUD|Edad de los jóvenes
+JUZGADO|Sede del juez
+JABALINA|Se lanza en atletismo
+JABONERA|Recipiente del baño
+JACTARSE|Presumir sin medida
+JADEAR|Respirar con dificultad
+JALEAR|Animar dando palmas
+JALEO|Ruido y desorden
+JALON|Hito que marca el camino
+JAMAS|En ningún momento
+JAQUECA|Dolor fuerte de cabeza
+JARDINERIA|Cuidado de las plantas
+JASPE|Piedra de vetas de colores
+JAULON|Jaula muy grande
+JERARCA|Superior de una organización
+JERINGUILLA|Aguja de las vacunas
+JESUITA|Miembro de la Compañía de Jesús
+JIBIA|Molusco parecido al calamar
+JILGUERO|Ave de canto variado
+JINETA|Mamífero carnívoro de cola anillada
+JOCOSO|Alegre y chistoso
+JOFAINA|Palangana de lavarse
+JORNALERO|Trabaja a jornal
+JOROBAR|Fastidiar mucho
+JUBILAR|Retirar del trabajo
+JUBILEO|Año santo de la Iglesia
+JUBON|Prenda antigua ceñida al torso
+JUDICIAL|Relativo a los tribunales
+JUGAR|Tomar parte en un juego
+JUGOSO|Lleno de zumo
+JUGUETON|Que siempre quiere jugar
+JUNTAR|Poner una cosa con otra
+JURAR|Prometer con solemnidad
+JURIDICO|Relativo al derecho
+JURISTA|Experto en leyes
+JUSTIFICAR|Probar que se tenía razón
+JUZGAR|Dictar sentencia
+KARATE|Arte marcial japonés
+KAYAK|Canoa esquimal de pala doble
+KILO|Unidad de mil gramos
+KILOMETRO|Mil metros
+KIOSCO|Puesto de la prensa
+KIWI|Fruta verde de piel peluda
+KOALA|Marsupial del eucalipto
+LABERINTO|Entramado de pasillos sin salida
+LABIO|Cada borde de la boca
+LABOR|Trabajo que se realiza
+LABRADOR|Cultiva el campo
+LACA|Barniz brillante
+LACAYO|Criado de librea
+LADERA|Falda de la montaña
+LADO|Costado de un objeto
+LADRILLO|Bloque cocido de barro
+LADRON|Quien roba
+LAGARTIJA|Reptil pequeño de los muros
+LAGARTO|Reptil de cola larga
+LAGO|Masa grande de agua dulce
+LAGRIMA|Gota que sale del ojo
+LAGUNA|Lago pequeño
+LAMENTO|Queja dolorosa
+LAMINA|Plancha delgada
+LAMPARA|Da luz en la casa
+LANA|Pelo del ganado ovino
+LANCHA|Barca a motor
+LANGOSTA|Crustáceo de largas antenas
+LANZA|Arma de asta y punta
+LAPIDA|Piedra con inscripción
+LAPIZ|Escribe con mina
+LARGO|De gran longitud
+LARINGE|Órgano de la voz
+LARVA|Primera fase del insecto
+LASTIMA|Pena que algo produce
+LASTRE|Peso que estorba
+LATA|Envase de conservas
+LATIDO|Golpe del corazón
+LATIGO|Azota a las caballerías
+LATIN|Lengua de Cicerón
+LATITUD|Distancia al ecuador
+LATON|Aleación de cobre y cinc
+LAUREL|Hoja aromática del guiso
+LAVA|Materia fundida del volcán
+LAVABO|Pila del cuarto de baño
+LAVADORA|Máquina de lavar la ropa
+LAZO|Nudo con dos anillas
+LEAL|Fiel y noble
+LECCION|Tema que se aprende
+LECHE|Alimento de la vaca
+LECHUGA|Verdura de la ensalada
+LECHUZA|Rapaz nocturna de cara blanca
+LECTURA|Acción de leer
+LEGADO|Herencia que se deja
+LEGION|Unidad del ejército romano
+LEGUMBRE|Garbanzo o lenteja
+LEJIA|Desinfecta y blanquea
+LEMA|Frase que resume una idea
+LENGUA|Órgano del gusto
+LENGUADO|Pez plano de fondo marino
+LENTE|Cristal que aumenta
+LENTEJA|Legumbre pequeña y plana
+LENADOR|Corta árboles del bosque
+LEON|Fiera de gran melena
+LEOPARDO|Felino manchado de África
+LEPRA|Antigua enfermedad de la piel
+LESION|Daño en el cuerpo
+LETRA|Cada signo del abecedario
+LEVADURA|Hace subir la masa
+LEY|Norma jurídica
+LEYENDA|Relato tradicional fabuloso
+LIBELULA|Insecto de alas transparentes
+LIBERTAD|Ausencia de ataduras
+LIBRA|Moneda de Londres
+LIBRERIA|Tienda de libros
+LIBRETA|Cuaderno pequeño
+LIBRO|Obra impresa y encuadernada
+LICENCIA|Permiso oficial
+LICOR|Bebida de alta graduación
+LIDER|Cabeza de un grupo
+LIEBRE|Roedor veloz del campo
+LIENZO|Tela del pintor
+LIGA|Competición deportiva
+LIJA|Papel que pule la madera
+LIMA|Herramienta que desgasta
+LIMITE|Línea que separa
+LIMON|Cítrico amarillo
+LIMOSNA|Ayuda que se da al pobre
+LIMPIEZA|Ausencia de suciedad
+LINAJE|Ascendencia de una familia
+LINCE|Felino ibérico de orejas con pinceles
+LINEA|Trazo continuo
+LINTERNA|Luz portátil de mano
+LIQUIDO|Estado del agua
+LIRA|Instrumento antiguo de cuerda
+LIRIO|Flor de tres pétalos
+LISTA|Relación ordenada
+LITERA|Cama de dos pisos
+LITIGIO|Pleito entre partes
+LITRO|Unidad de volumen
+LLAGA|Úlcera abierta
+LLAMA|Fuego que asciende
+LLANO|Terreno sin desniveles
+LLANTA|Aro metálico de la rueda
+LLANTO|Derramamiento de lágrimas
+LLAVE|Abre y cierra la puerta
+LLEGADA|Final del recorrido
+LLUVIA|Precipitación de agua
+LOBO|Fiera que aúlla a la luna
+LOCAL|Sitio de negocio
+LOCO|Que ha perdido el juicio
+LOCOMOTORA|Arrastra los vagones
+LOCURA|Pérdida de la razón
+LODO|Barro blando
+LOGICA|Ciencia del razonamiento
+LOMA|Altura pequeña y alargada
+LOMO|Espalda de la res
+LONA|Tela recia del toldo
+LONCHA|Rodaja fina de jamón
+LONGITUD|Medida de lo largo
+LORO|Ave que repite palabras
+LOSA|Piedra lisa del suelo
+LOTE|Conjunto que se vende junto
+LOTERIA|Sorteo de la suerte
+LOZA|Vajilla de barro cocido
+LUCERO|Estrella muy brillante
+LUCHA|Pelea o combate
+LUCIERNAGA|Insecto que brilla de noche
+LUGAR|Sitio o paraje
+LUJO|Ostentación de riqueza
+LUNA|Astro de la noche
+LUNAR|Mancha pequeña de la piel
+LUNES|Primer día de la semana
+LUPA|Lente de aumento
+LUTO|Duelo por un muerto
+LUZ|Lo que hace visibles las cosas
+LABORIOSO|Muy trabajador
+LABRAR|Arar la tierra
+LACERAR|Herir con desgarros
+LACIO|Pelo liso y sin fuerza
+LACRAR|Cerrar con cera la carta
+LACTANCIA|Alimentación con leche materna
+LADEAR|Inclinar hacia un lado
+LADRAR|Dar voces el perro
+LAGRIMEAR|Verter lágrimas
+LAICO|Ajeno a la religión
+LAMENTAR|Sentir mucho una desgracia
+LAMER|Pasar la lengua
+LAMINAR|Reducir a láminas
+LANCEAR|Herir con lanza
+LANGOSTINO|Crustáceo de mesa apreciado
+LANGUIDEZ|Falta de fuerza y ánimo
+LANZAR|Arrojar con fuerza
+LAPIDAR|Matar a pedradas
+LAPSUS|Error involuntario al hablar
+LARGAR|Soltar de golpe
+LARGUERO|Palo horizontal de la portería
+LASTIMAR|Hacer daño a alguien
+LATENTE|Oculto pero presente
+LATERAL|Situado a un costado
+LATIR|Golpear el corazón
+LAUDABLE|Digno de alabanza
+LAUREADO|Premiado con honores
+LAVANDA|Planta morada muy olorosa
+LAVANDERIA|Local donde lavan la ropa
+LAVAR|Quitar la suciedad con agua
+LAXANTE|Facilita la evacuación
+LAZAR|Coger con lazo
+LEALTAD|Fidelidad a los suyos
+LECHAL|Cordero que aún mama
+LECHERIA|Tienda de productos lácteos
+LECHON|Cochinillo de leche
+LECTOR|Quien lee libros
+LEER|Interpretar lo escrito
+LEGADO|Representante del Papa
+LEGAJO|Atado de documentos
+LEGAL|Conforme a la ley
+LEGENDARIO|Propio de las leyendas
+LEGIBLE|Que se puede leer
+LEGISLAR|Hacer las leyes
+LEGITIMO|Conforme a derecho
+LEGUA|Antigua medida de camino
+LEJANO|Que está a distancia
+LENGUAJE|Manera de expresarse
+LENIDAD|Blandura al castigar
+LENTITUD|Falta de rapidez
+LENA|Madera para arder
+LEPROSO|Enfermo de lepra
+LERDO|Torpe y lento de entendederas
+LESIONAR|Producir un daño físico
+LETARGO|Sueño profundo y largo
+LETRERO|Cartel con un aviso
+LEUCEMIA|Cáncer de la sangre
+LEVANTAR|Poner en alto
+LEVE|De poca importancia
+LEVITA|Chaqueta larga antigua
+LEXICO|Vocabulario de una lengua
+LIAR|Envolver en un lío
+LIBAR|Chupar el néctar de la flor
+LIBELO|Escrito que difama
+LIBERAR|Poner en libertad
+LIBIDO|Deseo sexual
+LIBRAR|Salvar de un peligro
+LIBRERO|Vende libros
+LIBREA|Uniforme del criado
+LICENCIADO|Titulado universitario
+LICITAR|Pujar en una subasta
+LICUAR|Volver líquido
+LIDIAR|Torear la res
+LIGAR|Atar dos cosas
+LIGERO|De escaso peso
+LIJAR|Alisar con papel de vidrio
+LIMAR|Pulir con la lima
+LIMITAR|Poner un tope
+LIMOSNERO|Que pide caridad
+LIMPIAR|Quitar la suciedad
+LIMPIO|Sin mancha alguna
+LINDAR|Tener un límite común
+LINDE|Raya que separa dos fincas
+LINDO|Bonito y agradable
+LINGOTE|Barra de metal fundido
+LINGUISTICA|Ciencia del lenguaje
+LIQUIDAR|Vender a bajo precio
+LISIAR|Dejar con una lesión
+LISO|Sin asperezas
+LISONJA|Halago interesado
+LISTADO|Relación impresa
+LISTO|Rápido de entendimiento
+LITERAL|Al pie de la letra
+LITERATURA|Arte de la palabra escrita
+LITORAL|Franja junto al mar
+LITURGIA|Culto oficial de la Iglesia
+LIVIANO|De muy poco peso
+LIVIDO|Pálido y amoratado
+LLAMADA|Aviso por teléfono
+LLAMAR|Dar voces a alguien
+LLAMATIVO|Que atrae las miradas
+LLANEZA|Sencillez en el trato
+LLANURA|Terreno extenso y liso
+LLAVERO|Anilla de las llaves
+LLENAR|Ocupar todo el espacio
+LLEVAR|Transportar de un sitio a otro
+LLORAR|Verter lágrimas
+LLORON|Que llora por todo
+LLOVER|Caer agua del cielo
+LLOVIZNA|Lluvia muy fina
+LOAR|Alabar con palabras
+LOCALIZAR|Dar con el paradero
+LOCOMOCION|Traslado de un lugar a otro
+LOCUAZ|Que habla muchísimo
+LOCUTOR|Habla por la radio
+LOGRAR|Conseguir el objetivo
+LOMBRIZ|Gusano de la tierra
+LONGEVO|Que vive muchos años
+LONJA|Mercado del pescado
+LOQUERO|Cuidador de un manicomio
+LUBRICAR|Engrasar un mecanismo
+LUCIDO|De mente clara
+LUCIR|Mostrar con orgullo
+LUCRO|Ganancia que se obtiene
+LUDICO|Relativo al juego
+LUEGO|Después de un rato
+LUGARENO|Habitante de un pueblo
+LUGUBRE|Triste y sombrío
+LUMBRE|Fuego del hogar
+LUMINOSO|Que despide luz
+LUNATICO|De humor muy cambiante
+LUSTRAR|Sacar brillo
+LUSTRO|Periodo de cinco años
+LUZBEL|Nombre del ángel caído

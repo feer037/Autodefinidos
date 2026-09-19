@@ -1,0 +1,269 @@
+# Gerundios, participios, futuros, palabras compuestas e interjecciones
+AMANDO|Sintiendo amor
+ANDANDO|Yendo a pie
+ARDIENDO|Consumiéndose en llamas
+BAILANDO|Moviéndose al compás
+BEBIENDO|Tomando un líquido
+CANTANDO|Entonando una melodía
+COMIENDO|Tomando alimento
+CORRIENDO|Yendo muy deprisa
+DANDO|Entregando algo
+DICIENDO|Expresando con palabras
+DURMIENDO|Descansando en la cama
+ESCRIBIENDO|Trazando letras
+HABLANDO|Usando la palabra
+HACIENDO|Realizando una obra
+JUGANDO|Divirtiéndose con reglas
+LEYENDO|Recorriendo lo escrito
+LLORANDO|Vertiendo lágrimas
+MIRANDO|Fijando la vista
+NADANDO|Moviéndose en el agua
+OYENDO|Percibiendo sonidos
+PENSANDO|Usando el entendimiento
+PIDIENDO|Solicitando un favor
+PONIENDO|Colocando en su sitio
+RIENDO|Mostrando alegría
+SALIENDO|Yendo hacia fuera
+SIENDO|Existiendo de cierta manera
+SUBIENDO|Yendo hacia arriba
+TENIENDO|Poseyendo algo
+TRAYENDO|Llevando hacia aquí
+VIENDO|Percibiendo con los ojos
+VINIENDO|Acercándose aquí
+VIVIENDO|Teniendo vida
+VOLANDO|Yendo por el aire
+ABIERTO|Sin cerrar
+ANDADO|Recorrido a pie
+BEBIDO|Que ha tomado alcohol
+CABIDO|Que ha tenido sitio
+CAIDO|Que ha dado con el suelo
+COMIDO|Que ya ha almorzado
+CUBIERTO|Tapado por encima
+DICHO|Expresado con palabras
+DORMIDO|Que está durmiendo
+ESCRITO|Trazado con letras
+FRITO|Cocinado en aceite
+HECHO|Realizado por completo
+IDO|Que se ha marchado
+LEIDO|De muchas lecturas
+MUERTO|Que ha perdido la vida
+NACIDO|Venido al mundo
+OIDO|Sentido de la audición
+PARTIDO|Encuentro deportivo
+PERDIDO|Que no se encuentra
+PODIDO|Que ha tenido capacidad
+PUESTO|Colocado en su sitio
+ROTO|Partido en pedazos
+SABIDO|Conocido por todos
+SALIDO|Que ha ido fuera
+SUELTO|Que no está atado
+TENIDO|Poseído por alguien
+TRAIDO|Llevado hasta aquí
+VENIDO|Llegado hasta aquí
+VISTO|Percibido con los ojos
+VUELTO|Regresado al lugar
+AMARA|Sentirá amor
+ANDARA|Caminará a pie
+BEBERA|Tomará un líquido
+CANTARA|Entonará una canción
+COMERA|Tomará alimento
+CORRERA|Irá deprisa
+DARA|Entregará algo
+DIRA|Manifestará de palabra
+DORMIRA|Descansará dormido
+ENTRARA|Pasará adentro
+ESTARA|Se hallará presente
+HABRA|Existirá o habrá ocurrido
+HARA|Realizará una obra
+IRA|Se dirigirá a un sitio
+JUGARA|Tomará parte en la partida
+LEERA|Recorrerá lo escrito
+LLEGARA|Alcanzará el destino
+MIRARA|Fijará la vista
+PODRA|Tendrá capacidad
+PONDRA|Colocará en su sitio
+QUERRA|Sentirá amor
+SABRA|Tendrá conocimiento
+SALDRA|Irá hacia fuera
+SERA|Existirá entonces
+SUBIRA|Ascenderá al piso
+TENDRA|Poseerá algo
+TRAERA|Llevará hasta aquí
+VENDRA|Llegará hasta aquí
+VERA|Percibirá con los ojos
+VIVIRA|Tendrá vida
+VOLVERA|Regresará al lugar
+ABRELATAS|Utensilio que abre las conservas
+ABREBOTELLAS|Utensilio que quita las chapas
+SACACORCHOS|Utensilio que saca el tapón
+CASCANUECES|Utensilio que parte frutos secos
+CORTAUNAS|Utensilio que recorta las uñas
+LAVAPLATOS|Máquina que friega la vajilla
+LAVAVAJILLAS|Electrodoméstico que lava los platos
+LIMPIAPARABRISAS|Barre el agua del cristal del coche
+PARABRISAS|Cristal delantero del automóvil
+PARACHOQUES|Pieza que amortigua el golpe
+PARARRAYOS|Protege del rayo
+PARAGUAS|Protege de la lluvia
+PARASOL|Protege del sol
+GUARDABOSQUES|Vigilante del monte
+GUARDACOSTAS|Barco que vigila el litoral
+GUARDAESPALDAS|Escolta de un personaje
+GUARDAMETA|Portero de un equipo
+GUARDAMUEBLES|Almacén donde se depositan los muebles
+GUARDARROPA|Mueble o sala de los abrigos
+GUARDAPOLVO|Bata que protege la ropa
+CUBRECAMA|Cubierta de la cama
+CUBIERTOS|Cuchara, tenedor y cuchillo
+PORTAAVIONES|Buque base de aeronaves
+PORTAEQUIPAJES|Soporte del equipaje
+PORTALAMPARAS|Pieza donde se enrosca la bombilla
+PORTAMONEDAS|Bolsa de las monedas
+PORTAFOLIOS|Cartera de documentos
+PORTARRETRATOS|Marco para una fotografía
+SALVAVIDAS|Flotador de socorro
+SALVAMANTELES|Protege la mesa del calor
+SACAPUNTAS|Afila los lápices
+PISAPAPELES|Objeto que sujeta los papeles
+QUITAMANCHAS|Producto que borra las manchas
+QUITANIEVES|Máquina que despeja la carretera
+QUITASOL|Sombrilla grande
+RASCACIELOS|Edificio muy alto
+CORTAFUEGOS|Franja que frena el incendio
+CORTACESPED|Máquina que siega la hierba
+CORTACIRCUITOS|Dispositivo que corta la corriente
+ROMPEOLAS|Dique que protege el puerto
+ROMPECABEZAS|Juego de piezas encajables
+MATAMOSCAS|Utensilio que mata los insectos
+ESPANTAPAJAROS|Figura que ahuyenta las aves
+TRAGAPERRAS|Máquina de juego con monedas
+LIMPIABOTAS|Quien saca brillo al calzado
+LIMPIACRISTALES|Producto que da brillo al vidrio
+SOPLAMOCOS|Golpe dado en la cara
+TIRACHINAS|Juguete que lanza piedras
+TOCADISCOS|Aparato que reproduce vinilos
+ALTAVOZ|Aparato que emite sonido
+ALTIBAJOS|Alternancia de subidas y bajadas
+BOCACALLE|Entrada de una calle
+BOCAMANGA|Parte final de la manga
+CUMPLEANOS|Aniversario del nacimiento
+CIEMPIES|Artrópodo de muchas patas
+MEDIODIA|Las doce de la mañana
+MEDIANOCHE|Las doce de la noche
+PELIRROJO|De cabello colorado
+PELIAGUDO|Difícil y espinoso
+PUNTAPIE|Golpe dado con el pie
+TELARANA|Red que teje la araña
+TERRATENIENTE|Dueño de muchas tierras
+VAIVEN|Movimiento de ida y vuelta
+GIRASOL|Flor que sigue al astro rey
+HAZMERREIR|Persona de la que todos se ríen
+SABELOTODO|Quien presume de saberlo todo
+CORREVEIDILE|Quien lleva y trae chismes
+AGUAFIESTAS|Quien estropea la diversión
+BUSCAVIDAS|Quien se busca la vida
+CUENTAGOTAS|Utensilio que dosifica gotas
+CUENTAKILOMETROS|Mide la distancia recorrida
+LIMPIAPIPAS|Utensilio de limpiar la pipa
+MONTACARGAS|Ascensor de mercancías
+LAVADERO|Lugar donde se lava
+PASATIEMPO|Entretenimiento agradable
+PARAMILITAR|Grupo armado no oficial
+SUBMARINO|Nave que navega sumergida
+SUBSUELO|Capa bajo la superficie
+SOBREMESA|Charla de después de comer
+ANTEAYER|Dos días antes de hoy
+PASADOMANANA|Dos días después de hoy
+ENHORABUENA|Felicitación por un éxito
+ENSEGUIDA|Inmediatamente después
+SINVERGUENZA|Persona sin pudor
+BIENESTAR|Vida cómoda y sin apuros
+MALESTAR|Sensación de incomodidad
+BIENVENIDA|Saludo al que llega
+MALHUMOR|Mal talante pasajero
+MALEDUCADO|Sin modales
+CORTAPISA|Traba que limita algo
+AVEMARIA|Oración a la Virgen
+PADRENUESTRO|Oración que enseñó Jesús
+TIOVIVO|Atracción giratoria de feria
+PUNTAPIE|Patada que se da
+MEDIALUNA|Bollo con forma de cuarto creciente
+BOQUIABIERTO|Pasmado de asombro
+MANIATAR|Atar las manos
+MANUSCRITO|Escrito a mano
+MANIOBRA|Movimiento calculado
+TERREMOTO|Sacudida de la tierra
+MAREMOTO|Terremoto submarino
+TRAGALUZ|Ventana en el techo
+VANAGLORIA|Presunción vacía
+VERSICULO|Cada parte de un capítulo bíblico
+VICEVERSA|Al contrario
+AGRIDULCE|Entre agrio y dulce
+CLAROSCURO|Contraste de luces y sombras
+DUERMEVELA|Sueño ligero e interrumpido
+SORDOMUDO|Que ni oye ni habla
+BOCABAJO|Tendido con la cara al suelo
+BOCARRIBA|Tendido con la cara al cielo
+AHORA|En este mismo instante
+ADEMAS|Por si fuera poco
+ADONDE|A qué lugar
+ALREDEDOR|En torno a algo
+ANOCHE|La noche pasada
+APARTE|En lugar separado
+ASIMISMO|También, del mismo modo
+BASTANTE|En cantidad suficiente
+DEMASIADO|Más de lo debido
+ENCIMA|En la parte superior
+ENFRENTE|En la parte opuesta
+JUNTO|Al lado de algo
+QUIZAS|Tal vez
+TODAVIA|Aún, hasta ahora
+ADIOS|Fórmula de despedida
+HOLA|Saludo corriente
+GRACIAS|Palabra de agradecimiento
+PERDON|Palabra con que se pide disculpa
+SALUD|Se dice al brindar o al estornudar
+OJALA|Expresa un vivo deseo
+BRAVO|Grito de aprobación
+OLE|Jaleo del flamenco
+CARAMBA|Interjección de sorpresa
+CASPITA|Interjección de asombro
+VAYA|Interjección de contrariedad
+UPA|Voz para levantar al niño
+ARRE|Voz para arrear a las bestias
+SO|Voz para detener a las caballerías
+CHITON|Voz que pide silencio
+ZAPE|Voz para espantar al gato
+HALA|Voz que anima o expresa sorpresa
+AUPA|Voz de ánimo
+ANDA|Interjección de sorpresa
+TOMA|Interjección de satisfacción
+GUAU|Voz del perro
+MIAU|Voz del gato
+MUU|Voz de la vaca
+PIO|Voz del pollito
+BEE|Voz de la oveja
+QUIQUIRIQUI|Canto del gallo
+CROAC|Voz de la rana
+CUA|Voz del pato
+TICTAC|Sonido del reloj
+PUM|Ruido de un golpe o disparo
+PAF|Ruido de una bofetada
+CATAPLUM|Ruido de un batacazo
+PLAF|Ruido de algo que cae al agua
+CHOF|Ruido de algo blando al caer
+CLIC|Ruido del pulsador
+TILIN|Sonido de una campanilla
+TALAN|Sonido de la campana
+RIN|Sonido del timbre
+CHIN|Sonido de las copas al brindar
+ACHIS|Onomatopeya del estornudo
+JAJA|Risa escrita
+JEJE|Risa contenida escrita
+BUAH|Expresión de desdén
+PUAJ|Expresión de asco
+UFF|Expresión de alivio o fastidio
+AJA|Expresión de asentimiento
+EJEM|Carraspeo que llama la atención
+PST|Llamada discreta
+CHIST|Voz para pedir silencio

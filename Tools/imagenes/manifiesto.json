@@ -1,0 +1,551 @@
+{
+ "version": 1,
+ "imagenes": [
+  {
+   "archivo": "ban_francia",
+   "respuesta": "FRANCIA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_italia",
+   "respuesta": "ITALIA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_irlanda",
+   "respuesta": "IRLANDA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_belgica",
+   "respuesta": "BELGICA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_rumania",
+   "respuesta": "RUMANIA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_chad",
+   "respuesta": "CHAD",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_nigeria",
+   "respuesta": "NIGERIA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_peru",
+   "respuesta": "PERU",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_canada",
+   "respuesta": "CANADA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_alemania",
+   "respuesta": "ALEMANIA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_holanda",
+   "respuesta": "HOLANDA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_rusia",
+   "respuesta": "RUSIA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_hungria",
+   "respuesta": "HUNGRIA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_bulgaria",
+   "respuesta": "BULGARIA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_austria",
+   "respuesta": "AUSTRIA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_letonia",
+   "respuesta": "LETONIA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_espana",
+   "respuesta": "ESPANA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_colombia",
+   "respuesta": "COLOMBIA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_polonia",
+   "respuesta": "POLONIA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_ucrania",
+   "respuesta": "UCRANIA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_indonesia",
+   "respuesta": "INDONESIA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_mónaco",
+   "respuesta": "MONACO",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_suecia",
+   "respuesta": "SUECIA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_noruega",
+   "respuesta": "NORUEGA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_dinamarca",
+   "respuesta": "DINAMARCA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_finlandia",
+   "respuesta": "FINLANDIA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_islandia",
+   "respuesta": "ISLANDIA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_suiza",
+   "respuesta": "SUIZA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_japon",
+   "respuesta": "JAPON",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_bangladesh",
+   "respuesta": "BANGLADESH",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_marruecos",
+   "respuesta": "MARRUECOS",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_vietnam",
+   "respuesta": "VIETNAM",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_somalia",
+   "respuesta": "SOMALIA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_turquia",
+   "respuesta": "TURQUIA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_tunez",
+   "respuesta": "TUNEZ",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_grecia",
+   "respuesta": "GRECIA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_portugal",
+   "respuesta": "PORTUGAL",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_brasil",
+   "respuesta": "BRASIL",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_argentina",
+   "respuesta": "ARGENTINA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_mexico",
+   "respuesta": "MEXICO",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_israel",
+   "respuesta": "ISRAEL",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_china",
+   "respuesta": "CHINA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_jamaica",
+   "respuesta": "JAMAICA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_cuba",
+   "respuesta": "CUBA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_chile",
+   "respuesta": "CHILE",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_uruguay",
+   "respuesta": "URUGUAY",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "ban_venezuela",
+   "respuesta": "VENEZUELA",
+   "pie": "¿De qué país es esta bandera?",
+   "familia": "banderas"
+  },
+  {
+   "archivo": "obj_sol",
+   "respuesta": "SOL",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_luna",
+   "respuesta": "LUNA",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_estrella",
+   "respuesta": "ESTRELLA",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_corazon",
+   "respuesta": "CORAZON",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_casa",
+   "respuesta": "CASA",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_arbol",
+   "respuesta": "ARBOL",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_flor",
+   "respuesta": "FLOR",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_pez",
+   "respuesta": "PEZ",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_ancla",
+   "respuesta": "ANCLA",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_llave",
+   "respuesta": "LLAVE",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_reloj",
+   "respuesta": "RELOJ",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_paraguas",
+   "respuesta": "PARAGUAS",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_taza",
+   "respuesta": "TAZA",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_gafas",
+   "respuesta": "GAFAS",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_tijeras",
+   "respuesta": "TIJERAS",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_martillo",
+   "respuesta": "MARTILLO",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_copa",
+   "respuesta": "COPA",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_campana",
+   "respuesta": "CAMPANA",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_maleta",
+   "respuesta": "MALETA",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_guitarra",
+   "respuesta": "GUITARRA",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_barco",
+   "respuesta": "BARCO",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_avion",
+   "respuesta": "AVION",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_coche",
+   "respuesta": "COCHE",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_bicicleta",
+   "respuesta": "BICICLETA",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_llave_inglesa",
+   "respuesta": "ALICATES",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_libro",
+   "respuesta": "LIBRO",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_lapiz",
+   "respuesta": "LAPIZ",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_gota",
+   "respuesta": "GOTA",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_nube",
+   "respuesta": "NUBE",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_montana",
+   "respuesta": "MONTANA",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_copo",
+   "respuesta": "NIEVE",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_huevo",
+   "respuesta": "HUEVO",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_pera",
+   "respuesta": "PERA",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_manzana",
+   "respuesta": "MANZANA",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_uva",
+   "respuesta": "UVAS",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_zanahoria",
+   "respuesta": "ZANAHORIA",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_pastel",
+   "respuesta": "TARTA",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_sombrero",
+   "respuesta": "SOMBRERO",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_zapato",
+   "respuesta": "ZAPATO",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_candado",
+   "respuesta": "CANDADO",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_sobre",
+   "respuesta": "SOBRE",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_bandera",
+   "respuesta": "BANDERA",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_tambor",
+   "respuesta": "TAMBOR",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  },
+  {
+   "archivo": "obj_trompeta",
+   "respuesta": "TROMPETA",
+   "pie": "¿Qué es lo que se ve?",
+   "familia": "objetos"
+  }
+ ]
+}

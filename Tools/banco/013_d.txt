@@ -1,0 +1,515 @@
+# Vocabulario general: palabras que empiezan por D
+DADO|Cubo de seis caras numeradas
+DAMA|Señora distinguida
+DANZA|Baile artístico
+DANO|Perjuicio causado
+DARDO|Flecha pequeña de punta
+DATIL|Fruto dulce de la palmera
+DATO|Información concreta
+DEBATE|Discusión ordenada de ideas
+DEBER|Obligación que se tiene
+DEBIL|Falto de fuerzas
+DECADA|Periodo de diez años
+DECANO|El más antiguo de un grupo
+DECENA|Conjunto de diez
+DECENCIA|Honestidad en el trato
+DECEPCION|Desengaño que duele
+DECIBELIO|Unidad de intensidad sonora
+DECIMAL|Número con coma
+DECIR|Expresar con palabras
+DECISION|Resolución que se toma
+DECLIVE|Pendiente del terreno
+DECORADO|Escenario de la obra
+DEDAL|Protege el dedo al coser
+DEDICAR|Ofrecer a alguien
+DEDO|Cada extremo de la mano
+DEDUCIR|Sacar una conclusión
+DEFECTO|Imperfección de algo
+DEFENSA|Protección ante el ataque
+DEFICIT|Falta de dinero en las cuentas
+DEFINIR|Decir lo que algo es
+DEFORME|De forma irregular
+DEGOLLAR|Cortar el cuello
+DEHESA|Prado con encinas para el ganado
+DEIDAD|Ser divino
+DEJAR|Soltar o abandonar
+DELANTAL|Protege la ropa al cocinar
+DELANTE|En la parte anterior
+DELATAR|Descubrir al culpable
+DELEGADO|Representante de un grupo
+DELEITE|Placer muy grato
+DELETREAR|Decir letra por letra
+DELFIN|Cetáceo inteligente y juguetón
+DELGADO|De poco grosor
+DELICIA|Placer muy intenso
+DELINCUENTE|Comete delitos
+DELIRIO|Desvarío de la fiebre
+DELITO|Acción contra la ley
+DEMANDA|Reclamación ante el juez
+DEMENCIA|Pérdida de las facultades mentales
+DEMOCRACIA|Gobierno del pueblo
+DEMONIO|Espíritu del mal
+DEMORA|Retraso en la entrega
+DENSO|Muy compacto y espeso
+DENTADURA|Conjunto de los dientes
+DENTISTA|Arregla las muelas
+DENUNCIA|Aviso de un delito a la policía
+DEPARTAMENTO|Sección de una empresa
+DEPENDER|Estar sujeto a otro
+DEPORTE|Actividad física de competición
+DEPOSITO|Recipiente del combustible
+DEPRESION|Tristeza profunda y duradera
+DERECHA|Lado opuesto al de la izquierda
+DERECHO|Facultad que la ley concede
+DERIVA|Desvío del rumbo por la corriente
+DERRAMAR|Verter un líquido
+DERRIBAR|Echar abajo un edificio
+DERROCHE|Gasto excesivo e inútil
+DERROTA|Pérdida de la batalla
+DERRUMBE|Caída de un muro
+DESAFIO|Reto a otra persona
+DESAGUE|Por donde sale el agua
+DESAIRE|Desprecio hecho a alguien
+DESALINO|Falta de aseo y orden
+DESAMPARO|Falta de ayuda
+DESANIMO|Pérdida de las ganas
+DESARROLLO|Crecimiento progresivo
+DESASTRE|Suceso muy desgraciado
+DESAYUNO|Primera comida del día
+DESBOCADO|Caballo que no obedece
+DESCANSO|Pausa para reponer fuerzas
+DESCARGA|Bajada de un archivo
+DESCARO|Falta total de vergüenza
+DESCENSO|Bajada hacia abajo
+DESCONSUELO|Pena sin alivio
+DESCUENTO|Rebaja del precio
+DESCUIDO|Falta de atención
+DESDEN|Desprecio altivo
+DESDICHA|Mala suerte y desgracia
+DESEO|Ganas de tener algo
+DESERTOR|Soldado que huye
+DESFILE|Marcha ordenada ante el público
+DESGANA|Falta de apetito
+DESGRACIA|Suceso muy triste
+DESHIELO|Fusión de la nieve
+DESIERTO|Terreno seco y arenoso
+DESIGUAL|Que no es parejo
+DESILUSION|Pérdida de la esperanza
+DESLIZ|Falta cometida sin querer
+DESMAYO|Pérdida del conocimiento
+DESNUDO|Sin ropa encima
+DESORDEN|Falta de orden
+DESPACHO|Oficina de trabajo
+DESPEDIDA|Adiós al que se marcha
+DESPENSA|Donde se guardan los alimentos
+DESPERDICIO|Resto que se tira
+DESPERTADOR|Suena por la mañana
+DESPIDO|Cese del trabajador
+DESPISTE|Distracción momentánea
+DESPOJO|Restos de lo saqueado
+DESPRECIO|Falta de estima
+DESTELLO|Brillo breve e intenso
+DESTIERRO|Expulsión de la patria
+DESTINO|Suerte que espera a cada uno
+DESTREZA|Habilidad con las manos
+DESTRUIR|Deshacer por completo
+DESVAN|Cuarto trastero bajo el tejado
+DESVENTAJA|Condición peor que la del rival
+DESVIO|Camino alternativo
+DETALLE|Pormenor de algo
+DETECTIVE|Investiga casos privados
+DETERGENTE|Limpia la ropa sucia
+DEUDA|Dinero que se debe
+DEVOCION|Fervor religioso
+DIABETES|Exceso de azúcar en sangre
+DIABLO|Ser infernal con cuernos
+DIADEMA|Adorno en forma de arco para el pelo
+DIAGONAL|Línea que une vértices opuestos
+DIALECTO|Variedad regional de una lengua
+DIALOGO|Conversación entre dos
+DIAMANTE|Piedra preciosa durísima
+DIAMETRO|Recta que pasa por el centro
+DIANA|Blanco del tiro
+DIAPOSITIVA|Imagen que se proyecta
+DIARIO|Periódico de cada día
+DIBUJO|Trazo hecho con lápiz
+DICCIONARIO|Libro que define palabras
+DICHA|Felicidad grande
+DICIEMBRE|Último mes del año
+DICTADO|Texto que se escribe al oído
+DICTADURA|Régimen sin libertades
+DIENTE|Pieza que muerde en la boca
+DIESTRO|Que usa la mano derecha
+DIETA|Régimen de comidas
+DIEZ|Dedos de las dos manos
+DIFERENCIA|Resultado de la resta
+DIFICIL|Que cuesta mucho
+DIFUNTO|Persona fallecida
+DIGNIDAD|Respeto que uno merece
+DILEMA|Elección entre dos males
+DILIGENCIA|Coche de caballos del correo
+DILUVIO|Lluvia inmensa y bíblica
+DIMENSION|Medida de una figura
+DINAMITA|Explosivo de Nobel
+DINASTIA|Serie de reyes de una familia
+DINERO|Se usa para pagar
+DINOSAURIO|Reptil gigante extinguido
+DIOS|Ser supremo de la religión
+DIPLOMA|Título que se cuelga en la pared
+DIPUTADO|Miembro del parlamento
+DIQUE|Muro que contiene el agua
+DIRECCION|Calle y número de una casa
+DIRECTOR|Manda en la película
+DISCIPLINA|Cumplimiento estricto de las normas
+DISCO|Soporte redondo de música
+DISCULPA|Perdón que se pide
+DISCURSO|Charla ante un auditorio
+DISCUSION|Intercambio acalorado de razones
+DISENO|Trazado previo de un objeto
+DISFRAZ|Traje de carnaval
+DISGUSTO|Enfado y pesar
+DISPARO|Tiro con el arma
+DISTANCIA|Espacio entre dos puntos
+DISTINTO|Que no es igual
+DISTRITO|División de la ciudad
+DIVAN|Sofá sin respaldo
+DIVERSION|Entretenimiento agradable
+DIVIDIR|Partir en trozos iguales
+DIVISA|Moneda extranjera
+DIVORCIO|Ruptura legal del matrimonio
+DOBLE|Dos veces la cantidad
+DOCE|Meses del año
+DOCENA|Conjunto de doce unidades
+DOCTOR|Médico titulado
+DOCUMENTO|Papel oficial con datos
+DOLAR|Moneda de Estados Unidos
+DOLOR|Sensación que hace sufrir
+DOMICILIO|Casa donde uno vive
+DOMINGO|Día de descanso semanal
+DOMINIO|Poder sobre algo
+DOMINO|Juego de fichas con puntos
+DONACION|Entrega desinteresada
+DONCELLA|Joven virgen de la corte
+DORADO|De color del oro
+DORMITORIO|Cuarto de las camas
+DORSO|Parte de atrás de la hoja
+DOSIS|Cantidad de medicina
+DRAGON|Monstruo que echa fuego
+DRAMA|Obra teatral seria
+DUCHA|Chorro de agua para lavarse
+DUDA|Falta de seguridad
+DUELO|Combate entre dos
+DUENDE|Ser fantástico y travieso
+DUENO|Propietario de la casa
+DULCE|De sabor como el azúcar
+DUNA|Montículo de arena del desierto
+DUQUE|Título nobiliario más alto
+DURACION|Tiempo que algo dura
+DURAZNO|Melocotón americano
+DUREZA|Cualidad de lo que no se raya
+DINAMO|Genera corriente eléctrica
+DEBILIDAD|Falta de vigor
+DECADENCIA|Declive de un imperio
+DECAER|Ir a menos
+DECANTAR|Pasar el vino a otra jarra
+DECAPITAR|Cortar la cabeza
+DECENIO|Periodo de diez años
+DECIDIR|Tomar una resolución
+DECLAMAR|Recitar en voz alta
+DECLARAR|Manifestar ante el juez
+DECLINAR|Rechazar una invitación
+DECOLORAR|Quitar el color
+DECORAR|Adornar una estancia
+DECRETO|Norma que dicta el gobierno
+DEDICATORIA|Nota escrita en el libro
+DEDUCCION|Conclusión lógica
+DEFECAR|Expulsar los excrementos
+DEFENDER|Proteger del ataque
+DEFERENCIA|Muestra de respeto
+DEFORESTAR|Talar todos los árboles
+DEFRAUDAR|No cumplir lo esperado
+DEGENERAR|Empeorar progresivamente
+DEGUSTAR|Probar con placer
+DEIFICAR|Convertir en dios
+DELEGAR|Encargar a otro una tarea
+DELIBERAR|Reflexionar antes de decidir
+DELICADO|Que se rompe con facilidad
+DELIMITAR|Marcar los límites
+DELINEANTE|Dibuja planos
+DELIRAR|Desvariar por la fiebre
+DEMACRADO|Pálido y consumido
+DEMANDAR|Llevar a los tribunales
+DEMARCAR|Señalar los confines
+DEMOLER|Tirar abajo un muro
+DEMOSTRAR|Probar con hechos
+DENEGAR|No conceder lo pedido
+DENIGRAR|Hablar mal de alguien
+DENOMINAR|Poner nombre
+DENOTAR|Indicar o señalar
+DENTELLADA|Mordisco fuerte
+DENUNCIAR|Poner en conocimiento de la ley
+DEPARAR|Traer como consecuencia
+DEPILAR|Quitar el vello
+DEPLORAR|Lamentar profundamente
+DEPORTAR|Expulsar del país
+DEPOSITAR|Dejar en custodia
+DEPRAVADO|De costumbres corrompidas
+DEPRIMIR|Hundir el ánimo
+DEPURAR|Limpiar de impurezas
+DERIVAR|Proceder de otra cosa
+DEROGAR|Anular una ley
+DERRAME|Salida de sangre o líquido
+DERREDOR|Contorno que rodea
+DERRETIR|Fundir con el calor
+DERROCAR|Echar del poder
+DERROCHAR|Gastar sin medida
+DERROTAR|Vencer al contrario
+DESABRIDO|Soso y sin gracia
+DESABROCHAR|Soltar los botones
+DESACATO|Falta de respeto a la autoridad
+DESACIERTO|Error en la elección
+DESACREDITAR|Quitar la buena fama
+DESACUERDO|Falta de conformidad
+DESAFIAR|Retar a alguien
+DESAFINAR|Cantar fuera de tono
+DESAGRADO|Molestia por algo
+DESAHOGO|Alivio al contar la pena
+DESAHUCIO|Expulsión del inquilino
+DESALENTAR|Quitar los ánimos
+DESALOJAR|Hacer salir del local
+DESAMOR|Falta de cariño
+DESANDAR|Volver por el mismo camino
+DESAPARECER|Dejar de verse
+DESAPEGO|Falta de interés por algo
+DESAPROBAR|No dar el visto bueno
+DESARMAR|Quitar las armas
+DESARRAIGO|Pérdida de las raíces
+DESARREGLO|Falta de orden
+DESASOSIEGO|Inquietud del ánimo
+DESATAR|Soltar el nudo
+DESATENDER|No hacer caso
+DESATINO|Disparate cometido
+DESAUTORIZAR|Quitar el permiso
+DESAVENENCIA|Falta de armonía
+DESBANCAR|Quitar el puesto a otro
+DESBARATAR|Estropear un plan
+DESBORDAR|Salirse el río de madre
+DESCABALGAR|Bajarse del caballo
+DESCALZO|Sin zapatos
+DESCAMINAR|Apartar del buen camino
+DESCAMPADO|Terreno abierto y vacío
+DESCARADO|Sin ninguna vergüenza
+DESCARGAR|Quitar el peso
+DESCARRILAR|Salirse el tren de la vía
+DESCARTAR|Dejar fuera una opción
+DESCENDER|Bajar de nivel
+DESCIFRAR|Interpretar un código
+DESCOLGAR|Bajar lo que estaba colgado
+DESCOLORIDO|Sin viveza de color
+DESCOMPONER|Separar en partes
+DESCOMUNAL|Enorme y extraordinario
+DESCONCIERTO|Confusión y sorpresa
+DESCONECTAR|Quitar del enchufe
+DESCONFIAR|No fiarse de alguien
+DESCONGELAR|Sacar del hielo
+DESCONOCIDO|Que nadie sabe quién es
+DESCORCHAR|Abrir la botella
+DESCOSER|Deshacer la costura
+DESCRIBIR|Contar cómo es algo
+DESCUARTIZAR|Partir en trozos
+DESCUBRIR|Hallar lo oculto
+DESDECIR|Retirar lo dicho
+DESDENTADO|Sin dientes
+DESDOBLAR|Extender lo plegado
+DESEAR|Querer conseguir algo
+DESECHAR|Tirar lo inservible
+DESEMBARCAR|Bajar del barco
+DESEMBOCAR|Verter el río en el mar
+DESEMPENO|Cumplimiento de una función
+DESEMPLEO|Falta de trabajo
+DESENCANTO|Pérdida de la ilusión
+DESENFADO|Soltura sin complejos
+DESENGANO|Choque con la realidad
+DESENLACE|Final de la historia
+DESENREDAR|Deshacer los nudos del pelo
+DESENTERRAR|Sacar de la tierra
+DESENVOLVER|Quitar el papel del regalo
+DESERTAR|Abandonar el ejército
+DESESPERAR|Perder toda esperanza
+DESFACHATEZ|Descaro insolente
+DESFALCO|Robo del dinero confiado
+DESFALLECER|Perder las fuerzas
+DESFAVORABLE|Contrario a los intereses
+DESFIGURAR|Estropear la forma
+DESFILADERO|Paso estrecho entre montañas
+DESGARRAR|Rasgar con violencia
+DESGASTE|Pérdida por el uso
+DESHACER|Deshacer lo hecho
+DESHEREDAR|Dejar sin herencia
+DESHIDRATAR|Quitar el agua
+DESHONRA|Pérdida del buen nombre
+DESIGNAR|Nombrar para un cargo
+DESINFECTAR|Matar los microbios
+DESINTERES|Falta de egoísmo
+DESISTIR|Abandonar el propósito
+DESLEAL|Que traiciona la confianza
+DESLIGAR|Soltar de una obligación
+DESLIZAR|Resbalar suavemente
+DESLUMBRAR|Cegar con mucha luz
+DESMANTELAR|Desmontar una instalación
+DESMEDIDO|Sin medida ninguna
+DESMEMORIADO|Que olvida todo
+DESMENTIR|Negar lo dicho
+DESMENUZAR|Partir en trocitos
+DESMONTAR|Separar las piezas
+DESMORONAR|Venirse abajo poco a poco
+DESNIVEL|Diferencia de altura
+DESNUTRIDO|Falto de alimento
+DESOBEDECER|No cumplir la orden
+DESOLACION|Destrucción y tristeza
+DESOVAR|Poner huevos el pez
+DESPACHAR|Atender al cliente
+DESPACIO|Con lentitud
+DESPEDIR|Echar del trabajo
+DESPEGAR|Levantar el vuelo
+DESPEINAR|Revolver el cabello
+DESPEJAR|Aclararse el cielo
+DESPELLEJAR|Quitar la piel
+DESPENADERO|Precipicio muy alto
+DESPERDICIAR|Malgastar una ocasión
+DESPERTAR|Salir del sueño
+DESPILFARRO|Gasto desmedido
+DESPISTAR|Hacer perder la pista
+DESPLAZAR|Mover de sitio
+DESPLEGAR|Extender lo doblado
+DESPLOMAR|Caer de golpe
+DESPOBLADO|Sin habitantes
+DESPOJAR|Quitar lo que se tiene
+DESPOSAR|Casar a dos personas
+DESPRENDER|Soltarse de algo
+DESPUES|Más tarde que ahora
+DESQUITE|Revancha que se toma
+DESTACAR|Sobresalir entre otros
+DESTAPAR|Quitar la tapa
+DESTENIR|Perder el color al lavar
+DESTERRAR|Echar de la patria
+DESTETAR|Quitar la leche materna
+DESTILAR|Sacar el alcohol por evaporación
+DESTINAR|Asignar a un fin
+DESTITUIR|Quitar del cargo
+DESTORNILLADOR|Herramienta de apretar tornillos
+DESTRIPAR|Sacar las tripas
+DESTRONAR|Quitar el trono
+DESVALIJAR|Robar todo lo que hay
+DESVELAR|Quitar el sueño
+DESVENTURA|Suerte adversa
+DESVERGUENZA|Descaro sin límites
+DESVESTIR|Quitar la ropa
+DESVIAR|Cambiar la dirección
+DESVIRTUAR|Quitar el valor a algo
+DETALLADO|Con todos los pormenores
+DETENER|Parar al sospechoso
+DETERIORO|Empeoramiento por el uso
+DETERMINAR|Fijar con precisión
+DETESTAR|Odiar profundamente
+DETONAR|Estallar con estruendo
+DEVALUAR|Bajar el valor de la moneda
+DEVASTAR|Arrasar un territorio
+DEVOLVER|Entregar lo prestado
+DEVORAR|Comer con ansia
+DEVOTO|Fiel a un santo
+DIABLURA|Travesura de niño
+DIAFANO|Transparente y claro
+DIAFRAGMA|Músculo bajo los pulmones
+DIAGNOSTICO|Juicio del médico sobre la enfermedad
+DIAGRAMA|Esquema con líneas
+DIATRIBA|Discurso muy duro contra alguien
+DIBUJANTE|Hace ilustraciones
+DICTAMEN|Opinión de un experto
+DICTAR|Decir para que otro escriba
+DIESEL|Motor de gasóleo
+DIETETICA|Ciencia de la alimentación
+DIFAMAR|Manchar la fama ajena
+DIFERIR|Aplazar para después
+DIFUMINAR|Desdibujar los contornos
+DIFUNDIR|Extender una noticia
+DIGERIR|Asimilar la comida
+DIGITAL|Dedalera de flores en campana
+DIGNARSE|Condescender a hacer algo
+DILAPIDAR|Malgastar la fortuna
+DILATAR|Aumentar de volumen
+DILIGENTE|Rápido y cuidadoso
+DILUIR|Rebajar con agua
+DIMINUTO|Sumamente pequeño
+DIMITIR|Renunciar al cargo
+DINAMICO|Lleno de actividad
+DIOCESIS|Territorio del obispo
+DIPLOMACIA|Arte de tratar con otros países
+DIRIGIR|Guiar y mandar
+DISCERNIR|Distinguir con claridad
+DISCIPULO|Alumno de un maestro
+DISCONFORME|Que no está de acuerdo
+DISCORDIA|Falta de entendimiento
+DISCRECION|Reserva y prudencia
+DISCREPAR|Opinar distinto
+DISCRETO|Que no llama la atención
+DISCULPAR|Perdonar la falta
+DISCUTIR|Debatir con acaloramiento
+DISECAR|Preparar un animal muerto
+DISEMINAR|Esparcir por todas partes
+DISENTIR|No compartir la opinión
+DISFRUTAR|Pasarlo muy bien
+DISGREGAR|Separar lo unido
+DISIMULAR|Ocultar lo que se siente
+DISIPAR|Hacer desaparecer la niebla
+DISLOCAR|Sacar de su sitio el hueso
+DISMINUIR|Hacer más pequeño
+DISOLVER|Deshacer en el líquido
+DISPARAR|Hacer fuego con el arma
+DISPARATE|Dicho sin sentido
+DISPENSAR|Eximir de una obligación
+DISPERSAR|Esparcir a la multitud
+DISPONER|Colocar de cierto modo
+DISPUTA|Riña entre dos partes
+DISTINGUIR|Diferenciar dos cosas
+DISTRAER|Apartar la atención
+DISTRIBUIR|Repartir entre varios
+DISUADIR|Convencer de no hacerlo
+DIVAGAR|Irse por las ramas
+DIVERGIR|Separarse dos líneas
+DIVERTIR|Hacer pasar un buen rato
+DIVINO|Propio de la divinidad
+DIVISAR|Ver a lo lejos
+DIVULGAR|Hacer público un secreto
+DOBLAR|Plegar por la mitad
+DOBLEGAR|Hacer ceder al rebelde
+DOCENCIA|Labor de enseñar
+DOCIL|Obediente y manso
+DOCTRINA|Conjunto de enseñanzas
+DOLENCIA|Enfermedad que se padece
+DOLOROSO|Que causa mucho dolor
+DOMAR|Amansar a la fiera
+DOMESTICO|Animal que vive en casa
+DOMICILIAR|Pagar a través del banco
+DOMINAR|Tener bajo control
+DONAIRE|Gracia al hablar y moverse
+DONANTE|Da sangre u órganos
+DONCEL|Joven noble de la corte
+DORAR|Tostar ligeramente
+DORMIR|Descansar con los ojos cerrados
+DORMITAR|Estar medio dormido
+DOSIFICAR|Graduar la cantidad
+DOTACION|Personal de un barco
+DOTE|Bienes que aporta la novia
+DRAGAR|Limpiar el fondo del puerto
+DRAMATICO|Muy serio y conmovedor
+DRENAR|Sacar el agua del terreno
+DROGUERIA|Tienda de productos de limpieza
+DUBITATIVO|Lleno de dudas
+DUCTIL|Que se estira en hilos
+DULZAINA|Instrumento de viento popular
+DULZURA|Suavidad en el trato
+DUPLICAR|Hacer el doble
+DURADERO|Que dura mucho tiempo
+DURAR|Extenderse en el tiempo
+DURMIENTE|Que está dormido

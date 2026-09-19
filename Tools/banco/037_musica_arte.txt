@@ -1,0 +1,221 @@
+# Música, arte y espectáculos
+PIANO|Instrumento de teclas blancas y negras
+GUITARRA|Instrumento español de seis cuerdas
+VIOLIN|Instrumento de arco más agudo
+VIOLA|Instrumento de arco entre violín y chelo
+VIOLONCHELO|Instrumento de arco que se toca sentado
+CONTRABAJO|Instrumento de cuerda más grave
+ARPA|Instrumento de cuerdas verticales
+LAUD|Instrumento antiguo de caja abombada
+BANDURRIA|Instrumento de la tuna
+MANDOLINA|Instrumento italiano de cuerdas dobles
+FLAUTA|Instrumento de viento con agujeros
+CLARINETE|Instrumento de viento con caña simple
+OBOE|Instrumento de viento de doble caña
+FAGOT|Instrumento de viento grave de madera
+SAXOFON|Instrumento de viento metal con caña
+TROMPETA|Instrumento de metal con pistones
+TROMBON|Instrumento de metal con vara
+TUBA|Instrumento de metal más grave
+TROMPA|Instrumento de metal enrollado
+ORGANO|Instrumento de tubos de la iglesia
+ACORDEON|Instrumento de fuelle y teclas
+ARMONICA|Instrumento de viento de bolsillo
+GAITA|Instrumento de fuelle y punteros
+ZAMBOMBA|Instrumento navideño de fricción
+PANDERETA|Instrumento de sonajas
+CASTANUELAS|Instrumento de las manos del bailaor
+TAMBOR|Instrumento de percusión de parche
+BOMBO|Tambor grande de la banda
+PLATILLO|Disco metálico de percusión
+XILOFONO|Instrumento de láminas de madera
+TIMBAL|Tambor semiesférico de la orquesta
+BATERIA|Conjunto de tambores y platos
+MARACA|Sonajero latino de mango
+SINTETIZADOR|Instrumento electrónico de teclas
+NOTA|Signo del sonido musical
+PENTAGRAMA|Las cinco líneas del papel de música
+CLAVE|Signo del comienzo del pentagrama
+COMPAS|División rítmica de la música
+RITMO|Orden del tiempo musical
+MELODIA|Sucesión de notas con sentido
+ARMONIA|Combinación simultánea de sonidos
+ACORDE|Tres o más notas a la vez
+ESCALA|Serie ordenada de notas
+TONO|Altura de un sonido
+SEMITONO|Menor distancia entre dos notas
+BEMOL|Signo que baja medio tono
+SOSTENIDO|Signo que sube medio tono
+SILENCIO|Pausa escrita en la música
+CORCHEA|Nota de medio tiempo
+NEGRA|Nota que dura un tiempo
+BLANCA|Nota de dos tiempos
+REDONDA|Nota de cuatro tiempos
+OCTAVA|Distancia de ocho notas
+ORQUESTA|Gran conjunto de instrumentistas
+BANDA|Agrupación musical de viento y percusión
+CORO|Conjunto de voces
+CUARTETO|Grupo de cuatro intérpretes
+QUINTETO|Grupo de cinco músicos
+SOLISTA|Intérprete que actúa solo
+DIRECTOR|Quien marca la entrada a la orquesta
+BATUTA|Varita del director
+PARTITURA|Papel con la música escrita
+ATRIL|Soporte de la partitura
+AFINAR|Ajustar la altura del instrumento
+ENSAYO|Sesión de preparación del concierto
+CONCIERTO|Actuación musical en directo
+RECITAL|Actuación de un solo intérprete
+GIRA|Serie de conciertos por varias ciudades
+BIS|Pieza que se repite por petición
+SOPRANO|Voz femenina más aguda
+CONTRALTO|Voz femenina grave
+TENOR|Voz masculina aguda
+BARITONO|Voz masculina intermedia
+BAJO|Voz masculina más grave
+ARIA|Pieza cantada por un solista en la ópera
+OPERA|Drama enteramente cantado
+ZARZUELA|Teatro lírico español
+OPERETA|Obra lírica ligera
+SINFONIA|Gran obra para orquesta
+SONATA|Obra instrumental de varios movimientos
+CONCERTO|Obra para solista y orquesta
+PRELUDIO|Pieza que precede a otra
+NOCTURNO|Pieza tranquila inspirada en la noche
+VALS|Baile en compás de tres por cuatro
+TANGO|Baile rioplatense
+BOLERO|Canción lenta y romántica
+CHOTIS|Baile castizo madrileño
+PASODOBLE|Música de los toros y las ferias
+SARDANA|Danza catalana en corro
+MUNEIRA|Danza gallega de gaita
+JOTA|Danza popular aragonesa
+SEVILLANAS|Baile de la feria andaluza
+FLAMENCO|Arte andaluz del cante y el baile
+BULERIA|Palo flamenco festero
+SOLEA|Palo flamenco hondo
+FANDANGO|Cante y baile popular español
+SAETA|Canto religioso de Semana Santa
+VILLANCICO|Canción navideña
+HIMNO|Canto solemne de una nación
+NANA|Canción para dormir al niño
+COPLA|Canción popular española
+ROMANZA|Canción de tono sentimental
+BALADA|Canción lenta y narrativa
+JAZZ|Música nacida en Nueva Orleans
+BLUES|Música de raíz afroamericana melancólica
+ROCK|Música de guitarras eléctricas
+POP|Música ligera de éxito masivo
+PUNK|Música rápida y contestataria
+REGGAE|Música jamaicana de ritmo sincopado
+SALSA|Música bailable caribeña
+RUMBA|Ritmo de origen cubano
+SAMBA|Música brasileña de carnaval
+BOSSA|Estilo brasileño suave
+CUMBIA|Ritmo bailable colombiano
+MERENGUE|Ritmo dominicano rápido
+RANCHERA|Canción mexicana con mariachi
+MARIACHI|Conjunto mexicano de trompetas y violines
+TUNA|Grupo universitario de serenatas
+SERENATA|Música bajo el balcón de la amada
+PINTURA|Arte de aplicar color al lienzo
+ESCULTURA|Arte de labrar figuras
+ARQUITECTURA|Arte de proyectar edificios
+GRABADO|Estampa hecha con plancha
+CERAMICA|Arte del barro cocido
+ORFEBRERIA|Arte de trabajar metales preciosos
+MOSAICO|Composición de teselas
+FRESCO|Pintura mural sobre el yeso húmedo
+RETABLO|Conjunto de tablas tras el altar
+OLEO|Pintura al aceite
+ACUARELA|Pintura al agua sobre papel
+PASTEL|Técnica pictórica de barritas de color
+TEMPLE|Pintura con aglutinante de huevo
+CARBONCILLO|Barrita de dibujo negra
+LIENZO|Tela sobre la que se pinta
+CABALLETE|Soporte del lienzo del pintor
+PALETA|Tabla donde se mezclan los colores
+PINCEL|Utensilio de cerdas del pintor
+BROCHA|Pincel ancho
+BASTIDOR|Armazón que tensa la tela
+MARCO|Moldura que rodea el cuadro
+GALERIA|Sala de exposición y venta de arte
+MUSEO|Institución que conserva obras de arte
+EXPOSICION|Muestra pública de obras
+COLECCION|Conjunto de obras reunidas
+CATALOGO|Libro que describe las obras
+RESTAURACION|Recuperación de una obra dañada
+BOCETO|Apunte previo de la obra
+ESBOZO|Primer trazo de un proyecto
+PERSPECTIVA|Representación de la profundidad
+COMPOSICION|Disposición de los elementos
+CLAROSCURO|Contraste de luces y sombras
+PAISAJE|Cuadro de vistas naturales
+RETRATO|Representación de una persona
+BODEGON|Cuadro de objetos inanimados
+DESNUDO|Figura humana sin ropa
+MURAL|Pintura hecha sobre el muro
+BUSTO|Escultura de cabeza y pecho
+ESTATUA|Escultura de cuerpo entero
+RELIEVE|Escultura que resalta del fondo
+TALLA|Escultura labrada en madera
+MOLDE|Hueco para reproducir una figura
+BRONCE|Aleación usada en escultura
+MARMOL|Piedra pulida de las estatuas
+ALABASTRO|Piedra blanca y translúcida
+GOTICO|Estilo de arcos apuntados
+ROMANICO|Estilo de arcos de medio punto
+BARROCO|Estilo artístico recargado
+RENACIMIENTO|Estilo que recupera lo clásico
+NEOCLASICO|Estilo que imita a Grecia y Roma
+ROMANTICISMO|Movimiento del sentimiento y la libertad
+IMPRESIONISMO|Movimiento pictórico de la luz
+CUBISMO|Movimiento de las formas geométricas
+SURREALISMO|Movimiento del mundo de los sueños
+EXPRESIONISMO|Movimiento de la emoción deformada
+MODERNISMO|Estilo de líneas curvas y naturales
+ABSTRACTO|Arte sin figuras reconocibles
+VANGUARDIA|Movimiento artístico rompedor
+TEATRO|Arte de la representación escénica
+ESCENARIO|Tablas donde actúan los cómicos
+TELON|Cortina que abre y cierra la función
+BAMBALINA|Telón superior del escenario
+CAMERINO|Cuarto donde se prepara el actor
+PATIODEBUTACAS|Zona de asientos del teatro
+PALCO|Balcón con asientos del teatro
+ANFITEATRO|Piso alto de la sala
+ENSAYAR|Preparar la representación
+ESTRENO|Primera función de la obra
+FUNCION|Representación de una obra
+ACTO|Parte principal de una obra teatral
+ESCENA|Fragmento de un acto
+MONOLOGO|Discurso de un solo personaje
+DIALOGO|Conversación entre personajes
+GUION|Texto que sigue la película
+REPARTO|Lista de intérpretes
+PROTAGONISTA|Personaje principal
+ANTAGONISTA|Personaje que se opone
+FIGURANTE|Actor sin texto
+APUNTADOR|Sopla el texto al actor
+UTILERIA|Objetos que se usan en escena
+VESTUARIO|Trajes de la representación
+MAQUILLAJE|Pintura del rostro del actor
+ILUMINACION|Luces del espectáculo
+DECORADO|Ambientación del escenario
+APLAUSO|Palmas del público
+OVACION|Aplauso muy prolongado
+ABUCHEO|Protesta ruidosa del público
+CRITICA|Juicio publicado sobre la obra
+TAQUILLA|Ventanilla donde se compran entradas
+CARTELERA|Lista de los espectáculos en cartel
+BALLET|Danza clásica de puntas
+COREOGRAFIA|Composición de los pasos de baile
+BAILARINA|Artista de la danza
+TUTU|Falda corta de la bailarina
+PUNTAS|Zapatillas de la bailarina clásica
+CIRCO|Espectáculo de la carpa
+PAYASO|Artista que hace reír
+TRAPECISTA|Acróbata del trapecio
+MALABARISTA|Artista que lanza y recoge objetos
+DOMADOR|Artista que somete a las fieras
+EQUILIBRISTA|Artista que anda sobre el alambre

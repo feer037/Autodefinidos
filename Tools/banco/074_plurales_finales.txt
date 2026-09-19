@@ -1,0 +1,264 @@
+# Últimos plurales y formas de uso frecuente en la rejilla
+ABANDONOS|Dejaciones de un deber
+ABISMOS|Profundidades enormes
+ABONOS|Fertilizantes de la tierra
+ABRAZOS|Apretones de cariño
+ACANTILADOS|Costas cortadas a pico
+ACEQUIAS|Canales de riego
+ACERAS|Zonas por donde anda el peatón
+ACIERTOS|Soluciones correctas
+ACORDES|Varias notas a la vez
+ACUERDOS|Pactos entre las partes
+ADORNOS|Detalles que embellecen
+AGUACEROS|Chaparrones fuertes
+AGUJEROS|Huecos en una superficie
+ALACENAS|Armarios de cocina
+ALAMBRES|Hilos de metal
+ALARDES|Ostentaciones de algo
+ALDEANOS|Habitantes de las aldeas
+ALFILERES|Sujetan la tela con la punta
+ALIMENTOS|Lo que se come
+ALIVIOS|Descansos de un dolor
+ALMENAS|Dientes de la muralla
+ALTARES|Mesas del templo
+AMPOLLAS|Burbujas de la piel
+ANDAMIOS|Estructuras de obra
+ANTIFACES|Máscaras del rostro
+ANZUELOS|Ganchos de pescar
+APUNTES|Notas tomadas en clase
+ARBUSTOS|Plantas bajas y ramificadas
+ARCILLAS|Barros para modelar
+ARENALES|Terrenos de mucha arena
+ARMARIOS|Muebles de la ropa
+ARRECIFES|Bancos de coral
+ARROYOS|Corrientes pequeñas de agua
+ASIENTOS|Sitios donde sentarse
+ASTILLAS|Fragmentos finos de madera
+ATAJOS|Caminos más cortos
+AVISPEROS|Nidos de avispas
+AZOTEAS|Terrazas planas del tejado
+BALCONES|Salientes con barandilla
+BALDOSAS|Piezas del pavimento
+BANDEJAS|Se sirve en ellas
+BARANDILLAS|Pasamanos de la escalera
+BARCAS|Botes de remos
+BARRANCOS|Cortes profundos del terreno
+BARRICAS|Toneles de vino
+BARRIOS|Zonas de la ciudad
+BAULES|Arcones de viaje
+BELLOTAS|Frutos de la encina
+BIGOTES|Pelos del labio superior
+BISAGRAS|Permiten girar la puerta
+BOCINAS|Claxon de los coches
+BODEGAS|Donde se cría el vino
+BOLSILLOS|Faltriqueras de la ropa
+BOSQUECILLOS|Grupos pequeños de árboles
+BOTIQUINES|Armarios de primeros auxilios
+BOVEDAS|Techos curvos
+BRASAS|Ascuas del carbón
+BRIDAS|Correas de las caballerías
+BROCHAS|Pinceles anchos
+BROTES|Yemas que salen de la rama
+BUHARDILLAS|Cuartos bajo el tejado
+BUJIAS|Dan la chispa al motor
+BULBOS|Raíces redondas del tulipán
+CABANAS|Casitas de madera
+CALDEROS|Recipientes de metal con asa
+CALLEJONES|Calles estrechas
+CAMAROTES|Dormitorios del barco
+CAMPANARIOS|Torres de las campanas
+CANALES|Cauces artificiales
+CANDADOS|Cierran con llave
+CANTAROS|Vasijas grandes de barro
+CAPILLAS|Iglesias pequeñas
+CARAMELOS|Golosinas dulces
+CARRETAS|Carros de dos ruedas
+CARRILES|Bandas de circulación
+CARTUCHOS|Municiones del fusil
+CASCADAS|Saltos de agua
+CASETAS|Construcciones pequeñas de feria
+CAZUELAS|Recipientes hondos de barro
+CENIZAS|Restos del fuego
+CEPILLOS|Sirven para el pelo
+CERROJOS|Barras que cierran
+CESTOS|Recipientes de mimbre
+CHABOLAS|Viviendas muy pobres
+CHALECOS|Prendas sin mangas
+CHARCOS|Aguas estancadas del suelo
+CHIMENEAS|Conductos del humo
+CIPRESES|Árboles altos y estrechos
+CIRUELOS|Árboles de fruta morada
+COLMILLOS|Dientes puntiagudos
+CONVENTOS|Casas de las monjas
+CORDELES|Cuerdas finas
+CORNISAS|Salientes del edificio
+CORRALES|Cercados de las gallinas
+CORTIJOS|Fincas andaluzas
+CRISTALERAS|Puertas de vidrio
+CUARTILLAS|Hojas de papel para escribir
+CUBIERTOS|Cuchara, tenedor y cuchillo
+CUCHARONES|Cucharas grandes de servir
+CUEVAS|Cavidades en la roca
+CUMBRES|Puntos más altos de los montes
+CUNETAS|Zanjas del borde de la carretera
+DESVANES|Cuartos bajo el tejado
+DIQUES|Muros que contienen el agua
+EMBUDOS|Ayudan a llenar la botella
+ENCINAS|Árboles de la bellota
+ESCOBAS|Sirven para barrer
+ESCOLLOS|Peñascos a flor de agua
+ESLABONES|Anillas de la cadena
+ESPIGAS|Flores del trigo
+ESPINAS|Púas de las plantas
+ESQUINAS|Encuentros de dos calles
+ESTANQUES|Balsas de agua del jardín
+ESTUFAS|Aparatos que calientan
+FAROLAS|Luces de la calle
+FLECOS|Adornos de hilos colgantes
+FOGONES|Hornillos de la cocina
+FORRAJES|Pastos secos del ganado
+FUENTES|Manantiales de la plaza
+GALERIAS|Pasillos largos
+GARFIOS|Ganchos de hierro
+GARRAFAS|Botellones de vidrio
+GLORIETAS|Plazas redondas con jardín
+GOTERAS|Filtraciones del techo
+GRIETAS|Rajas en la pared
+GUARIDAS|Refugios de las fieras
+HORMIGUEROS|Nidos de hormigas
+HORNILLOS|Fogones pequeños
+HUCHAS|Guardan los ahorros
+JARRONES|Recipientes decorativos
+LADERAS|Faldas de las montañas
+LAGUNAS|Lagos pequeños
+LAMPARAS|Alumbran la casa
+LINTERNAS|Luces de mano
+LOSAS|Piedras planas del suelo
+MACETAS|Tiestos de las plantas
+MADEJAS|Ovillos de lana sin devanar
+MADRIGUERAS|Refugios de los conejos
+MALETEROS|Espacios del equipaje del coche
+MANANTIALES|Lugares donde brota el agua
+MARQUESINAS|Cubiertas voladizas
+MEJILLAS|Carrillos del rostro
+MERENDEROS|Lugares para comer al aire libre
+MOLINILLOS|Muelen el café
+MONTICULOS|Elevaciones pequeñas
+MURALLAS|Muros que defienden la ciudad
+NORIAS|Ruedas que sacan agua
+PALANCAS|Barras que hacen fuerza
+PANALES|Celdillas de cera de las abejas
+PANTANOS|Embalses de agua
+PARCELAS|Porciones de terreno
+PASADIZOS|Pasos estrechos
+PEANAS|Bases de las imágenes
+PEDESTALES|Bases de las estatuas
+PELDANOS|Escalones de la escalera
+PEÑASCOS|Peñas grandes y escarpadas
+PERCHEROS|Muebles de colgar la ropa
+PERSIANAS|Cierran las ventanas por fuera
+PESEBRES|Comederos del ganado
+PICAPORTES|Manillas de las puertas
+PILARES|Soportes que sostienen
+PINARES|Bosques de pinos
+PORTALES|Entradas de los edificios
+PORTONES|Puertas grandes
+POSTIGOS|Puertas pequeñas de la ventana
+PRADERAS|Extensiones de hierba
+PRECIPICIOS|Cortes muy profundos del terreno
+PUCHEROS|Ollas del cocido
+PUPITRES|Mesas de los escolares
+RAMILLETES|Ramos pequeños de flores
+REBANADAS|Lonchas de pan
+REJILLAS|Enrejados pequeños
+REMOLINOS|Giros rápidos del agua
+REPISAS|Estantes salientes
+RIACHUELOS|Ríos muy pequeños
+RIBERAS|Márgenes de los ríos
+RINCONES|Ángulos de las habitaciones
+ROSALES|Plantas de las rosas
+SENDEROS|Caminos estrechos
+SOPORTALES|Pórticos ante las casas
+SOTANOS|Pisos bajo tierra
+SURCOS|Hendiduras que abre el arado
+TABIQUES|Paredes delgadas
+TABLONES|Tablas gruesas
+TAPIAS|Muros que cierran un solar
+TEJADILLOS|Tejados pequeños
+TERRAPLENES|Desniveles de tierra
+TERRONES|Trozos de azúcar o de tierra
+TIESTOS|Macetas de barro
+TINAJAS|Vasijas grandes de barro
+TOLDOS|Cubiertas de lona
+TONELES|Recipientes grandes de vino
+TORRENTES|Corrientes impetuosas
+TRAMPILLAS|Puertas pequeñas del suelo
+VALLADOS|Cercas de las fincas
+VASIJAS|Recipientes de barro
+VENTANALES|Ventanas muy grandes
+VEREDAS|Sendas estrechas
+VERJAS|Rejas de hierro
+VIGAS|Maderos que sostienen el techo
+ZAGUANES|Entradas de las casas antiguas
+ZANJAS|Excavaciones largas y estrechas
+ZOCALOS|Franjas bajas de la pared
+ACTRICES|Intérpretes femeninas del cine
+ALCALDESAS|Mujeres que rigen el ayuntamiento
+ARTESANOS|Quienes trabajan con las manos
+CAZADORES|Salen al monte con escopeta
+COMERCIANTES|Quienes se dedican a vender
+CONDUCTORES|Quienes llevan el volante
+ESCULTORES|Artistas que tallan figuras
+ESTUDIANTES|Quienes asisten a clase
+GANADEROS|Quienes crían reses
+GUERREROS|Combatientes antiguos
+JORNALEROS|Quienes trabajan a jornal
+LABRADORES|Quienes cultivan el campo
+MARINOS|Hombres de mar
+MENSAJEROS|Quienes llevan los recados
+MINEROS|Quienes trabajan bajo tierra
+MONJAS|Religiosas de clausura
+NADADORES|Practican la natación
+PASTORES|Guardan los rebaños
+PINTORAS|Artistas femeninas del lienzo
+PORTEROS|Guardianes de la meta
+REMEROS|Impulsan la barca con remos
+TENDEROS|Dueños de las tiendas
+VENDEDORES|Quienes despachan el género
+VIAJEROS|Quienes recorren tierras
+ZAPATEROS|Arreglan el calzado
+ABRIMOS|Descorremos el cerrojo, nosotros
+ANDUVE|Caminé a pie, yo
+BEBIMOS|Tomamos un líquido, nosotros
+CANTAMOS|Entonamos una copla, nosotros
+COMPRO|Adquiere pagando
+CORTO|Divido con filo, yo
+CREEMOS|Tenemos por cierto, nosotros
+DABAN|Entregaban ellos
+DEBEN|Tienen una deuda, ellos
+DEJAN|Abandonan en un sitio
+DUERMES|Descansas dormido, tú
+ENTRAN|Pasan adentro, ellos
+ESCUCHO|Presto oído, yo
+ESPERO|Aguardo con paciencia, yo
+FUIMOS|Marchamos nosotros
+GANAMOS|Vencemos en el juego
+HABLAN|Usan la palabra, ellos
+HICE|Realicé una obra, yo
+JUGAMOS|Tomamos parte en la partida
+LLAMAN|Dan voces, ellos
+LLEGAN|Alcanzan el destino
+MIRAMOS|Fijamos la vista, nosotros
+PARTEN|Dividen en trozos, ellos
+PASAN|Van de un lado a otro
+PERDIO|Dejó de tener algo
+PUSE|Coloqué en su sitio, yo
+QUEDAN|Permanecen en el sitio
+SABIA|Tenía conocimiento
+SUPE|Tuve conocimiento, yo
+TOCAN|Ponen la mano encima, ellos
+TOMAN|Cogen algo, ellos
+TRABAJAN|Ejercen su oficio, ellos
+VENDEN|Dan a cambio de dinero
+VIVIO|Tuvo vida
+VOLVIO|Regresó al lugar

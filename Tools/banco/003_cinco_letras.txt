@@ -1,0 +1,650 @@
+# Palabras de cinco letras
+ABETO|Conífera navideña
+ABRIL|Cuarto mes del año
+ABUSO|Uso excesivo e injusto
+ACEDO|De sabor agrio
+ACERA|Zona del peatón
+ACERO|Metal de las espadas
+ACTOR|Trabaja en las películas
+ACUDE|Va al llamamiento
+ADIOS|Fórmula de despedida
+ADOBE|Bloque de barro y paja
+AGENDA|Libro de citas
+AGUDO|De punta muy fina
+AHORA|En el instante presente
+AIRES|Vientos suaves
+AJENO|Que pertenece a otro
+ALADO|Que tiene alas
+ALBUM|Colección de fotos
+ALDEA|Poblado diminuto
+ALERO|Borde saliente del tejado
+ALGAS|Plantas del mar
+ALTAR|Mesa del templo
+ALTAS|De gran estatura
+ALUMNO|Estudiante de un colegio
+AMARGO|Sabor del acíbar
+AMBOS|El uno y el otro
+AMIGO|Persona de confianza
+AMPLIO|De gran anchura
+ANCHO|De mucha amplitud
+ANCLA|Hierro que fondea el barco
+ANDAR|Ir dando pasos
+ANDEN|Plataforma de la estación
+ANGEL|Espíritu celestial
+ANIMO|Aliento para seguir
+ANTES|Con anterioridad
+ARABE|Habitante de Arabia
+ARADO|Apero que abre surcos
+ARDER|Estar en llamas
+AREAS|Superficies medidas
+ARENA|Granos de la playa
+ARETE|Pendiente de la oreja
+ARMAS|Instrumentos de guerra
+AROMA|Fragancia agradable
+ARPON|Lanza de pesca marina
+ARROZ|Grano del risotto
+ARTES|Disciplinas de la belleza
+ASADO|Guisado al fuego
+ASEAR|Lavar y arreglar
+ASILO|Casa de acogida
+ASNOS|Bestias de carga tercas
+ASPID|Serpiente venenosa de Egipto
+ATLAS|Titán que sostiene el mundo
+ATUNES|Peces grandes de la almadraba
+AUDAZ|Que se atreve a todo
+AULAS|Salas de enseñanza
+AUTOR|Quien escribe el libro
+AVARO|Que no suelta un euro
+AVENA|Cereal del desayuno
+AVION|Aeronave de pasajeros
+AVISO|Advertencia previa
+AYUDA|Mano que se echa
+AZUFRE|Elemento de olor a huevo podrido
+BACHE|Socavón del firme
+BAILE|Danza en pareja
+BAJAR|Descender de nivel
+BALSA|Almadía de troncos
+BANDA|Grupo de música
+BARCA|Embarcación menor
+BARCO|Nave de gran porte
+BARON|Señor con título
+BARRO|Tierra mojada
+BASES|Fundamentos de algo
+BEBER|Tomar líquido
+BELLO|De gran hermosura
+BESAR|Juntar los labios
+BILIS|Humor amargo del hígado
+BLUSA|Camisa de señora
+BOINA|Gorra plana vasca
+BOLSA|Saco para llevar cosas
+BOMBA|Artefacto que estalla
+BOSQUE|Masa de árboles
+BOTAS|Calzado de montaña
+BOTON|Cierra la camisa
+BOXEO|Pugilato con guantes
+BRAVO|Fiero y valiente
+BRAZO|Miembro que termina en mano
+BREVE|Que dura poco
+BRISA|Vientecillo del mar
+BRUJA|Mujer de la escoba
+BRUTO|Torpe y violento
+BUCEO|Natación bajo el agua
+BUENO|De buena calidad
+BUHOS|Aves nocturnas
+BUQUE|Navío de carga
+BURLA|Mofa hacia otro
+BURRO|Bestia de carga
+BUZON|Recibe las cartas
+CABLE|Hilo de acero o cobre
+CABRA|Rumiante montaraz
+CACAO|Polvo del chocolate
+CAIDA|Golpe contra el suelo
+CAJAS|Envases con tapa
+CALAR|Penetrar el agua
+CALDO|Sopa de la olla
+CALLE|Vía urbana
+CALMA|Quietud del mar
+CALOR|Lo contrario del frío
+CAMPO|Terreno de labranza
+CANAL|Conducto del agua
+CANAS|Cabellos blancos
+CANTO|Melodía de la voz
+CANON|Pieza de artillería
+CAOBA|Madera noble tropical
+CAPAZ|Que puede hacerlo
+CARGA|Peso transportado
+CARNE|Alimento de la res
+CARRO|Vehículo de tiro
+CARTA|Misiva del correo
+CASAS|Viviendas
+CASCO|Protege al ciclista
+CASTA|Linaje de una estirpe
+CAUCE|Lecho del río
+CAUSA|Origen de un efecto
+CAZAR|Perseguir la presa
+CEBRA|Paso de peatones rayado
+CEDER|Dar paso al otro
+CELDA|Cuarto de la prisión
+CELOS|Temor de perder al amado
+CENIT|Cumbre del firmamento
+CEPAS|Troncos de la vid
+CERCA|A corta distancia
+CERDO|Animal de la pocilga
+CEREZA|Fruta del picota
+CERRO|Monte de poca altura
+CESAR|Emperador de Roma
+CESTA|Canasta de mimbre
+CIELO|Firmamento azul
+CIFRA|Número escrito
+CINCO|Dedos de la mano
+CINTA|Banda estrecha de tela
+CIRCO|Carpa de payasos
+CITAR|Mencionar a un autor
+CIVIL|Ciudadano no militar
+CLARO|Que se ve con nitidez
+CLAVE|Contraseña secreta
+CLAVO|Pieza que clava el martillo
+COBRE|Metal de los cables
+COCER|Poner al hervor
+COCHE|Automóvil particular
+COJIN|Almohadón de adorno
+COLAS|Filas de espera
+COLOR|Tono del arcoíris
+COMER|Tomar alimento
+CONDE|Noble de rango medio
+COPAS|Palo de la baraja
+CORAL|Formación del arrecife
+CORTA|De poca longitud
+CORTE|Residencia del rey
+COSER|Dar puntadas
+COSTA|Litoral marino
+CREER|Tener por cierto
+CREMA|Pasta suave
+CRESTA|Penacho del gallo
+CRUCE|Encuentro de dos vías
+CRUDO|Sin guisar
+CUBRE|Tapa por encima
+CUENTA|Factura del restaurante
+CUERO|Piel curtida
+CUEVA|Gruta en la roca
+CULPA|Falta que se comete
+CUMBRE|Punto más alto
+CURAR|Sanar al enfermo
+CURVA|Línea sin rectas
+DAMAS|Juego del tablero de fichas
+DARDO|Flecha del blanco
+DATOS|Informaciones concretas
+DEBER|Tarea obligatoria
+DEDOS|Extremos de la mano
+DEJAR|Poner en un sitio
+DELTA|Desembocadura en brazos
+DENSO|Espeso y compacto
+DENTRO|En el interior
+DIARIO|Periódico matinal
+DIENTE|Pieza de la boca
+DIETA|Régimen de comidas
+DIGNO|Merecedor de respeto
+DINERO|Billetes y monedas
+DIOSA|Divinidad femenina
+DISCO|Placa de vinilo
+DOBLE|Dos veces lo mismo
+DOCIL|Fácil de manejar
+DOLOR|Sufrimiento físico
+DOMAR|Someter a la fiera
+DORAR|Tostar en la sartén
+DUDAR|No estar seguro
+DUELO|Luto por el muerto
+DUENA|Propietaria
+DULCE|Con sabor a azúcar
+DURAR|Persistir en el tiempo
+ECHAR|Arrojar fuera
+EDAD|Tiempo vivido
+EDICTO|Bando oficial
+EJERCITO|Fuerzas de tierra
+ELEGIR|Escoger entre varios
+ENANO|De estatura muy baja
+ENERO|Primer mes del año
+ENOJO|Enfado y disgusto
+ENTRE|En medio de dos
+EQUIPO|Conjunto de jugadores
+ERROR|Fallo cometido
+ESCOBA|Sirve para barrer
+ESPIA|Roba secretos ajenos
+ETAPA|Fase de la vuelta ciclista
+EXITO|Resultado feliz
+FALDA|Prenda femenina
+FALSO|Que no es verdadero
+FAROL|Luz de la calle
+FAUNA|Animales de una región
+FAVOR|Ayuda que se pide
+FECHA|Día señalado
+FELIZ|Lleno de dicha
+FERIA|Mercado con atracciones
+FIERA|Animal salvaje
+FIEBRE|Temperatura alta del cuerpo
+FIESTA|Celebración con música
+FINAL|Último partido
+FIRMA|Rúbrica al pie
+FLACO|Muy delgado
+FLECHA|Se dispara con arco
+FLORES|Adorno del jardín
+FLOTA|Conjunto de barcos
+FOCAS|Mamíferos del hielo
+FONDO|Parte inferior
+FORMA|Figura exterior
+FRASE|Conjunto de palabras
+FRENO|Detiene el coche
+FRENTE|Parte alta de la cara
+FRESA|Fruta roja de primavera
+FRUTA|Alimento del árbol
+FUEGO|Llama que quema
+FUERA|En el exterior
+FUERTE|De mucha fuerza
+FUGAZ|Que pasa muy deprisa
+FUMAR|Consumir tabaco
+GAFAS|Lentes para la vista
+GALLO|Ave de la cresta roja
+GANAR|Vencer en el juego
+GARRA|Zarpa del felino
+GASTO|Dinero que se va
+GATOS|Felinos caseros
+GENIO|Persona de gran talento
+GENTE|Conjunto de personas
+GLOBO|Bola de aire que vuela
+GOLFO|Entrada grande del mar
+GOLPE|Choque violento
+GORRA|Prenda con visera
+GOTAS|Pequeñas porciones de agua
+GRADO|Unidad de temperatura
+GRANO|Semilla del cereal
+GRATIS|Sin pagar nada
+GRAVE|Serio y de importancia
+GRIETA|Abertura en el muro
+GRIFO|Da paso al agua
+GRITO|Voz muy alta
+GRUPO|Conjunto de personas
+GUANTE|Cubre la mano
+GUERRA|Lucha entre países
+GUIAR|Mostrar el camino
+GUSTO|Placer que algo produce
+HABLA|Uso de la lengua
+HACER|Realizar una obra
+HARINA|Polvo del trigo molido
+HECHO|Suceso ocurrido
+HELADO|Postre congelado
+HERIDA|Corte en la carne
+HIELO|Agua solidificada
+HIENA|Carroñera que ríe
+HIERBA|Planta verde del prado
+HIGOS|Frutos de la higuera
+HILOS|Hebras de coser
+HOGAR|Casa donde vive la familia
+HOJAS|Partes verdes del árbol
+HOMBRE|Varón adulto
+HONDO|De mucha profundidad
+HONOR|Buena fama y dignidad
+HORNO|Aparato de asar
+HOTEL|Alojamiento de viajeros
+HUEVO|Lo pone la gallina
+HUMOR|Estado del ánimo
+HURTO|Robo sin violencia
+IDEAL|Modelo perfecto
+IDEAS|Ocurrencias de la mente
+IGLESIA|Templo cristiano
+IGUAL|Sin diferencia alguna
+IMAGEN|Figura que se ve
+INDIO|Natural de Nueva Delhi
+INVIERNO|Estación más fría
+IRAQUI|Natural de Bagdad
+ISLAS|Tierras rodeadas de mar
+JAMON|Pata curada del cerdo
+JARRA|Vasija con asa
+JAULA|Encierra al pájaro
+JEFES|Los que mandan
+JOVEN|De poca edad
+JOYAS|Alhajas de valor
+JUEGO|Actividad de entretenimiento
+JUEVES|Día anterior al viernes
+JUGAR|Divertirse con reglas
+JUICIO|Vista ante el tribunal
+JUNTA|Reunión de directivos
+JURADO|Grupo que decide el premio
+LABIO|Borde carnoso de la boca
+LADOS|Costados de una figura
+LADRON|Roba lo ajeno
+LAGOS|Grandes charcas naturales
+LANZA|Arma larga de punta
+LARGA|De mucha extensión
+LATIN|Lengua de la antigua Roma
+LAVAR|Limpiar con agua
+LECHE|Alimento blanco de la vaca
+LEJOS|A gran distancia
+LENTO|Que va despacio
+LEONES|Fieras de melena
+LETRA|Signo del alfabeto
+LEYES|Normas del Estado
+LIBRE|Sin ataduras
+LIBRO|Conjunto de páginas
+LIGERO|De poco peso
+LIMON|Fruta amarilla y ácida
+LIMPIO|Sin suciedad
+LINEA|Trazo continuo
+LISTA|Enumeración de cosas
+LLAMA|Lengua de fuego
+LLANO|Terreno sin cuestas
+LLAVE|Abre la cerradura
+LLUVIA|Agua que cae del cielo
+LOBOS|Fieras de la manada
+LOCAL|Establecimiento comercial
+LOCOS|Faltos de razón
+LOGRO|Meta conseguida
+LOMOS|Espaldas de las reses
+LUCES|Focos encendidos
+LUCHA|Combate cuerpo a cuerpo
+LUGAR|Punto del espacio
+LUJOS|Comodidades caras
+LUNAR|Mancha oscura de la piel
+LUNES|Comienzo de la semana
+MADRE|La que da a luz
+MAGIA|Arte del ilusionista
+MAGOS|Reyes de Oriente
+MALES|Daños y desgracias
+MANOS|Extremos de los brazos
+MANTA|Abriga en la cama
+MAPAS|Representaciones del terreno
+MARCA|Señal que identifica
+MAREA|Subida y bajada del mar
+MARES|Grandes masas de agua salada
+MARZO|Mes de la primavera
+MASAS|Mezclas de harina
+MEDIO|Centro de algo
+MEJOR|Superior a lo otro
+MELON|Fruto dulce del verano
+MENOR|De menos edad
+MENTE|Órgano del pensar
+MESES|Doce partes del año
+METAL|Oro, plata o hierro
+METRO|Cien centímetros
+MIEDO|Sensación ante el peligro
+MINAS|Excavaciones del carbón
+MINUTO|Sesenta segundos
+MIRAR|Dirigir la vista
+MISAL|Libro de la misa
+MITAD|Una de dos partes iguales
+MOCHILA|Se lleva a la espalda
+MODOS|Maneras de obrar
+MOJAR|Empapar de agua
+MOLDE|Da forma a la escayola
+MONJA|Religiosa de convento
+MONTE|Elevación del terreno
+MORAL|Ética del comportamiento
+MOTOR|Mueve el vehículo
+MOVER|Cambiar de posición
+MUDAR|Cambiar de piel
+MUELA|Diente del fondo
+MUERTE|Fin de la vida
+MUJER|Persona de sexo femenino
+MULAS|Bestias híbridas
+MUNDO|La Tierra entera
+MURAL|Pintura sobre el muro
+MUSEO|Guarda obras de arte
+MUSGO|Planta verde y húmeda
+NACER|Venir al mundo
+NADAR|Moverse en el agua
+NARIZ|Aparato del olfato
+NAVES|Embarcaciones grandes
+NEGRO|Color del carbón
+NIEVE|Copos blancos del invierno
+NINOS|Personas de corta edad
+NIVEL|Grado de altura
+NOBLE|De sangre azul
+NOCHE|Tiempo sin sol
+NORMA|Regla que se cumple
+NORTE|Polo helado del planeta
+NOTAS|Calificaciones del curso
+NOVIA|Prometida del novio
+NUBES|Masas de vapor del cielo
+NUDOS|Lazadas de la cuerda
+NUEVO|Recién estrenado
+NUEZ|Fruto de cáscara dura
+OBRAS|Trabajos de construcción
+OCASO|Puesta del sol
+OCEANO|Mar inmenso
+OCHO|Dos veces cuatro
+OESTE|Occidente
+OFICIO|Trabajo manual
+OLIVO|Árbol del aceite
+OLLAS|Recipientes de guisar
+OLVIDO|Pérdida del recuerdo
+ONDAS|Ondulaciones del agua
+OPACO|Que no deja pasar la luz
+ORDEN|Colocación correcta
+OREJA|Parte externa del oído
+ORGIA|Juerga desmedida
+ORILLA|Borde del río
+OSCURO|Sin luz ninguna
+OTONO|Estación de las hojas caídas
+OVEJA|Animal del rebaño
+PADRE|Cabeza de familia
+PAGAR|Entregar el dinero
+PAGES|Campesino catalán
+PAISES|Naciones del mundo
+PAJARO|Ave pequeña que vuela
+PALMA|Parte interior de la mano
+PALOS|Varas de madera
+PAPEL|Hoja para escribir
+PARED|Muro de la casa
+PARIS|Capital de Francia
+PARQUE|Jardín público
+PARTE|Porción de un todo
+PASAR|Ir de un lado a otro
+PASEO|Caminata tranquila
+PASOS|Movimientos al andar
+PASTA|Macarrones y espaguetis
+PATIO|Espacio abierto de la casa
+PATOS|Aves del estanque
+PAUSA|Interrupción breve
+PECES|Animales de escamas
+PECHO|Tórax del cuerpo
+PEDAL|Se acciona con el pie
+PEDIR|Solicitar algo
+PEINE|Arregla el cabello
+PELEA|Riña a golpes
+PELOS|Cabellos del cuerpo
+PENAS|Tristezas del alma
+PENSAR|Usar el entendimiento
+PERAS|Frutas de otoño
+PERRO|Mejor amigo del hombre
+PESAR|Tener cierto peso
+PESCA|Captura de peces
+PESOS|Monedas mexicanas
+PETRO|Prefijo de piedra
+PIANO|Instrumento de teclas
+PICAR|Punzar con la aguja
+PIEZA|Parte de un mecanismo
+PILAS|Baterías pequeñas
+PINOS|Árboles de la sierra
+PINTA|Aspecto de una persona
+PISOS|Viviendas de un edificio
+PISTA|Rastro que se sigue
+PLACA|Lámina metálica
+PLANO|Dibujo de la vivienda
+PLATA|Metal blanco precioso
+PLAZO|Tiempo concedido
+PLENO|Reunión del ayuntamiento
+PLUMA|Escribe con tinta
+POBRE|Falto de recursos
+PODER|Fuerza para mandar
+POEMA|Composición en verso
+POLEN|Polvillo de las flores
+POLVO|Suciedad muy fina
+PONER|Colocar en su sitio
+PORTAL|Entrada del edificio
+POSAR|Servir de modelo
+POZOS|Hoyos con agua
+PRADO|Pastizal verde
+PRESO|Recluso de la cárcel
+PRIMA|Hija del tío
+PROSA|Escritura sin verso
+PRUEBA|Ensayo que se realiza
+PUEBLO|Población pequeña
+PUENTE|Cruza el río
+PUERTO|Abrigo de los barcos
+PULGA|Parásito saltarín
+PUNTA|Extremo afilado
+PUNTO|Señal muy pequeña
+QUEDAR|Permanecer en un sitio
+QUESO|Producto curado de la leche
+QUINCE|Tres veces cinco
+RADIO|Aparato que emite sonido
+RAICES|Partes bajo tierra
+RAMAS|Brazos del árbol
+RAPIDO|Que va muy deprisa
+RATAS|Roedores grandes
+RAYOS|Descargas de la tormenta
+RAZON|Facultad de pensar
+RECTA|Línea sin curvas
+REDES|Mallas de pesca
+REGLA|Norma que se sigue
+REINA|Esposa del rey
+REINO|Territorio del monarca
+REIR|Mostrar alegría
+RENTA|Ingreso periódico
+RESTO|Lo que sobra
+RETO|Desafío que se lanza
+RIEGO|Aporte de agua al campo
+RIESGO|Peligro que se corre
+RINCON|Ángulo de la habitación
+RISAS|Carcajadas alegres
+RITMO|Compás de la música
+ROBAR|Quitar lo ajeno
+ROCAS|Piedras grandes
+RODAR|Girar sobre sí mismo
+ROJOS|Del color de la sangre
+ROMPER|Partir en pedazos
+ROPAS|Prendas de vestir
+ROSAS|Flores con espinas
+RUEDA|Pieza circular que gira
+RUIDO|Sonido desagradable
+RUINA|Pérdida de la fortuna
+RUMBO|Dirección del barco
+SABER|Tener conocimiento
+SABIO|De grandes conocimientos
+SACAR|Extraer de dentro
+SALAS|Habitaciones amplias
+SALIR|Ir hacia fuera
+SALSA|Aderezo del plato
+SALTO|Brinco hacia arriba
+SALUD|Buen estado del cuerpo
+SANTO|Elevado a los altares
+SAPOS|Anfibios de charca
+SECAR|Quitar la humedad
+SEDAS|Telas finas y suaves
+SEGAR|Cortar la mies
+SEIS|Media docena
+SELLO|Se pega en la carta
+SENDA|Camino estrecho
+SENOR|Tratamiento de cortesía
+SERIE|Sucesión ordenada
+SERIO|Poco dado a las bromas
+SETAS|Hongos del monte
+SIGLO|Centuria completa
+SILLA|Mueble de sentarse
+SIMPLE|Sin complicación
+SITIO|Lugar concreto
+SOBRA|Lo que queda
+SOCIO|Miembro de un club
+SOGAS|Cuerdas gruesas
+SOLAR|Terreno para edificar
+SOLES|Astros luminosos
+SOMBRA|Falta de luz
+SONAR|Producir sonido
+SOPAS|Caldos calientes
+SUAVE|Agradable al tacto
+SUBIR|Ir hacia arriba
+SUCIO|Lleno de manchas
+SUELO|Piso que se pisa
+SUENO|Ganas de dormir
+SUERTE|Fortuna favorable
+TABLA|Pieza lisa de madera
+TALLA|Escultura en madera
+TALLO|Tronco de la planta
+TAPAS|Aperitivos del bar
+TARDE|Parte del día tras el mediodía
+TAREA|Trabajo que se encarga
+TAZAS|Recipientes del desayuno
+TECHO|Cubierta de la casa
+TELAS|Tejidos de la ropa
+TEMAS|Asuntos tratados
+TENER|Poseer algo
+TENIS|Deporte de raqueta
+TENSO|Estirado y rígido
+TERCIO|Tercera parte
+TERROR|Miedo espantoso
+TESIS|Opinión que se defiende
+TEXTO|Escrito con palabras
+TIERRA|Planeta azul
+TIGRE|Fiera rayada
+TINTA|Líquido de la pluma
+TIPOS|Clases o modelos
+TIRAR|Lanzar lejos
+TITULO|Nombre del libro
+TOCAR|Poner la mano encima
+TODOS|La totalidad de ellos
+TOMAR|Coger algo
+TONOS|Grados del sonido
+TOROS|Reses bravas
+TORRE|Alta construcción
+TOSER|Echar aire con fuerza
+TRAER|Llevar hacia aquí
+TRAJE|Vestimenta elegante
+TRAMO|Trecho del camino
+TRAPO|Paño viejo
+TRECE|Docena más uno
+TRIBU|Grupo de un mismo origen
+TRIGO|Cereal de la harina
+TRIPA|Vientre del cuerpo
+TRISTE|Que tiene pena
+TROZO|Fragmento de algo
+TRUCO|Ardid del mago
+TUBOS|Cilindros huecos
+TUMBA|Sepultura del muerto
+TURCO|Natural de Estambul
+UNION|Junta de dos partes
+URGE|Corre mucha prisa
+USUAL|Que ocurre a menudo
+UVAS|Frutos de la parra
+VACAS|Reses lecheras
+VAGON|Coche del tren
+VALLE|Llanura entre montañas
+VALOR|Precio o coraje
+VAPOR|Gas del agua caliente
+VARAS|Palos delgados
+VASOS|Recipientes de cristal
+VECES|Ocasiones repetidas
+VELAS|Lonas del barco
+VENAS|Conductos de la sangre
+VENDER|Dar por dinero
+VENIR|Llegar hasta aquí
+VERANO|Estación calurosa
+VERDE|Color del prado
+VERSO|Renglón del poema
+VIAJE|Recorrido largo
+VIDAS|Existencias de los seres
+VIDEO|Grabación de imágenes
+VIEJO|Anciano de muchos años
+VIENTO|Corriente de aire
+VIERNES|Víspera del sábado
+VINOS|Caldos de la bodega
+VIRUS|Causa la gripe
+VISTA|Capacidad de ver
+VIVIR|Tener vida
+VOCAL|Letra como la a o la e
+VOLAR|Ir por el aire
+VOTOS|Papeletas de la urna
+VOCES|Sonidos de la garganta
+YEMAS|Partes amarillas del huevo
+YEGUA|Hembra del caballo
+ZONAS|Áreas delimitadas
+ZORRO|Cánido astuto del bosque
+ZUMOS|Jugos de frutas

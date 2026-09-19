@@ -1,0 +1,428 @@
+# Más plurales y miscelánea: números, colores, tiempo, unidades
+ACEITUNEROS|Recogedores de la oliva
+ACERTIJOS|Adivinanzas para pensar
+ACROBATAS|Artistas de los saltos
+AGUJEROS|Aberturas redondas
+AHORROS|Dineros guardados
+ALBANILES|Quienes levantan paredes
+ALCALDES|Autoridades municipales
+ALFOMBRILLAS|Tapetes pequeños
+ALMACENES|Depósitos de mercancías
+ALPARGATAS|Calzados de esparto
+ALTAVOCES|Emiten el sonido
+AMAPOLAS|Flores rojas del trigal
+AMIGAS|Compañeras de confianza
+ANGELES|Espíritus celestiales
+ANILLOS|Sortijas de los dedos
+ANTIFACES|Máscaras de los ojos
+APELLIDOS|Nombres de familia
+APOSTOLES|Los doce discípulos
+ARANAZOS|Marcas de las uñas
+ARBITROS|Quienes pitan las faltas
+ARMARIOS|Muebles de la ropa
+ARRUGAS|Pliegues de la piel
+ARTESANOS|Quienes trabajan con las manos
+ASCENSORES|Cabinas que suben y bajan
+ASESINOS|Autores de crímenes
+ASTRONAUTAS|Viajeros del espacio
+ATAUDES|Cajas de los difuntos
+AUTORES|Creadores de obras
+AVELLANAS|Frutos secos redondos
+AVENTURAS|Sucesos emocionantes
+AZULEJOS|Piezas vidriadas
+BAILARINAS|Artistas de la danza
+BALLENAS|Grandes cetáceos
+BANQUEROS|Directivos de la banca
+BARBEROS|Quienes afeitan
+BARCAS|Botes de remos
+BARRENDEROS|Limpian las calles
+BATERIAS|Acumuladores de energía
+BIGOTES|Pelos del labio superior
+BISAGRAS|Permiten girar la puerta
+BOLIGRAFOS|Escriben con tinta y bolita
+BOMBONES|Dulces de chocolate
+BORDADOS|Labores de aguja e hilo
+BOTONES|Piezas que abrochan
+BRUJULAS|Señalan el norte
+BUFANDAS|Prendas del cuello
+CABALLEROS|Señores de buenos modales
+CACEROLAS|Recipientes de dos asas
+CAJONES|Compartimentos del mueble
+CALCETINES|Prendas de los pies
+CALDERAS|Producen agua caliente
+CALLEJONES|Calles estrechas
+CAMAREROS|Quienes sirven las mesas
+CAMPANARIOS|Torres de las campanas
+CANARIOS|Pájaros amarillos cantores
+CANDILES|Lámparas de aceite
+CANGURITOS|Crías del marsupial saltarín
+CAPITANES|Quienes mandan los barcos
+CARACOLAS|Conchas que suenan al soplar
+CARAMELOS|Golosinas duras
+CARBONES|Minerales negros
+CARDENALES|Prelados de púrpura
+CARICIAS|Roces cariñosos
+CARPINTEROS|Quienes trabajan la madera
+CARTEROS|Quienes reparten el correo
+CASTILLOS|Fortalezas antiguas
+CATEDRALES|Templos de los obispos
+CEREZOS|Árboles de flor rosada
+CERROJOS|Barras que cierran
+CHALECOS|Prendas sin mangas
+CHIMENEAS|Conductos del humo
+CHINCHETAS|Clavitos de cabeza plana
+CHUBASCOS|Lluvias breves y fuertes
+CICATRICES|Marcas de las heridas
+CIGARRILLOS|Pitillos de tabaco
+CIRUELOS|Árboles de fruta morada
+CIRUJANOS|Médicos que operan
+CLAVELES|Flores de pétalos dentados
+COCHERAS|Garajes de los autobuses
+COCINEROS|Quienes preparan los platos
+COLLARES|Adornos del cuello
+COLMENAS|Casas de las abejas
+COMEDORES|Salas donde se come
+COMETAS|Astros con cola
+COMPASES|Trazan circunferencias
+CONCHAS|Caparazones de moluscos
+CONEJERAS|Madrigueras de conejos
+CORDILLERAS|Cadenas de montañas
+CORDONES|Atan los zapatos
+CORONELES|Jefes de regimiento
+CORTAUNAS|Utensilios de arreglar las uñas
+COSTUMBRES|Hábitos muy repetidos
+CUADERNOS|Libretas de hojas
+CUCARACHAS|Insectos nocturnos
+CUCHILLAS|Hojas de afeitar
+CUERVOS|Pájaros negros
+CUMBRES|Puntos más altos
+CURIOSIDADES|Cosas que despiertan interés
+DELANTALES|Protegen la ropa al cocinar
+DENTISTAS|Quienes cuidan las muelas
+DESIERTOS|Terrenos secos y arenosos
+DESTORNILLADORES|Herramientas de atornillar
+DIADEMAS|Adornos del pelo
+DIBUJANTES|Quienes hacen ilustraciones
+DOMINGOS|Días de descanso semanal
+DORMITORIOS|Cuartos de las camas
+DRAGONES|Monstruos de fuego
+DUENDES|Seres mágicos traviesos
+EDIFICIOS|Construcciones de varias plantas
+EJERCICIOS|Prácticas que se repiten
+EMBUDOS|Ayudan a llenar la botella
+EMPANADILLAS|Pastelillos fritos rellenos
+ENCHUFES|Tomas de corriente
+ENFERMEDADES|Alteraciones de la salud
+ENSALADAS|Platos fríos de lechuga
+ESCALONES|Peldaños de la escalera
+ESCARABAJOS|Insectos de caparazón duro
+ESCRITORES|Autores de libros
+ESPEJOS|Reflejan la imagen
+ESPINACAS|Verduras de hoja oscura
+ESPONJAS|Absorben el agua
+ESTORNUDOS|Expulsiones bruscas por la nariz
+ETIQUETAS|Rótulos de los productos
+FAROLES|Luces de la calle
+FAVORES|Servicios que se hacen
+FILOSOFOS|Quienes piensan sobre el ser
+FONTANEROS|Quienes arreglan las tuberías
+FRUTEROS|Quienes venden fruta
+GARBANZOS|Legumbres del cocido
+GENERALES|Militares de alto grado
+GERANIOS|Flores de balcón
+GIRASOLES|Flores que miran al sol
+GOLOSINAS|Dulces que gustan a los niños
+GOTERAS|Filtraciones del techo
+GRANJEROS|Trabajadores de la granja
+GUISANTES|Legumbres verdes
+HERRADURAS|Hierros de los cascos
+HERRAMIENTAS|Utensilios de trabajo
+HERREROS|Quienes trabajan el hierro
+HORMIGUEROS|Nidos de las hormigas
+HUERTOS|Terrenos de hortalizas
+INGENIEROS|Quienes proyectan obras
+JARABES|Medicinas líquidas
+JARDINEROS|Quienes cuidan las plantas
+JERSEYS|Prendas de punto
+JILGUEROS|Pájaros cantores de colores
+JUDIAS|Legumbres de vaina
+JUGADORES|Quienes participan en el partido
+LADRILLOS|Bloques de barro cocido
+LAGARTIJAS|Reptiles de los muros
+LAMPARAS|Dan luz en la casa
+LAVABOS|Pilas del cuarto de baño
+LECHUZAS|Rapaces nocturnas
+LENTEJAS|Legumbres pequeñas y planas
+LIBRETAS|Cuadernos pequeños
+LIMONEROS|Árboles del cítrico amarillo
+LINTERNAS|Luces portátiles
+LLAVEROS|Anillas de las llaves
+LOMBRICES|Gusanos de la tierra
+MACETAS|Tiestos de las plantas
+MADRIGUERAS|Refugios de los conejos
+MANTELES|Cubren la mesa
+MARIQUITAS|Escarabajos con lunares
+MARTILLOS|Herramientas de golpear
+MECHEROS|Encendedores de bolsillo
+MEDALLAS|Premios que se cuelgan
+MEJILLONES|Moluscos de concha negra
+MELOCOTONES|Frutas aterciopeladas
+MERCADOS|Plazas de la compra
+MILAGROS|Hechos sobrenaturales
+MOLINEROS|Trabajadores del molino
+MONASTERIOS|Casas de los monjes
+MURCIELAGOS|Mamíferos que vuelan de noche
+NARANJOS|Árboles del azahar
+NARIGONES|De narices grandes
+NOTARIOS|Quienes dan fe pública
+OBREROS|Trabajadores manuales
+OCEANOS|Mares inmensos
+ORQUESTAS|Conjuntos de músicos
+PAELLERAS|Sartenes anchas del arroz
+PALILLOS|Mondadientes de madera
+PANTALLAS|Muestran las imágenes
+PAPELERAS|Recogen los papeles
+PARAGUEROS|Recipientes de los paraguas
+PASTELEROS|Quienes hacen tartas
+PATINES|Se deslizan con ruedas
+PELDANOS|Escalones de la escalera
+PELUQUEROS|Quienes cortan el pelo
+PENDIENTES|Joyas de las orejas
+PEPINILLOS|Pepinos pequeños en vinagre
+PERCHEROS|Muebles donde se cuelga la ropa
+PERFUMES|Líquidos de buen olor
+PERIODISTAS|Quienes informan
+PERSIANAS|Cubren las ventanas por fuera
+PESCADEROS|Quienes venden pescado
+PIMIENTOS|Hortalizas rojas o verdes
+PIRAGUAS|Canoas estrechas
+PISTACHOS|Frutos secos verdes
+PIZARRAS|Tablas de escribir con tiza
+PLANCHAS|Alisan la ropa
+PLATANOS|Frutas amarillas curvas
+POETAS|Quienes escriben versos
+PORTALES|Entradas de los edificios
+PORTEROS|Guardianes de la meta
+PROFESIONES|Oficios que se ejercen
+PUCHEROS|Ollas del cocido
+PULSERAS|Adornos de la muñeca
+QUIOSCOS|Puestos de la prensa
+RALLADORES|Desmenuzan el queso
+RASCACIELOS|Edificios altísimos
+RATONERAS|Trampas para roedores
+RECETAS|Instrucciones de cocina
+RELAMPAGOS|Fogonazos de la tormenta
+REMOLACHAS|Raíces rojas y dulces
+RESTAURANTES|Locales donde se come
+RUISENORES|Aves de canto melodioso
+SACERDOTES|Ministros del culto
+SALCHICHAS|Embutidos frescos
+SANDALIAS|Calzados abiertos
+SARDINAS|Pescados azules pequeños
+SASTRES|Quienes hacen trajes
+SEMAFOROS|Luces que regulan el tráfico
+SERVILLETAS|Paños de la mesa
+SILBATOS|Instrumentos que pitan
+SOLDADURAS|Uniones hechas al fuego
+SOMBRILLAS|Protegen del sol
+TABERNEROS|Quienes sirven el vino
+TALADROS|Hacen agujeros
+TAMBORILES|Tambores pequeños
+TAQUILLAS|Ventanillas de las entradas
+TELARANAS|Redes de las arañas
+TENEDORES|Cubiertos de púas
+TERMOMETROS|Miden la temperatura
+TINTEROS|Recipientes de la tinta
+TOALLEROS|Barras donde cuelga la toalla
+TOBOGANES|Rampas por las que se desliza uno
+TOMATERAS|Plantas del tomate
+TORNILLOS|Piezas de rosca
+TORTUGAS|Reptiles de caparazón
+TRACTORES|Vehículos del campo
+TRAMPOLINES|Tablas de saltar al agua
+TRIANGULOS|Figuras de tres lados
+TULIPANES|Flores de bulbo
+VECINOS|Quienes viven al lado
+VENDAJES|Conjuntos de vendas
+VENTILADORES|Aparatos que mueven el aire
+VETERINARIOS|Médicos de animales
+VILLANCICOS|Canciones de Navidad
+VIOLINES|Instrumentos de cuatro cuerdas
+ZANAHORIAS|Raíces naranjas
+ZAPATILLAS|Calzados de estar en casa
+UNO|Primer número natural
+DOS|Número par que sigue al uno
+TRES|Número de los Reyes Magos
+CUATRO|Número de las estaciones
+CINCO|Número de los dedos de la mano
+SEIS|Número de las caras del dado
+SIETE|Número de los días de la semana
+OCHO|Número de las patas de la araña
+NUEVE|Número de los meses del embarazo
+DIEZ|Número de los mandamientos
+ONCE|Número de jugadores de un equipo de fútbol
+DOCE|Número de los meses del año
+TRECE|Número de la mala suerte
+CATORCE|Número que sigue al trece
+QUINCE|Número de años de la quinceañera
+VEINTE|Número de los dedos del cuerpo
+TREINTA|Número de días de septiembre
+CUARENTA|Número de días de la cuaresma
+CINCUENTA|Número de las bodas de oro
+SESENTA|Número de minutos de la hora
+SETENTA|Número que sigue al sesenta y nueve
+OCHENTA|Número de la vuelta al mundo de Verne
+NOVENTA|Número que precede al cien
+CIEN|Número de años del siglo
+MIL|Número de metros del kilómetro
+MILLON|Mil veces mil
+PRIMERO|El que va delante de todos
+SEGUNDO|El que sigue al primero
+TERCERO|El que ocupa el lugar tres
+CUARTO|El que sigue al tercero
+QUINTO|El que ocupa el lugar cinco
+SEXTO|El que sigue al quinto
+SEPTIMO|El que ocupa el lugar siete
+OCTAVO|El que sigue al séptimo
+NOVENO|El que ocupa el lugar nueve
+DECIMO|El que cierra la primera decena
+MITAD|Una de dos partes iguales
+TERCIO|Una de tres partes iguales
+DOBLE|Dos veces la cantidad
+TRIPLE|Tres veces la cantidad
+PAREJA|Conjunto de dos
+TRIO|Conjunto de tres
+CUARTETO|Conjunto de cuatro
+DECENA|Conjunto de diez
+DOCENA|Conjunto de doce
+CENTENAR|Conjunto de cien
+MILLAR|Conjunto de mil
+BLANCO|Color de la nieve
+NEGRO|Color del carbón
+ROJO|Color de la sangre
+AZUL|Color del cielo despejado
+VERDE|Color de la hierba
+AMARILLO|Color del limón
+NARANJA|Color de la fruta del mismo nombre
+MORADO|Color entre rojo y azul
+VIOLETA|Color de la flor del mismo nombre
+ROSA|Color de la flor con espinas
+MARRON|Color del chocolate
+GRIS|Color de la ceniza
+BEIS|Color arena muy claro
+DORADO|Color del oro
+PLATEADO|Color de la plata
+GRANATE|Rojo muy oscuro
+BURDEOS|Color del vino tinto
+TURQUESA|Azul verdoso de una piedra
+CELESTE|Azul muy claro
+CARMESI|Rojo intenso
+ESCARLATA|Rojo vivo
+AZABACHE|Negro brillante
+BERMELLON|Rojo anaranjado vivo
+OCRE|Amarillo terroso
+CAQUI|Verde pardo del uniforme
+ANIL|Azul muy oscuro
+LUNES|Primer día de la semana
+MARTES|Día que sigue al lunes
+MIERCOLES|Día central de la semana laboral
+JUEVES|Día anterior al viernes
+VIERNES|Último día laborable
+SABADO|Día anterior al domingo
+ENERO|Primer mes del año
+FEBRERO|Mes más corto
+MARZO|Mes que trae la primavera
+ABRIL|Mes de las lluvias
+MAYO|Mes de las flores
+JUNIO|Mes que abre el verano
+JULIO|Mes central del verano
+AGOSTO|Mes de las vacaciones
+SEPTIEMBRE|Mes de la vuelta al colegio
+OCTUBRE|Mes del Pilar
+NOVIEMBRE|Mes de los difuntos
+DICIEMBRE|Mes de la Navidad
+PRIMAVERA|Estación de las flores
+VERANO|Estación más calurosa
+OTONO|Estación de la caída de la hoja
+INVIERNO|Estación más fría
+SEGUNDO|Unidad básica de tiempo
+MINUTO|Sesenta segundos
+HORA|Sesenta minutos
+DIA|Veinticuatro horas
+SEMANA|Siete días
+MES|Doceava parte del año
+TRIMESTRE|Tres meses
+SEMESTRE|Seis meses
+ANO|Doce meses
+LUSTRO|Cinco años
+DECADA|Diez años
+SIGLO|Cien años
+MILENIO|Mil años
+ALBA|Primera luz del día
+AURORA|Claridad antes de salir el sol
+MEDIODIA|Las doce de la mañana
+SIESTA|Descanso de después de comer
+ATARDECER|Últimas horas de la tarde
+ANOCHECER|Caída de la noche
+MADRUGADA|Horas que siguen a medianoche
+METRO|Unidad de longitud
+CENTIMETRO|Centésima parte del metro
+MILIMETRO|Milésima parte del metro
+KILOMETRO|Mil metros
+LITRO|Unidad de capacidad
+MILILITRO|Milésima parte del litro
+GRAMO|Unidad de masa pequeña
+KILO|Mil gramos
+TONELADA|Mil kilos
+QUINTAL|Antigua medida de cien libras
+ARROBA|Antigua medida de peso
+FANEGA|Antigua medida de grano y de tierra
+LEGUA|Antigua medida de camino
+VARA|Antigua medida de longitud
+PALMO|Medida de la mano abierta
+PULGADA|Medida de longitud inglesa
+PIE|Medida inglesa de doce pulgadas
+MILLA|Medida de distancia marina
+NUDO|Unidad de velocidad del barco
+GRADO|Unidad de temperatura o de ángulo
+HECTAREA|Diez mil metros cuadrados
+AREA|Cien metros cuadrados
+VOLTIO|Unidad de tensión eléctrica
+VATIO|Unidad de potencia
+AMPERIO|Unidad de intensidad eléctrica
+CALORIA|Unidad de energía de los alimentos
+DECIBELIO|Unidad del nivel de ruido
+QUILATE|Unidad del peso de las gemas
+ABUELO|Padre del padre
+ABUELA|Madre de la madre
+PADRE|Progenitor varón
+MADRE|Progenitora
+HIJO|Descendiente directo
+HIJA|Descendiente femenina
+HERMANO|Hijo de los mismos padres
+HERMANA|Hija de los mismos padres
+NIETO|Hijo del hijo
+NIETA|Hija del hijo
+TIO|Hermano del padre
+TIA|Hermana de la madre
+SOBRINO|Hijo del hermano
+SOBRINA|Hija del hermano
+PRIMO|Hijo del tío
+PRIMA|Hija del tío
+CUNADO|Hermano del cónyuge
+CUNADA|Hermana del cónyuge
+SUEGRO|Padre del cónyuge
+SUEGRA|Madre del cónyuge
+YERNO|Marido de la hija
+NUERA|Esposa del hijo
+PADRINO|Quien apadrina en el bautizo
+MADRINA|Quien acompaña en la boda
+AHIJADO|Apadrinado en el bautismo
+BISABUELO|Padre del abuelo
+BISNIETO|Hijo del nieto
+ANTEPASADO|Pariente de generaciones atrás
+DESCENDIENTE|Quien procede de otro
+PARIENTE|Miembro de la familia
+FAMILIA|Padres e hijos
+LINAJE|Ascendencia de una casa
+ESTIRPE|Raíz de una familia

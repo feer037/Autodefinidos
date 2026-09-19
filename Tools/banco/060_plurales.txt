@@ -1,0 +1,719 @@
+# Plurales de uso corriente, con la pista también en plural
+ABEJAS|Insectos de la colmena
+ABRIGOS|Prendas de invierno
+ACEITES|Grasas líquidas
+ACEITUNAS|Frutos del olivar
+ACERAS|Zonas del peatón
+ACTORES|Intérpretes de cine
+AGUJAS|Llevan el hilo al coser
+AGUJEROS|Huecos en la tela
+AJOS|Bulbos de dientes fuertes
+ALAS|Miembros con que vuelan las aves
+ALAMOS|Árboles de ribera
+ALDEAS|Pueblos muy pequeños
+ALFILERES|Sujetan la tela con su punta
+ALMENDRAS|Frutos secos del turrón
+ALMOHADAS|Sostienen la cabeza al dormir
+ALUMNOS|Asisten a clase
+AMIGOS|Compañeros de confianza
+AMORES|Sentimientos que mueven el mundo
+ANILLOS|Joyas de los dedos
+ANIMALES|Seres vivos que se mueven
+ANTENAS|Captan la señal
+ANOS|Periodos de doce meses
+APLAUSOS|Palmas de aprobación
+ARBOLES|Plantas de tronco leñoso
+ARENAS|Suelos finos de la playa
+ARMAS|Instrumentos de combate
+ARMARIOS|Muebles de la ropa
+ARROYOS|Corrientes pequeñas de agua
+ARTISTAS|Creadores de obras de arte
+ASIENTOS|Sitios donde sentarse
+ASTROS|Cuerpos celestes
+ATUNES|Peces de las conservas
+AVES|Animales de pico y plumas
+AVIONES|Aeronaves de alas fijas
+AZULEJOS|Piezas vidriadas de la pared
+BAILES|Danzas al son de la música
+BALCONES|Salientes con barandilla
+BALONES|Esféricos del partido
+BANCOS|Asientos largos del parque
+BANDERAS|Enseñas de los países
+BARCOS|Naves que surcan el mar
+BARRIOS|Zonas de la ciudad
+BASTONES|Ayudan a caminar
+BATALLAS|Combates entre ejércitos
+BESOS|Caricias con los labios
+BICICLETAS|Vehículos de pedales
+BILLETES|Papeles de dinero
+BOCAS|Aberturas de la cara
+BODAS|Ceremonias del casamiento
+BOLSAS|Se lleva la compra en ellas
+BOMBEROS|Apagan los incendios
+BOSQUES|Terrenos poblados de árboles
+BOTAS|Calzados de caña alta
+BOTELLAS|Envases de cuello estrecho
+BOTONES|Abrochan la camisa
+BRAZOS|Miembros superiores
+BRUJAS|Hechiceras de la escoba
+BUQUES|Barcos de gran tamaño
+BURROS|Bestias de carga
+CABALLOS|Animales de silla
+CABEZAS|Partes altas del cuerpo
+CABLES|Hilos conductores
+CABRAS|Rumiantes de los riscos
+CADENAS|Series de eslabones
+CAJAS|Recipientes con tapa
+CALLES|Vías entre casas
+CAMAS|Muebles de dormir
+CAMINOS|Vías de tierra
+CAMIONES|Vehículos de gran carga
+CAMISAS|Prendas de cuello y botones
+CAMPANAS|Suenan en la torre
+CAMPOS|Terrenos fuera de la ciudad
+CANCIONES|Piezas de música con letra
+CANDADOS|Cierran con llave
+CANGREJOS|Crustáceos de pinzas
+CARAS|Rostros de las personas
+CARACOLES|Moluscos de concha espiral
+CARTAS|Misivas del correo
+CARTELES|Anuncios de la pared
+CASAS|Viviendas familiares
+CASCOS|Protegen la cabeza
+CASTILLOS|Fortalezas medievales
+CEBOLLAS|Bulbos que hacen llorar
+CEJAS|Arcos de pelo sobre los ojos
+CENAS|Comidas de la noche
+CEREZAS|Frutas rojas con rabito
+CERROJOS|Barras que cierran la puerta
+CESTAS|Recipientes de mimbre
+CHAQUETAS|Prendas abiertas de vestir
+CHICOS|Muchachos jóvenes
+CHISTES|Cuentos que hacen reír
+CIELOS|Bóvedas sobre nosotros
+CIERVOS|Rumiantes de cuerna ramificada
+CIGARROS|Rollos de tabaco
+CINES|Salas de proyección
+CINTAS|Tiras estrechas de tela
+CIUDADES|Poblaciones grandes
+CLAVELES|Flores de pétalos dentados
+CLAVOS|Se clavan con el martillo
+COCHES|Automóviles particulares
+COCINAS|Estancias donde se guisa
+CODOS|Articulaciones de los brazos
+COLORES|Verde, rojo o azul
+COLLARES|Adornos del cuello
+COMIDAS|Alimentos del mediodía
+CONEJOS|Roedores de madriguera
+COPAS|Vasos con pie
+CORAZONES|Bombean la sangre
+CORDEROS|Crías de la oveja
+COSAS|Objetos cualesquiera
+COSTILLAS|Huesos del tórax
+CUADERNOS|Libretas de hojas
+CUADROS|Pinturas enmarcadas
+CUCHARAS|Sirven para la sopa
+CUCHILLOS|Cortan la carne
+CUENTOS|Relatos breves
+CUERDAS|Sogas de cáñamo
+CUERNOS|Astas de los toros
+CUERPOS|Conjuntos del organismo
+CUEVAS|Cavidades en la roca
+DEDOS|Extremos de las manos
+DIAS|Jornadas completas
+DIENTES|Piezas de la boca
+DISCOS|Soportes redondos de música
+DUENDES|Seres mágicos y traviesos
+ESCALERAS|Sirven para subir pisos
+ESPEJOS|Reflejan la imagen
+ESTRELLAS|Astros que brillan de noche
+FALDAS|Prendas que caen de la cintura
+FAROLAS|Luces de la vía pública
+FIESTAS|Días de celebración
+FLORES|Partes bellas de las plantas
+FOTOS|Imágenes de la cámara
+FRUTAS|Alimentos de los árboles
+FUENTES|Manantiales de la plaza
+GAFAS|Lentes para la vista
+GALLINAS|Aves ponedoras
+GATOS|Felinos domésticos
+GLOBOS|Bolas infladas de aire
+GOLPES|Choques bruscos
+GORRAS|Prendas con visera
+GOTAS|Porciones mínimas de líquido
+GRITOS|Voces muy fuertes
+GUANTES|Prendas de las manos
+GUITARRAS|Instrumentos de seis cuerdas
+GUSANOS|Larvas que se arrastran
+HERIDAS|Roturas de la piel
+HERMANOS|Hijos de los mismos padres
+HIJOS|Descendientes directos
+HILOS|Hebras de coser
+HOJAS|Partes verdes de los árboles
+HOMBRES|Seres humanos varones
+HORAS|Periodos de sesenta minutos
+HORMIGAS|Insectos laboriosos
+HOTELES|Alojamientos de viajeros
+HUELLAS|Marcas de los pies
+HUESOS|Piezas del esqueleto
+HUEVOS|Los ponen las gallinas
+IGLESIAS|Templos cristianos
+ISLAS|Tierras rodeadas de agua
+JARDINES|Terrenos con flores
+JOYAS|Alhajas de valor
+JUGUETES|Entretienen a los niños
+LABIOS|Bordes de la boca
+LADRILLOS|Bloques cocidos de barro
+LADRONES|Quienes roban
+LAGOS|Grandes masas de agua dulce
+LAGRIMAS|Gotas que salen de los ojos
+LAMPARAS|Dan luz en la casa
+LANZAS|Armas de asta y punta
+LAPICES|Escriben con mina
+LECHUGAS|Verduras de la ensalada
+LEONES|Fieras de melena
+LETRAS|Signos del abecedario
+LEYES|Normas del Estado
+LIBROS|Obras impresas
+LIMONES|Cítricos amarillos
+LLAVES|Abren las cerraduras
+LOBOS|Fieras de la manada
+LUCES|Focos encendidos
+MADRES|Las que dan a luz
+MAESTROS|Enseñan en la escuela
+MALETAS|Equipajes del viajero
+MANOS|Extremos de los brazos
+MANZANAS|Frutas del manzano
+MAPAS|Representaciones del terreno
+MARES|Masas de agua salada
+MARIPOSAS|Insectos de alas de colores
+MESAS|Muebles con patas y tablero
+MESES|Doce partes del año
+MOLINOS|Muelen el grano
+MONEDAS|Piezas metálicas de pagar
+MONTANAS|Grandes elevaciones
+MOTORES|Producen el movimiento
+MUEBLES|Sillas, mesas y armarios
+MUJERES|Personas de sexo femenino
+MUNDOS|Planetas habitados
+MUROS|Paredes gruesas
+NARICES|Órganos del olfato
+NAVES|Embarcaciones grandes
+NIDOS|Hogares de los pájaros
+NIETOS|Hijos de los hijos
+NINOS|Personas de corta edad
+NOCHES|Tiempos de oscuridad
+NOTAS|Apuntes breves
+NUBES|Masas blancas del cielo
+NUDOS|Lazadas apretadas
+NUECES|Frutos secos de dos mitades
+OJOS|Órganos de la vista
+OLAS|Ondas del mar
+OLIVOS|Árboles de la aceituna
+OREJAS|Partes externas del oído
+OVEJAS|Hembras del carnero
+PAJAROS|Aves pequeñas
+PALABRAS|Unidades con significado
+PALACIOS|Residencias reales
+PALOMAS|Aves de la paz
+PANES|Alimentos de harina cocida
+PANTALONES|Prendas de dos perneras
+PAPELES|Hojas para escribir
+PAREDES|Tabiques que dividen
+PARQUES|Zonas verdes urbanas
+PATATAS|Tubérculos de la tortilla
+PATOS|Aves del estanque
+PECES|Animales de escamas
+PEINES|Arreglan el cabello
+PELICULAS|Filmes que se proyectan
+PELOTAS|Balones de jugar
+PERAS|Frutas alargadas
+PERIODICOS|Diarios de noticias
+PERROS|Cánidos domésticos
+PIEDRAS|Materias minerales duras
+PIERNAS|Miembros inferiores
+PINOS|Árboles de las piñas
+PINTORES|Artistas del lienzo
+PISOS|Viviendas de un bloque
+PLANETAS|Astros que giran alrededor del sol
+PLATOS|Piezas de la vajilla
+PLAYAS|Riberas arenosas del mar
+PLAZAS|Espacios abiertos del pueblo
+PLUMAS|Escriben con tinta
+POBRES|Faltos de recursos
+POLLOS|Crías de la gallina
+PRADOS|Campos de hierba
+PRECIOS|Costes de los productos
+PREMIOS|Recompensas por un mérito
+PUENTES|Cruzan los ríos
+PUERTAS|Se abren para entrar
+PUERTOS|Refugios de los barcos
+QUESOS|Productos curados de la leche
+RAICES|Partes de las plantas bajo tierra
+RAMAS|Brazos de los árboles
+RANAS|Anfibios saltarines
+RATONES|Roedores pequeños
+RAYOS|Descargas de la tormenta
+RELOJES|Marcan las horas
+REYES|Monarcas de los países
+RIOS|Corrientes continuas de agua
+ROCAS|Piedras muy grandes
+ROSAS|Flores de los enamorados
+RUEDAS|Giran en el eje
+RUIDOS|Sonidos molestos
+SABANAS|Ropas de cama
+SILLAS|Asientos con respaldo
+SOBRES|Envuelven las cartas
+SOLDADOS|Militares de tropa
+SOMBREROS|Prendas de copa y ala
+SONRISAS|Gestos alegres de la boca
+SUENOS|Lo que se ve al dormir
+TARDES|Partes del día tras el mediodía
+TAZAS|Recipientes del café
+TECHOS|Partes altas de las habitaciones
+TELAS|Tejidos de la ropa
+TELEFONOS|Aparatos para hablar de lejos
+TENEDORES|Cubiertos de púas
+TIENDAS|Locales de venta
+TIERRAS|Suelos que pisamos
+TIJERAS|Cortan con dos hojas
+TOALLAS|Secan el cuerpo
+TOMATES|Frutos rojos de la ensalada
+TORMENTAS|Lluvias con truenos
+TOROS|Reses bravas
+TORRES|Construcciones altas y estrechas
+TRAJES|Vestimentas elegantes
+TRENES|Convoyes sobre raíles
+TRIGOS|Cereales del pan
+TUBOS|Cilindros huecos
+UVAS|Frutos de los racimos
+VACAS|Reses lecheras
+VASOS|Recipientes de beber
+VELAS|Cilindros de cera con mecha
+VENTANAS|Aberturas del muro con cristal
+VERDURAS|Hortalizas de la huerta
+VIAJES|Desplazamientos largos
+VIENTOS|Corrientes de aire
+VINOS|Bebidas de la uva
+VOCES|Sonidos de la garganta
+ZAPATOS|Calzados de la calle
+ZORROS|Cánidos astutos
+ABANICOS|Se abren para dar aire
+ABUELOS|Padres de los padres
+ACCIONES|Hechos que se realizan
+ACTITUDES|Disposiciones ante algo
+ACUERDOS|Pactos entre partes
+ADORNOS|Detalles que embellecen
+AFICIONES|Gustos por un pasatiempo
+AGENDAS|Libretas de citas
+AGENTES|Miembros de la policía
+AGUAS|Líquidos incoloros
+ALAMEDAS|Paseos con árboles
+ALARMAS|Avisos sonoros de peligro
+ALFOMBRAS|Cubren el suelo
+ALGAS|Plantas marinas
+ALIMENTOS|Lo que se come
+ALMACENES|Naves donde se guarda el género
+ALTARES|Mesas del templo
+ALTURAS|Distancias hasta el suelo
+AMAPOLAS|Flores rojas de los trigales
+ANCLAS|Sujetan el barco al fondo
+ANDENES|Plataformas de la estación
+ANGELES|Espíritus celestiales
+ANGULOS|Aberturas entre dos rectas
+ANTORCHAS|Llamas que se llevan en la mano
+ANZUELOS|Ganchos de pescar
+APARATOS|Máquinas o utensilios
+APELLIDOS|Nombres de familia
+ARANAS|Tejedoras de ocho patas
+ARCOS|Disparan flechas
+ARDILLAS|Roedores de cola peluda
+ARENALES|Terrenos de mucha arena
+ARMADURAS|Trajes de hierro del caballero
+ARTES|Disciplinas de la belleza
+ASNOS|Burros de carga
+ASUNTOS|Temas de los que se trata
+AULAS|Salas donde se enseña
+AUTOBUSES|Vehículos de muchas plazas
+AVENIDAS|Calles anchas con árboles
+AVENTURAS|Sucesos llenos de emoción
+AVISPAS|Insectos que pican
+AZUCENAS|Flores blancas y olorosas
+BAHIAS|Entradas del mar en la costa
+BANDEJAS|Se sirve el café en ellas
+BANDIDOS|Salteadores de caminos
+BANQUETES|Comidas de muchos invitados
+BARANDILLAS|Pasamanos de las escaleras
+BARBAS|Pelos del mentón
+BARRERAS|Vallas que impiden el paso
+BARRILES|Recipientes de cerveza
+BASURAS|Desperdicios del cubo
+BATERIAS|Acumulan energía eléctrica
+BAULES|Arcones de viaje
+BEBIDAS|Líquidos que se toman
+BECAS|Ayudas para estudiar
+BELLOTAS|Frutos de las encinas
+BIGOTES|Pelos sobre el labio
+BILLETEROS|Carteras del dinero
+BOCADILLOS|Panes con relleno
+BODEGAS|Donde se cría el vino
+BOLSILLOS|Faltriqueras del pantalón
+BOMBILLAS|Dan luz en las lámparas
+BOMBONES|Dulces de chocolate
+BOSQUEJOS|Ideas generales sin detalles
+BRASAS|Ascuas del carbón
+BRISAS|Vientos suaves y agradables
+BROMAS|Chanzas sin mala intención
+BUHOS|Aves nocturnas de ojos grandes
+BUZONES|Recogen las cartas
+CABANAS|Casitas rústicas de madera
+CABELLOS|Pelos de la cabeza
+CADERAS|Huesos anchos del costado
+CALCETINES|Cubren los pies
+CALDOS|Sopas claras
+CAMAREROS|Sirven las mesas
+CAMELLOS|Animales de dos jorobas
+CAMILLAS|Trasladan a los heridos
+CAMISETAS|Prendas de manga corta
+CANALES|Cauces artificiales de agua
+CANASTAS|Cestos grandes de mimbre
+CANDILES|Lámparas antiguas de aceite
+CANGUROS|Marsupiales saltarines
+CANTANTES|Artistas de las canciones
+CARAMELOS|Golosinas duras y dulces
+CARBONES|Minerales negros que arden
+CARRETERAS|Vías asfaltadas
+CARTERAS|Guardan el dinero
+CASCADAS|Saltos de agua
+CASTANAS|Frutos del erizo de otoño
+CATEDRALES|Templos de los obispos
+CEBRAS|Équidos africanos de rayas
+CEPILLOS|Sirven para el pelo
+CERDOS|Animales del jamón
+CEREALES|Trigo, avena o cebada
+CEREBROS|Órganos del pensamiento
+CERILLAS|Fósforos que encienden
+CERRADURAS|Donde entran las llaves
+CHIMENEAS|Por ellas sale el humo
+CHOCOLATES|Dulces marrones del cacao
+CHORIZOS|Embutidos rojos de cerdo
+CIGUENAS|Aves de pico largo y rojo
+CINTURONES|Sujetan los pantalones
+CIRUELAS|Frutas moradas y jugosas
+CISNES|Aves blancas de cuello largo
+COCODRILOS|Reptiles de fauces enormes
+COJINES|Almohadones del sofá
+COLCHONES|Sobre ellos se duerme
+COLEGIOS|Centros de enseñanza
+COLINAS|Elevaciones suaves del terreno
+COLMENAS|Casas de las abejas
+COLUMNAS|Pilares que sostienen
+COMETAS|Astros con cola de polvo
+CONCIERTOS|Actuaciones musicales
+CONCHAS|Caparazones de moluscos
+CONSEJOS|Recomendaciones que se dan
+CORBATAS|Adornos del cuello de la camisa
+CORDONES|Atan los zapatos
+COROS|Grupos que cantan unidos
+CORONAS|Ciñen la cabeza del rey
+CORTINAS|Tapan las ventanas
+COSECHAS|Recogidas del fruto
+COSTUMBRES|Hábitos muy repetidos
+CRATERES|Bocas de los volcanes
+CRIMENES|Delitos muy graves
+CRUCES|Símbolos del cristianismo
+CUADRILLAS|Grupos de trabajo
+CUARTELES|Edificios de los soldados
+CUBOS|Recipientes del agua
+CUELLOS|Unen la cabeza al tronco
+CUENTAS|Sumas de lo que se debe
+CULEBRAS|Serpientes sin veneno
+CUMBRES|Puntos más altos de los montes
+CUNAS|Camas de los recién nacidos
+CUPULAS|Techos semiesféricos
+CURAS|Sacerdotes de las parroquias
+DAMAS|Señoras distinguidas
+DEBERES|Obligaciones que se tienen
+DELFINES|Cetáceos juguetones
+DESEOS|Ganas de tener algo
+DIAMANTES|Piedras preciosas durísimas
+DIBUJOS|Trazos hechos con lápiz
+DIENTES|Piezas que muerden
+DIOSES|Seres supremos de las religiones
+DOLORES|Sensaciones que hacen sufrir
+DRAGONES|Monstruos que echan fuego
+DUCHAS|Chorros de agua de aseo
+EDIFICIOS|Construcciones de varias plantas
+EJERCITOS|Conjuntos de tropas
+ELEFANTES|Paquidermos de trompa
+EMBUDOS|Ayudan a llenar la botella
+ENCINAS|Árboles de las bellotas
+ENEMIGOS|Contrarios en la guerra
+ERRORES|Fallos cometidos
+ESCOBAS|Instrumentos de barrer
+ESCUDOS|Defienden del golpe
+ESCUELAS|Centros de primeras letras
+ESPADAS|Armas blancas largas
+ESPALDAS|Partes traseras del tronco
+ESPINAS|Púas de los rosales
+ESPONJAS|Absorben el agua
+ESTACIONES|Paradas del ferrocarril
+ESTANTES|Tablas de la librería
+ESTATUAS|Figuras de bronce o piedra
+ESTUFAS|Aparatos que calientan
+EXAMENES|Pruebas para aprobar
+FABRICAS|Naves donde se produce
+FAMILIAS|Padres e hijos
+FANTASMAS|Apariciones de los muertos
+FAROS|Guían a los navegantes
+FIDEOS|Pastas finas para la sopa
+FILAS|Hileras de personas
+FIRMAS|Rúbricas al pie
+FLAUTAS|Instrumentos de viento
+FLECHAS|Proyectiles de los arcos
+FOCAS|Mamíferos marinos
+FOGATAS|Hogueras al aire libre
+FRENOS|Detienen el coche
+FRESAS|Frutas rojas de primavera
+FRONTERAS|Líneas entre dos países
+FUEGOS|Llamas que queman
+GAITAS|Instrumentos de fuelle
+GALLOS|Aves de cresta roja
+GANSOS|Aves grandes de corral
+GARRAS|Uñas fuertes y curvas
+GAVIOTAS|Aves blancas del puerto
+GIGANTES|Seres de estatura enorme
+GIRASOLES|Flores que miran al sol
+GOLONDRINAS|Aves que anuncian la primavera
+GOMAS|Materiales elásticos que borran
+GORRIONES|Pajarillos pardos de ciudad
+GRIFOS|Dan paso al agua
+GRILLOS|Insectos que cantan de noche
+GRUTAS|Cuevas naturales
+GUERRAS|Conflictos armados
+GUISANTES|Legumbres verdes y redondas
+HACHAS|Cortan leña
+HADAS|Seres mágicos con varita
+HELADOS|Postres fríos de verano
+HIERBAS|Plantas verdes y menudas
+HOGARES|Casas de las familias
+HOGUERAS|Fuegos al aire libre
+HORNOS|Aparatos de asar
+HUERTOS|Terrenos de hortalizas
+HUESPEDES|Personas alojadas
+IDEAS|Ocurrencias de la mente
+IMAGENES|Figuras que se ven
+IMANES|Atraen los metales
+INSECTOS|Animales de seis patas
+INVITADOS|Convidados a una fiesta
+JARRONES|Recipientes decorativos
+JAULAS|Encierros de barrotes
+JUECES|Administran justicia
+JUEGOS|Diversiones con reglas
+LADERAS|Faldas de las montañas
+LAGARTOS|Reptiles de cola larga
+LANAS|Pelos del ganado ovino
+LANCHAS|Barcas a motor
+LATAS|Envases metálicos
+LAVADORAS|Máquinas de lavar la ropa
+LECHES|Alimentos blancos de la vaca
+LENTEJAS|Legumbres pequeñas y planas
+LIBRERIAS|Tiendas de libros
+LIEBRES|Roedores veloces del campo
+LINTERNAS|Luces portátiles
+LLANURAS|Terrenos extensos y lisos
+LOROS|Aves que repiten palabras
+MACETAS|Tiestos de las plantas
+MADERAS|Materias de los troncos
+MANTAS|Cobijas de la cama
+MANTELES|Cubren la mesa al comer
+MARIDOS|Esposos de las mujeres
+MARINEROS|Trabajan en los barcos
+MARTILLOS|Clavan los clavos
+MASCOTAS|Animales de compañía
+MEDALLAS|Premios que se cuelgan
+MEJILLAS|Carrillos de la cara
+MELONES|Frutas grandes y dulces
+MEMORIAS|Facultades de recordar
+MERCADOS|Plazas de la compra
+MILAGROS|Hechos sobrenaturales
+MINAS|Excavaciones del mineral
+MINUTOS|Periodos de sesenta segundos
+MOCHILAS|Bolsas de la espalda
+MOLINILLOS|Muelen el café
+MONEDEROS|Guardan las monedas
+MONJES|Religiosos de clausura
+MONOS|Primates de los árboles
+MONSTRUOS|Seres horribles y deformes
+MOSCAS|Insectos molestos
+MOSQUITOS|Insectos que pican de noche
+MOTOS|Vehículos de dos ruedas
+MUELAS|Dientes del fondo
+MUELLES|Andenes del puerto
+MULAS|Híbridos de caballo y asno
+MULETAS|Ayudan a andar al cojo
+MUNECAS|Juguetes con forma de niña
+MURALLAS|Muros que defienden la ciudad
+MUSEOS|Salas de exposiciones
+MUSICOS|Quienes tocan un instrumento
+NARANJAS|Cítricos de gajos
+NARANJOS|Árboles de la flor de azahar
+NAVAJAS|Cuchillos que se pliegan
+NEVERAS|Conservan en frío
+NOTICIAS|Informaciones de sucesos
+NOVELAS|Obras narrativas largas
+NUMEROS|Signos de cantidad
+OFICINAS|Locales de trabajo
+OJERAS|Sombras bajo los ojos
+OLLAS|Recipientes de cocer
+ORDENADORES|Máquinas de procesar datos
+OSOS|Plantígrados de los bosques
+PADRES|Progenitores varones
+PAISES|Naciones con fronteras
+PAJAS|Tallos secos del cereal
+PALAS|Herramientas de cavar
+PALMERAS|Árboles de los dátiles
+PALOS|Varas largas de madera
+PANADEROS|Hacen el pan
+PANUELOS|Telas para la nariz
+PAPAS|Sumos pontífices
+PARAGUAS|Protegen de la lluvia
+PASILLOS|Corredores de la casa
+PASTELES|Dulces de repostería
+PASTORES|Guardan los rebaños
+PATIOS|Espacios descubiertos
+PECHOS|Partes delanteras del torso
+PEDALES|Palancas que se pisan
+PEINADOS|Arreglos del cabello
+PELUCAS|Cabelleras postizas
+PENAS|Tristezas del corazón
+PEPINOS|Hortalizas verdes y alargadas
+PERCHAS|Cuelgan la ropa
+PERFUMES|Líquidos de buen olor
+PERSIANAS|Cubren las ventanas
+PESADILLAS|Sueños angustiosos
+PESCADORES|Faenan con redes
+PIANOS|Instrumentos de teclado
+PICOS|Bocas de las aves
+PILARES|Columnas que sostienen
+PILOTOS|Conducen los aviones
+PIMIENTOS|Hortalizas rojas o verdes
+PINCELES|Utensilios del pintor
+PINGUINOS|Aves del hielo que nadan
+PINZAS|Sujetan la ropa tendida
+PINAS|Frutas tropicales con corona
+PIPAS|Se fuman con tabaco
+PIRATAS|Asaltan barcos
+PIRAMIDES|Monumentos de los faraones
+PISCINAS|Depósitos para nadar
+PISTOLAS|Armas cortas de fuego
+PIZARRAS|Tablas negras de la clase
+PLANTAS|Seres vegetales
+PLUMEROS|Quitan el polvo
+POETAS|Escriben en verso
+POLICIAS|Velan por el orden
+POSTRES|Últimos platos de la comida
+POZOS|Hoyos hondos con agua
+PRINCIPES|Herederos de la corona
+PROBLEMAS|Cuestiones por resolver
+PROFESORES|Imparten las clases
+PROMESAS|Compromisos de palabra
+PUEBLOS|Poblaciones pequeñas
+PULMONES|Órganos de la respiración
+PULPOS|Moluscos de ocho brazos
+PULSERAS|Adornos de la muñeca
+PUNOS|Manos cerradas
+QUESERIAS|Tiendas de queso
+RABOS|Colas de los animales
+RACIMOS|Conjuntos de uvas
+RAQUETAS|Golpean la pelota en el tenis
+REBANOS|Conjuntos de ovejas
+RECETAS|Indicaciones para cocinar
+REDES|Mallas para pescar
+REGALOS|Obsequios que se hacen
+REGLAS|Instrumentos de trazar rectas
+REINAS|Soberanas de los reinos
+REJAS|Barrotes de las ventanas
+RELAMPAGOS|Fogonazos de la tormenta
+REMOS|Palos que impulsan la barca
+REVISTAS|Publicaciones ilustradas
+RIENDAS|Correas que guían al caballo
+RINCONES|Ángulos de las habitaciones
+RISAS|Expresiones de alegría
+ROBLES|Árboles de madera dura
+RODILLAS|Articulaciones de las piernas
+ROSALES|Plantas de las rosas
+ROSTROS|Caras de las personas
+SACOS|Bolsas grandes de tela
+SALAS|Cuartos principales de la casa
+SALSAS|Aderezos líquidos
+SALTOS|Brincos en el aire
+SANDALIAS|Calzados abiertos de verano
+SANTOS|Elevados a los altares
+SAPOS|Anfibios de piel rugosa
+SARDINAS|Pescados azules pequeños
+SARTENES|Se fríe en ellas
+SEMANAS|Periodos de siete días
+SEMILLAS|Granos que germinan
+SENDEROS|Caminos estrechos
+SERPIENTES|Reptiles sin patas
+SETAS|Hongos comestibles
+SIGLOS|Periodos de cien años
+SILLONES|Asientos amplios con brazos
+SOBRINOS|Hijos de los hermanos
+SOFAS|Asientos largos del salón
+SOGAS|Cuerdas gruesas
+SOMBRAS|Zonas sin luz
+SOPAS|Caldos con fideos
+SORPRESAS|Sucesos inesperados
+SUELDOS|Retribuciones mensuales
+SUELOS|Superficies que se pisan
+TABERNAS|Locales de vinos
+TABLAS|Piezas planas de madera
+TALLERES|Locales de reparaciones
+TAMBORES|Instrumentos de percusión
+TAPAS|Cubren los recipientes
+TARJETAS|Cartulinas con datos
+TEATROS|Locales de representaciones
+TEJADOS|Cubiertas de las casas
+TEJAS|Piezas curvas del tejado
+TELARANAS|Redes que tejen las arañas
+TERRAZAS|Espacios descubiertos del piso
+TESOROS|Riquezas escondidas
+TESTIGOS|Presenciaron los hechos
+TIBURONES|Escualos de dientes afilados
+TIGRES|Felinos rayados
+TIMBRES|Suenan al llamar a la puerta
+TIZAS|Barritas de escribir
+TOBILLOS|Unen los pies a las piernas
+TONELES|Recipientes grandes de vino
+TOPOS|Mamíferos que viven bajo tierra
+TORTILLAS|Platos de huevo batido
+TORTUGAS|Reptiles de caparazón
+TRACTORES|Vehículos del campo
+TRAMPAS|Engaños para cazar
+TRAPOS|Paños de limpiar
+TRINEOS|Vehículos que se deslizan por la nieve
+TROMPETAS|Instrumentos de metal
+TRONCOS|Tallos gruesos de los árboles
+TRONOS|Asientos de los reyes
+TRUENOS|Ruidos de la tormenta
+TUBERIAS|Conductos del agua
+TUMBAS|Sepulcros de los difuntos
+TUNELES|Galerías bajo la tierra
+VACACIONES|Días de descanso
+VAGONES|Coches de los trenes
+VALLES|Terrenos llanos entre montes
+VELEROS|Barcos que navegan a vela
+VENAS|Conducen la sangre al corazón
+VERSOS|Líneas de los poemas
+VESTIDOS|Prendas femeninas de una pieza
+VIAS|Caminos del tren
+VIBORAS|Serpientes venenosas
+VIGAS|Maderos que sostienen el techo
+VIOLINES|Instrumentos de cuatro cuerdas
+VOLCANES|Montañas que echan lava
+YATES|Barcos de recreo
+ZANAHORIAS|Raíces naranjas del conejo
+ZAPATILLAS|Calzados cómodos de casa
+ZUMOS|Jugos exprimidos de la fruta

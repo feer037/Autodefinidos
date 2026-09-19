@@ -1,0 +1,828 @@
+# Segunda vuelta de vocabulario: de la D a la L
+DADIVA|Regalo generoso
+DADIVOSO|Que da con largueza
+DAGUERROTIPO|Primera técnica fotográfica
+DALMATICA|Vestidura litúrgica del diácono
+DAMAJUANA|Botellón grande forrado
+DAMASCO|Tela labrada con dibujos
+DAMNIFICADO|Perjudicado por un siniestro
+DANZARIN|Aficionado a bailar
+DARDADA|Golpe de dardo
+DATAR|Poner la fecha
+DEAMBULAR|Andar sin rumbo fijo
+DEBACLE|Desastre total
+DEBELAR|Vencer al enemigo
+DEBILITAR|Quitar fuerzas
+DEBUT|Primera actuación pública
+DECAIMIENTO|Pérdida de fuerza y ánimo
+DECALOGO|Los diez mandamientos
+DECANTAR|Inclinarse por una opción
+DECEPCIONAR|Defraudar lo esperado
+DECIBELIO|Unidad del nivel sonoro
+DECIMOTERCERO|Que ocupa el lugar trece
+DECLARACION|Manifestación ante la autoridad
+DECOMISAR|Incautar mercancía ilegal
+DECOROSO|Conforme a la dignidad
+DECREPITO|Muy viejo y acabado
+DECRETAR|Ordenar por decreto
+DECUPLO|Diez veces mayor
+DEDUCIBLE|Que se puede restar
+DEFECTUOSO|Que tiene fallos
+DEFENESTRAR|Echar a alguien de su cargo
+DEFICIENTE|Falto de lo necesario
+DEFINITIVO|Que no admite cambios
+DEFORMIDAD|Alteración de la forma natural
+DEFUNCION|Fallecimiento de una persona
+DEGENERACION|Pérdida progresiva de calidad
+DEGLUTIR|Pasar por la garganta
+DEGRADAR|Rebajar de grado
+DEIFICO|Propio de la divinidad
+DEJADEZ|Descuido y abandono
+DEJE|Acento peculiar al hablar
+DELACION|Denuncia secreta
+DELECTACION|Deleite muy grato
+DELEGACION|Oficina que representa a otra
+DELETEREO|Mortífero y venenoso
+DELIBERACION|Reflexión antes de decidir
+DELICADEZA|Finura en el trato
+DELICTIVO|Relativo al delito
+DELINEAR|Trazar líneas de un plano
+DELIRANTE|Que desvaría
+DEMAGOGIA|Halago interesado al pueblo
+DEMANDANTE|Quien pone la demanda
+DEMENTE|Que ha perdido la razón
+DEMOGRAFIA|Estudio de la población
+DEMOLICION|Derribo de un edificio
+DEMORAR|Retrasar algo
+DEMUDAR|Cambiar el color del rostro
+DENEGACION|Negativa a lo pedido
+DENOMINADOR|Término inferior de la fracción
+DENOSTAR|Injuriar de palabra
+DENSIFICAR|Hacer más denso
+DENTADO|Provisto de dientes
+DENTELLAR|Dar dentelladas
+DENUEDO|Valor y esfuerzo
+DEPARTIR|Conversar con alguien
+DEPENDENCIA|Sujeción a otra cosa
+DEPLORABLE|Muy lamentable
+DEPORTIVIDAD|Juego limpio y noble
+DEPOSICION|Destitución de un cargo
+DEPRAVACION|Corrupción de las costumbres
+DEPREDADOR|Animal que caza a otros
+DEPRECIAR|Bajar el valor
+DERMICO|Relativo a la piel
+DEROGACION|Anulación de una ley
+DERRAMAMIENTO|Vertido de un líquido
+DERREDOR|Espacio que rodea algo
+DERRENGAR|Lastimar el espinazo
+DERRETIMIENTO|Paso del sólido al líquido
+DERROTERO|Rumbo que se sigue
+DESABRIMIENTO|Aspereza en el trato
+DESACATAR|No obedecer a la autoridad
+DESACOMPASADO|Fuera de compás
+DESACONSEJAR|Aconsejar en contra
+DESACOSTUMBRAR|Quitar una costumbre
+DESAFECTO|Falta de estima
+DESAFORADO|Excesivo y desmedido
+DESAGRADABLE|Que causa molestia
+DESAGRAVIAR|Reparar una ofensa
+DESAGUISADO|Acción injusta o disparate
+DESALINEAR|Sacar de la línea
+DESALMADO|Cruel y sin conciencia
+DESAMPARAR|Dejar sin protección
+DESAMUEBLADO|Sin muebles
+DESANGRAR|Perder mucha sangre
+DESANIMAR|Quitar las ganas
+DESAPACIBLE|Poco agradable
+DESAPARICION|Hecho de dejar de verse
+DESARBOLAR|Derribar los palos del barco
+DESARMADO|Sin armas
+DESARROLLAR|Hacer crecer algo
+DESARTICULAR|Separar las piezas de un conjunto
+DESASIR|Soltar lo que se tenía cogido
+DESASNAR|Quitar la rudeza
+DESASTRADO|Desaliñado y sucio
+DESATASCAR|Dejar libre un conducto
+DESATENTO|Falto de cortesía
+DESAUTORIZADO|Sin permiso ni respaldo
+DESAVENIR|Enemistar a dos personas
+DESAYUNAR|Tomar el primer alimento del día
+DESBANDADA|Huida en desorden
+DESBARAJUSTE|Desorden completo
+DESBASTAR|Quitar lo más basto
+DESBOCAR|Perder el control el caballo
+DESBORDAMIENTO|Salida del agua de su cauce
+DESBRAVAR|Domar al animal cerril
+DESCABELLADO|Absurdo y sin sentido
+DESCABEZAR|Quitar la cabeza
+DESCALABRO|Daño o derrota grande
+DESCALIFICAR|Excluir de una prueba
+DESCAMISADO|Sin camisa y muy pobre
+DESCANSILLO|Rellano de la escalera
+DESCARGO|Justificación de una acusación
+DESCARNADO|Crudo y sin adornos
+DESCASTADO|Que no quiere a los suyos
+DESCENDENCIA|Conjunto de los hijos y nietos
+DESCEPAR|Arrancar las cepas
+DESCERRAJAR|Forzar la cerradura
+DESCIFRABLE|Que se puede interpretar
+DESCOMEDIDO|Sin moderación
+DESCOMPASADO|Fuera de medida
+DESCOMPOSICION|Separación en partes
+DESCONCERTAR|Dejar confuso
+DESCONCHON|Desprendimiento de la pintura
+DESCONSIDERADO|Que no respeta a los demás
+DESCONSOLADO|Sin consuelo posible
+DESCONTAR|Restar una cantidad
+DESCONTENTO|Falta de satisfacción
+DESCORAZONAR|Quitar el ánimo
+DESCORTES|Falto de educación
+DESCOYUNTAR|Sacar de su sitio los huesos
+DESCREIDO|Que no tiene fe
+DESCUARTIZAMIENTO|División en cuartos
+DESCUBRIMIENTO|Hallazgo de lo desconocido
+DESDENOSO|Que muestra desprecio
+DESDIBUJAR|Perder los contornos
+DESEMBARAZAR|Quitar los estorbos
+DESEMBOLSO|Pago de una cantidad
+DESEMPACHAR|Quitar el empacho
+DESEMPATAR|Deshacer la igualada
+DESEMPOLVAR|Quitar el polvo de lo olvidado
+DESENCADENAR|Provocar una serie de hechos
+DESENCAJAR|Sacar de su encaje
+DESENFOCAR|Perder la nitidez
+DESENFRENO|Falta total de moderación
+DESENGRASAR|Quitar la grasa
+DESENMASCARAR|Descubrir a un impostor
+DESENTENDER|No querer saber nada
+DESENTONAR|Sonar fuera de tono
+DESENTRANAR|Averiguar lo más oculto
+DESENVAINAR|Sacar la espada de la funda
+DESENVOLTURA|Soltura al obrar
+DESEQUILIBRIO|Falta de estabilidad
+DESERCION|Abandono del ejército
+DESESPERANZA|Pérdida de toda esperanza
+DESFACHATADO|Descarado sin medida
+DESFASE|Falta de correspondencia en el tiempo
+DESFAVORECER|Perjudicar a alguien
+DESFOGAR|Dar salida a la ira
+DESFONDAR|Romper el fondo
+DESGAJAR|Arrancar una rama
+DESGANADO|Sin apetito ni ganas
+DESGLOSAR|Separar por partidas
+DESGOBIERNO|Falta de orden en el mando
+DESGRACIADO|De mala suerte
+DESGRANAR|Sacar los granos
+DESGRAVAR|Rebajar un impuesto
+DESGUACE|Desmontaje de un vehículo viejo
+DESHABITADO|Sin gente que lo habite
+DESHIDRATACION|Pérdida de agua del cuerpo
+DESHILACHAR|Sacar hilachas a la tela
+DESHONESTO|Falto de honradez
+DESHUESAR|Quitar los huesos
+DESIDIA|Negligencia y desgana
+DESIGNIO|Propósito que se tiene
+DESIGUALDAD|Falta de equivalencia
+DESILUSIONAR|Quitar la ilusión
+DESINFECTANTE|Producto que mata los gérmenes
+DESINHIBIR|Perder los reparos
+DESINTEGRAR|Deshacer en partes
+DESLEIR|Disolver en un líquido
+DESLENGUADO|Que habla sin respeto
+DESLINDAR|Fijar los límites
+DESLOMAR|Lastimar el lomo
+DESLUCIR|Quitar el lucimiento
+DESMADEJADO|Flojo y sin fuerzas
+DESMADRE|Desorden desatado
+DESMAN|Exceso o abuso
+DESMANDAR|Salirse del orden
+DESMAÑADO|Torpe con las manos
+DESMARCAR|Librarse del marcaje
+DESMEDRAR|Ir perdiendo salud o valor
+DESMEJORAR|Perder buen aspecto
+DESMENTIDO|Negativa oficial de una noticia
+DESMEREDER|Perder valor ante otro
+DESMESURA|Falta de medida
+DESMIGAJAR|Deshacer en migas
+DESMOCHAR|Cortar la parte alta
+DESMONTE|Excavación en un terreno
+DESMOTIVAR|Quitar las ganas de actuar
+DESNATAR|Quitar la nata a la leche
+DESNIVELAR|Romper la igualdad de altura
+DESNUDEZ|Falta de ropa
+DESNUTRICION|Alimentación insuficiente
+DESOBEDIENCIA|Falta de acatamiento
+DESOIR|No atender lo que se dice
+DESOLADO|Devastado y triste
+DESOLLAR|Quitar la piel
+DESORBITADO|Excesivo con mucho
+DESORIENTAR|Hacer perder el rumbo
+DESOSAR|Quitar los huesos a la carne
+DESPABILAR|Espabilar del sueño
+DESPACHURRAR|Aplastar por completo
+DESPAMPANANTE|Que llama mucho la atención
+DESPARPAJO|Desenvoltura al hablar
+DESPARRAMAR|Esparcir sin orden
+DESPAVORIDO|Lleno de pavor
+DESPECHO|Resentimiento por un desengaño
+DESPECTIVO|Que muestra desprecio
+DESPEDAZAR|Hacer pedazos
+DESPEGUE|Salida del avión del suelo
+DESPEJADO|Cielo sin nubes
+DESPELLEJAR|Arrancar la piel
+DESPENSERO|Encargado de la despensa
+DESPEPITAR|Hablar a gritos sin tino
+DESPERDICIO|Resto inservible
+DESPERTAR|Salir del sueño
+DESPIADADO|Sin piedad alguna
+DESPIECE|División en piezas
+DESPISTADO|Que anda distraído
+DESPLANTE|Dicho arrogante e insolente
+DESPLIEGUE|Extensión de las tropas
+DESPOBLACION|Pérdida de habitantes
+DESPOJOS|Restos de lo aprovechado
+DESPOSEER|Quitar la posesión
+DESPOTA|Gobernante que abusa del poder
+DESPOTRICAR|Hablar sin freno contra algo
+DESPRECIABLE|Que no merece estima
+DESPRENDIMIENTO|Caída de tierras
+DESPREOCUPADO|Que no se inquieta por nada
+DESPRESTIGIO|Pérdida de la buena fama
+DESPROPORCION|Falta de correspondencia
+DESPROPOSITO|Disparate que se dice
+DESPROVISTO|Falto de lo necesario
+DESPUNTAR|Empezar a apuntar el día
+DESQUICIAR|Sacar de quicio
+DESRATIZAR|Eliminar los roedores
+DESTACAMENTO|Grupo de tropas separado
+DESTAJO|Trabajo pagado por obra hecha
+DESTELLAR|Despedir chispas de luz
+DESTEMPLADO|Fuera de tono o de temple
+DESTERNILLAR|Reír sin poder parar
+DESTIERRO|Pena de salir de la patria
+DESTILERIA|Fábrica de aguardiente
+DESTREZA|Habilidad y soltura
+DESTRIPAR|Sacar las entrañas
+DESTRUCTOR|Buque de guerra rápido
+DESVAIDO|De color apagado
+DESVALIDO|Falto de todo amparo
+DESVARIAR|Decir cosas sin sentido
+DESVELO|Cuidado y esmero constante
+DESVENCIJAR|Aflojar las partes de un mueble
+DESVENTAJOSO|Que perjudica frente a otro
+DESVERGONZADO|Sin ningún pudor
+DESVINCULAR|Romper el vínculo
+DETENCION|Arresto de una persona
+DETERGER|Limpiar una superficie
+DETERIORAR|Poner en peor estado
+DETRACTOR|Quien habla mal de algo
+DETRIMENTO|Daño o perjuicio
+DEUDOR|Quien debe dinero
+DEVANAR|Enrollar el hilo en un ovillo
+DEVANEO|Amorío pasajero
+DEVASTACION|Ruina de un territorio
+DEVENIR|Llegar a ser
+DEVOCIONARIO|Libro de oraciones
+DIABLILLO|Niño muy travieso
+DIACONO|Grado previo al sacerdocio
+DIADEMA|Adorno de la cabeza
+DIAFANIDAD|Claridad y transparencia
+DIALECTAL|Propio de un dialecto
+DIALOGAR|Hablar dos personas
+DIAMANTINO|Duro como el diamante
+DIANTRE|Eufemismo del demonio
+DIASPORA|Dispersión de un pueblo
+DIATONICO|Escala musical de siete notas
+DICCION|Modo de pronunciar
+DICOTOMIA|División en dos partes opuestas
+DICTATORIAL|Propio del que manda sin control
+DIDACTICO|Que sirve para enseñar
+DIEZMAR|Reducir mucho en número
+DIEZMO|Décima parte que se pagaba a la Iglesia
+DIFERENCIAR|Notar lo que distingue
+DIFICULTAR|Poner trabas
+DIFTERIA|Enfermedad infecciosa de la garganta
+DIGNATARIO|Persona de alto cargo
+DIGNIFICAR|Dar dignidad
+DIGRESION|Desvío del tema principal
+DILACION|Retraso en hacer algo
+DILEMATICO|Que plantea dos salidas malas
+DILIGENCIAR|Tramitar un asunto
+DILUCIDAR|Aclarar un asunto
+DILUVIAR|Llover con extrema abundancia
+DIMENSIONAR|Fijar las medidas
+DIMISION|Renuncia al cargo
+DINAMIZAR|Dar impulso y actividad
+DINASTICO|Relativo a una casa reinante
+DIOPTRIA|Unidad de la graduación de la lente
+DIPLOMADO|Con título de estudios
+DIPTONGO|Dos vocales en una sílaba
+DIPUTACION|Corporación provincial
+DIRECTRIZ|Norma que orienta
+DIRIGENTE|Quien dirige una organización
+DIRIMIR|Resolver una disputa
+DISCERNIMIENTO|Capacidad de distinguir
+DISCIPLINAR|Someter a normas
+DISCONTINUO|Que se interrumpe
+DISCORDANTE|Que no concuerda
+DISCOTECA|Local de baile y música
+DISCRIMINAR|Tratar de modo desigual
+DISCULPABLE|Que merece perdón
+DISCURRIR|Pensar o transcurrir
+DISCURSIVO|Dado a razonar
+DISECCION|Corte de un cuerpo para su estudio
+DISENSION|Desacuerdo entre partes
+DISENADOR|Crea la forma de los objetos
+DISERTAR|Hablar con detenimiento sobre algo
+DISFUNCION|Funcionamiento anómalo
+DISIDENTE|Que se aparta de una doctrina
+DISIMULO|Ocultación de lo que se siente
+DISLEXIA|Dificultad para leer
+DISLOCACION|Salida del hueso de su sitio
+DISMINUCION|Reducción de la cantidad
+DISPARIDAD|Diferencia notable
+DISPENDIO|Gasto excesivo
+DISPERSION|Esparcimiento en varias direcciones
+DISPLICENTE|Que muestra desgana y desdén
+DISPONIBLE|Que se puede usar
+DISPOSICION|Colocación y orden
+DISTANCIAR|Poner distancia
+DISTENDER|Aflojar la tensión
+DISTINCION|Elegancia y buen porte
+DISTORSION|Deformación de la imagen o el sonido
+DISTRACCION|Falta de atención
+DISUASION|Convencimiento de no hacer algo
+DISYUNTIVA|Elección entre dos opciones
+DITIRAMBO|Alabanza exagerada
+DIURETICO|Que hace orinar
+DIURNO|Que ocurre de día
+DIVERGENCIA|Separación de pareceres
+DIVERSIFICAR|Hacer más variado
+DIVIDENDO|Beneficio repartido al accionista
+DIVISORIA|Línea que separa dos cuencas
+DIVULGACION|Difusión al gran público
+DOBLEGABLE|Que se puede doblar
+DOBLEZ|Hipocresía en el trato
+DOCENTE|Que se dedica a enseñar
+DOCTORADO|Grado académico más alto
+DOCTRINAL|Relativo a una doctrina
+DOCUMENTAL|Película de hechos reales
+DOGAL|Cuerda que se echa al cuello
+DOGMATICO|Que no admite discusión
+DOLENCIA|Achaque o enfermedad
+DOMENAR|Someter y dominar
+DOMICILIARIO|Que se hace en casa
+DOMINICAL|Del día de descanso semanal
+DONCELLEZ|Estado de la que no se ha casado
+DONOSURA|Gracia y donaire
+DORMILON|Muy aficionado a dormir
+DORSAL|Relativo a la espalda
+DOSEL|Cortinaje que cubre un trono
+DOTAR|Proveer de lo necesario
+DRAGONEAR|Presumir de un cargo que no se tiene
+DRAMATIZAR|Exagerar la gravedad de algo
+DRASTICO|Radical y enérgico
+DUALIDAD|Condición de lo que es doble
+DUCHARSE|Lavarse bajo el chorro
+DULCIFICAR|Suavizar el carácter
+DUNAR|Relativo a los montículos de arena
+DUODENO|Primera parte del intestino delgado
+DUPLICIDAD|Doblez y falsedad
+DURADERO|Que se mantiene mucho tiempo
+DURMIENTE|Traviesa de la vía férrea
+ECHARPE|Chal ligero de señora
+ECLECTICO|Que toma de varias corrientes
+ECLESIAL|Relativo a la Iglesia
+ECLIPSAR|Oscurecer el mérito de otro
+ECONOMATO|Tienda para empleados
+ECUESTRE|Relativo al caballo
+EDEMA|Hinchazón por acumulación de líquido
+EDICTAL|Relativo a un edicto
+EDIFICANTE|Que da buen ejemplo
+EDITORIAL|Empresa que publica libros
+EDUCATIVO|Que forma y enseña
+EFECTUAR|Llevar a cabo
+EFEMERIDES|Hechos notables de una fecha
+EFICIENCIA|Logro con pocos medios
+EFIGIE|Imagen de una persona
+EFLUVIO|Emanación de un olor
+EFUSIVO|Que muestra afecto con calor
+EGIPCIO|Natural del país del Nilo
+EGOCENTRICO|Que se cree el centro de todo
+EGRESO|Salida de dinero
+EJECUTIVO|Directivo de una empresa
+EJEMPLAR|Cada copia de un libro
+EJERCITAR|Practicar con frecuencia
+ELABORACION|Proceso de fabricar algo
+ELASTICIDAD|Capacidad de recobrar la forma
+ELECTORADO|Conjunto de los votantes
+ELECTRODO|Extremo por donde pasa la corriente
+ELECTRODOMESTICO|Aparato eléctrico del hogar
+ELEGIA|Poema de lamento
+ELEVADOR|Aparato que sube cargas
+ELIMINATORIA|Ronda que deja fuera al perdedor
+ELIPSE|Curva cerrada de dos focos
+ELOCUENTE|Que habla con fuerza y arte
+ELUCUBRAR|Dar vueltas a una idea
+EMANACION|Salida de un vapor u olor
+EMANCIPACION|Salida de la tutela
+EMBADURNAR|Untar de manera burda
+EMBAJADOR|Representante de un país
+EMBALAJE|Envoltura del transporte
+EMBALSAMAR|Preparar un cuerpo para conservarlo
+EMBARCADERO|Muelle donde se embarca
+EMBARGO|Retención judicial de bienes
+EMBARRAR|Cubrir de barro
+EMBAULAR|Meter en un baúl
+EMBELECO|Embuste para engañar
+EMBELLECER|Poner más hermoso
+EMBERRINCHAR|Coger una rabieta
+EMBLEMATICO|Que representa un símbolo
+EMBOBAR|Dejar admirado y absorto
+EMBOCADURA|Boquilla del instrumento
+EMBOLSAR|Guardar el dinero ganado
+EMBORRONAR|Llenar de manchas el papel
+EMBOSCAR|Ocultarse para atacar
+EMBOTAR|Quitar el filo
+EMBRAVECER|Enfurecerse el mar
+EMBRIAGUEZ|Estado del que ha bebido mucho
+EMBROLLAR|Enredar un asunto
+EMBRUTECER|Volver torpe y rudo
+EMBUCHADO|Embutido de tripa rellena
+EMBUTIR|Meter apretando
+EMERGENCIA|Situación de peligro imprevisto
+EMIGRACION|Salida hacia otro país
+EMISARIO|Mensajero enviado con un encargo
+EMOLUMENTO|Retribución de un cargo
+EMPACHAR|Causar indigestión
+EMPADRONAR|Inscribir en el censo municipal
+EMPALAGO|Hartura de lo muy dulce
+EMPALIZADA|Cerca de estacas
+EMPANTANAR|Dejar detenido un asunto
+EMPAPELAR|Cubrir de papel la pared
+EMPAQUE|Aspecto serio y señorial
+EMPARENTAR|Unirse por parentesco
+EMPASTE|Relleno de una caries
+EMPATIA|Capacidad de ponerse en el lugar del otro
+EMPECINADO|Obstinado en su idea
+EMPELLON|Empujón violento
+EMPENAR|Dejar algo como garantía
+EMPERIFOLLAR|Adornar con exceso
+EMPINADO|De mucha pendiente
+EMPLASTO|Preparado que se aplica sobre la piel
+EMPLAZAR|Citar en un lugar y fecha
+EMPLUMAR|Cubrir de plumas
+EMPORIO|Centro comercial muy próspero
+EMPOTRAR|Meter en el muro
+EMPRESARIO|Dueño de un negocio
+EMPRESTITO|Préstamo que recibe el Estado
+EMULACION|Deseo de igualar al mejor
+ENAGUA|Prenda interior femenina
+ENALTECIMIENTO|Elogio que ensalza
+ENCABRITAR|Levantarse el caballo de manos
+ENCAJAR|Meter una pieza en otra
+ENCALAR|Blanquear con cal
+ENCAMINAR|Dirigir hacia un lugar
+ENCANECER|Salir canas
+ENCANTAMIENTO|Hechizo mágico
+ENCAPOTAR|Cubrirse el cielo
+ENCARAMAR|Subir a un sitio alto
+ENCARECER|Subir el precio
+ENCARGADO|Responsable de un negocio
+ENCARNIZADO|Muy duro y sangriento
+ENCARRILAR|Poner por buen camino
+ENCASILLAR|Clasificar rígidamente
+ENCASQUETAR|Meter bien el sombrero
+ENCAUZAR|Dar cauce a las aguas
+ENCENDIDO|Sistema que arranca el motor
+ENCERADO|Pizarra del aula
+ENCERRONA|Trampa preparada a alguien
+ENCHARCAR|Llenar de charcos
+ENCICLOPEDICO|De saber muy amplio
+ENCINTA|Mujer que espera un hijo
+ENCLAUSTRAR|Meter en el convento
+ENCLAVE|Territorio dentro de otro
+ENCLENQUE|Débil y enfermizo
+ENCOFRADO|Molde donde se vierte el hormigón
+ENCOMIABLE|Digno de alabanza
+ENCOMIENDA|Dignidad de las órdenes militares
+ENCONO|Rencor muy arraigado
+ENCORVAR|Doblar en forma de arco
+ENCRESPAR|Rizar el pelo o el mar
+ENCRUCIJADA|Cruce de caminos
+ENCUADRAR|Poner dentro de un marco
+ENCUMBRAR|Elevar a un puesto alto
+ENDECHA|Canción triste y lastimera
+ENDEMICO|Propio de un lugar
+ENDENTAR|Encajar dos ruedas dentadas
+ENDIABLADO|Muy difícil o travieso
+ENDILGAR|Encajar a otro algo molesto
+ENDOSAR|Pasar a otro una carga
+ENDRINA|Fruto azulado del pacharán
+ENDULZANTE|Sustancia que da dulzor
+ENEMISTAD|Odio entre dos personas
+ENERGICO|Que actúa con fuerza
+ENERVAR|Poner nervioso
+ENFADOSO|Que causa enfado
+ENFANGAR|Meter en el fango
+ENFASIS|Fuerza que se pone al hablar
+ENFERMIZO|De salud delicada
+ENFILAR|Poner en fila o tomar una dirección
+ENFRASCAR|Meterse de lleno en algo
+ENFRENTAMIENTO|Choque entre dos partes
+ENFUNDAR|Meter en la funda
+ENGALANAR|Adornar para una fiesta
+ENGARCE|Montura que sujeta la piedra
+ENGATUSAR|Ganar la voluntad con halagos
+ENGENDRO|Ser deforme o cosa mal hecha
+ENGLOBAR|Incluir en un conjunto
+ENGOLFAR|Meterse mar adentro
+ENGOLOSINAR|Despertar el deseo de algo
+ENGORRO|Molestia y estorbo
+ENGREIDO|Vanidoso y creído
+ENGROSAR|Aumentar el grosor o el número
+ENGULLIDOR|Que traga sin masticar
+ENHORABUENA|Felicitación por un éxito
+ENIGMATICO|Difícil de comprender
+ENJALBEGAR|Blanquear las paredes
+ENJUAGUE|Aclarado con agua
+ENJUICIAR|Someter a juicio
+ENJUNDIA|Sustancia e importancia
+ENJUTO|Delgado y seco de carnes
+ENLATAR|Meter en lata
+ENLOSAR|Cubrir el suelo de losas
+ENLUTAR|Vestir de luto
+ENMARANAR|Enredar mucho
+ENMOHECER|Cubrirse de moho
+ENMOQUETAR|Cubrir de moqueta
+ENNOBLECER|Dar nobleza a algo
+ENOJOSO|Molesto y fastidioso
+ENRAIZADO|Con raíces profundas
+ENRARECER|Hacer menos denso el aire
+ENREDADERA|Planta trepadora
+ENREVESADO|Muy complicado
+ENRIQUECIMIENTO|Aumento de la riqueza
+ENROCAR|Jugada del rey y la torre
+ENROLAR|Alistar en un barco
+ENRONQUECER|Perder la claridad de la voz
+ENROSCAR|Dar vueltas en espiral
+ENSALZAR|Elogiar mucho
+ENSAMBLAR|Unir dos piezas
+ENSANCHE|Barrio de expansión de una ciudad
+ENSENADA|Recodo de la costa
+ENSIMISMADO|Absorto en sus pensamientos
+ENSOMBRECER|Poner sombrío
+ENSORTIJAR|Rizar en forma de sortija
+ENTABLILLAR|Sujetar un hueso roto con tablillas
+ENTARIMADO|Suelo de tablas
+ENTELEQUIA|Cosa ideal que no existe
+ENTENDIMIENTO|Facultad de comprender
+ENTERADO|Que conoce el asunto
+ENTEREZA|Firmeza de ánimo
+ENTERNECER|Mover a ternura
+ENTIBIAR|Poner tibio
+ENTOLDAR|Cubrir con toldos
+ENTONACION|Modulación de la voz
+ENTONCES|En aquel momento
+ENTRAMADO|Armazón de maderos cruzados
+ENTRANA|Víscera del cuerpo
+ENTREABRIR|Abrir a medias
+ENTREACTO|Intermedio de la función
+ENTRECEJO|Espacio entre las cejas
+ENTREGARSE|Rendirse al enemigo
+ENTRELAZAR|Cruzar unas cosas con otras
+ENTREMES|Pieza teatral breve y cómica
+ENTRETELA|Tela interior que da cuerpo
+ENTREVER|Ver de manera confusa
+ENTROMETIDO|Que se mete donde no le llaman
+ENTRONCAR|Emparentar dos linajes
+ENTUERTO|Agravio que se repara
+ENTUMECER|Quedarse rígido de frío
+ENTURBIAR|Poner turbio
+ENUNCIADO|Texto que plantea un problema
+ENVANECER|Llenar de vanidad
+ENVARAR|Quedarse rígido
+ENVEJECIMIENTO|Paso de los años
+ENVERGADURA|Importancia y alcance de algo
+ENVILECER|Hacer vil y despreciable
+ENVITE|Apuesta que se hace en el juego
+ENVOLTORIO|Papel que envuelve
+ENZARZAR|Meter en una disputa
+EPICENTRO|Punto sobre el foco del terremoto
+EPIDERMIS|Capa externa de la piel
+EPIGRAFE|Título de un apartado
+EPIGRAMA|Poema corto y satírico
+EPISCOPAL|Relativo al obispo
+EPISTOLA|Carta que se escribe
+EPITAFIO|Inscripción de una tumba
+EPITETO|Adjetivo que destaca una cualidad
+EPOPEYA|Relato de grandes hazañas
+EQUIDAD|Justicia en el reparto
+EQUIDISTANTE|A igual distancia de dos puntos
+EQUIPARAR|Poner al mismo nivel
+EQUITATIVO|Justo y proporcionado
+EQUIVOCO|Que puede entenderse de dos modos
+ERADICAR|Arrancar de raíz
+ERECCION|Levantamiento de un monumento
+EREMITA|Anacoreta que vive apartado
+ERGONOMIA|Adaptación del trabajo al cuerpo
+ERIAL|Terreno sin cultivar
+ERIZADO|Lleno de púas o dificultades
+EROSIONAR|Desgastar por el roce
+EROTISMO|Carácter sensual de algo
+ERRADICAR|Suprimir por completo
+ERRATA|Error de imprenta
+ERRONEO|Equivocado
+ERUCTAR|Expulsar gases por la boca
+ERUDICION|Saber muy amplio y documentado
+ESBIRRO|Secuaz que ejecuta órdenes
+ESCABROSO|Áspero o delicado de tratar
+ESCABULLIR|Escaparse con disimulo
+ESCACHARRAR|Romper un cacharro
+ESCAFANDRA|Traje del buzo
+ESCALAFON|Lista de categorías profesionales
+ESCALDADURA|Quemadura por agua hirviendo
+ESCALINATA|Escalera monumental exterior
+ESCALOPE|Filete fino empanado
+ESCAMOTEAR|Hacer desaparecer con maña
+ESCANCIADOR|Quien sirve la sidra
+ESCANDALOSO|Que provoca gran revuelo
+ESCAQUEARSE|Eludir una obligación
+ESCARAMUZA|Combate breve entre avanzadillas
+ESCARAPELA|Divisa de cintas de colores
+ESCARCEO|Intento superficial
+ESCARMENTAR|Aprender de un castigo
+ESCARNIO|Burla cruel y afrentosa
+ESCARPADO|De pendiente muy pronunciada
+ESCARPIA|Clavo de gancho
+ESCASEAR|Haber poca cantidad
+ESCATIMAR|Dar menos de lo debido
+ESCENIFICAR|Poner en escena
+ESCENOGRAFIA|Arte del decorado teatral
+ESCINDIR|Dividir en partes
+ESCLARECIDO|Ilustre y famoso
+ESCLAVITUD|Estado del que carece de libertad
+ESCLUSA|Compartimento que salva desniveles
+ESCOCEDURA|Irritación de la piel
+ESCOLASTICA|Filosofía medieval de las escuelas
+ESCOLTAR|Acompañar protegiendo
+ESCOLLO|Peñasco a flor de agua
+ESCONDRIJO|Sitio para esconderse
+ESCORIA|Residuo de la fundición
+ESCORZO|Figura pintada en perspectiva
+ESCOTILLA|Abertura en la cubierta del barco
+ESCRUTAR|Examinar los votos
+ESCUADRILLA|Grupo de aviones
+ESCUALIDO|Flaco y macilento
+ESCUETO|Breve y sin adornos
+ESCULPIDO|Labrado en piedra
+ESCUPIDERA|Recipiente donde se escupía
+ESCURRIDIZO|Que se escapa con facilidad
+ESFUERZO|Empleo enérgico de la fuerza
+ESGRIMIR|Manejar la espada o un argumento
+ESLABONAR|Unir como los eslabones
+ESLORA|Longitud del barco
+ESMERALDINO|Verde como la esmeralda
+ESMERARSE|Poner el mayor cuidado
+ESOTERICO|Reservado a unos pocos iniciados
+ESPACIAR|Dejar espacio entre las cosas
+ESPADACHIN|Hábil con la espada
+ESPALDARAZO|Reconocimiento que impulsa a alguien
+ESPANTAPAJAROS|Figura que ahuyenta las aves
+ESPANOLADA|Obra que exagera lo español
+ESPARADRAPO|Cinta adhesiva de curas
+ESPARTANO|Austero y severo
+ESPARTO|Fibra vegetal de cestería
+ESPECIERO|Recipiente de las especias
+ESPECIFICAR|Detallar con precisión
+ESPECIMEN|Ejemplar de una especie
+ESPECTADOR|Quien presencia un espectáculo
+ESPECULACION|Compra para revender más caro
+ESPELEOLOGO|Explorador de cuevas
+ESPERPENTO|Obra que deforma la realidad
+ESPESAR|Hacer más denso
+ESPINOSO|Lleno de púas o dificultades
+ESPIONAJE|Obtención secreta de información
+ESPIRAR|Expulsar el aire de los pulmones
+ESPIRITISMO|Creencia en hablar con los muertos
+ESPITA|Llave de un tonel
+ESPLENDIDO|Magnífico y generoso
+ESPLIEGO|Planta aromática morada
+ESPOLON|Saliente del terreno o del ave
+ESPORADICO|Que ocurre de vez en cuando
+ESPUELA|Pincho del talón del jinete
+ESPUMOSO|Que hace mucha espuma
+ESQUEJE|Tallo que se planta para criar
+ESQUELETICO|Sumamente delgado
+ESQUEMA|Resumen gráfico de un contenido
+ESQUILA|Cencerro pequeño
+ESQUILAR|Cortar la lana a la oveja
+ESQUINAZO|Plantón que se da a alguien
+ESQUIROL|Trabajador que no secunda la huelga
+ESQUISTO|Roca que se divide en láminas
+ESTABILIDAD|Firmeza y equilibrio
+ESTACIONAR|Aparcar el coche
+ESTADISTA|Político de gran talla
+ESTAMENTO|Grupo social diferenciado
+ESTAMPIDA|Huida en tropel del ganado
+ESTAMPIDO|Estruendo de un disparo
+ESTANCAR|Detener el curso del agua
+ESTANCO|Tienda de tabaco y sellos
+ESTANTERO|Encargado de los estantes
+ESTATAL|Relativo al Estado
+ESTATICO|Que no se mueve
+ESTATUARIO|Propio de las estatuas
+ESTATUIR|Establecer una norma
+ESTELAR|Relativo a las estrellas
+ESTENTOREO|De voz muy fuerte
+ESTEPARIO|Propio de la llanura seca
+ESTERILIZAR|Eliminar todo germen
+ESTERTOR|Respiración ronca del moribundo
+ESTIBADOR|Carga y descarga los barcos
+ESTIERCOL|Abono de excrementos
+ESTIGMA|Marca infamante
+ESTILETE|Puñal de hoja muy fina
+ESTILISTA|Escritor de estilo cuidado
+ESTIMULANTE|Que activa el organismo
+ESTIPENDIO|Paga por un servicio
+ESTIPULAR|Fijar en un contrato
+ESTIVAL|Propio del verano
+ESTOCADA|Golpe de punta con la espada
+ESTOICO|Que soporta el dolor sin quejarse
+ESTOLA|Banda larga sobre los hombros
+ESTOPA|Parte basta del lino o cáñamo
+ESTORNINO|Ave de bandadas ruidosas
+ESTRAPERLO|Comercio ilegal de posguerra
+ESTRATO|Capa de un terreno
+ESTRECHEZ|Falta de anchura o de medios
+ESTRELLARSE|Chocar violentamente
+ESTREMECIMIENTO|Temblor súbito del cuerpo
+ESTRENIMIENTO|Dificultad para evacuar
+ESTREPITO|Ruido muy grande
+ESTRIA|Surco fino de una superficie
+ESTRIBAR|Apoyarse o fundarse en algo
+ESTRIBOR|Lado derecho del barco
+ESTRIDENTE|De sonido agudo y molesto
+ESTRIBILLO|Verso que se repite en la canción
+ESTROPICIO|Destrozo y desorden
+ESTRUENDOSO|De ruido tremendo
+ESTUCO|Pasta blanca para revestir muros
+ESTUDIOSO|Aplicado al estudio
+ESTUPEFACTO|Pasmado de asombro
+ESTUPIDEZ|Dicho o hecho necio
+ETEREO|Sutil y vaporoso
+ETIMOLOGIA|Origen de una palabra
+ETNOGRAFIA|Estudio descriptivo de los pueblos
+EUFEMISMO|Palabra suave que sustituye a otra dura
+EUFONIA|Sonido agradable de las palabras
+EUNUCO|Hombre castrado del harén
+EVANGELIZAR|Predicar la buena nueva
+EVASIVA|Respuesta que esquiva la cuestión
+EVENTUAL|Que puede ocurrir o no
+EVIDENCIAR|Poner de manifiesto
+EXACERBAR|Agravar una situación
+EXACTITUD|Precisión rigurosa
+EXALTACION|Entusiasmo extremo
+EXANIME|Sin señal de vida
+EXASPERAR|Irritar mucho
+EXCARCELAR|Sacar de la cárcel
+EXCEPCION|Caso que se aparta de la regla
+EXCLUSIVA|Derecho único de algo
+EXCOMULGAR|Apartar de la comunidad de fieles
+EXCRECENCIA|Bulto que sobresale
+EXCUSABLE|Que se puede disculpar
+EXECRABLE|Digno de aborrecimiento
+EXEQUIAS|Honras fúnebres
+EXHORTAR|Animar con razones
+EXHUBERANCIA|Abundancia extremada
+EXIGUO|Escaso y pequeño
+EXIMIO|Excelente entre todos
+EXISTENCIA|Hecho de existir
+EXODO|Salida en masa de un pueblo
+EXONERAR|Librar de una obligación
+EXPATRIAR|Hacer salir de la patria
+EXPECTACION|Espera llena de interés
+EXPECTORAR|Arrancar la flema
+EXPEDITO|Libre de estorbos
+EXPERIMENTAR|Probar por la experiencia
+EXPIACION|Pago de una culpa
+EXPLANADA|Terreno llano y despejado
+EXPLICITO|Dicho con toda claridad
+EXPLORADOR|Quien recorre lo desconocido
+EXPOLIAR|Despojar con violencia
+EXPONENTE|Muestra representativa de algo
+EXPROPIAR|Quitar un bien por interés público
+EXPUGNAR|Tomar por asalto una plaza
+EXQUISITEZ|Cosa de gusto muy fino
+EXTASIAR|Quedar absorto de placer
+EXTEMPORANEO|Fuera de tiempo
+EXTENUAR|Agotar las fuerzas
+EXTERMINIO|Destrucción total
+EXTINTOR|Aparato que apaga incendios
+EXTRACTAR|Reducir a lo esencial
+EXTRALIMITAR|Pasarse de los límites
+EXTRAVAGANTE|De gustos muy raros
+EXTRAVIO|Pérdida de un objeto
+EXTREMAR|Llevar al último punto
+EXULTAR|Mostrar gran alegría
+EYACULAR|Expulsar un líquido con fuerza

@@ -1,0 +1,348 @@
+# Gastronomía, cocina y alimentos
+PAELLA|Arroz valenciano con azafrán
+GAZPACHO|Sopa fría de tomate y pepino
+TORTILLA|Plato de huevo batido y patata
+COCIDO|Guiso de garbanzos, carne y verdura
+FABADA|Potaje asturiano de alubias
+POTE|Caldo gallego con grelos
+CALLOS|Guiso de tripas de ternera
+MIGAS|Plato de pan desmenuzado y frito
+SALMOREJO|Crema fría cordobesa
+AJOBLANCO|Sopa fría de almendra y ajo
+ESCUDELLA|Caldo catalán con pelota
+MARMITAKO|Guiso vasco de bonito y patata
+PISTO|Fritada de hortalizas
+SAMFAINA|Pisto catalán
+ESCALIVADA|Verduras asadas catalanas
+PIPERRADA|Fritada vasca de pimientos
+ZARANGOLLO|Revuelto murciano de calabacín
+PORRUSALDA|Sopa vasca de puerros
+CALDERETA|Guiso de cordero o pescado
+CHILINDRON|Guiso aragonés de pimientos
+PEPITORIA|Guiso de ave con almendra
+ESTOFADO|Guiso a fuego lento
+GUISO|Comida cocinada con caldo
+ASADO|Carne hecha al horno o brasa
+COCHINILLO|Lechón asado segoviano
+LECHAZO|Cordero lechal asado
+CHULETON|Chuleta de gran tamaño
+SOLOMILLO|Corte tierno de la res
+ENTRECOT|Corte de carne entre costillas
+FILETE|Loncha de carne magra
+ALBONDIGA|Bola de carne picada
+CROQUETA|Bola rebozada de bechamel
+EMPANADA|Masa rellena al horno
+EMPANADILLA|Pastelillo frito relleno
+BOCADILLO|Pan abierto con relleno
+MONTADITO|Pequeño bocado sobre pan
+TAPA|Pequeña ración de acompañamiento
+PINCHO|Bocado servido sobre palillo
+RACION|Porción servida en el bar
+APERITIVO|Bocado antes de la comida
+ENTRANTE|Primer plato de la mesa
+POSTRE|Último plato de la comida
+GUARNICION|Acompañamiento del plato principal
+CHORIZO|Embutido rojo con pimentón
+MORCILLA|Embutido de sangre
+SALCHICHON|Embutido curado con pimienta
+LOMO|Embutido curado de cerdo
+SOBRASADA|Embutido untuoso mallorquín
+CECINA|Carne curada de vacuno
+JAMON|Pata trasera curada del cerdo
+PALETA|Pata delantera curada
+PANCETA|Tocino veteado de cerdo
+TOCINO|Grasa curada del cerdo
+MANTECA|Grasa de cerdo derretida
+CHICHARRON|Residuo frito de la manteca
+QUESO|Producto cuajado de la leche
+CUAJADA|Postre de leche cuajada
+REQUESON|Cuajada blanda y suave
+YOGUR|Leche fermentada
+NATA|Crema grasa de la leche
+MANTEQUILLA|Grasa batida de la leche
+KEFIR|Leche fermentada de origen caucásico
+HUEVO|Alimento que pone la gallina
+CLARA|Parte blanca del huevo
+YEMA|Parte amarilla del huevo
+REVUELTO|Huevos batidos con algún ingrediente
+FRITO|Alimento cocinado en aceite abundante
+COCIDO|Alimento hervido en agua
+ASADO|Alimento hecho al horno
+PLANCHA|Modo de cocinar sobre placa caliente
+BRASA|Modo de asar sobre ascuas
+PARRILLA|Rejilla para asar
+HORNO|Aparato de cocción por calor seco
+SARTEN|Recipiente plano de freír
+CAZUELA|Recipiente hondo de barro
+OLLA|Recipiente alto de cocer
+PUCHERO|Vasija del cocido
+CACEROLA|Recipiente de dos asas
+PEROL|Recipiente hondo de metal
+COLADOR|Utensilio que filtra
+ESPUMADERA|Paleta agujereada de cocina
+CUCHARON|Cuchara grande de servir
+BATIDORA|Aparato que tritura
+EXPRIMIDOR|Extrae el zumo del cítrico
+RALLADOR|Utensilio de desmenuzar
+MORTERO|Vasija donde se maja
+MAJADO|Preparación machacada en el mortero
+ADOBO|Aliño para conservar la carne
+ESCABECHE|Conserva con vinagre
+SALMUERA|Agua muy salada de conservar
+MARINADA|Baño de aliño para la carne
+ALINO|Mezcla que da sabor
+VINAGRETA|Aliño de aceite y vinagre
+MAYONESA|Salsa emulsionada de huevo
+ALIOLI|Salsa de ajo y aceite
+BECHAMEL|Salsa blanca de leche y harina
+SOFRITO|Base de cebolla y tomate rehogados
+CALDO|Líquido de cocer carne o verdura
+CONSOME|Caldo claro y concentrado
+CREMA|Sopa espesa y suave
+PURE|Alimento triturado y espeso
+SOPA|Caldo con pasta, arroz o pan
+FIDEUA|Plato de fideos al estilo de la paella
+ARROZ|Cereal blanco de la paella
+PASTA|Alimento de harina y agua
+MACARRON|Pasta corta y hueca
+ESPAGUETI|Pasta larga y fina
+TALLARIN|Pasta en tira plana
+CANELON|Pasta enrollada y rellena
+LASANA|Pasta en capas al horno
+RAVIOLI|Pasta rellena italiana
+NOQUI|Pasta italiana de patata
+HARINA|Polvo del cereal molido
+LEVADURA|Fermento que hace subir la masa
+MASA|Mezcla de harina y líquido
+HOJALDRE|Masa de muchas capas finas
+BOLLO|Pieza pequeña de pan dulce
+BARRA|Pan alargado
+HOGAZA|Pan grande y redondo
+CHAPATA|Pan plano de corteza crujiente
+PICOS|Panecillos secos de acompañar
+BISCOTE|Pan tostado en rebanadas
+TOSTADA|Rebanada de pan dorada
+MIGA|Parte blanda del pan
+CORTEZA|Parte exterior y dura del pan
+CHURRO|Masa frita en tira estriada
+PORRA|Churro grueso
+BUNUELO|Masa frita y esponjosa
+ROSQUILLA|Dulce frito en forma de aro
+PESTINO|Dulce frito con miel
+TORRIJA|Pan empapado y frito de Semana Santa
+FLAN|Postre de huevo y caramelo
+NATILLAS|Postre cremoso de huevo
+ARROZCONLECHE|Postre de grano cocido en leche
+TOCINODECIELO|Dulce de yema y almíbar
+MAZAPAN|Dulce de almendra y azúcar
+TURRON|Dulce navideño de almendra
+POLVORON|Dulce que se deshace en la boca
+MANTECADO|Dulce navideño de manteca
+ALFAJOR|Dulce andaluz de miel y frutos secos
+PANETTONE|Bollo italiano de Navidad
+BIZCOCHO|Masa dulce y esponjosa de horno
+MAGDALENA|Bollito individual de horno
+TARTA|Pastel grande y decorado
+PASTEL|Dulce de repostería
+MERENGUE|Dulce de clara batida y azúcar
+MOUSSE|Postre aireado y esponjoso
+HELADO|Postre congelado
+SORBETE|Helado ligero de fruta
+GRANIZADO|Bebida de hielo picado
+BATIDO|Bebida de leche y fruta
+HORCHATA|Bebida blanca de chufa
+ZUMO|Líquido exprimido de la fruta
+LIMONADA|Refresco de limón
+GASEOSA|Refresco con burbujas
+REFRESCO|Bebida fría sin alcohol
+INFUSION|Bebida de hierbas en agua caliente
+MANZANILLA|Infusión digestiva de flor amarilla
+POLEO|Infusión de menta silvestre
+TILA|Infusión relajante
+CAFE|Bebida oscura y estimulante
+CORTADO|Café con un poco de leche
+CAPUCHINO|Café con espuma de leche
+DESCAFEINADO|Café sin su estimulante
+CHOCOLATE|Bebida espesa de cacao
+COLACAO|Bebida infantil de cacao
+VINO|Bebida de uva fermentada
+TINTO|Vino de color oscuro
+BLANCO|Vino de uva sin hollejo
+ROSADO|Vino de color claro rojizo
+CAVA|Espumoso elaborado en Cataluña
+CHAMPAN|Espumoso francés
+SIDRA|Bebida de manzana fermentada
+CERVEZA|Bebida de cebada con lúpulo
+CANA|Vaso pequeño de cerveza
+JARRA|Recipiente grande de bebida
+CLARA|Cerveza con gaseosa
+SANGRIA|Vino con fruta y azúcar
+VERMUT|Vino aromatizado de aperitivo
+COÑAC|Aguardiente de vino
+BRANDY|Aguardiente envejecido en barrica
+ORUJO|Aguardiente del hollejo de la uva
+PACHARAN|Licor navarro de endrinas
+ANIS|Licor dulce de sabor a matalahúva
+LICOR|Bebida dulce de alta graduación
+RON|Aguardiente de caña de azúcar
+GINEBRA|Aguardiente aromatizado con enebro
+VODKA|Aguardiente de cereal o patata
+WHISKY|Aguardiente de malta
+TEQUILA|Aguardiente mexicano de agave
+SAL|Condimento blanco imprescindible
+PIMIENTA|Especia de grano negro
+PIMENTON|Polvo rojo del pimiento seco
+AZAFRAN|Especia roja de hebras
+CANELA|Especia en rama de olor dulce
+CLAVO|Especia en forma de clavito
+NUEZMOSCADA|Especia que se ralla
+COMINO|Especia de sabor intenso
+OREGANO|Hierba de la pizza
+LAUREL|Hoja aromática del guiso
+PEREJIL|Hierba verde muy usada
+CILANTRO|Hierba de sabor cítrico
+ALBAHACA|Hierba aromática italiana
+ESTRAGON|Hierba de la cocina francesa
+HINOJO|Planta de sabor anisado
+JENGIBRE|Raíz picante oriental
+CURRY|Mezcla de especias de la India
+VAINILLA|Aroma dulce de vaina
+AZUCAR|Endulzante de la caña o la remolacha
+MIEL|Producto dulce de las abejas
+MELAZA|Jarabe espeso y oscuro
+ALMIBAR|Jarabe de azúcar y agua
+CARAMELO|Azúcar fundido y dorado
+ACEITE|Grasa líquida vegetal
+OLIVA|Fruto del que se extrae el aceite
+VINAGRE|Líquido ácido del aliño
+MOSTAZA|Salsa amarilla y picante
+KETCHUP|Salsa de tomate dulce
+LECHUGA|Verdura base de la ensalada
+TOMATE|Fruto rojo de la ensalada
+PEPINO|Hortaliza verde y refrescante
+CEBOLLA|Bulbo que hace llorar
+AJO|Bulbo de dientes aromáticos
+PIMIENTO|Hortaliza hueca verde o roja
+CALABACIN|Hortaliza verde alargada
+BERENJENA|Hortaliza morada
+CALABAZA|Hortaliza grande y naranja
+ZANAHORIA|Raíz naranja y dulce
+PATATA|Tubérculo de la tortilla
+BONIATO|Tubérculo dulce
+NABO|Raíz blanca de guiso
+REMOLACHA|Raíz roja y dulce
+PUERRO|Hortaliza blanca y alargada
+ESPINACA|Verdura de hoja verde oscura
+ACELGA|Verdura de penca blanca
+COLIFLOR|Verdura blanca en ramilletes
+BROCOLI|Verdura verde en ramilletes
+REPOLLO|Col de hojas apretadas
+ALCACHOFA|Hortaliza de hojas carnosas
+ESPARRAGO|Brote comestible
+GUISANTE|Legumbre verde y redonda
+JUDIA|Legumbre de vaina alargada
+LENTEJA|Legumbre pequeña y plana
+GARBANZO|Legumbre del cocido
+ALUBIA|Judía seca de guiso
+SOJA|Legumbre de origen asiático
+MANZANA|Fruta de la tarta
+PERA|Fruta de cuello estrecho
+NARANJA|Cítrico de gajos
+MANDARINA|Cítrico pequeño y fácil de pelar
+LIMON|Cítrico amarillo y ácido
+POMELO|Cítrico grande y amargo
+PLATANO|Fruta amarilla y curva
+UVA|Fruto del racimo
+FRESA|Fruta roja de primavera
+CEREZA|Fruta roja con rabito
+CIRUELA|Fruta morada y jugosa
+MELOCOTON|Fruta de piel aterciopelada
+ALBARICOQUE|Fruta naranja pequeña
+NECTARINA|Fruta de piel lisa parecida al melocotón
+HIGO|Fruto dulce de verano
+BREVA|Primer fruto de la higuera
+MELON|Fruta grande de pulpa clara
+SANDIA|Fruta de pulpa roja y pepitas
+PINA|Fruta tropical de corona
+KIWI|Fruta verde de piel peluda
+MANGO|Fruta tropical anaranjada
+PAPAYA|Fruta tropical de pulpa naranja
+AGUACATE|Fruto verde y cremoso
+COCO|Fruto tropical de agua dulce
+DATIL|Fruto dulce de la palmera
+GRANADA|Fruta de granos rojos
+CAQUI|Fruta naranja de otoño
+CHIRIMOYA|Fruta tropical blanca
+MEMBRILLO|Fruta del dulce de otoño
+NISPERO|Fruta naranja de primavera
+MORA|Fruto negro de la zarza
+FRAMBUESA|Fruta roja del bosque
+ARANDANO|Baya azulada del bosque
+GROSELLA|Baya roja y ácida
+ALMENDRA|Fruto seco del turrón
+NUEZ|Fruto seco de dos mitades
+AVELLANA|Fruto seco redondo
+PISTACHO|Fruto seco verde
+CACAHUETE|Fruto seco de cáscara blanda
+PINON|Semilla del pino comestible
+CASTANA|Fruto del erizo del otoño
+PASA|Uva secada al sol
+OREJON|Albaricoque desecado
+CIRUELAPASA|Fruta seca laxante
+SALMON|Pescado rosado ahumado
+MERLUZA|Pescado blanco de mesa
+BACALAO|Pescado que se sala y seca
+LUBINA|Pescado blanco muy fino
+DORADA|Pescado de mancha dorada
+RODABALLO|Pescado plano apreciado
+LENGUADO|Pescado plano alargado
+SARDINA|Pescado azul de espeto
+BOQUERON|Pescado pequeño en vinagre
+ANCHOA|Boquerón curado en salazón
+ATUN|Pescado azul de gran tamaño
+BONITO|Túnido del Cantábrico
+TRUCHA|Pescado de río
+GAMBA|Crustáceo rosado
+LANGOSTINO|Crustáceo grande y sabroso
+CIGALA|Crustáceo de pinzas largas
+BOGAVANTE|Crustáceo azulado de pinzas
+CENTOLLA|Crustáceo de patas largas
+NECORA|Crustáceo pequeño y sabroso
+PERCEBE|Marisco de las rocas
+ALMEJA|Bivalvo de la arena
+MEJILLON|Bivalvo de concha negra
+BERBERECHO|Bivalvo de concha estriada
+NAVAJA|Molusco alargado de la arena
+OSTRA|Bivalvo que se come crudo
+VIEIRA|Concha del peregrino
+PULPO|Molusco de ocho brazos
+CALAMAR|Molusco de diez brazos
+CHIPIRON|Calamar pequeño
+SEPIA|Molusco de hueso blanco
+CHEF|Jefe de cocina
+COCINERO|Quien prepara los platos
+PINCHE|Ayudante de cocina
+CAMARERO|Sirve en las mesas
+SUMILLER|Experto en vinos del restaurante
+MENU|Lista de los platos del día
+CARTA|Relación de platos y precios
+COMENSAL|Quien se sienta a la mesa
+BANQUETE|Comida de muchos invitados
+BUFE|Comida servida para servirse uno mismo
+RECETA|Instrucciones para cocinar un plato
+INGREDIENTE|Cada componente de la receta
+RACIONAR|Repartir en porciones
+REHOGAR|Sofreír a fuego suave
+SALTEAR|Freír a fuego vivo moviendo
+GRATINAR|Dorar por encima en el horno
+MARINAR|Dejar en un aliño líquido
+MACERAR|Ablandar en un líquido
+AMASAR|Trabajar la masa con las manos
+BATIR|Remover con energía
+ESPUMAR|Quitar la espuma del caldo
+DESALAR|Quitar la sal en remojo
+ESCALDAR|Sumergir un instante en agua hirviendo
+ADEREZAR|Sazonar un plato
+CONDIMENTAR|Dar sabor con especias
+DEGUSTAR|Probar con atención
+SABOREAR|Disfrutar del sabor

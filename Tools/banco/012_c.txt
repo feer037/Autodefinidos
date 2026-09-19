@@ -1,0 +1,995 @@
+# Vocabulario general: palabras que empiezan por C
+CABALLERO|Señor de buenos modales
+CABALLO|Animal de silla y montura
+CABANA|Casita rústica de madera
+CABECERA|Parte alta de la cama
+CABELLO|Pelo de la cabeza
+CABEZA|Parte superior del cuerpo
+CABINA|Habitáculo del piloto
+CABLE|Hilo conductor de electricidad
+CABO|Punta de tierra en el mar
+CABRA|Da leche para el queso
+CABRERO|Pastor de cabras
+CACAHUETE|Fruto seco de cáscara blanda
+CACAO|Semilla del chocolate
+CACEROLA|Olla de dos asas
+CACHALOTE|Cetáceo de cabeza enorme
+CACHARRO|Trasto viejo e inútil
+CACHIPORRA|Palo grueso con bola
+CACHORRO|Cría del perro
+CACIQUE|Jefe indio o mandamás local
+CACTUS|Planta con espinas del desierto
+CADA|Distribuye uno por uno
+CADAVER|Cuerpo sin vida
+CADENA|Serie de eslabones
+CADERA|Hueso ancho del costado
+CADETE|Alumno de academia militar
+CAFE|Bebida negra que despierta
+CAFETERA|Prepara el café
+CAIDA|Descenso brusco al suelo
+CAIMAN|Cocodrilo americano
+CAJA|Recipiente con tapa
+CAJERO|Atiende en la ventanilla
+CAJON|Compartimento del mueble
+CAL|Polvo blanco para encalar
+CALABAZA|Hortaliza naranja de Halloween
+CALABOZO|Celda oscura de la cárcel
+CALAMAR|Molusco de diez brazos
+CALAMBRE|Contracción dolorosa del músculo
+CALAMIDAD|Desgracia muy grande
+CALAVERA|Cráneo sin carne
+CALCETIN|Cubre el pie dentro del zapato
+CALCIO|Mineral de los huesos
+CALCULO|Operación con números
+CALDERA|Produce el agua caliente
+CALDERO|Recipiente de metal con asa
+CALDO|Sopa clara de cocido
+CALEFACCION|Sistema que caldea la casa
+CALENDARIO|Muestra los días del año
+CALENTAR|Subir la temperatura
+CALIDAD|Grado de bondad de algo
+CALIENTE|De temperatura alta
+CALIFA|Soberano musulmán
+CALIGRAFIA|Arte de escribir bien
+CALIZ|Copa de la misa
+CALLADO|Que no dice nada
+CALLE|Vía entre casas
+CALLEJON|Calle estrecha sin salida
+CALMA|Tranquilidad total
+CALOR|Sensación del verano
+CALUMNIA|Acusación falsa
+CALVICIE|Falta de pelo
+CALZADA|Parte de la calle por donde van los coches
+CALZADO|Zapatos y botas
+CALZONCILLO|Ropa interior masculina
+CAMA|Mueble para dormir
+CAMALEON|Reptil que cambia de color
+CAMARA|Toma fotografías
+CAMARERO|Sirve las mesas
+CAMAROTE|Dormitorio del barco
+CAMBIO|Paso de un estado a otro
+CAMELLO|Animal de dos jorobas
+CAMILLA|Traslada al herido
+CAMINO|Vía de tierra entre campos
+CAMION|Vehículo de gran carga
+CAMISA|Prenda de botones y cuello
+CAMISETA|Prenda de manga corta
+CAMPANA|Suena en la torre
+CAMPAMENTO|Lugar de tiendas de campaña
+CAMPEON|Vencedor de la liga
+CAMPO|Terreno fuera de la ciudad
+CANAL|Cauce artificial de agua
+CANARIO|Pájaro amarillo cantor
+CANASTA|Cesto grande de mimbre
+CANCELA|Verja de la entrada
+CANCION|Pieza de música con letra
+CANCHA|Terreno de juego
+CANDADO|Cierra con llave la verja
+CANDELA|Vela de cera encendida
+CANELA|Especia en rama de olor dulce
+CANGREJO|Crustáceo que anda de lado
+CANGURO|Marsupial saltarín australiano
+CANICA|Bolita de cristal de jugar
+CANON|Regla o modelo a seguir
+CANOA|Embarcación estrecha de remo
+CANSANCIO|Falta de fuerzas
+CANTANTE|Artista que interpreta canciones
+CANTARO|Vasija grande de barro
+CANTERA|De donde se saca la piedra
+CANTIDAD|Número de cosas
+CANTIMPLORA|Botella del excursionista
+CANTINA|Bar de la estación
+CANTO|Borde de una moneda
+CANA|Pelo blanco
+CANADA|Paso entre dos montañas
+CANAMO|Fibra vegetal de cuerdas
+CANON|Pieza pesada de artillería
+CANAVERAL|Plantío de cañas
+CAOBA|Madera roja tropical
+CAOS|Desorden total
+CAPA|Prenda suelta sin mangas
+CAPACIDAD|Cabida de un recipiente
+CAPATAZ|Manda a los obreros
+CAPILLA|Iglesia muy pequeña
+CAPITAL|Ciudad principal de un país
+CAPITAN|Manda el barco
+CAPITULO|División de un libro
+CAPOTE|Prenda del torero
+CAPRICHO|Deseo pasajero y antojadizo
+CAPSULA|Envoltura del medicamento
+CAPUCHA|Cubre la cabeza del abrigo
+CARA|Rostro de la persona
+CARACOL|Molusco de concha en espiral
+CARACTER|Modo de ser de alguien
+CARAMELO|Golosina dura y dulce
+CARAVANA|Fila de coches en la carretera
+CARBON|Mineral negro que arde
+CARCAJADA|Risa muy sonora
+CARCEL|Prisión de reclusos
+CARDENAL|Prelado de púrpura
+CARDO|Planta espinosa comestible
+CARENCIA|Falta de algo necesario
+CARETA|Máscara del rostro
+CARGA|Peso que se transporta
+CARGO|Puesto de responsabilidad
+CARICIA|Roce suave y cariñoso
+CARIDAD|Virtud de socorrer al pobre
+CARIES|Picadura del diente
+CARINO|Afecto que se siente
+CARNAVAL|Fiesta de disfraces
+CARNE|Alimento del animal
+CARNICERO|Vende chuletas y filetes
+CARO|De precio elevado
+CARPA|Pez de agua dulce
+CARPETA|Guarda los documentos
+CARPINTERO|Trabaja la madera
+CARRERA|Competición de velocidad
+CARRETA|Carro de dos ruedas
+CARRETERA|Vía asfaltada entre ciudades
+CARRETILLA|Carro de una rueda para obra
+CARRIL|Banda de circulación
+CARRO|Vehículo tirado por bestias
+CARTA|Escrito que se envía por correo
+CARTEL|Anuncio pegado en la pared
+CARTERA|Guarda el dinero y el carné
+CARTERO|Reparte el correo
+CARTON|Papel grueso y rígido
+CARTUCHO|Munición del fusil
+CASA|Vivienda familiar
+CASCADA|Salto de agua del río
+CASCARA|Cubierta del huevo
+CASCO|Protege la cabeza del motorista
+CASETA|Construcción pequeña de feria
+CASINO|Local de juego
+CASO|Suceso que se estudia
+CASTANA|Fruto del erizo del otoño
+CASTIGO|Pena impuesta por la falta
+CASTILLO|Fortaleza medieval
+CASUALIDAD|Coincidencia inesperada
+CATALOGO|Lista ordenada de artículos
+CATARATA|Gran salto de agua
+CATARRO|Resfriado con mocos
+CATASTROFE|Desastre enorme
+CATEDRA|Plaza del profesor titular
+CATEDRAL|Templo del obispo
+CATEGORIA|Clase o nivel
+CATOLICO|Fiel de la Iglesia de Roma
+CATORCE|Dos veces siete
+CAUCE|Lecho por donde corre el río
+CAUCHO|Material elástico del neumático
+CAUDAL|Cantidad de agua que lleva el río
+CAUSA|Motivo de un efecto
+CAUTELA|Prudencia ante el peligro
+CAUTIVO|Preso del enemigo
+CAVERNA|Cueva grande y profunda
+CAVIAR|Huevas negras del esturión
+CAZA|Persecución de animales salvajes
+CAZADOR|Sale al monte con escopeta
+CAZO|Recipiente con mango largo
+CEBADA|Cereal de la cerveza
+CEBOLLA|Bulbo que hace llorar
+CEBRA|Équido africano de rayas
+CEBO|Atrae al pez al anzuelo
+CEDER|Dar paso al otro
+CEDRO|Árbol de madera olorosa
+CEGUERA|Pérdida de la vista
+CEJA|Pelo sobre el ojo
+CELDA|Habitación del monje
+CELEBRE|Muy conocido y famoso
+CELO|Cinta adhesiva transparente
+CELOS|Recelo de perder al amado
+CELTA|Pueblo antiguo de Europa
+CELULA|Unidad mínima de vida
+CEMENTERIO|Recinto de las tumbas
+CEMENTO|Polvo gris del hormigón
+CENA|Última comida del día
+CENIZA|Polvo gris que deja el fuego
+CENTENARIO|Cien años de un suceso
+CENTIMETRO|Centésima parte del metro
+CENTINELA|Soldado de guardia
+CENTRO|Punto medio de la circunferencia
+CEPILLO|Sirve para el pelo y los dientes
+CERAMICA|Arte del barro cocido
+CERCA|A poca distancia
+CERDO|Animal del jamón
+CEREAL|Trigo, avena o cebada
+CEREBRO|Órgano del pensamiento
+CEREMONIA|Acto solemne
+CEREZA|Fruta roja con rabito
+CERILLA|Fósforo que enciende
+CERO|Ausencia de cantidad
+CERRADURA|Donde entra la llave
+CERROJO|Barra que cierra la puerta
+CERTEZA|Seguridad total sobre algo
+CERVEZA|Bebida rubia con espuma
+CESPED|Hierba corta del jardín
+CESTA|Recipiente de mimbre con asa
+CHABOLA|Vivienda muy pobre
+CHACAL|Cánido carroñero africano
+CHALECO|Prenda sin mangas
+CHALET|Casa con jardín
+CHAMPAN|Espumoso francés de celebración
+CHAMPU|Lava el cabello
+CHANCLA|Calzado de playa
+CHAPA|Lámina fina de metal
+CHAPARRON|Lluvia fuerte y breve
+CHAQUETA|Prenda de abrigo con botones
+CHARCO|Agua estancada en el suelo
+CHARLA|Conversación distendida
+CHATARRA|Restos de metal viejo
+CHEQUE|Orden de pago al banco
+CHICLE|Goma de mascar
+CHICO|De poco tamaño
+CHILE|País andino de Santiago
+CHIMENEA|Por ella sale el humo
+CHINCHE|Insecto que pica en la cama
+CHINO|Natural de Pekín
+CHIRINGUITO|Bar de playa
+CHISME|Habladuría sobre otros
+CHISPA|Pequeña descarga luminosa
+CHISTE|Cuento que hace reír
+CHOCOLATE|Dulce marrón del cacao
+CHOFER|Conductor del coche de otro
+CHOPO|Álamo negro de ribera
+CHOQUE|Colisión entre dos cuerpos
+CHORIZO|Embutido rojo de cerdo
+CHORRO|Salida fuerte de líquido
+CHOZA|Cabaña de ramas
+CHULETA|Costilla con carne
+CHUPETE|Calma al bebé
+CHURRO|Masa frita del desayuno
+CIBERNETICA|Ciencia del control automático
+CICATRIZ|Señal que deja la herida
+CICLISTA|Corredor de bicicleta
+CICLON|Viento huracanado giratorio
+CIEGO|Privado de la vista
+CIELO|Bóveda azul sobre nosotros
+CIEN|Diez veces diez
+CIENCIA|Conjunto de saberes probados
+CIERVO|Rumiante de cuerna ramificada
+CIFRA|Signo de un número
+CIGARRO|Rollo de tabaco
+CIGUENA|Ave de pico largo y rojo
+CILINDRO|Cuerpo de bases circulares
+CIMA|Punto más alto del monte
+CIMIENTO|Base del edificio
+CINCEL|Talla la piedra a golpes
+CINCO|Dedos de una mano
+CINE|Sala de proyección
+CINTA|Tira estrecha de tela
+CINTURA|Parte estrecha del talle
+CINTURON|Sujeta el pantalón
+CIPRES|Árbol alto y estrecho del cementerio
+CIRCO|Espectáculo de payasos
+CIRCUITO|Recorrido cerrado de carreras
+CIRCULO|Figura perfectamente redonda
+CIRUELA|Fruta morada y jugosa
+CIRUGIA|Operación en el quirófano
+CIRUJANO|Médico que opera
+CISNE|Ave blanca de cuello largo
+CISTERNA|Depósito de agua
+CITA|Encuentro acordado
+CIUDAD|Población grande
+CIVIL|No militar
+CLARIDAD|Luz que deja ver
+CLARINETE|Instrumento de viento con lengüeta
+CLARO|Lo contrario de oscuro
+CLASE|Aula donde se enseña
+CLASICO|De estilo tradicional
+CLAUSULA|Punto de un contrato
+CLAVE|Código para descifrar
+CLAVEL|Flor típica del mantón
+CLAVICULA|Hueso del hombro
+CLAVO|Se clava con el martillo
+CLIENTE|Compra en la tienda
+CLIMA|Tiempo habitual de un lugar
+CLINICA|Hospital privado
+CLOACA|Alcantarilla de la ciudad
+CLORO|Desinfecta la piscina
+CLUB|Sociedad de socios
+COBARDE|Que huye del peligro
+COBERTIZO|Techado para resguardarse
+COBRA|Serpiente de capucha
+COBRE|Metal rojizo conductor
+COCHE|Automóvil de cuatro ruedas
+COCHINO|Cerdo, en coloquial
+COCINA|Estancia donde se guisa
+COCINERO|Prepara los platos
+COCO|Fruto tropical de agua dulce
+COCODRILO|Reptil de fauces enormes
+CODICIA|Afán excesivo de riquezas
+CODIGO|Conjunto de normas
+CODO|Articulación del brazo
+COFRE|Caja fuerte con tapa
+COGER|Tomar con la mano
+COHETE|Nave que sube al espacio
+COJIN|Almohadón del sofá
+COL|Verdura de la familia del repollo
+COLA|Rabo del animal
+COLADOR|Separa el líquido del sólido
+COLCHON|Sobre él se duerme
+COLECCION|Conjunto de cosas reunidas
+COLEGIO|Centro de enseñanza
+COLERA|Ira muy violenta
+COLESTEROL|Grasa de la sangre
+COLGANTE|Joya que pende del cuello
+COLIBRI|Pájaro mosca de las flores
+COLIFLOR|Verdura blanca en ramilletes
+COLINA|Elevación suave del terreno
+COLLAR|Adorno del cuello
+COLMENA|Casa de las abejas
+COLMILLO|Diente puntiagudo
+COLOMBIA|País de Bogotá y el café
+COLONIA|Territorio dominado por otro país
+COLOR|Verde, rojo o azul
+COLUMNA|Pilar que sostiene el techo
+COMA|Signo de puntuación breve
+COMADREJA|Mamífero pequeño y alargado
+COMANDANTE|Jefe militar del avión
+COMBATE|Lucha entre dos bandos
+COMEDIA|Obra teatral que hace reír
+COMEDOR|Sala donde se come
+COMERCIO|Compra y venta
+COMETA|Astro con cola de polvo
+COMIDA|Alimento del mediodía
+COMIENZO|Principio de algo
+COMISARIA|Oficina de la policía
+COMITE|Grupo que decide
+COMODA|Mueble de cajones
+COMPAS|Dibuja circunferencias
+COMPRA|Adquisición en la tienda
+COMUN|De todos y para todos
+CONCHA|Caparazón del molusco
+CONCIERTO|Actuación musical en directo
+CONCURSO|Competición con premio
+CONDE|Título entre marqués y vizconde
+CONDENA|Pena que impone el juez
+CONDICION|Requisito para algo
+CONDUCTOR|Lleva el volante
+CONEJO|Roedor de orejas largas
+CONFIANZA|Fe en alguien
+CONGELADOR|Conserva bajo cero
+CONGRESO|Reunión de diputados
+CONOCIMIENTO|Saber adquirido
+CONQUISTA|Toma de un territorio
+CONSEJO|Recomendación que se da
+CONSERJE|Cuida el edificio
+CONSONANTE|Letra que no es vocal
+CONSUELO|Alivio de la pena
+CONTADOR|Mide el consumo
+CONTENIDO|Lo que hay dentro
+CONTINENTE|Europa o Asia, por ejemplo
+CONTRATO|Acuerdo firmado
+CONVENTO|Casa de las monjas
+COPA|Vaso con pie
+COPIA|Reproducción del original
+COPLA|Estrofa popular cantada
+COPO|Cristal de nieve que cae
+CORAL|Animal marino de arrecife
+CORAZA|Armadura del pecho
+CORAZON|Bombea la sangre
+CORBATA|Adorno del cuello de la camisa
+CORCHO|Corteza del alcornoque
+CORDEL|Cuerda fina
+CORDERO|Cría de la oveja
+CORDILLERA|Cadena de montañas
+CORDON|Ata el zapato
+CORNETA|Instrumento militar de viento
+CORO|Grupo que canta unido
+CORONA|Ciñe la cabeza del rey
+CORONEL|Jefe de un regimiento
+CORRAL|Cercado de las gallinas
+CORREA|Tira de cuero
+CORRECTO|Sin errores
+CORREO|Servicio de cartas
+CORRIENTE|Flujo del agua o la electricidad
+CORTE|Incisión con cuchillo
+CORTESIA|Buenos modales
+CORTINA|Tapa la ventana
+CORZO|Ciervo pequeño del bosque
+COSECHA|Recogida del fruto
+COSER|Unir con hilo y aguja
+COSTA|Orilla del mar
+COSTILLA|Hueso del tórax
+COSTUMBRE|Hábito muy repetido
+COSTURA|Unión cosida de dos telas
+CRANEO|Caja ósea de la cabeza
+CRATER|Boca del volcán
+CREENCIA|Idea que se da por cierta
+CREMA|Pasta suave y untuosa
+CREPUSCULO|Luz tras la puesta del sol
+CRESTA|Carnosidad roja del gallo
+CRIADO|Sirviente de la casa
+CRIMEN|Delito muy grave
+CRIN|Pelo del cuello del caballo
+CRISIS|Momento de gran dificultad
+CRISTAL|Vidrio transparente
+CRITICA|Juicio sobre una obra
+CROMO|Estampa de colección
+CRONICA|Relato ordenado de hechos
+CRONOMETRO|Mide el tiempo con precisión
+CRUCE|Punto donde se cortan dos calles
+CRUCERO|Viaje de placer en barco
+CRUDO|Sin cocinar
+CRUEL|Que disfruta con el daño
+CRUJIDO|Ruido de la madera vieja
+CRUZ|Símbolo del cristianismo
+CUADERNO|Libreta de hojas
+CUADRO|Pintura enmarcada
+CUARENTA|Cuatro decenas
+CUARTEL|Edificio de los soldados
+CUARTO|Habitación de la casa
+CUATRO|Patas de la mesa
+CUBIERTA|Piso superior del barco
+CUBO|Sólido de seis caras iguales
+CUCHARA|Sirve para la sopa
+CUCHILLO|Corta la carne
+CUCLILLO|Ave que pone en nido ajeno
+CUCURUCHO|Cono de papel o barquillo
+CUELLO|Une la cabeza al tronco
+CUENCA|Territorio que drena un río
+CUENTA|Suma de lo que se debe
+CUENTO|Relato breve de ficción
+CUERDA|Soga de cáñamo
+CUERNO|Asta del toro
+CUERO|Piel curtida del animal
+CUERPO|Conjunto del organismo
+CUERVO|Pájaro negro de mal agüero
+CUESTA|Camino en pendiente
+CUEVA|Cavidad natural en la roca
+CUIDADO|Atención y esmero
+CULEBRA|Serpiente sin veneno
+CULPA|Responsabilidad de una falta
+CULTIVO|Siembra y cuidado de la tierra
+CULTURA|Saberes de un pueblo
+CUMBRE|Cima de la montaña
+CUMPLEANOS|Aniversario del nacimiento
+CUNA|Cama del recién nacido
+CUNETA|Zanja al borde de la carretera
+CUPULA|Techo semiesférico
+CURA|Sacerdote de la parroquia
+CURIOSIDAD|Ganas de saber
+CURSO|Año académico
+CURVA|Línea que no es recta
+CUSTODIA|Guarda y vigilancia
+CUTIS|Piel de la cara
+CABALGAR|Ir montado a caballo
+CABALGATA|Desfile de los Reyes Magos
+CABECEAR|Dar cabezadas de sueño
+CABELLERA|Melena larga
+CABEZUDO|Figura de gran cabeza en fiestas
+CABIZBAJO|Con la cabeza gacha
+CABOTAJE|Navegación cerca de la costa
+CABRIOLA|Salto acrobático
+CACAREAR|Cantar la gallina
+CACHEO|Registro de la ropa
+CACHETE|Golpe con la mano en la cara
+CADENCIA|Ritmo de una melodía
+CADUCAR|Perder la validez
+CAFEINA|Estimulante del café
+CAFETAL|Plantación de café
+CAFETERIA|Local de desayunos
+CAIMIENTO|Debilidad y desaliento
+CALABACIN|Hortaliza verde y alargada
+CALAMITOSO|Lleno de desgracias
+CALAR|Empapar de agua
+CALAVERADA|Acción alocada
+CALCAR|Copiar un dibujo por transparencia
+CALCETA|Labor de punto
+CALCINAR|Reducir a cenizas
+CALCULAR|Hacer cuentas
+CALDERILLA|Monedas de poco valor
+CALIBRE|Diámetro interior del cañón
+CALIDEZ|Ambiente acogedor
+CALIGRAFO|Experto en letra bonita
+CALIZA|Roca blanca sedimentaria
+CALLADAMENTE|Sin hacer ruido
+CALLEJEAR|Andar por las calles sin rumbo
+CALLEJERO|Plano con las vías de la ciudad
+CALLO|Dureza de la planta del pie
+CALMANTE|Medicina contra el dolor
+CALUMNIAR|Acusar en falso
+CALUROSO|Que da mucho calor
+CALVARIO|Sufrimiento largo
+CALVO|Sin pelo en la cabeza
+CALZAR|Ponerse los zapatos
+CAMADA|Crías de un mismo parto
+CAMANDULA|Astucia e hipocresía
+CAMARADA|Compañero de lucha
+CAMARILLA|Grupo de influencia en la corte
+CAMARON|Crustáceo pequeño y sabroso
+CAMBIAR|Sustituir por otra cosa
+CAMELAR|Convencer con halagos
+CAMILLERO|Lleva a los heridos
+CAMINANTE|Viajero que va a pie
+CAMINATA|Paseo largo a pie
+CAMIONERO|Conduce vehículos pesados
+CAMPANARIO|Torre de las campanas
+CAMPANILLA|Campana pequeña de mano
+CAMPECHANO|Llano y sencillo en el trato
+CAMPESINO|Trabaja la tierra
+CAMPINA|Campo llano y cultivado
+CANALIZAR|Dar cauce al agua
+CANALON|Recoge el agua del tejado
+CANAPE|Aperitivo sobre pan
+CANCELAR|Anular la reserva
+CANDELABRO|Soporte de varias velas
+CANDIDATO|Aspirante a un cargo
+CANDIDEZ|Ingenuidad excesiva
+CANDIL|Lámpara antigua de aceite
+CANELON|Pasta rellena y enrollada
+CANGUELO|Miedo, en coloquial
+CANIBAL|Come carne de su especie
+CANIJO|Débil y pequeño
+CANOSO|Con el pelo blanco
+CANSAR|Quitar las fuerzas
+CANTAOR|Intérprete de flamenco
+CANTAR|Emitir música con la voz
+CANTINELA|Repetición pesada de lo mismo
+CANTOR|Que canta bien
+CANUTO|Tubo pequeño y estrecho
+CANONAZO|Disparo de artillería
+CAPACITAR|Preparar para una tarea
+CAPAR|Castrar al animal
+CAPEAR|Sortear el temporal
+CAPELLAN|Sacerdote de una institución
+CAPICUA|Se lee igual del derecho y del revés
+CAPITALINO|De la ciudad principal
+CAPITEL|Remate superior de la columna
+CAPITULAR|Rendirse ante el enemigo
+CAPOTA|Techo plegable del descapotable
+CAPTURAR|Apresar al fugitivo
+CAPUCHINO|Café con espuma de leche
+CAPULLO|Envoltura del gusano de seda
+CARABELA|Nave de Colón
+CARABINA|Fusil corto
+CARACOLA|Concha que suena al soplar
+CARACTERISTICA|Rasgo propio de algo
+CARAMBOLA|Jugada de billar con dos bolas
+CARATULA|Portada de un disco
+CARBONERO|Vendedor de carbón
+CARBURADOR|Mezcla aire y gasolina
+CARCAJEAR|Reír a grandes voces
+CARCELERO|Vigila a los presos
+CARCOMA|Insecto que roe la madera
+CARDIACO|Relativo al corazón
+CARDUMEN|Banco de peces
+CAREAR|Confrontar a dos testigos
+CARECER|No tener algo
+CARGADOR|Repone la batería
+CARGAMENTO|Mercancía de un barco
+CARICATURA|Dibujo que exagera los rasgos
+CARIOCA|Natural de Río de Janeiro
+CARISMA|Don de atraer a la gente
+CARITATIVO|Que ayuda al necesitado
+CARMESI|Rojo intenso
+CARNAL|Relativo a la carne
+CARNAZA|Cebo abundante
+CARNERO|Macho de la oveja
+CARNICERIA|Tienda de la carne
+CARNIVORO|Que se alimenta de carne
+CAROTIDA|Arteria del cuello
+CARPINTERIA|Taller de la madera
+CARRASPERA|Picor en la garganta
+CARRETE|Bobina del hilo de pescar
+CARRICOCHE|Carro viejo y destartalado
+CARROZA|Coche de caballos de lujo
+CARRUAJE|Vehículo tirado por caballos
+CARTABON|Escuadra de dibujo
+CARTAPACIO|Carpeta de apuntes
+CARTEARSE|Escribirse cartas
+CARTERISTA|Ladrón de billeteras
+CARTILAGO|Tejido flexible de la nariz
+CARTILLA|Libreta del banco
+CARTOGRAFIA|Arte de trazar mapas
+CARTUJA|Monasterio de clausura
+CASACA|Chaqueta larga militar
+CASAMIENTO|Unión matrimonial
+CASCABEL|Bolita que suena al agitarse
+CASCANUECES|Utensilio que parte frutos secos
+CASCARILLA|Piel fina del grano
+CASCARRABIAS|Persona de mal genio
+CASCOTE|Trozo de escombro
+CASERIO|Casa de labranza vasca
+CASERO|Dueño del piso alquilado
+CASILLA|Cuadro del tablero
+CASORIO|Boda sin importancia
+CASTANUELA|Instrumento de la bailaora
+CASTELLANO|Idioma de Cervantes
+CASTIDAD|Abstinencia sexual
+CASTIZO|Puro y típico del país
+CASTOR|Roedor que construye presas
+CASTRENSE|Propio del ejército
+CASUISTICA|Estudio de casos particulares
+CATACLISMO|Trastorno natural enorme
+CATACUMBA|Galería subterránea de enterramientos
+CATALEJO|Tubo para ver de lejos
+CATAPLASMA|Emplasto que se aplica caliente
+CATAPULTA|Máquina antigua de lanzar piedras
+CATAR|Probar el vino
+CATASTRO|Registro de las fincas
+CATEQUESIS|Enseñanza de la doctrina
+CATETO|Lado del triángulo rectángulo
+CAUCION|Garantía que se deposita
+CAUDILLO|Jefe que guía al pueblo
+CAUSAR|Provocar un efecto
+CAUTERIZAR|Quemar una herida para sanarla
+CAUTIVAR|Atraer irresistiblemente
+CAVAR|Hacer un hoyo
+CAVIDAD|Hueco interior
+CAVILAR|Pensar con insistencia
+CAYADO|Bastón curvo del pastor
+CAZUELA|Recipiente hondo de barro
+CEBAR|Dar de comer para engordar
+CEDAZO|Tamiz para cerner harina
+CEFALEA|Dolor de cabeza fuerte
+CEGAR|Dejar sin vista
+CEJAR|Aflojar en el empeño
+CELADA|Emboscada preparada
+CELEBRAR|Festejar un éxito
+CELESTIAL|Propio del cielo
+CELIBATO|Estado del que no se casa
+CELOSIA|Enrejado de la ventana
+CENAGAL|Terreno lleno de lodo
+CENAR|Tomar el último alimento del día
+CENCERRO|Campana del cuello de la vaca
+CENEFA|Franja decorativa del borde
+CENIT|Punto más alto del cielo
+CENSO|Recuento de los habitantes
+CENSURA|Prohibición de publicar
+CENTELLA|Chispa muy rápida
+CENTOLLO|Crustáceo grande de patas largas
+CENTRAR|Poner en el medio
+CENTUPLICAR|Multiplicar por cien
+CENIR|Ajustar a la cintura
+CEPA|Tronco de la vid
+CEPO|Trampa que atrapa la pata
+CERCADO|Terreno con valla
+CERCANIA|Proximidad a un lugar
+CERCENAR|Cortar de raíz
+CERCO|Asedio a una plaza
+CERDA|Pelo grueso del cepillo
+CERNER|Pasar por el cedazo
+CERRAJERO|Abre y arregla cerraduras
+CERRAR|Poner el cierre
+CERRIL|Terco y bruto
+CERTAMEN|Concurso de artistas
+CERTIFICADO|Documento que acredita algo
+CERVECERIA|Local de cañas y tapas
+CERVIZ|Parte posterior del cuello
+CESAR|Dejar de hacer algo
+CESION|Traspaso de un derecho
+CESTERIA|Oficio del mimbre
+CETRO|Bastón de mando del rey
+CHACHA|Muchacha de servicio
+CHACOLI|Vino blanco vasco
+CHAFAR|Aplastar de un golpe
+CHALADO|Que ha perdido la cabeza
+CHAMARRA|Chaqueta de abrigo corta
+CHAMUSCAR|Quemar por encima
+CHANTAJE|Amenaza para sacar dinero
+CHAPARRO|Bajo y rechoncho
+CHAPOTEAR|Golpear el agua con los pies
+CHAPUZA|Trabajo mal hecho
+CHARCA|Charco grande y permanente
+CHARLATAN|Habla mucho y sin fundamento
+CHAROL|Cuero brillante
+CHASIS|Armazón del automóvil
+CHASQUIDO|Ruido seco del látigo
+CHATO|De nariz aplastada
+CHAVAL|Muchacho joven
+CHEQUEO|Revisión médica general
+CHICHON|Bulto del golpe en la frente
+CHIFLADO|Un poco loco
+CHILLAR|Dar gritos agudos
+CHINCHETA|Clavito de cabeza plana
+CHIRIMOYA|Fruta tropical de pulpa blanca
+CHIRRIAR|Rechinar la puerta
+CHISMORREO|Charla de cotilleos
+CHISPEAR|Llover muy poco
+CHIVATO|Que delata a los demás
+CHOCAR|Darse un golpe
+CHOCLO|Mazorca tierna de maíz
+CHOPERA|Bosque de álamos
+CHOQUEZUELA|Hueso de la rodilla
+CHORREAR|Caer el líquido a chorros
+CHOVINISMO|Patriotismo exagerado
+CHUBASCO|Aguacero repentino
+CHUCHERIA|Golosina de poco valor
+CHUFA|Tubérculo de la horchata
+CHULEAR|Presumir con descaro
+CHUMBERA|Cactus de las palas
+CHUPAR|Sorber con los labios
+CHURRERIA|Local de masa frita
+CHUSMA|Gente de baja condición
+CHUTAR|Golpear el balón
+CICATERO|Mezquino con el dinero
+CICATRIZAR|Cerrarse la herida
+CICLAMEN|Flor de invierno rosada
+CICLISMO|Deporte sobre ruedas
+CIEGAMENTE|Sin ver ni razonar
+CIENAGA|Terreno pantanoso
+CIENTIFICO|Investiga en el laboratorio
+CIERRE|Mecanismo que cierra
+CIFRAR|Escribir en clave
+CIGARRILLO|Pitillo de tabaco
+CIGUENAL|Eje que mueve los pistones
+CIMBREAR|Doblarse con flexibilidad
+CIMENTAR|Poner los cimientos
+CINCELAR|Labrar con el cincel
+CINEASTA|Director de películas
+CINGULO|Cordón del sacerdote
+CINICO|Desvergonzado y falso
+CINTURILLA|Tira que ajusta la falda
+CIRCULAR|Que tiene forma de rueda
+CIRCUNDAR|Rodear por completo
+CIRIO|Vela grande de iglesia
+CISMA|División dentro de una iglesia
+CISTITIS|Inflamación de la vejiga
+CITAR|Nombrar una fuente
+CITRICO|Fruta ácida como el limón
+CIUDADANO|Habitante con derechos
+CIVILIZAR|Sacar de la barbarie
+CIZANA|Discordia que se siembra
+CLAMAR|Pedir a gritos
+CLANDESTINO|Oculto a la ley
+CLARIDOSO|Que habla sin rodeos
+CLARIN|Trompeta militar aguda
+CLASIFICAR|Ordenar por clases
+CLAUDICAR|Ceder ante la presión
+CLAUSTRO|Patio con arcos del convento
+CLAVAR|Meter el clavo a golpes
+CLAVIJA|Pieza que encaja y sujeta
+CLEMENCIA|Perdón del poderoso
+CLERIGO|Hombre de iglesia
+CLIMATIZAR|Acondicionar el aire
+CLINICO|Relativo al enfermo
+CLIP|Sujeta papeles de alambre
+CLONAR|Copiar genéticamente
+CLOROFILA|Pigmento verde de la hoja
+COAGULAR|Cuajar la sangre
+COARTADA|Prueba de no estar en el lugar
+COBIJO|Refugio contra la intemperie
+COBRAR|Recibir el dinero
+COCCION|Acción de hervir los alimentos
+COCEAR|Dar coces
+COCER|Hervir en agua
+COCHERA|Garaje de los autobuses
+COCHINILLO|Lechón asado
+COCTEL|Combinado de bebidas
+CODEAR|Tratarse con los importantes
+CODICILO|Añadido a un testamento
+CODORNIZ|Ave pequeña de caza
+COERCION|Fuerza que reprime
+COETANEO|De la misma época
+COFRADIA|Hermandad de la Semana Santa
+COGOLLO|Parte central de la lechuga
+COHABITAR|Vivir bajo el mismo techo
+COHECHO|Soborno a un funcionario
+COHERENTE|Que no se contradice
+COHIBIR|Cortar la libertad de alguien
+COINCIDIR|Ocurrir a la vez
+COJEAR|Andar con dificultad
+COLABORAR|Trabajar con otros
+COLADA|Ropa lavada y tendida
+COLAPSO|Paralización total
+COLAR|Pasar por el filtro
+COLCHONETA|Colchón fino de gimnasia
+COLEGA|Compañero de profesión
+COLERICO|Que se enfada con facilidad
+COLGAR|Suspender de un gancho
+COLINDANTE|Que linda con otro terreno
+COLISEO|Anfiteatro romano
+COLMAR|Llenar hasta el borde
+COLMILLUDO|De colmillos grandes
+COLOCAR|Poner en su sitio
+COLONO|Poblador de una colonia
+COLOQUIO|Conversación entre varios
+COLORETE|Cosmético de las mejillas
+COLOSAL|De tamaño gigantesco
+COLUMNISTA|Escribe artículos fijos
+COLUMPIO|Asiento que va y viene
+COMADRE|Vecina muy habladora
+COMANDO|Grupo militar de asalto
+COMARCA|Territorio con varios pueblos
+COMBATIR|Luchar contra el enemigo
+COMBINAR|Unir en proporción
+COMBUSTIBLE|Arde y da energía
+COMEDIDO|Moderado y prudente
+COMENSAL|Invitado a la mesa
+COMENTARIO|Opinión sobre algo
+COMERCIANTE|Se dedica a vender
+COMESTIBLE|Que se puede comer
+COMETER|Realizar una falta
+COMEZON|Picor insistente
+COMICO|Que hace reír
+COMILONA|Comida muy abundante
+COMINO|Especia de sabor fuerte
+COMISION|Porcentaje de la venta
+COMODIDAD|Bienestar sin esfuerzo
+COMPANERO|Con quien se comparte
+COMPARAR|Ver las diferencias
+COMPARSA|Grupo de carnaval
+COMPASION|Lástima por el que sufre
+COMPENDIO|Resumen de una materia
+COMPETIR|Luchar por ganar
+COMPLACER|Dar gusto a alguien
+COMPLEJO|Difícil y enrevesado
+COMPLICE|Ayuda en el delito
+COMPONER|Crear una obra musical
+COMPORTAR|Conducirse de cierto modo
+COMPOTA|Fruta cocida con azúcar
+COMPRENDER|Entender bien
+COMPRIMIR|Apretar reduciendo el volumen
+COMPROBAR|Verificar que es cierto
+COMULGAR|Recibir la hostia
+COMUNICAR|Transmitir un mensaje
+CONCEDER|Otorgar lo pedido
+CONCEJAL|Miembro del ayuntamiento
+CONCEPTO|Idea que se tiene
+CONCIENCIA|Conocimiento del bien y el mal
+CONCILIO|Asamblea de obispos
+CONCISO|Breve y preciso
+CONCLUIR|Dar por terminado
+CONCORDIA|Acuerdo y buen entendimiento
+CONCRETO|Preciso y determinado
+CONCURRIR|Acudir varios a un sitio
+CONDENAR|Imponer la pena
+CONDIMENTO|Aliño que da sabor
+CONDUCIR|Llevar el vehículo
+CONECTAR|Enchufar dos partes
+CONFERENCIA|Charla ante un público
+CONFESAR|Reconocer la culpa
+CONFETI|Papelitos de fiesta
+CONFIAR|Fiarse de alguien
+CONFIRMAR|Dar por seguro
+CONFISCAR|Requisar los bienes
+CONFITE|Dulce pequeño de azúcar
+CONFLICTO|Enfrentamiento de intereses
+CONFORME|De acuerdo con algo
+CONFUNDIR|Tomar una cosa por otra
+CONGELAR|Convertir en hielo
+CONGENIAR|Llevarse bien
+CONGOJA|Angustia y pena
+CONGREGAR|Reunir a mucha gente
+CONJUNTO|Grupo de elementos
+CONJURO|Fórmula mágica
+CONMOVER|Emocionar profundamente
+CONOCER|Saber cómo es algo
+CONQUISTAR|Ganar por las armas
+CONSAGRAR|Dedicar a algo sagrado
+CONSCIENTE|Que se da cuenta
+CONSEGUIR|Lograr lo buscado
+CONSENTIR|Permitir sin poner trabas
+CONSERVA|Alimento en lata
+CONSIDERAR|Tener en cuenta
+CONSIGNA|Orden que se cumple
+CONSISTIR|Estar formado por algo
+CONSOLAR|Aliviar la tristeza
+CONSPIRAR|Tramar contra el poder
+CONSTANCIA|Firmeza en el empeño
+CONSTRUIR|Levantar un edificio
+CONSULTA|Despacho del médico
+CONSUMIR|Gastar un producto
+CONTABLE|Lleva las cuentas
+CONTAGIO|Transmisión de una enfermedad
+CONTAR|Decir un cuento
+CONTEMPLAR|Mirar con calma
+CONTENER|Tener dentro
+CONTESTAR|Dar respuesta
+CONTINUAR|Seguir adelante
+CONTORNO|Línea exterior de una figura
+CONTRABANDO|Comercio ilegal de mercancías
+CONTRARIO|Opuesto en todo
+CONTRASTE|Diferencia muy marcada
+CONTRIBUIR|Aportar a un fin común
+CONTROLAR|Tener el mando de algo
+CONVENCER|Lograr que otro acepte
+CONVENIR|Resultar provechoso
+CONVERSAR|Hablar con otro
+CONVIDAR|Invitar a comer
+CONVOCAR|Llamar a una reunión
+CONVOY|Fila de vehículos escoltados
+COOPERAR|Obrar junto a otros
+COPIAR|Reproducir un texto
+COPILOTO|Acompaña al que conduce
+CORAJE|Valor ante el peligro
+CORCEL|Caballo brioso y veloz
+CORCHEA|Nota musical con rabito
+CORDIAL|Afectuoso en el trato
+CORDURA|Buen juicio y sensatez
+CORNADA|Herida que hace el toro
+CORNISA|Saliente del edificio
+CORONAR|Poner la corona
+CORPULENTO|De cuerpo grande y fuerte
+CORRALIZA|Patio cercado de vecinos
+CORREDOR|Pasillo de la casa
+CORREGIR|Enmendar los fallos
+CORRER|Ir a gran velocidad a pie
+CORROER|Desgastar poco a poco
+CORROMPER|Echar a perder
+CORSARIO|Pirata con licencia del rey
+CORTAR|Dividir con filo
+CORTEJO|Acompañamiento en una ceremonia
+CORTEZA|Capa externa del árbol
+CORTIJO|Finca andaluza con casa
+CORTOCIRCUITO|Fallo eléctrico con chispas
+COSECHAR|Recoger lo sembrado
+COSMETICO|Producto de belleza
+COSMOS|Universo entero
+COSQUILLAS|Producen risa involuntaria
+COSTAR|Tener un precio
+COSTERO|Cercano al mar
+COSTOSO|De precio muy alto
+COTEJAR|Comparar dos textos
+COTIDIANO|De todos los días
+COTILLEO|Chismorreo de vecinas
+COTIZAR|Pagar a la seguridad social
+COTO|Terreno acotado de caza
+COYUNTURA|Momento y circunstancias
+CRECER|Aumentar de tamaño
+CREDITO|Préstamo del banco
+CREMALLERA|Cierre de dientes
+CREPITAR|Chisporrotear el fuego
+CRIADERO|Lugar donde se crían animales
+CRIANZA|Cuidado durante el crecimiento
+CRIATURA|Ser recién creado
+CRIBAR|Separar con la criba
+CRIOLLO|Nacido en América de padres europeos
+CRISANTEMO|Flor de los difuntos
+CRISTALERA|Puerta o ventana de vidrio
+CRISTIANO|Seguidor de Cristo
+CRITICAR|Juzgar con dureza
+CROQUETA|Bola rebozada y frita
+CRUCIFIJO|Imagen de Cristo en la cruz
+CRUZAR|Pasar de un lado a otro
+CUADRADO|Figura de cuatro lados iguales
+CUADRILLA|Grupo de trabajo o de toreros
+CUAJAR|Espesarse la leche
+CUALIDAD|Rasgo bueno de alguien
+CUANTIA|Importe de una cantidad
+CUARENTENA|Aislamiento por contagio
+CUARZO|Mineral de cristales duros
+CUBIERTO|Cuchara, tenedor y cuchillo
+CUBRIR|Tapar por completo
+CUCARACHA|Insecto nocturno de cocina
+CUCHICHEAR|Hablar al oído
+CUCHITRIL|Cuarto sucio y pequeño
+CULMINAR|Llegar a lo más alto
+CULPABLE|Autor de la falta
+CULTIVAR|Sembrar y cuidar la tierra
+CULTO|Persona de muchos saberes
+CUMBRERA|Viga más alta del tejado
+CUMPLIR|Hacer lo prometido
+CUNADO|Hermano del cónyuge
+CUNDIR|Dar mucho de sí
+CUOTA|Pago periódico del socio
+CUPON|Vale con descuento
+CURANDERO|Cura sin ser médico
+CURAR|Devolver la salud
+CURIOSEAR|Mirar por entretenimiento
+CURRICULO|Historial profesional
+CURSAR|Estudiar una carrera
+CURSI|De gusto pretencioso y ridículo
+CURTIR|Preparar las pieles
+CUSTODIAR|Guardar con vigilancia

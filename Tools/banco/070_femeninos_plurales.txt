@@ -1,0 +1,313 @@
+# Femeninos, plurales de adjetivos y personas verbales
+ALTA|De gran estatura, ella
+BAJA|De poca estatura, ella
+GORDA|De muchas carnes, ella
+FLACA|De pocas carnes, ella
+GUAPA|De buen ver, ella
+FEA|De aspecto poco agraciado, ella
+BONITA|Que resulta agradable a la vista
+LINDA|Bonita y graciosa
+BUENA|De buena calidad, ella
+MALA|De mala calidad, ella
+NUEVA|Recién estrenada
+VIEJA|De muchos años, ella
+JOVEN|De pocos años
+LISTA|Rápida de entendimiento
+TONTA|Falta de entendimiento, ella
+LOCA|Que ha perdido el juicio, ella
+CUERDA|De buen juicio, ella
+SANA|Que goza de salud, ella
+ENFERMA|Falta de salud, ella
+FUERTE|De mucha fuerza
+DEBIL|Falta de fuerza
+RICA|De mucho dinero, ella
+POBRE|Falta de recursos
+LIMPIA|Sin suciedad, ella
+SUCIA|Llena de manchas, ella
+SECA|Sin humedad, ella
+MOJADA|Empapada de agua
+FRIA|De baja temperatura, ella
+CALIENTE|De temperatura alta
+DULCE|De sabor como el azúcar
+AMARGA|De sabor como el acíbar
+SALADA|Con exceso de sal
+ACIDA|De sabor como el limón
+BLANDA|Que cede al tacto
+DURA|Que resiste el golpe
+LARGA|De mucha longitud, ella
+CORTA|De poca longitud, ella
+ANCHA|De gran amplitud, ella
+ESTRECHA|De poca anchura, ella
+GRUESA|De mucho espesor, ella
+FINA|Delgada y delicada
+LLENA|Ocupada del todo
+VACIA|Sin nada dentro
+ABIERTA|Sin cerrar, ella
+CERRADA|Con el cierre echado
+CLARA|Que se ve con nitidez
+OSCURA|Sin luz, ella
+NEGRA|Del color del carbón, ella
+BLANCA|Del color de la nieve, ella
+ROJA|Del color de la sangre, ella
+VERDE|Del color de la hierba
+AMARILLA|Del color del limón, ella
+MORENA|De piel tostada, ella
+RUBIA|De cabello claro, ella
+CANOSA|De pelo blanco, ella
+CALVA|Sin pelo en la cabeza
+CIEGA|Privada de la vista
+SORDA|Que no oye, ella
+MUDA|Que no puede hablar, ella
+COJA|Que anda mal de una pierna
+MANCA|Falta de un brazo, ella
+ZURDA|Que usa la mano izquierda, ella
+DIESTRA|Que usa la mano derecha, ella
+ALEGRE|De buen humor
+TRISTE|Que tiene pena
+CONTENTA|Satisfecha con algo
+ENFADADA|Molesta con alguien
+TRANQUILA|Sin agitación, ella
+NERVIOSA|Inquieta y alterada
+VALIENTE|Que no teme al peligro
+COBARDE|Que huye del peligro
+AMABLE|De trato agradable
+ANTIPATICA|Que no cae bien, ella
+GENEROSA|Que da sin reservas, ella
+TACANA|Que no suelta un euro, ella
+HONRADA|Recta en el obrar, ella
+LADRONA|Que roba, ella
+SINCERA|Que dice lo que siente, ella
+MENTIROSA|Que falta a la verdad, ella
+TRABAJADORA|Que se emplea a fondo, ella
+PEREZOSA|Enemiga del trabajo
+LENTA|Que va despacio, ella
+RAPIDA|Que va muy deprisa, ella
+LIGERA|De poco peso, ella
+PESADA|De mucho peso, ella
+DULZONA|Empalagosa de dulce
+PICANTE|Que pica en la lengua
+SABROSA|De buen sabor, ella
+SOSA|Falta de sal o de gracia
+FRESCA|Algo fría y agradable
+TIBIA|Ni fría ni caliente
+BLANDUZCA|Algo blanda
+ASPERA|Rugosa al tacto
+SUAVE|Agradable al tacto
+LISA|Sin asperezas
+RUGOSA|Llena de arrugas
+RECTA|Sin curvas
+CURVA|Línea que no es recta
+REDONDA|De forma circular
+CUADRADA|De cuatro lados iguales
+HUECA|Vacía por dentro
+MACIZA|Llena y sin huecos
+PROFUNDA|De mucha hondura, ella
+LLANA|Sin desniveles
+EMPINADA|De mucha pendiente
+ALTAS|De gran estatura, ellas
+BAJOS|De poca estatura, ellos
+BUENOS|De buena calidad, ellos
+MALOS|De mala calidad, ellos
+NUEVOS|Recién estrenados
+VIEJOS|De muchos años, ellos
+GRANDES|De mucho tamaño
+PEQUENOS|De poco tamaño, ellos
+LARGOS|De mucha longitud, ellos
+CORTOS|De poca longitud, ellos
+ANCHOS|De gran amplitud, ellos
+FINOS|Delgados y delicados
+GRUESOS|De mucho espesor, ellos
+LLENOS|Ocupados del todo
+VACIOS|Sin nada dentro, ellos
+LIMPIOS|Sin suciedad, ellos
+SUCIOS|Llenos de manchas, ellos
+SECOS|Sin humedad, ellos
+FRIOS|De baja temperatura, ellos
+DULCES|De sabor azucarado
+AMARGOS|De sabor como la endrina
+BLANDOS|Que ceden al tacto
+DUROS|Que resisten el golpe
+FUERTES|De mucha fuerza, ellos
+DEBILES|Faltos de fuerza
+RICOS|De mucho dinero, ellos
+POBRES|Faltos de recursos, ellos
+SANOS|Que gozan de salud
+ENFERMOS|Faltos de salud
+ALEGRES|De buen humor, ellos
+TRISTES|Que tienen pena
+VALIENTES|Que no temen al peligro
+AMABLES|De trato agradable, ellos
+GENEROSOS|Que dan sin reservas
+HONRADOS|Rectos en el obrar
+SINCEROS|Que dicen lo que sienten
+LENTOS|Que van despacio
+RAPIDOS|Que van muy deprisa
+LIGEROS|De poco peso, ellos
+PESADOS|De mucho peso, ellos
+SABROSOS|De buen sabor, ellos
+BONITOS|Agradables a la vista
+GUAPOS|De buen ver, ellos
+FEOS|De aspecto poco agraciado
+LISTOS|Rápidos de entendimiento
+TONTOS|Faltos de entendimiento
+LOCOS|Que han perdido el juicio
+CIEGOS|Privados de la vista
+SORDOS|Que no oyen
+MUDOS|Que no pueden hablar
+CALVOS|Sin pelo en la cabeza
+MORENOS|De piel tostada
+RUBIOS|De cabello claro
+NEGROS|Del color del carbón
+BLANCOS|Del color de la nieve
+ROJOS|Del color de la sangre
+VERDES|Del color de la hierba
+AZULES|Del color del cielo
+AMARILLOS|Del color del limón
+CLAROS|Que se ven con nitidez
+OSCUROS|Sin luz, ellos
+REDONDOS|De forma circular
+CUADRADOS|De cuatro lados iguales
+HUECOS|Vacíos por dentro
+PROFUNDOS|De mucha hondura
+LLANOS|Sin desniveles
+AMO|Siento amor, yo
+AMAS|Sientes amor, tú
+ANDO|Camino a pie, yo
+ANDAS|Caminas a pie, tú
+BEBO|Tomo un líquido, yo
+BEBES|Tomas un líquido, tú
+CANTO|Entono una canción, yo
+CANTAS|Entonas una canción, tú
+COMO|Tomo alimento, yo
+COMES|Tomas alimento, tú
+CORRO|Voy deprisa, yo
+CORRES|Vas deprisa, tú
+DOY|Entrego algo, yo
+DIGO|Expreso con palabras, yo
+DICES|Expresas con palabras, tú
+DUERMO|Descanso dormido, yo
+ESCRIBO|Trazo letras, yo
+ESTOY|Me hallo presente, yo
+HABLO|Uso la palabra, yo
+HABLAS|Usas la palabra, tú
+HAGO|Realizo una obra, yo
+HACES|Realizas una obra, tú
+JUEGO|Tomo parte en la partida, yo
+LEO|Recorro lo escrito, yo
+LEES|Recorres lo escrito, tú
+LLEGO|Alcanzo el destino, yo
+MIRO|Fijo la vista, yo
+MIRAS|Fijas la vista, tú
+OIGO|Percibo los sonidos, yo
+PIDO|Solicito un favor, yo
+PIENSO|Uso el entendimiento, yo
+PONGO|Coloco en su sitio, yo
+PUEDO|Tengo capacidad, yo
+PUEDES|Tienes capacidad, tú
+QUIERO|Siento amor, yo
+QUIERES|Sientes amor, tú
+SALGO|Voy hacia fuera, yo
+SALES|Vas hacia fuera, tú
+SIENTO|Experimento una emoción, yo
+SUBO|Voy hacia arriba, yo
+TENGO|Poseo algo, yo
+TIENES|Posees algo, tú
+TOMO|Cojo algo, yo
+TRAIGO|Llevo hasta aquí, yo
+VENGO|Llego hasta aquí, yo
+VIENES|Llegas hasta aquí, tú
+VIVO|Tengo vida, yo
+VIVES|Tienes vida, tú
+VUELVO|Regreso al lugar, yo
+VUELVES|Regresas al lugar, tú
+VEO|Percibo con los ojos, yo
+VES|Percibes con los ojos, tú
+VOY|Me dirijo a un sitio, yo
+VAMOS|Nos dirigimos a un sitio
+COMEMOS|Tomamos alimento, nosotros
+VIVIMOS|Tenemos vida, nosotros
+TENEMOS|Poseemos algo, nosotros
+HACEMOS|Realizamos una obra, nosotros
+DECIMOS|Expresamos con palabras, nosotros
+QUEREMOS|Sentimos amor, nosotros
+PODEMOS|Tenemos capacidad, nosotros
+SABEMOS|Tenemos conocimiento, nosotros
+VENIMOS|Llegamos hasta aquí, nosotros
+SALIMOS|Vamos hacia fuera, nosotros
+PONEMOS|Colocamos en su sitio, nosotros
+VEMOS|Percibimos con los ojos, nosotros
+ESTAMOS|Nos hallamos presentes
+CANTAIS|Entonáis vosotros
+COMEIS|Tomáis alimento, vosotros
+VIVIS|Tenéis vida, vosotros
+TENEIS|Poseéis algo, vosotros
+SOIS|Existís vosotros
+VAIS|Os dirigís a un sitio
+HABEIS|Auxiliar de haber en segunda persona del plural
+COMEN|Toman alimento, ellos
+VIVEN|Tienen vida, ellos
+TIENEN|Poseen algo, ellos
+HACEN|Realizan una obra, ellos
+DICEN|Expresan con palabras, ellos
+QUIEREN|Sienten amor, ellos
+PUEDEN|Tienen capacidad, ellos
+SABEN|Tienen conocimiento, ellos
+VIENEN|Llegan hasta aquí, ellos
+SALEN|Van hacia fuera, ellos
+PONEN|Colocan en su sitio, ellos
+VEN|Perciben con los ojos, ellos
+ESTAN|Se hallan presentes
+CANTAN|Entonan una melodía, ellos
+CORREN|Van deprisa, ellos
+BEBEN|Toman un líquido, ellos
+MIRAN|Fijan la vista, ellos
+ANDAN|Caminan a pie, ellos
+LEEN|Recorren lo escrito, ellos
+JUEGAN|Toman parte en la partida
+DUERMEN|Descansan dormidos
+ESCRIBEN|Trazan letras, ellos
+VUELVEN|Regresan al lugar, ellos
+PIDEN|Solicitan un favor, ellos
+PIENSAN|Usan el entendimiento, ellos
+TRAEN|Llevan hasta aquí, ellos
+CREEN|Tienen por cierto, ellos
+OYEN|Perciben los sonidos, ellos
+RIEN|Muestran alegría, ellos
+ABUELAS|Madres de los padres
+ACTRICES|Intérpretes femeninas
+AMIGAS|Compañeras de confianza
+CABRAS|Rumiantes de los riscos
+CIUDADES|Poblaciones grandes
+CLASES|Aulas o lecciones
+COSTUMBRES|Hábitos repetidos
+CRUCES|Símbolos del cristianismo
+EDADES|Años que se tienen
+FLORES|Partes bellas de las plantas
+LUCES|Focos encendidos
+MADRES|Progenitoras
+MUJERES|Personas de sexo femenino
+NARICES|Órganos del olfato
+NUECES|Frutos secos de dos mitades
+PAREDES|Muros de la casa
+PECES|Animales de escamas
+RAICES|Partes de la planta bajo tierra
+REDES|Mallas de pescar
+VECES|Ocasiones repetidas
+VERDADES|Cosas conformes a la realidad
+VIRTUDES|Cualidades morales buenas
+VOCES|Sonidos de la garganta
+LAPICES|Escriben con mina
+JUECES|Quienes dictan sentencia
+PECES|Vertebrados de branquias
+FELICES|Llenos de dicha
+CAPACES|Que pueden hacerlo
+VELOCES|Que van muy rápido
+AUDACES|Atrevidos y decididos
+TENACES|Que no ceden en su empeño
+FEROCES|De gran fiereza
+ATROCES|Crueles y terribles
+PRECOCES|Que se adelantan a su edad
+FUGACES|De muy breve duración
+LOCUACES|Que hablan en exceso
+SAGACES|Astutos y perspicaces
+EFICACES|Que logran su efecto

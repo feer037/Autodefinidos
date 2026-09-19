@@ -1,0 +1,311 @@
+# Animales
+ABEJA|Insecto de la colmena
+ABEJORRO|Insecto grande y velludo
+ACEBRA|Variedad del équido rayado
+AGUILA|Reina de las aves rapaces
+ALACRAN|Arácnido de aguijón venenoso
+ALBATROS|Ave marina de gran envergadura
+ALCE|Cérvido nórdico de gran cornamenta
+ALMEJA|Bivalvo de la arena
+ANACONDA|Serpiente gigante del Amazonas
+ANGUILA|Pez alargado y viscoso
+ANTILOPE|Rumiante veloz de la sabana
+ARANA|Artrópodo que teje telas
+ARDILLA|Roedor de cola espesa
+ARENQUE|Pez azul del norte
+ARMADILLO|Mamífero americano acorazado
+ASNO|Équido de orejas largas
+ATUN|Gran pez de las almadrabas
+AVESTRUZ|Ave más grande que no vuela
+AVISPA|Insecto de picadura dolorosa
+BABOSA|Molusco sin concha
+BACALAO|Pez blanco del Atlántico norte
+BALLENA|Cetáceo de barbas
+BESUGO|Pez de ojo grande
+BISONTE|Bóvido de las praderas
+BOA|Serpiente constrictora
+BOQUERON|Pez azul pequeño
+BUEY|Bóvido castrado de tiro
+BUFALO|Bóvido salvaje de cuernos curvos
+BUHO|Ave rapaz nocturna
+BUITRE|Ave carroñera de gran tamaño
+BURRO|Bestia de carga de orejas largas
+CABALLO|Équido de silla
+CABRA|Rumiante de los riscos
+CACHALOTE|Gran cetáceo de cabeza cuadrada
+CAIMAN|Cocodrilo americano
+CALAMAR|Cefalópodo de diez brazos
+CAMALEON|Reptil que muda de color
+CAMELLO|Rumiante de dos jorobas
+CANARIO|Ave amarilla de jaula
+CANGREJO|Crustáceo de pinzas
+CANGURO|Marsupial de gran salto
+CARACOL|Gasterópodo de concha espiral
+CARNERO|Macho del ganado lanar
+CARPA|Pez de estanque
+CASTOR|Roedor que levanta presas
+CEBRA|Équido africano de rayas
+CERDO|Animal de la pocilga
+CIERVO|Rumiante de cuerna ramificada
+CIGARRA|Insecto que canta en verano
+CIGUENA|Ave zancuda de los campanarios
+CISNE|Palmípeda de cuello curvo
+COCODRILO|Reptil de los ríos africanos
+CODORNIZ|Ave menuda de caza
+COMADREJA|Pequeño carnívoro alargado
+CONDOR|Gran buitre de los Andes
+CONEJO|Roedor de madriguera
+CORDERO|Cría de la oveja
+CORMORAN|Ave marina buceadora
+CORZO|Pequeño cérvido del bosque
+CUCARACHA|Insecto rastrero de cocina
+CUERVO|Ave negra de graznido
+CULEBRA|Ofidio sin veneno
+DELFIN|Cetáceo inteligente
+DROMEDARIO|Camélido de una joroba
+ELEFANTE|Mayor mamífero terrestre
+ERIZO|Mamífero de púas
+ESCARABAJO|Insecto de élitros duros
+ESCORPION|Arácnido de cola con aguijón
+ESTORNINO|Ave negra de bandadas
+ESTURION|Pez del caviar
+FAISAN|Ave de vistosa cola
+FLAMENCO|Ave rosada de patas largas
+FOCA|Mamífero marino de los hielos
+GACELA|Antílope ligero y grácil
+GALLINA|Ave ponedora
+GALLO|Ave de cresta y espolones
+GAMBA|Crustáceo de cola comestible
+GAMO|Cérvido de cuerna en pala
+GANSO|Ave grande de corral
+GATO|Felino doméstico
+GAVIOTA|Ave de los puertos
+GOLONDRINA|Ave migratoria de cola en horquilla
+GORILA|Mayor de los simios
+GORRION|Pájaro común de ciudad
+GRILLO|Insecto de canto nocturno
+GRULLA|Ave zancuda migratoria
+GUEPARDO|Felino más veloz
+GUSANO|Animal blando y alargado
+HALCON|Rapaz de vuelo veloz
+HIENA|Carroñera africana
+HIPOPOTAMO|Paquidermo de los ríos africanos
+HORMIGA|Insecto social laborioso
+HURON|Pequeño carnívoro de caza
+IGUANA|Reptil tropical de cresta dorsal
+JABALI|Suido salvaje del monte
+JILGUERO|Pajarillo de canto vivo
+JIRAFA|Mamífero de cuello larguísimo
+KOALA|Marsupial que come eucalipto
+LAGARTIJA|Pequeño reptil de los muros
+LAGARTO|Reptil de escamas y cola larga
+LANGOSTA|Crustáceo de antenas largas
+LANGOSTINO|Crustáceo de mesa
+LECHUZA|Rapaz nocturna de cara acorazonada
+LEON|Felino de melena
+LEOPARDO|Felino de pelaje manchado
+LIEBRE|Lagomorfo veloz del campo
+LINCE|Felino de orejas con pinceles
+LOBO|Cánido salvaje de manada
+LOMBRIZ|Anélido de la tierra
+LORO|Ave parlanchina de colores
+LUCIERNAGA|Insecto que emite luz
+LUCIO|Pez depredador de agua dulce
+MACACO|Mono de Asia
+MARIPOSA|Insecto de alas escamosas
+MARIQUITA|Escarabajo rojo con lunares
+MARMOTA|Roedor que hiberna
+MEJILLON|Bivalvo de concha oscura
+MERLUZA|Pescado blanco de mesa
+MIRLO|Ave negra de pico naranja
+MOFETA|Mamífero de olor defensivo
+MONO|Primate de cola prensil
+MORSA|Mamífero polar de colmillos
+MOSCA|Díptero molesto
+MOSQUITO|Insecto chupador de sangre
+MULA|Híbrido de yegua y asno
+MURCIELAGO|Mamífero volador nocturno
+NUTRIA|Mamífero acuático de río
+OCA|Ave de corral de cuello largo
+ORCA|Cetáceo blanco y negro
+ORUGA|Larva de la mariposa
+OSO|Plantígrado de gran tamaño
+OSTRA|Bivalvo que cría perlas
+OVEJA|Hembra del carnero
+PALOMA|Ave de la paz
+PANDA|Oso blanco y negro del bambú
+PANTERA|Leopardo de pelaje negro
+PAPAGAYO|Ave tropical de plumaje vivo
+PARDAL|Nombre popular del gorrión
+PATO|Ave palmípeda del estanque
+PAVO|Ave de corral de la Navidad
+PELICANO|Ave de gran bolsa en el pico
+PERDIZ|Ave de caza de las rastrojeras
+PERRO|Cánido doméstico
+PEZ|Vertebrado acuático de branquias
+PINGUINO|Ave polar que nada
+PIOJO|Insecto parásito del cabello
+PIRANA|Pez voraz del Amazonas
+POLILLA|Insecto que ataca la ropa
+POLLO|Cría de la gallina
+PULGA|Insecto saltador parásito
+PULPO|Cefalópodo de ocho brazos
+PUMA|Felino americano de monte
+RANA|Anfibio saltador de charca
+RAPE|Pez feo de fondo marino
+RATA|Roedor de gran tamaño
+RATON|Roedor pequeño
+RENO|Cérvido del norte helado
+RINOCERONTE|Paquidermo del cuerno nasal
+RUISENOR|Ave de canto melodioso
+SALAMANDRA|Anfibio negro y amarillo
+SALMON|Pez que remonta los ríos
+SANGUIJUELA|Anélido que chupa sangre
+SAPO|Anfibio de piel rugosa
+SARDINA|Pez azul de banco
+SERPIENTE|Reptil sin extremidades
+TABANO|Insecto que pica al ganado
+TEJON|Mamífero de hocico blanco y negro
+TERMITA|Insecto que devora la madera
+TIBURON|Escualo de aleta dorsal
+TIGRE|Felino rayado de Asia
+TOPO|Mamífero cavador ciego
+TORO|Macho bovino de lidia
+TORTUGA|Reptil de caparazón
+TRUCHA|Pez de río de carne rosada
+UNICORNIO|Caballo fabuloso de un cuerno
+URRACA|Ave de plumaje blanco y negro
+VACA|Hembra bovina lechera
+VENADO|Ciervo de caza mayor
+VIBORA|Ofidio venenoso
+VISON|Mamífero de piel apreciada
+YEGUA|Hembra del caballo
+ZORRO|Cánido de cola espesa
+ZANGANO|Abeja macho de la colmena
+ABEJARUCO|Ave colorida que caza insectos
+ABUBILLA|Ave de cresta en abanico
+ACENTOR|Pajarillo de montaña
+ALCARAVAN|Ave zancuda de ojos grandes
+ALONDRA|Ave de canto matinal
+ANADE|Ave acuática palmípeda
+ARRENDAJO|Ave del bosque imitadora
+AVUTARDA|Ave esteparia muy pesada
+BONITO|Túnido del norte
+BOGAVANTE|Crustáceo de pinzas grandes
+CABALLITO|Pequeño pez con forma de caballo
+CALANDRIA|Ave de canto variado
+CAMARON|Crustáceo pequeño de mar
+CANGURITO|Cría del marsupial saltador
+CARACOLA|Concha grande de caracol marino
+CARDUMEN|Banco de peces juntos
+CENTOLLO|Crustáceo de patas largas
+CERNICALO|Pequeña rapaz que cierne
+CHOCHIN|Ave diminuta del seto
+CHOTACABRAS|Ave nocturna de vuelo silencioso
+CIERVA|Hembra del ciervo
+COLIBRI|Ave diminuta que liba
+CRIA|Hijo joven del animal
+CUCLILLO|Ave que parasita nidos ajenos
+CHIMPANCE|Simio africano muy inteligente
+DORADA|Pez de mancha dorada en la frente
+ERIZODEMAR|Equinodermo de púas marinas
+FOCAMONJE|Mamífero marino en peligro
+FOCHA|Ave negra de laguna
+GALLINETA|Ave de humedal
+GARZA|Zancuda de cuello en ese
+GAVILAN|Pequeña rapaz forestal
+GOLONDRINO|Cría de la golondrina
+GUSARAPO|Larva que vive en el agua
+HALCONERO|Adiestra aves de presa
+LECHUZO|Cría de la lechuza
+LENGUADO|Pez plano y asimétrico
+LIBELULA|Insecto de vuelo rápido junto al agua
+LUBINA|Pez de mar muy apreciado
+MADRILLA|Pequeño pez de río
+MANTIS|Insecto que reza con las patas
+MARMOTILLA|Roedor de montaña
+MARRAJO|Tiburón veloz
+MEDUSA|Animal gelatinoso que urtica
+MERO|Gran pez de roca
+MILANO|Rapaz de cola ahorquillada
+MOLUSCO|Animal de cuerpo blando
+MORENA|Pez de roca de mordedura temible
+MOSCARDON|Mosca grande y ruidosa
+NECORA|Crustáceo de las rocas
+NUTRIAMARINA|Mamífero que flota de espaldas
+OCAPI|Mamífero africano de patas rayadas
+ORANGUTAN|Simio rojizo de Borneo
+OSTRERO|Ave de pico rojo y largo
+OVIPARO|Animal que pone huevos
+PALOMO|Macho de la paloma
+PARDELA|Ave marina de vuelo raso
+PECECILLO|Pez muy pequeño
+PERCEBE|Crustáceo de las rocas batidas
+PERDIGON|Cría de la perdiz
+PETIRROJO|Pajarillo de pecho colorado
+PEZESPADA|Pez de mandíbula alargada
+POTRO|Cría del caballo
+PROTOZOO|Ser vivo de una sola célula
+QUEBRANTAHUESOS|Buitre que rompe huesos
+RASCON|Ave esquiva del carrizal
+REBECO|Cabra de los Picos de Europa
+RODABALLO|Pez plano de gran tamaño
+ROEDOR|Mamífero de dientes que crecen
+RORCUAL|Ballena de aleta dorsal
+SALMONETE|Pez rojizo de mesa
+SARGO|Pez de rayas oscuras
+SEPIA|Molusco de tinta
+SOLLA|Pez plano del Atlántico
+TENCA|Pez de agua dulce
+TERNERO|Cría de la vaca
+TIBURONBLANCO|Escualo de gran tamaño
+TORDO|Ave de canto en invierno
+TRIGUERO|Pájaro de los campos de cereal
+VENCEJO|Ave de vuelo veloz y gritos
+VERDERON|Pajarillo verdoso
+VIVIPARO|Animal que pare crías vivas
+ZARCERO|Pajarillo de la maleza
+ZORZAL|Ave de paso apreciada en caza
+ACUARIO|Depósito donde viven peces
+ALETA|Miembro natatorio del pez
+ASTA|Cuerno del toro
+BRANQUIA|Órgano respiratorio del pez
+CAPARAZON|Cubierta dura de la tortuga
+COLMILLO|Diente largo del elefante
+CORNAMENTA|Conjunto de cuernos
+CRIN|Pelo del cuello equino
+CUERNO|Prolongación ósea de la cabeza
+ESCAMA|Placa que cubre al pez
+GARRA|Uña fuerte del ave rapaz
+HOCICO|Parte saliente de la cara del animal
+JOROBA|Giba del camello
+LOMO|Parte alta del dorso animal
+MELENA|Pelo del cuello del león
+NIDO|Construcción del ave para criar
+PATA|Extremidad del animal
+PEZUNA|Uña partida de la res
+PICO|Boca córnea del ave
+PLUMA|Cada pieza del plumaje
+PLUMAJE|Conjunto de plumas
+RABO|Prolongación trasera del animal
+TENTACULO|Brazo del pulpo
+TROMPA|Apéndice nasal del elefante
+ZARPA|Mano armada de la fiera
+ZOOLOGICO|Parque donde se exhiben fieras
+MANADA|Grupo de mamíferos salvajes
+REBANO|Conjunto de ovejas
+PIARA|Grupo de cerdos
+JAURIA|Conjunto de perros de caza
+BANDADA|Grupo de aves en vuelo
+ENJAMBRE|Grupo de abejas
+COLMENA|Vivienda de las abejas
+MADRIGUERA|Refugio subterráneo del conejo
+GUARIDA|Escondrijo de la fiera
+ESTABLO|Alojamiento del ganado vacuno
+CUADRA|Alojamiento de los caballos
+POCILGA|Alojamiento del cerdo
+GALLINERO|Alojamiento de las gallinas
+REDIL|Cercado del rebaño
+CORRAL|Patio de los animales de granja
+PESEBRE|Comedero del ganado
+ABREVADERO|Donde beben las reses

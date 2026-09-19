@@ -1,0 +1,249 @@
+# Ciencia, técnica, astronomía e informática
+ATOMO|Unidad más pequeña de un elemento
+MOLECULA|Unión de varios átomos
+NEUTRON|Partícula sin carga del núcleo
+PROTON|Partícula de carga positiva
+ELECTRON|Partícula de carga negativa
+NUCLEO|Centro del átomo
+ISOTOPO|Variante de un mismo elemento
+ELEMENTO|Sustancia pura de la tabla periódica
+COMPUESTO|Sustancia de varios elementos
+MEZCLA|Unión sin reacción química
+DISOLUCION|Mezcla homogénea de dos sustancias
+REACCION|Transformación química
+CATALIZADOR|Acelera una reacción química
+ACIDO|Sustancia de sabor agrio y baja acidez
+BASE|Sustancia que neutraliza el ácido
+SAL|Producto de un ácido y una base
+OXIDO|Compuesto formado con oxígeno
+OXIGENO|Gas imprescindible para la vida
+HIDROGENO|Elemento más ligero
+NITROGENO|Gas mayoritario del aire
+CARBONO|Elemento básico de la vida
+AZUFRE|Elemento amarillo de olor fuerte
+CLORO|Elemento que desinfecta el agua
+SODIO|Metal de la sal común
+POTASIO|Elemento de las cenizas vegetales
+CALCIO|Mineral de huesos y dientes
+HIERRO|Metal del imán y la sangre
+COBRE|Metal rojizo buen conductor
+PLATA|Metal blanco de la cubertería
+ORO|Metal amarillo que no se oxida
+PLOMO|Metal gris muy denso
+ZINC|Metal que protege del óxido
+ESTANO|Metal blando de las soldaduras
+MERCURIO|Único metal líquido
+ALUMINIO|Metal ligero del papel de cocina
+URANIO|Elemento de los reactores nucleares
+HELIO|Gas noble que hace flotar globos
+NEON|Gas de los letreros luminosos
+ARGON|Gas noble del aire
+RADIO|Elemento descubierto por los Curie
+FISICA|Ciencia de la materia y la energía
+QUIMICA|Ciencia de las sustancias
+BIOLOGIA|Ciencia de los seres vivos
+GEOLOGIA|Ciencia de la Tierra y las rocas
+ASTRONOMIA|Ciencia de los astros
+MATEMATICAS|Ciencia de los números y las formas
+GEOMETRIA|Estudio de las figuras
+ALGEBRA|Rama de las ecuaciones
+ARITMETICA|Cálculo con números
+ESTADISTICA|Estudio de los datos
+LOGICA|Ciencia del razonamiento
+FUERZA|Causa que altera el movimiento
+MASA|Cantidad de materia de un cuerpo
+PESO|Fuerza de la gravedad sobre la masa
+VELOCIDAD|Espacio recorrido por unidad de tiempo
+ACELERACION|Variación de la velocidad
+INERCIA|Resistencia al cambio de movimiento
+GRAVEDAD|Fuerza que atrae hacia el suelo
+ENERGIA|Capacidad de producir trabajo
+POTENCIA|Trabajo realizado por segundo
+TRABAJO|Producto de la fuerza por el desplazamiento
+PRESION|Fuerza repartida sobre una superficie
+DENSIDAD|Masa contenida en un volumen
+VOLUMEN|Espacio que ocupa un cuerpo
+TEMPERATURA|Grado de agitación térmica
+CALOR|Energía que pasa de lo caliente a lo frío
+TERMICO|Relativo al calor
+CONDUCTOR|Material que deja pasar la corriente
+AISLANTE|Material que no conduce
+CORRIENTE|Flujo de electrones
+VOLTIO|Unidad de tensión eléctrica
+AMPERIO|Unidad de intensidad de corriente
+VATIO|Unidad de potencia
+OHMIO|Unidad de resistencia eléctrica
+JULIO|Unidad de energía
+NEWTON|Unidad de fuerza
+PASCAL|Unidad de presión
+HERCIO|Unidad de frecuencia
+CANDELA|Unidad de intensidad luminosa
+MOL|Unidad de cantidad de sustancia
+KELVIN|Unidad de temperatura absoluta
+CIRCUITO|Camino cerrado de la corriente
+BATERIA|Acumulador de energía eléctrica
+GENERADOR|Produce electricidad
+TRANSFORMADOR|Cambia la tensión eléctrica
+IMAN|Cuerpo que atrae el hierro
+POLO|Cada extremo del imán
+CAMPO|Región donde actúa una fuerza
+ONDA|Perturbación que se propaga
+FRECUENCIA|Número de ciclos por segundo
+LONGITUDDEONDA|Distancia entre dos crestas
+ESPECTRO|Descomposición de la luz en colores
+LASER|Haz de luz muy concentrado
+FOTON|Partícula de la luz
+REFLEXION|Rebote de la luz en una superficie
+REFRACCION|Desvío de la luz al cambiar de medio
+LENTE|Cristal que desvía la luz
+PRISMA|Cuerpo que descompone la luz
+MICROSCOPIO|Aparato que agranda lo diminuto
+TELESCOPIO|Aparato que acerca los astros
+PERISCOPIO|Permite ver desde el submarino
+BRUJULA|Instrumento que señala el norte
+BAROMETRO|Mide la presión atmosférica
+HIGROMETRO|Mide la humedad del aire
+SISMOGRAFO|Registra los terremotos
+BALANZA|Instrumento de pesar
+PENDULO|Cuerpo que oscila colgado
+PALANCA|Barra que multiplica la fuerza
+POLEA|Rueda con garganta para la cuerda
+ENGRANAJE|Conjunto de ruedas dentadas
+TORNILLO|Pieza helicoidal que sujeta
+MUELLE|Pieza elástica que recupera su forma
+PISTON|Se desliza dentro del cilindro
+TURBINA|Rueda que gira con un fluido
+MOTOR|Máquina que produce movimiento
+DINAMO|Convierte movimiento en electricidad
+REACTOR|Instalación de la energía nuclear
+FISION|División del núcleo atómico
+FUSION|Unión de núcleos atómicos
+RADIACION|Emisión de energía a distancia
+ISOTERMO|De igual temperatura
+VACIO|Espacio sin materia
+PLANETA|Astro que gira alrededor de una estrella
+ESTRELLA|Astro con luz propia
+SATELITE|Astro que gira en torno a un planeta
+COMETA|Astro con cola de gas y polvo
+ASTEROIDE|Pequeño cuerpo rocoso del espacio
+METEORITO|Cuerpo que cae a la Tierra
+GALAXIA|Conjunto inmenso de estrellas
+NEBULOSA|Nube de gas y polvo cósmico
+CONSTELACION|Grupo de estrellas con figura
+ORBITA|Trayectoria de un astro
+ECLIPSE|Ocultación de un astro
+SOL|Estrella de nuestro sistema
+LUNA|Satélite de la Tierra
+MERCURIO|Planeta más cercano al Sol
+VENUS|Planeta llamado lucero del alba
+TIERRA|Tercer planeta del sistema solar
+MARTE|Planeta rojo
+JUPITER|Planeta más grande del sistema solar
+SATURNO|Planeta de los anillos
+URANO|Séptimo planeta del sistema solar
+NEPTUNO|Planeta más lejano del sistema solar
+PLUTON|Planeta enano de los confines
+COSMOS|Universo ordenado
+UNIVERSO|Todo lo que existe
+BIGBANG|Gran explosión inicial
+AGUJERONEGRO|Astro del que no escapa la luz
+SUPERNOVA|Explosión de una estrella
+CUASAR|Objeto muy lejano y luminoso
+PULSAR|Estrella que emite pulsos regulares
+ASTRONAUTA|Viajero del espacio
+COSMONAUTA|Astronauta ruso
+COHETE|Vehículo que sale al espacio
+TRANSBORDADOR|Nave espacial reutilizable
+SONDA|Nave sin tripulación de exploración
+ESTACION|Base habitada en órbita
+ESCAFANDRA|Traje del astronauta
+GRAVEDADCERO|Ausencia aparente de peso
+APOLO|Programa que llevó al hombre a la Luna
+LANZADERA|Vehículo de puesta en órbita
+ORDENADOR|Máquina que procesa datos
+PANTALLA|Muestra la imagen del ordenador
+TECLADO|Conjunto de teclas de escritura
+RATON|Dispositivo que mueve el cursor
+IMPRESORA|Saca los documentos en papel
+ESCANER|Digitaliza documentos
+DISCO|Soporte de almacenamiento
+MEMORIA|Guarda la información
+PROCESADOR|Cerebro del ordenador
+PLACA|Circuito principal del ordenador
+CABLE|Conductor que transmite la señal
+PUERTO|Conexión de un dispositivo
+SOFTWARE|Conjunto de programas
+HARDWARE|Parte física del ordenador
+PROGRAMA|Conjunto de instrucciones
+APLICACION|Programa de un uso concreto
+SISTEMAOPERATIVO|Programa base del ordenador
+ARCHIVO|Conjunto de datos con nombre
+CARPETA|Contenedor de archivos
+BASEDEDATOS|Conjunto organizado de información
+ALGORITMO|Serie ordenada de pasos
+CODIGO|Instrucciones escritas del programa
+LENGUAJE|Sistema para escribir programas
+COMPILAR|Traducir el código a la máquina
+DEPURAR|Buscar y quitar los errores
+BIT|Unidad mínima de información
+BYTE|Conjunto de ocho bits
+MEGA|Millón de unidades de información
+GIGA|Mil millones de unidades de información
+BINARIO|Sistema de ceros y unos
+PIXEL|Punto mínimo de la imagen digital
+RESOLUCION|Número de puntos de una imagen
+INTERNET|Red mundial de ordenadores
+RED|Conjunto de equipos conectados
+SERVIDOR|Equipo que atiende peticiones
+NAVEGADOR|Programa para ver páginas web
+BUSCADOR|Localiza información en la red
+ENLACE|Vínculo que lleva a otra página
+PAGINA|Documento de la web
+CORREO|Mensajería electrónica
+CONTRASENA|Clave de acceso secreta
+USUARIO|Quien utiliza el sistema
+CUENTA|Perfil de acceso a un servicio
+DESCARGA|Traer un archivo de la red
+COPIA|Duplicado de seguridad
+VIRUS|Programa dañino que se propaga
+ANTIVIRUS|Programa que protege del malware
+FIREWALL|Barrera de seguridad de la red
+CIFRADO|Codificación para proteger datos
+NUBE|Almacenamiento remoto en internet
+MOVIL|Teléfono que se lleva encima
+TABLETA|Ordenador plano y táctil
+PORTATIL|Ordenador que se transporta
+ROBOT|Máquina programable automática
+DRON|Aeronave sin piloto a bordo
+SENSOR|Detecta una magnitud física
+CHIP|Circuito integrado diminuto
+TRANSISTOR|Componente que amplifica la señal
+CONDENSADOR|Componente que almacena carga
+RESISTENCIA|Componente que limita la corriente
+DIODO|Deja pasar la corriente en un sentido
+SATELITEARTIFICIAL|Aparato puesto en órbita
+ANTENA|Capta o emite ondas
+RADAR|Detecta objetos con ondas
+SONAR|Detecta objetos bajo el agua
+GPS|Sistema de posicionamiento por satélite
+BRUJULADIGITAL|Instrumento electrónico de orientación
+INVENTO|Creación nueva y original
+PATENTE|Registro que protege un invento
+PROTOTIPO|Primer ejemplar de prueba
+EXPERIMENTO|Prueba controlada de una hipótesis
+HIPOTESIS|Suposición que se quiere probar
+TEORIA|Explicación comprobada de unos hechos
+LEY|Regla constante de la naturaleza
+FORMULA|Expresión con símbolos
+ECUACION|Igualdad con incógnitas
+INCOGNITA|Valor que hay que averiguar
+VARIABLE|Magnitud que puede cambiar
+CONSTANTE|Valor que no varía
+GRAFICA|Representación visual de unos datos
+ESCALA|Relación entre medida y realidad
+UNIDAD|Cantidad tomada como referencia
+PRECISION|Grado de exactitud de una medida
+ERROR|Diferencia con el valor verdadero
+MEDIA|Valor promedio de unos datos
+PORCENTAJE|Proporción sobre cien
+PROBABILIDAD|Posibilidad de que algo ocurra

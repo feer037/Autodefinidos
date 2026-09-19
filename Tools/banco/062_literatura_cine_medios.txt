@@ -1,0 +1,257 @@
+# Literatura, cine, televisión y medios
+NOVELA|Obra narrativa extensa
+CUENTO|Relato breve de ficción
+FABULA|Cuento con animales y moraleja
+LEYENDA|Relato tradicional fantástico
+MITO|Narración de dioses y héroes
+POEMA|Composición en verso
+SONETO|Poema de catorce versos
+ROMANCE|Poema de versos octosílabos
+ODA|Poema de exaltación
+ELEGIA|Poema de lamento por un muerto
+EGLOGA|Poema de tema pastoril
+SATIRA|Escrito que ridiculiza
+EPOPEYA|Poema de grandes hazañas
+CANTAR|Poema épico medieval
+COPLA|Estrofa popular
+ESTROFA|Grupo de versos
+VERSO|Cada línea de un poema
+RIMA|Coincidencia de sonidos finales
+METRICA|Medida de los versos
+SINALEFA|Unión de dos vocales al recitar
+HIPERBATON|Alteración del orden de la frase
+METAFORA|Comparación sin nexo
+SIMIL|Comparación con nexo
+ALEGORIA|Serie de metáforas encadenadas
+IRONIA|Decir lo contrario de lo que se piensa
+PARADOJA|Unión de ideas contrarias
+PERSONIFICACION|Atribuir cualidades humanas a lo que no lo es
+ANAFORA|Repetición al principio de los versos
+ALITERACION|Repetición de sonidos semejantes
+ONOMATOPEYA|Palabra que imita un sonido
+ENSAYO|Escrito reflexivo sobre un tema
+CRONICA|Relato ordenado de los hechos
+BIOGRAFIA|Historia de una vida
+AUTOBIOGRAFIA|Vida contada por uno mismo
+MEMORIAS|Recuerdos escritos de una vida
+DIARIO|Escrito de lo que ocurre cada día
+EPISTOLARIO|Conjunto de cartas de un autor
+ANTOLOGIA|Selección de textos escogidos
+PROLOGO|Texto que precede a la obra
+EPILOGO|Texto que cierra la obra
+CAPITULO|División de un libro
+TOMO|Cada volumen de una obra
+VOLUMEN|Cuerpo de un libro
+EDICION|Tirada de un libro
+EJEMPLAR|Cada copia impresa
+MANUSCRITO|Original escrito a mano
+BORRADOR|Escrito aún sin pulir
+TRAMA|Hilo argumental de una obra
+ARGUMENTO|Asunto de una obra
+DESENLACE|Final de la historia
+NUDO|Parte central del relato
+NARRADOR|Voz que cuenta la historia
+PERSONAJE|Figura de una obra
+DIALOGO|Conversación entre personajes
+MONOLOGO|Parlamento de un solo personaje
+ACOTACION|Indicación del autor en el teatro
+ESCENA|Fragmento de un acto
+ACTO|Parte principal de una obra teatral
+COMEDIA|Obra teatral que hace reír
+TRAGEDIA|Obra de final desdichado
+DRAMA|Obra teatral seria
+ENTREMES|Pieza cómica breve
+SAINETE|Pieza corta de costumbres
+AUTOSACRAMENTAL|Pieza religiosa alegórica
+ZARZUELA|Obra lírica española
+LIBRETO|Texto de una obra cantada
+GUION|Texto de una película
+ADAPTACION|Versión de una obra a otro medio
+ESCRITOR|Autor de libros
+POETA|Autor de versos
+DRAMATURGO|Autor de obras teatrales
+NOVELISTA|Autor de novelas
+ENSAYISTA|Autor de ensayos
+CRITICO|Quien juzga las obras
+EDITOR|Quien publica los libros
+LECTOR|Quien lee una obra
+BIBLIOFILO|Amante de los libros
+IMPRENTA|Taller donde se imprime
+TIPOGRAFIA|Arte de componer con tipos
+ENCUADERNAR|Coser y cubrir las hojas
+PORTADA|Cubierta del libro
+CONTRAPORTADA|Cara trasera del libro
+LOMO|Canto del libro encuadernado
+INDICE|Lista de los capítulos
+GLOSARIO|Lista de términos explicados
+APENDICE|Añadido al final
+NOTA|Aclaración al pie de página
+CITA|Fragmento que se reproduce
+PLAGIO|Copia de obra ajena
+SEUDONIMO|Nombre falso del autor
+ANONIMO|Obra sin autor conocido
+CLASICO|Autor u obra de valor permanente
+BESTSELLER|Libro de gran venta
+FOLLETIN|Novela publicada por entregas
+TEBEO|Revista de historietas
+COMIC|Narración en viñetas
+VINETA|Cada recuadro de la historieta
+BOCADILLO|Globo con el texto del personaje
+CINE|Arte de las imágenes en movimiento
+PELICULA|Obra cinematográfica
+CORTOMETRAJE|Película de corta duración
+DOCUMENTAL|Película de hechos reales
+ANIMACION|Cine hecho con dibujos
+DIRECTOR|Quien dirige el rodaje
+PRODUCTOR|Quien financia la película
+GUIONISTA|Quien escribe el guion
+ACTOR|Intérprete masculino
+ACTRIZ|Intérprete femenina
+REPARTO|Conjunto de los intérpretes
+PAPEL|Personaje que interpreta un actor
+CASTING|Prueba de selección de actores
+DOBLE|Quien sustituye al actor en escenas de riesgo
+EXTRA|Figurante sin texto
+RODAJE|Grabación de la película
+PLATO|Escenario donde se rueda
+DECORADO|Ambientación del escenario
+CLAQUETA|Tablilla que marca la toma
+TOMA|Cada grabación de un plano
+PLANO|Encuadre de la cámara
+SECUENCIA|Serie de planos con unidad
+MONTAJE|Ensamblaje de las escenas
+BANDASONORA|Música de la película
+DOBLAJE|Sustitución de las voces
+SUBTITULO|Texto escrito de los diálogos
+ESTRENO|Primera proyección pública
+TAQUILLA|Recaudación de una película
+CARTELERA|Lista de películas en proyección
+BUTACA|Asiento de la sala
+PANTALLA|Superficie de proyección
+PROYECTOR|Aparato que lanza la imagen
+PALOMITAS|Maíz tostado del cine
+FESTIVAL|Certamen de cine
+PREMIO|Galardón de un certamen
+NOMINACION|Candidatura a un premio
+CRITICA|Juicio publicado de una obra
+TAQUILLAZO|Película de gran éxito
+SECUELA|Continuación de una película
+PRECUELA|Historia anterior a la ya contada
+REMAKE|Nueva versión de una película
+SAGA|Serie de obras relacionadas
+GENERO|Clase a la que pertenece una obra
+COMEDIA|Género que busca la risa
+SUSPENSE|Género de la tensión
+TERROR|Género que busca el miedo
+CIENCIAFICCION|Género de mundos futuros
+WESTERN|Película del lejano oeste
+MUSICAL|Película con canciones y bailes
+BIOPIC|Película sobre una vida real
+TELEVISION|Medio de imagen y sonido
+CADENA|Emisora de televisión
+CANAL|Vía por la que se emite
+PROGRAMA|Espacio de la parrilla
+SERIE|Ficción por episodios
+CAPITULO|Cada entrega de una serie
+TEMPORADA|Conjunto de capítulos del año
+EPISODIO|Cada parte de una serie
+CONCURSO|Programa con premios
+MAGAZINE|Programa de variedades
+TERTULIA|Programa de debate
+INFORMATIVO|Programa de noticias
+PRESENTADOR|Quien conduce el programa
+LOCUTOR|Quien habla en radio
+TERTULIANO|Participante de un debate
+AUDIENCIA|Público que sigue un programa
+PARRILLA|Distribución horaria de los programas
+ANUNCIO|Espacio publicitario
+PATROCINIO|Apoyo económico a un espacio
+EMISION|Transmisión de un programa
+DIRECTO|Emisión en el mismo momento
+DIFERIDO|Emisión posterior a la grabación
+RETRANSMISION|Difusión de un acontecimiento
+ESTUDIO|Sala donde se graba
+CAMARA|Aparato que capta la imagen
+MICROFONO|Recoge el sonido
+PLATO|Escenario del programa
+REGIDOR|Coordina el plató
+REALIZADOR|Dirige la emisión
+PRODUCTORA|Empresa que hace programas
+RADIO|Medio de comunicación sonoro
+EMISORA|Estación que difunde por ondas
+DIAL|Escala de sintonía
+SINTONIA|Música que identifica un programa
+BOLETIN|Espacio breve de noticias
+TERTULIA|Charla entre varios contertulios
+PERIODICO|Publicación diaria
+DIARIO|Periódico que sale cada día
+SEMANARIO|Publicación semanal
+REVISTA|Publicación ilustrada
+SUPLEMENTO|Cuadernillo que acompaña al diario
+PORTADA|Primera plana del periódico
+TITULAR|Encabezado de la noticia
+ENTRADILLA|Primer párrafo de la noticia
+CRONICA|Relato del corresponsal
+REPORTAJE|Trabajo periodístico amplio
+ENTREVISTA|Serie de preguntas a un personaje
+EDITORIAL|Opinión del periódico
+COLUMNA|Artículo fijo de un autor
+ARTICULO|Escrito de opinión
+NOTICIA|Información de un hecho
+PRIMICIA|Noticia que se da la primera
+REDACCION|Lugar donde se escribe el periódico
+REDACTOR|Periodista de la redacción
+CORRESPONSAL|Periodista destinado fuera
+ENVIADO|Periodista desplazado a un suceso
+FOTOPERIODISMO|Información contada con fotos
+HEMEROTECA|Archivo de publicaciones
+TIRADA|Número de ejemplares impresos
+KIOSCO|Puesto donde se vende la prensa
+SUSCRIPCION|Abono a una publicación
+CENSURA|Control previo de lo publicado
+LIBERTAD|Derecho a informar sin trabas
+RUEDA|Encuentro del personaje con la prensa
+COMUNICADO|Nota oficial que se difunde
+AGENCIA|Empresa que distribuye noticias
+TELETIPO|Antiguo aparato de teletexto periodístico
+MAQUETACION|Diseño de la página
+COLUMNISTA|Autor de una columna fija
+PORTADISTA|Diseñador de portadas
+QUIJOTE|Hidalgo manchego de Cervantes
+SANCHO|Escudero del caballero de la triste figura
+DULCINEA|Dama idealizada del Quijote
+ROCINANTE|Caballo del hidalgo manchego
+CELESTINA|Alcahueta de la obra de Rojas
+LAZARILLO|Pícaro que sirve al ciego
+BUSCON|Pícaro de la novela de Quevedo
+FAUSTO|Personaje que vende su alma
+HAMLET|Príncipe de Dinamarca de Shakespeare
+OTELO|Moro de Venecia celoso
+ROMEO|Enamorado de Verona
+JULIETA|Amada de Romeo
+MACBETH|Ambicioso noble escocés de Shakespeare
+ULISES|Héroe del regreso a Ítaca
+EDIPO|Rey trágico de Tebas
+ANTIGONA|Heroína que entierra a su hermano
+MEDEA|Hechicera de la tragedia griega
+FIGARO|Barbero de Sevilla de la ópera
+CARMEN|Cigarrera de la ópera de Bizet
+TENORIO|Burlador de Sevilla
+SEGISMUNDO|Príncipe encerrado en la torre
+PINOCHO|Muñeco de madera que quiere ser niño
+ALICIA|Niña del país de las maravillas
+GULLIVER|Viajero de Liliput
+ROBINSON|Náufrago de la isla desierta
+DRACULA|Conde vampiro de Transilvania
+FRANKENSTEIN|Doctor que crea un monstruo
+TARZAN|Hombre criado por los simios
+MOWGLI|Niño del libro de la selva
+HEIDI|Niña de los Alpes
+PETERPAN|Niño que no quiere crecer
+CENICIENTA|Joven del zapato de cristal
+BLANCANIEVES|Princesa de los siete enanitos
+CAPERUCITA|Niña que lleva la cesta a la abuela
+PULGARCITO|Niño diminuto de los cuentos
+ALADINO|Dueño de la lámpara maravillosa
+SIMBAD|Marino de los siete viajes
+SHEREZADE|Narradora de las mil y una noches

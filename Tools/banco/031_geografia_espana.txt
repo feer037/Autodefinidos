@@ -1,0 +1,271 @@
+# Geografía de España: provincias, ciudades, ríos, montes y comarcas
+ALAVA|Provincia de Vitoria
+ALBACETE|Ciudad manchega de los cuchillos
+ALICANTE|Provincia de la Costa Blanca
+ALMERIA|Provincia del desierto de Tabernas
+ASTURIAS|Principado de Oviedo
+AVILA|Ciudad de las murallas y Santa Teresa
+BADAJOZ|Capital extremeña del Guadiana
+BALEARES|Archipiélago del Mediterráneo español
+BARCELONA|Ciudad condal
+BILBAO|Villa del Nervión
+BURGOS|Ciudad del Cid y la catedral gótica
+CACERES|Ciudad extremeña de casco monumental
+CADIZ|La tacita de plata
+CANARIAS|Archipiélago del Atlántico español
+CANTABRIA|Comunidad de Santander
+CASTELLON|Provincia del Mediterráneo valenciano
+CEUTA|Ciudad autónoma del norte de África
+CIUDADREAL|Capital manchega del Guadiana
+CORDOBA|Ciudad de la mezquita
+CORUNA|Ciudad gallega de la torre de Hércules
+CUENCA|Ciudad de las casas colgadas
+GERONA|Provincia catalana del Ter
+GIJON|Ciudad asturiana del Musel
+GRANADA|Ciudad de la Alhambra
+GUADALAJARA|Capital castellana del Henares
+HUELVA|Provincia de Doñana y el Rocío
+HUESCA|Capital aragonesa del Pirineo
+JAEN|Provincia del mar de olivos
+LEON|Ciudad de la catedral de las vidrieras
+LERIDA|Capital catalana del Segre
+LOGRONO|Capital riojana del vino
+LUGO|Ciudad gallega de la muralla romana
+MADRID|Capital del reino
+MALAGA|Ciudad de la Costa del Sol
+MELILLA|Ciudad autónoma africana
+MURCIA|Capital del Segura
+NAVARRA|Comunidad foral de Pamplona
+ORENSE|Provincia gallega del Miño
+OVIEDO|Capital del Principado
+PALENCIA|Capital castellana del Carrión
+PAMPLONA|Ciudad de los sanfermines
+PONTEVEDRA|Provincia gallega de las Rías Bajas
+RIOJA|Comunidad del vino de crianza
+SALAMANCA|Ciudad de la plaza mayor y la universidad
+SANTANDER|Capital cántabra de la bahía
+SEGOVIA|Ciudad del acueducto
+SEVILLA|Ciudad de la Giralda
+SORIA|Capital castellana del Duero
+TARRAGONA|Ciudad catalana de las ruinas romanas
+TENERIFE|Isla del Teide
+TERUEL|Ciudad de los amantes
+TOLEDO|Ciudad imperial del Tajo
+VALENCIA|Ciudad de las Fallas
+VALLADOLID|Capital castellana del Pisuerga
+VIGO|Ciudad gallega de la ría
+VITORIA|Capital alavesa
+ZAMORA|Ciudad del románico y el Duero
+ZARAGOZA|Ciudad del Pilar
+EBRO|Río más caudaloso de España
+TAJO|Río más largo de la península
+DUERO|Río que pasa por Zamora
+GUADIANA|Río de los Ojos en la Mancha
+GUADALQUIVIR|Río grande de Andalucía
+SEGURA|Río murciano
+JUCAR|Río valenciano
+TURIA|Río que desvía su cauce en Valencia
+MINO|Río principal de Galicia
+SIL|Afluente gallego de la Ribeira Sacra
+NERVION|Ría bilbaína
+BIDASOA|Río fronterizo con Francia
+GENIL|Afluente granadino del Guadalquivir
+PISUERGA|Río de Valladolid
+CARRION|Río palentino
+ESLA|Afluente leonés del Duero
+TORMES|Río de Salamanca
+JARAMA|Río madrileño del circuito
+MANZANARES|Río de la capital de España
+HENARES|Río de Alcalá
+ALAGON|Afluente extremeño del Tajo
+CINCA|Río oscense del Pirineo
+GALLEGO|Afluente aragonés del Ebro
+ARAGON|Río navarro del Pirineo
+TEIDE|Pico más alto de España
+MULHACEN|Techo de la península
+ANETO|Cima más alta del Pirineo
+VELETA|Pico de Sierra Nevada
+MONCAYO|Monte entre Aragón y Soria
+GREDOS|Sierra de Ávila
+GUADARRAMA|Sierra del norte de Madrid
+PICOSDEEUROPA|Macizo entre Asturias y Cantabria
+MONTSERRAT|Montaña sagrada catalana
+TORCAL|Paraje calizo de Antequera
+CABODEGATA|Parque natural almeriense
+DONANA|Parque nacional de las marismas
+TABLASDEDAIMIEL|Humedal manchego
+ORDESA|Parque nacional oscense
+AIGUESTORTES|Parque nacional leridano
+TIMANFAYA|Parque volcánico de Lanzarote
+GARAJONAY|Parque nacional de La Gomera
+CALDERA|Parque nacional de La Palma
+MALLORCA|Isla balear mayor
+MENORCA|Isla balear de Mahón
+IBIZA|Isla pitiusa de la fiesta
+FORMENTERA|Isla pequeña de las Pitiusas
+LANZAROTE|Isla canaria de los volcanes
+FUERTEVENTURA|Isla canaria de las dunas
+GOMERA|Isla canaria del silbo
+HIERRO|Isla canaria más occidental
+PALMA|Isla bonita canaria
+GRANCANARIA|Isla de Las Palmas
+GALICIA|Comunidad de las cuatro provincias del noroeste
+EXTREMADURA|Comunidad de Badajoz y Cáceres
+ANDALUCIA|Comunidad de las ocho provincias del sur
+CATALUNA|Comunidad de Barcelona
+CASTILLA|Tierra de los castillos
+MANCHA|Tierra de Don Quijote
+ARAGON|Comunidad de Zaragoza y Huesca
+CANTABRICO|Mar del norte peninsular
+MEDITERRANEO|Mar del este peninsular
+ATLANTICO|Océano del oeste peninsular
+GIBRALTAR|Estrecho del sur de España
+FINISTERRE|Cabo del fin del mundo gallego
+TRAFALGAR|Cabo de la batalla naval
+CREUS|Cabo del norte de la Costa Brava
+PENISCOLA|Villa castellonense del castillo del papa Luna
+RONDA|Ciudad malagueña del tajo
+CUENCADELDUERO|Gran llanura castellana
+ALMADEN|Localidad manchega del mercurio
+ARANJUEZ|Real sitio del Tajo
+ALCALA|Ciudad madrileña de Cervantes
+SANTIAGO|Ciudad del apóstol y el botafumeiro
+COVADONGA|Santuario asturiano de la Reconquista
+GUERNICA|Villa vizcaína del árbol
+JEREZ|Ciudad gaditana del vino y los caballos
+MARBELLA|Ciudad malagueña de lujo
+SITGES|Villa catalana del carnaval
+CADAQUES|Pueblo ampurdanés de Dalí
+CUDILLERO|Villa marinera asturiana
+LLANES|Villa costera asturiana
+COMILLAS|Pueblo cántabro del capricho de Gaudí
+POTES|Villa cántabra de Liébana
+AINSA|Villa medieval oscense
+ALBARRACIN|Pueblo turolense de casas rosadas
+CHINCHON|Villa madrileña de la plaza redonda
+CONSUEGRA|Pueblo toledano de los molinos
+UBEDA|Ciudad renacentista jienense
+BAEZA|Ciudad monumental de Jaén
+CARMONA|Villa sevillana de la puerta romana
+MIJAS|Pueblo blanco malagueño
+FRIGILIANA|Pueblo blanco de la Axarquía
+MOJACAR|Pueblo blanco almeriense
+SETENIL|Pueblo gaditano bajo la roca
+GRAZALEMA|Pueblo gaditano de la sierra
+OLIVENZA|Villa pacense de raíz portuguesa
+TRUJILLO|Villa cacereña de los conquistadores
+GUADALUPE|Monasterio extremeño de la Virgen
+YUSTE|Monasterio donde murió Carlos quinto
+SIGUENZA|Ciudad alcarreña de la catedral
+PEDRAZA|Villa segoviana amurallada
+LERMA|Villa burgalesa ducal
+FROMISTA|Villa palentina del Camino
+CARRION|Villa palentina de los condes
+SAHAGUN|Villa leonesa del mudéjar
+ASTORGA|Ciudad leonesa de la maragatería
+PONFERRADA|Ciudad del castillo templario
+VILLAFRANCA|Villa berciana del Camino
+OCEBREIRO|Alto lucense del Camino de Santiago
+PADRON|Villa gallega de los pimientos
+COMBARRO|Pueblo pontevedrés de los hórreos
+BETANZOS|Villa coruñesa del vino
+RIBADEO|Villa lucense de la playa de las catedrales
+LUARCA|Villa asturiana de los blancos
+TARIFA|Punto más al sur de la península
+MOTRIL|Ciudad costera granadina
+NERJA|Pueblo malagueño de la cueva
+ANTEQUERA|Ciudad malagueña de los dólmenes
+ECIJA|Ciudad sevillana de las torres
+OSUNA|Villa sevillana ducal
+ARACENA|Villa onubense de la gruta
+AYAMONTE|Villa onubense fronteriza
+ISLACRISTINA|Localidad onubense marinera
+CHIPIONA|Pueblo gaditano del faro
+SANLUCAR|Villa gaditana de la manzanilla
+ARCOS|Pueblo gaditano de la peña
+MEDINA|Villa gaditana de Sidonia
+CAZORLA|Sierra jienense del nacimiento del Guadalquivir
+SEGURA|Sierra jienense de la sierra
+ALCARAZ|Sierra albaceteña
+ALCARRIA|Comarca de Guadalajara
+MAESTRAZGO|Comarca entre Teruel y Castellón
+BIERZO|Comarca leonesa del vino
+MARAGATERIA|Comarca leonesa del cocido
+ALPUJARRA|Comarca de la cara sur de Sierra Nevada
+AXARQUIA|Comarca malagueña oriental
+ALJARAFE|Comarca sevillana del olivar
+CAMPODEGIBRALTAR|Comarca gaditana del peñón
+VEGABAJA|Comarca alicantina del Segura
+MARINAALTA|Comarca alicantina de Denia
+SAFOR|Comarca valenciana de Gandía
+RIBERA|Comarca navarra del Ebro
+BARDENAS|Desierto navarro
+MONEGROS|Comarca semiárida aragonesa
+SOMONTANO|Comarca oscense del vino
+CERDANA|Comarca pirenaica de Puigcerdá
+AMPURDAN|Comarca gerundense
+PENEDES|Comarca catalana del cava
+PRIORATO|Comarca tarraconense del vino
+DELTA|Desembocadura del Ebro en Tarragona
+ALBUFERA|Laguna valenciana del arroz
+MARMENOR|Laguna salada murciana
+GREDOS|Sierra de las cabras montesas
+URBION|Sierra soriana del Duero
+DEMANDA|Sierra entre Burgos y La Rioja
+CANTABRICA|Cordillera del norte peninsular
+PENIBETICA|Cordillera del sur de Andalucía
+IBERICA|Cordillera del centro peninsular
+PIRINEOS|Cordillera fronteriza con Francia
+MESETA|Gran altiplano castellano
+SIERRANEVADA|Macizo granadino de la nieve
+CABEZADEMANZANEDA|Estación de esquí gallega
+NAVACERRADA|Puerto de la sierra madrileña
+PAJARES|Puerto entre Asturias y León
+DESPENAPERROS|Paso natural a Andalucía
+SOMPORT|Puerto pirenaico aragonés
+RONCESVALLES|Paso navarro de la Chanson de Roland
+ALCANTARA|Puente romano cacereño
+SEGOVIANO|Natural de la ciudad del acueducto
+MADRILENO|Natural de la capital
+BARCELONES|Natural de la ciudad condal
+SEVILLANO|Natural de la ciudad del Guadalquivir
+VALENCIANO|Natural de la ciudad del Turia
+ZARAGOZANO|Natural de la ciudad del Pilar
+GADITANO|Natural de Cádiz
+MALAGUENO|Natural de la Costa del Sol
+GRANADINO|Natural de la Alhambra
+CORDOBES|Natural de la mezquita
+ONUBENSE|Natural de Huelva
+JIENENSE|Natural de Jaén
+ALMERIENSE|Natural del cabo de Gata
+PACENSE|Natural de Badajoz
+CACERENO|Natural de Cáceres
+CONQUENSE|Natural de las casas colgadas
+TOLEDANO|Natural de la ciudad imperial
+ABULENSE|Natural de Ávila
+SALMANTINO|Natural de Salamanca
+LEONES|Natural de la ciudad de la catedral de vidrieras
+BURGALES|Natural de la ciudad del Cid
+PALENTINO|Natural de Palencia
+SORIANO|Natural de Soria
+ZAMORANO|Natural de Zamora
+OVETENSE|Natural de Oviedo
+GIJONES|Natural de Gijón
+SANTANDERINO|Natural de la capital cántabra
+BILBAINO|Natural de la villa del Nervión
+DONOSTIARRA|Natural de San Sebastián
+PAMPLONICA|Natural de la ciudad de los encierros
+OSCENSE|Natural de Huesca
+TUROLENSE|Natural de Teruel
+ILERDENSE|Natural de Lérida
+TARRACONENSE|Natural de Tarragona
+GERUNDENSE|Natural de Gerona
+ALICANTINO|Natural de la Costa Blanca
+CASTELLONENSE|Natural de Castellón
+MURCIANO|Natural de la huerta del Segura
+CORUNES|Natural de La Coruña
+LUCENSE|Natural de Lugo
+OURENSANO|Natural de Orense
+VIGUES|Natural de Vigo
+CANARIO|Natural del archipiélago atlántico
+BALEAR|Natural de las islas del Mediterráneo

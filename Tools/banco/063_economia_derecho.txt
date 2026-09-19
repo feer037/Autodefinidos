@@ -1,0 +1,302 @@
+# Economía, derecho, política y sociedad
+BANCO|Entidad que guarda el dinero
+CUENTA|Depósito bancario de un cliente
+LIBRETA|Cartilla de ahorros
+CAJERO|Máquina que da billetes
+INTERES|Rédito que produce un capital
+HIPOTECA|Préstamo sobre una vivienda
+PRESTAMO|Dinero que se deja a devolver
+CREDITO|Confianza para prestar dinero
+AVAL|Garantía de un pago
+DEUDA|Cantidad que se debe
+ACREEDOR|A quien se debe dinero
+DEUDOR|Quien tiene una deuda
+MOROSO|Que se retrasa en pagar
+IMPAGO|Falta de pago
+RECIBO|Justificante del pago
+FACTURA|Documento del importe
+NOMINA|Papel del sueldo mensual
+SUELDO|Retribución del trabajador
+SALARIO|Paga por el trabajo
+PAGA|Cantidad que se cobra
+EXTRA|Paga añadida al sueldo
+FINIQUITO|Liquidación final del contrato
+INDEMNIZACION|Compensación por un daño
+JUBILACION|Retiro por edad
+PENSION|Renta que cobra el jubilado
+SUBSIDIO|Ayuda económica pública
+SUBVENCION|Apoyo oficial en dinero
+IMPUESTO|Tributo que se paga al Estado
+TASA|Pago por un servicio público
+ARANCEL|Derecho de aduana
+GRAVAMEN|Carga que pesa sobre un bien
+DECLARACION|Documento anual ante Hacienda
+HACIENDA|Administración de los tributos
+FISCO|Tesoro público
+PRESUPUESTO|Cálculo previo de ingresos y gastos
+DEFICIT|Gastos superiores a los ingresos
+SUPERAVIT|Ingresos superiores a los gastos
+BALANCE|Estado de las cuentas
+ACTIVO|Conjunto de los bienes
+PASIVO|Conjunto de las deudas
+CAPITAL|Dinero invertido en un negocio
+INVERSION|Colocación del dinero
+DIVIDENDO|Beneficio repartido al socio
+ACCION|Parte del capital de una sociedad
+ACCIONISTA|Dueño de acciones
+BOLSA|Mercado de valores
+COTIZACION|Precio en el mercado bursátil
+CORREDOR|Intermediario de operaciones
+ESPECULAR|Comprar para revender más caro
+QUIEBRA|Ruina de una empresa
+BANCARROTA|Situación del que no puede pagar
+LIQUIDACION|Venta de todas las existencias
+INFLACION|Subida general de precios
+DEFLACION|Caída general de precios
+RECESION|Retroceso de la actividad económica
+CRISIS|Momento de grave dificultad
+CRECIMIENTO|Aumento de la riqueza
+MERCADO|Lugar de compra y venta
+OFERTA|Bienes puestos a la venta
+DEMANDA|Cantidad que se quiere comprar
+COMPETENCIA|Rivalidad entre empresas
+MONOPOLIO|Dominio exclusivo de un mercado
+PRECIO|Valor en dinero de un bien
+DESCUENTO|Rebaja sobre el precio
+REBAJA|Bajada temporal de precios
+GANGA|Compra muy ventajosa
+COSTE|Lo que cuesta producir algo
+BENEFICIO|Ganancia de una operación
+PERDIDA|Resultado negativo
+RENTABILIDAD|Beneficio que da lo invertido
+COMISION|Porcentaje del intermediario
+CONTRATO|Acuerdo con obligaciones
+CLAUSULA|Punto concreto de un contrato
+FIRMA|Rúbrica que obliga
+PLAZO|Tiempo concedido para algo
+CUOTA|Pago periódico
+LETRA|Efecto de comercio a pagar
+CHEQUE|Orden de pago al banco
+TRANSFERENCIA|Envío de dinero entre cuentas
+DIVISA|Moneda extranjera
+CAMBIO|Relación entre dos monedas
+EURO|Moneda europea común
+DOLAR|Moneda estadounidense
+LIBRA|Moneda británica
+YEN|Moneda japonesa
+PESO|Moneda de varios países americanos
+FRANCO|Antigua moneda francesa
+PESETA|Antigua moneda española
+CENTIMO|Centésima parte del euro
+MONEDA|Pieza metálica de pago
+BILLETE|Papel moneda
+EFECTIVO|Dinero en mano
+TARJETA|Medio de pago de plástico
+CAJA|Lugar donde se cobra
+ARQUEO|Recuento del dinero de la caja
+CONTABILIDAD|Registro de las operaciones
+AUDITORIA|Revisión de las cuentas
+INVENTARIO|Relación de las existencias
+ALMACEN|Depósito de mercancías
+STOCK|Existencias disponibles
+PEDIDO|Encargo de mercancía
+ALBARAN|Documento que acompaña la entrega
+PROVEEDOR|Quien suministra los productos
+CLIENTE|Quien compra
+CONSUMIDOR|Quien usa el producto final
+MINORISTA|Comerciante que vende al público
+MAYORISTA|Comerciante que vende a las tiendas
+DISTRIBUIDOR|Quien reparte el producto
+FRANQUICIA|Cesión del uso de una marca
+MARCA|Signo que distingue un producto
+PATENTE|Registro que protege un invento
+LOGOTIPO|Símbolo gráfico de una empresa
+PUBLICIDAD|Difusión para vender
+ESLOGAN|Frase publicitaria breve
+CAMPANA|Conjunto de acciones publicitarias
+EMPRESA|Organización con fines económicos
+SOCIEDAD|Compañía mercantil
+COOPERATIVA|Empresa de socios trabajadores
+AUTONOMO|Trabajador por cuenta propia
+EMPLEADO|Trabajador por cuenta ajena
+EMPRESARIO|Dueño de la empresa
+PLANTILLA|Conjunto de los trabajadores
+CONTRATACION|Incorporación de personal
+DESPIDO|Cese del trabajador
+DIMISION|Renuncia voluntaria al puesto
+HUELGA|Paro reivindicativo
+SINDICATO|Asociación de trabajadores
+CONVENIO|Acuerdo laboral colectivo
+PATRONAL|Asociación de empresarios
+PARO|Falta de empleo
+DESEMPLEO|Situación del que no tiene trabajo
+CURRICULO|Historial profesional
+ENTREVISTA|Encuentro de selección
+ASCENSO|Subida de categoría laboral
+JORNADA|Horas de trabajo diarias
+TURNO|Periodo de trabajo asignado
+VACACIONES|Días de descanso retribuido
+BAJA|Ausencia por enfermedad
+EXCEDENCIA|Permiso largo sin sueldo
+LEY|Norma aprobada por el parlamento
+DECRETO|Norma que dicta el gobierno
+REGLAMENTO|Conjunto de reglas de desarrollo
+CODIGO|Cuerpo ordenado de leyes
+CONSTITUCION|Ley fundamental del Estado
+ESTATUTO|Norma básica de una comunidad
+NORMATIVA|Conjunto de normas
+JURISPRUDENCIA|Doctrina de los tribunales
+DERECHO|Conjunto de las normas jurídicas
+JUSTICIA|Virtud de dar a cada uno lo suyo
+TRIBUNAL|Órgano que juzga
+JUZGADO|Sede del juez
+AUDIENCIA|Tribunal de mayor rango
+SUPREMO|Tribunal más alto
+JUEZ|Quien dicta sentencia
+MAGISTRADO|Juez de categoría superior
+FISCAL|Quien ejerce la acusación
+ABOGADO|Quien defiende a las partes
+PROCURADOR|Quien representa ante el tribunal
+NOTARIO|Fedatario público
+REGISTRADOR|Quien inscribe las propiedades
+SECRETARIO|Quien da fe en el juzgado
+JURADO|Tribunal formado por ciudadanos
+TESTIGO|Quien declara lo que presenció
+PERITO|Experto que informa al tribunal
+ACUSADO|Persona a quien se imputa un delito
+IMPUTADO|Investigado en una causa
+DEMANDANTE|Quien presenta la demanda
+DEMANDADO|Aquel contra quien se demanda
+DENUNCIA|Aviso de un hecho delictivo
+QUERELLA|Acusación formal ante el juez
+DEMANDA|Escrito que inicia un pleito
+PLEITO|Litigio entre partes
+JUICIO|Vista ante el tribunal
+VISTA|Sesión pública del juicio
+ALEGATO|Discurso de defensa
+PRUEBA|Elemento que acredita un hecho
+SENTENCIA|Resolución que pone fin al juicio
+FALLO|Parte decisoria de la sentencia
+VEREDICTO|Decisión del jurado
+CONDENA|Pena que se impone
+ABSOLUCION|Declaración de inocencia
+RECURSO|Impugnación de una resolución
+APELACION|Recurso ante el tribunal superior
+CASACION|Recurso ante el tribunal supremo
+INDULTO|Perdón de la pena
+AMNISTIA|Perdón general
+PRESCRIPCION|Extinción por el paso del tiempo
+MULTA|Sanción económica
+ARRESTO|Detención breve
+PRISION|Pena privativa de libertad
+CARCEL|Establecimiento donde se cumple condena
+LIBERTAD|Estado del que no está preso
+FIANZA|Depósito que garantiza la libertad
+DELITO|Conducta castigada por la ley
+FALTA|Infracción leve
+CRIMEN|Delito grave contra las personas
+ROBO|Sustracción con fuerza
+HURTO|Sustracción sin violencia
+ESTAFA|Engaño para obtener un lucro
+FRAUDE|Engaño en perjuicio de otro
+SOBORNO|Dádiva para comprar una voluntad
+COHECHO|Delito del funcionario sobornado
+EXTORSION|Amenaza para obtener algo
+SECUESTRO|Retención forzada de una persona
+HOMICIDIO|Muerte causada a otro
+ASESINATO|Homicidio con alevosía
+LESIONES|Daños causados al cuerpo
+AMENAZA|Anuncio de un mal
+INJURIA|Ofensa contra el honor
+CALUMNIA|Acusación falsa de un delito
+TESTAMENTO|Disposición de última voluntad
+HERENCIA|Bienes que se transmiten al morir
+HEREDERO|Quien recibe la herencia
+LEGADO|Bien concreto que se deja
+USUFRUCTO|Derecho a disfrutar un bien ajeno
+PROPIEDAD|Derecho pleno sobre un bien
+POSESION|Tenencia material de una cosa
+ARRENDAMIENTO|Cesión de uso a cambio de renta
+INQUILINO|Quien vive de alquiler
+ARRENDADOR|Quien cede el inmueble
+DESAHUCIO|Expulsión legal del inquilino
+EMBARGO|Retención judicial de bienes
+SUBASTA|Venta pública al mejor postor
+ESCRITURA|Documento público de un acto
+PODER|Documento que faculta a otro
+TUTELA|Protección legal de un menor
+CURATELA|Asistencia legal a un incapaz
+ADOPCION|Filiación creada por la ley
+DIVORCIO|Disolución del matrimonio
+SEPARACION|Cese de la vida en común
+CUSTODIA|Cuidado legal de los hijos
+PENSION|Cantidad para alimentos
+FILIACION|Vínculo entre padres e hijos
+NACIONALIDAD|Vínculo jurídico con un Estado
+CIUDADANIA|Condición de ciudadano
+EMPADRONAMIENTO|Inscripción en el censo municipal
+CENSO|Registro de los habitantes
+REGISTRO|Oficina donde se inscriben los actos
+PARTIDA|Asiento del registro civil
+CERTIFICADO|Documento que acredita un hecho
+PASAPORTE|Documento para viajar al extranjero
+VISADO|Autorización de entrada en un país
+RESIDENCIA|Permiso para vivir en un país
+ASILO|Protección que se da al perseguido
+REFUGIADO|Quien huye de su país
+EXTRADICION|Entrega de un reo a otro país
+DEPORTACION|Expulsión del territorio
+GOBIERNO|Conjunto de los que gobiernan
+MINISTRO|Miembro del gobierno
+PRESIDENTE|Jefe del gobierno o del Estado
+ALCALDE|Máxima autoridad municipal
+CONCEJAL|Miembro del ayuntamiento
+DIPUTADO|Miembro del congreso
+SENADOR|Miembro del senado
+PARLAMENTO|Cámara de representantes
+CONGRESO|Cámara baja del parlamento
+SENADO|Cámara alta del parlamento
+AYUNTAMIENTO|Corporación municipal
+DIPUTACION|Corporación provincial
+MUNICIPIO|Término y corporación local
+PROVINCIA|División territorial
+COMUNIDAD|Territorio con gobierno propio
+ESTADO|Organización política de un país
+NACION|Conjunto de habitantes de un país
+PATRIA|Tierra a la que se pertenece
+SOBERANIA|Poder supremo del Estado
+DEMOCRACIA|Gobierno del pueblo
+DICTADURA|Régimen sin libertades
+MONARQUIA|Estado con rey
+REPUBLICA|Estado con jefe elegido
+PARTIDO|Agrupación política
+CANDIDATO|Aspirante a un cargo electo
+CAMPANA|Periodo previo a las elecciones
+ELECCIONES|Votación para elegir cargos
+URNA|Recipiente de las papeletas
+PAPELETA|Voto que se deposita
+ESCRUTINIO|Recuento de los votos
+MAYORIA|Grupo más numeroso
+OPOSICION|Partidos que no gobiernan
+COALICION|Alianza de partidos
+MOCION|Propuesta que se somete a votación
+ENMIENDA|Propuesta de cambio de un texto
+DEBATE|Discusión ordenada de un asunto
+ESCANO|Asiento del parlamentario
+INVESTIDURA|Acto de tomar posesión
+LEGISLATURA|Periodo de un parlamento
+REFERENDUM|Consulta directa al pueblo
+PLEBISCITO|Votación popular sobre un asunto
+CONSTITUYENTE|Que elabora la constitución
+FEDERAL|Estado formado por varios estados
+AUTONOMICO|Relativo a la comunidad autónoma
+MUNICIPAL|Relativo al ayuntamiento
+DIPLOMACIA|Trato entre Estados
+EMBAJADA|Representación de un país
+CONSULADO|Oficina que atiende a los compatriotas
+TRATADO|Acuerdo entre naciones
+ALIANZA|Unión de países
+CUMBRE|Reunión de jefes de Estado
+SANCION|Castigo impuesto a un Estado
+BLOQUEO|Cierre del comercio con un país
+EMBARGO|Prohibición de comerciar con un país

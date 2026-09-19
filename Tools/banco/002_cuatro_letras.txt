@@ -1,0 +1,543 @@
+# Palabras de cuatro letras
+ABAD|Superior del monasterio
+ABRI|Quité el cierre, yo
+ACRE|Áspero y picante
+ACTA|Escrito de lo acordado
+ADAN|Primer hombre bíblico
+AFAN|Empeño constante
+AGRA|Ciudad india del Taj Mahal
+AGUA|Se bebe y no tiene color
+AHOY|Grito de llamada marinera
+AJAR|Estropear con el manoseo
+ALAS|Con ellas vuela el ave
+ALBA|Luz primera de la mañana
+ALCE|Ciervo de gran cornamenta
+ALFA|Letra griega inicial
+ALGA|Vegetal del fondo marino
+ALGO|Una cosa cualquiera
+ALMA|Espíritu de la persona
+ALTA|De mucha estatura
+ALTO|Que mide mucho
+AMAR|Sentir amor
+AMEN|Palabra final del rezo
+ANDA|Camina, imperativo
+ANIS|Grano de sabor dulce
+ANTE|Piel suave de calzado
+ANIL|Tinte azul oscuro
+APIO|Verdura de tallo crujiente
+ARCA|Baúl de Noé
+ARCO|Arma que lanza flechas
+AREA|Extensión de superficie
+ARPA|Instrumento de cuerda pulsada
+ARTE|Pintura o escultura
+ASAR|Cocinar al fuego
+ASCO|Repugnancia física
+ASNO|Animal terco de carga
+ATAR|Hacer un nudo
+ATUN|Pez de las conservas
+AUGE|Momento de esplendor
+AULA|Sala de clase
+AUTO|Coche, en abreviado
+AVAL|Garantía de un préstamo
+AVES|Animales con plumas
+AVIO|Provisión para el camino
+AYER|Día pasado
+AZAR|Suerte y casualidad
+AZUL|Color marino
+BABA|Saliva espesa
+BAHIA|Ensenada marina
+BALA|Proyectil de plomo
+BAJA|Ausencia por enfermedad
+BAJO|De poca altura
+BANO|Cuarto del aseo
+BARO|Unidad de presión
+BASE|Apoyo o fundamento
+BATA|Prenda de estar en casa
+BAUL|Arcón de viaje
+BAZA|Jugada que se gana en el mus
+BECA|Ayuda económica al estudiante
+BESO|Muestra de cariño en los labios
+BETA|Segunda letra griega
+BIEN|Contrario del mal
+BIFE|Filete, en Argentina
+BILE|Bilis, en forma antigua
+BOCA|Abertura de la cara
+BODA|Fiesta de la unión
+BOJE|Arbusto de jardín recortado
+BOLA|Esfera pequeña
+BOLO|Pieza que se derriba en la bolera
+BONO|Vale con derecho a algo
+BOTA|Calzado de caña alta
+BOTE|Barquita de remos
+BOYA|Señal flotante del mar
+BOZO|Vello del labio superior
+BRIO|Energía y empuje
+BUEN|Bueno, en apócope
+BUEY|Res de tiro
+BULA|Documento papal
+BULO|Rumor falso
+BUZO|Nadador con escafandra
+CABE|Tiene sitio suficiente
+CABO|Punta que entra en el mar
+CACA|Excremento, en infantil
+CADA|Uno por uno
+CAER|Precipitarse al suelo
+CAFE|Infusión negra y amarga
+CAJA|Envase con tapa
+CALA|Ensenada pequeña y recogida
+CALO|Habla de los gitanos
+CAMA|Lugar de dormir
+CANA|Pelo blanco de la vejez
+CANO|De cabello blanco
+CAOS|Desorden absoluto
+CAPA|Prenda que cubre los hombros
+CAPO|Jefe de la mafia
+CARA|Parte delantera de la cabeza
+CARO|De mucho precio
+CASA|Edificio donde se vive
+CASO|Asunto que se investiga
+CAVA|Espumoso catalán
+CAZA|Persecución del animal salvaje
+CAZO|Utensilio de mango largo
+CEBO|Señuelo del pescador
+CEJA|Arco de pelo sobre el ojo
+CELO|Cuidado extremo en el deber
+CENA|Comida de la noche
+CEPA|Tronco de la viña
+CEPO|Trampa metálica
+CERA|Materia de las velas
+CERO|Nada en cifras
+CIEN|Centena justa
+CINE|Arte de la gran pantalla
+CITA|Encuentro a una hora fijada
+CLAN|Grupo familiar cerrado
+CLIP|Sujetapapeles metálico
+COCO|Fruto de la palmera
+COJO|Que anda mal de una pierna
+COLA|Apéndice trasero del animal
+COLT|Revólver del Oeste
+COMA|Signo que marca una pausa
+COME|Ingiere alimentos
+CONO|Cuerpo de base circular y punta
+COPA|Recipiente del vino
+COPO|Escama de nieve
+CORO|Conjunto de voces
+COSA|Objeto cualquiera
+COSE|Une con hilo
+COTO|Terreno reservado
+CREO|Pienso que es así
+CRIA|Hijo de un animal
+CRIN|Melena del caballo
+CRUZ|Dos maderos atravesados
+CUBA|Isla del Caribe
+CUBO|Recipiente del agua
+CUNA|Camita del bebé
+CURA|Párroco del pueblo
+CUYO|Relativo posesivo
+DADO|Cubo de jugar
+DAMA|Mujer de alcurnia
+DATO|Cifra o referencia
+DEBE|Columna del cargo en contabilidad
+DEDO|Extremo de la mano
+DEJA|Abandona o suelta
+DIAL|Rueda de la emisora
+DIAS|Jornadas completas
+DIEZ|Decena entera
+DIVA|Cantante de gran fama
+DOCE|Uno más que once
+DOMO|Cúpula de un edificio
+DONA|Mujer casada de respeto
+DOTE|Bienes que aporta el cónyuge
+DUAL|De dos elementos
+DUNA|Loma de arena
+DURA|Que resiste el golpe
+DURO|Difícil de romper
+ECOS|Sonidos que rebotan
+EDAD|Años que uno tiene
+ELLA|Pronombre femenino
+ELLO|Pronombre neutro
+ENTE|Ser que existe
+EPOCA|Tiempo determinado
+ERAS|Tiempos históricos
+ERES|Verbo ser en segunda persona
+ESTA|Se encuentra aquí
+ESTE|Punto por donde sale el sol
+ETNA|Volcán siciliano
+EURO|Moneda de la Unión Europea
+FAJA|Prenda ceñida a la cintura
+FAMA|Reputación pública
+FARO|Torre que guía a los barcos
+FASE|Etapa de un proceso
+FEAS|De aspecto poco agraciado
+FECHA|Día del calendario
+FEUDO|Tierra del señor medieval
+FIEL|Leal a su amo
+FILA|Hilera de personas
+FILO|Borde cortante
+FINO|Delgado y delicado
+FLAN|Postre de huevo y caramelo
+FLOR|Parte bella de la planta
+FOCA|Mamífero marino de los polos
+FOCO|Punto de luz potente
+FONDO|Parte más honda
+FORO|Plaza pública romana
+FOTO|Imagen de la cámara
+FRAC|Chaqué de cola
+FRIO|Sensación del invierno
+FUGA|Huida de la cárcel
+FUSA|Nota musical muy breve
+GAFA|Cristal para ver mejor
+GALA|Fiesta de etiqueta
+GANA|Deseo de hacer algo
+GATO|Felino doméstico
+GEMA|Piedra preciosa
+GIRO|Vuelta sobre un eje
+GOLF|Deporte de hoyos y palos
+GOLPE|Choque brusco
+GORDO|Premio mayor de la lotería
+GORRO|Prenda de la cabeza
+GOTA|Pequeña porción de líquido
+GRAN|Grande, en apócope
+GRIS|Color de la ceniza
+GRUA|Máquina que levanta pesos
+GUIA|Acompaña a los turistas
+GUSTO|Sentido de la lengua
+HABA|Legumbre plana y verde
+HACE|Realiza una acción
+HADA|Ser mágico con varita
+HALO|Aureola de luz
+HAMBRE|Ganas intensas de comer
+HARA|Ejecutará en el futuro
+HAZA|Porción de tierra de labor
+HENO|Hierba seca del pesebre
+HIEL|Amargura del ánimo
+HIJA|Descendiente femenina
+HIJO|Descendiente varón
+HILO|Hebra fina para coser
+HOJA|Parte verde del árbol
+HOLA|Saludo corriente
+HORA|Sesenta minutos
+HOYO|Agujero en la tierra
+HUESO|Pieza dura del esqueleto
+HUIR|Escapar del peligro
+HUMO|Sale de la chimenea
+IDEA|Ocurrencia de la mente
+IMAN|Atrae al hierro
+INCA|Antiguo peruano del Cuzco
+IRIS|Parte coloreada del ojo
+ISLA|Tierra rodeada de agua
+ITALIA|País de la bota
+IVAN|Zar terrible de Rusia
+JABON|Sirve para lavarse
+JEEP|Todoterreno militar
+JEFE|Quien manda en la oficina
+JOTA|Baile popular aragonés
+JUAN|Nombre del evangelista
+JUEZ|Dicta la sentencia
+JUGO|Zumo de la fruta
+JULIO|Mes del verano
+JUNIO|Mes anterior a julio
+KILO|Mil gramos
+LABIO|Borde de la boca
+LADO|Costado de un cuerpo
+LAGO|Gran masa de agua dulce
+LANA|Pelo de la oveja
+LAPA|Molusco pegado a la roca
+LARGO|De mucha longitud
+LATA|Envase metálico
+LAVA|Materia que echa el volcán
+LAZO|Nudo de cinta
+LEAL|Fiel a su palabra
+LEER|Recorrer el texto con los ojos
+LENA|Madera para el fuego
+LEON|Rey de la selva
+LEVE|De poco peso
+LIAR|Enredar una cosa
+LIGA|Competición de clubes
+LIMA|Capital del Perú
+LIMO|Barro del fondo del río
+LINO|Tejido fresco de verano
+LISO|Sin arrugas ni relieve
+LISTA|Relación de nombres
+LOBO|Cánido salvaje que aúlla
+LOCO|Que ha perdido la razón
+LODO|Barro de la lluvia
+LOMO|Espalda del animal
+LONA|Tela fuerte del toldo
+LOSA|Piedra plana de la tumba
+LOTE|Conjunto que se subasta
+LUGAR|Sitio determinado
+LUNA|Satélite de la Tierra
+LUNES|Primer día laborable
+LUPA|Cristal de aumento
+LUTO|Duelo por el difunto
+MACHO|Animal de sexo masculino
+MADRE|Progenitora
+MAGO|Hace trucos de ilusión
+MAIZ|Cereal de la mazorca
+MALO|De mala calidad
+MANO|Extremo del brazo
+MAPA|Dibujo del territorio
+MARCO|Rodea el cuadro
+MASA|Mezcla de harina y agua
+MATE|Sin brillo
+MAYO|Mes de las flores
+MAZO|Martillo grande de madera
+MECHA|Cordón que prende
+MEDIO|Mitad de algo
+MELON|Fruta grande y dulce
+MENOS|Signo de la resta
+MESA|Mueble con patas y tablero
+META|Final de la carrera
+MIEDO|Temor ante el peligro
+MIEL|Producto dulce de la colmena
+MINA|Excavación del mineral
+MIRA|Observa con atención
+MITO|Relato fabuloso antiguo
+MOCO|Secreción de la nariz
+MODA|Tendencia del vestir
+MODO|Manera de hacer algo
+MOJA|Empapa de agua
+MONO|Primate de los árboles
+MORA|Fruto oscuro de la zarza
+MORO|Natural del norte de África
+MOSCA|Insecto molesto del verano
+MOTO|Vehículo de dos ruedas y motor
+MUDO|Que no puede hablar
+MULA|Cruce de asno y yegua
+MUNDO|Planeta en que vivimos
+MURO|Pared gruesa
+MUSA|Inspira al poeta
+MUSLO|Parte alta de la pierna
+NABO|Hortaliza blanca de raíz
+NACE|Viene al mundo
+NADA|Ninguna cosa
+NADO|Se mantiene en el agua
+NARIZ|Órgano del olfato
+NATA|Crema de la leche
+NAVE|Barco o embarcación
+NEON|Gas de los tubos luminosos
+NEVA|Cae nieve
+NIDO|Casa de los pájaros
+NIETO|Hijo del hijo
+NINO|Persona de pocos años
+NIVEL|Altura de una superficie
+NOCHE|Tiempo de oscuridad
+NORTE|Punto cardinal del polo helado
+NOTA|Signo musical escrito
+NOVIO|Va a casarse
+NUBE|Masa blanca del cielo
+NUDO|Lazada apretada
+NUEVE|Uno menos que diez
+NUEZ|Fruto seco de dos mitades
+OASIS|Manantial del desierto
+OBRA|Trabajo terminado
+OCHO|Dos veces cuatro
+ODIO|Sentimiento contrario al amor
+OESTE|Punto por donde se pone el sol
+OJAL|Agujero donde entra el botón
+OLAS|Ondas del mar
+OLER|Percibir por la nariz
+OLIVO|Árbol de la aceituna
+OLLA|Recipiente hondo del cocido
+ONCE|Dos veces el número uno seguidas
+ONDA|Ondulación del agua
+ONZA|Antigua medida de peso
+OPERA|Teatro cantado
+ORCA|Cetáceo blanco y negro
+OREJA|Órgano del oído
+ORGIA|Fiesta desenfrenada
+OSAR|Atreverse a algo
+OTRA|Distinta de esta
+OVAL|Con forma de huevo
+OVEJA|Da lana y bala
+PADRE|Progenitor varón
+PAGA|Sueldo mensual
+PAIS|Nación con fronteras
+PAJA|Tallo seco del cereal
+PALA|Herramienta de cavar
+PALO|Vara larga de madera
+PAPA|Sumo pontífice
+PARA|Preposición de finalidad
+PARO|Falta de empleo
+PASO|Movimiento al andar
+PATA|Pierna del animal
+PATO|Ave que nada en el estanque
+PAVO|Ave grande de Navidad
+PECA|Manchita de la piel
+PECHO|Parte delantera del torso
+PEGA|Une con cola
+PELO|Cabello de la cabeza
+PENA|Tristeza y dolor
+PERA|Fruta de forma alargada
+PERO|Conjunción que objeta
+PESA|Tiene cierto peso
+PESO|Lo que marca la báscula
+PICO|Boca del ave
+PIEL|Cubre el cuerpo
+PILA|Da energía al mando
+PINO|Árbol de las piñas
+PISO|Vivienda de un bloque
+PISTA|Huella que sigue el sabueso
+PLAN|Proyecto de lo que se hará
+PLATO|Vajilla para la comida
+PLAYA|Arenal junto al mar
+PLAZA|Espacio abierto del pueblo
+PLENO|Completo y lleno
+PLOMO|Metal gris muy pesado
+POCO|Escaso en cantidad
+PODER|Facultad de mandar
+POLO|Extremo del eje terrestre
+POMO|Tirador de la puerta
+POPA|Parte trasera del barco
+PORO|Orificio de la piel
+POSE|Postura afectada
+POTE|Vasija de barro
+POZO|Hoyo hondo con agua
+PRADO|Campo de hierba
+PRESA|Muro que embalsa el río
+PUERTA|Se abre para entrar
+PULGA|Insecto que salta y pica
+PUMA|Felino americano
+PUNTO|Signo final de la frase
+PURO|Sin mezcla alguna
+QUESO|Alimento hecho con leche
+RABO|Cola del animal
+RAIZ|Parte de la planta bajo tierra
+RAMA|Brazo del árbol
+RANA|Anfibio verde que croa
+RAPAZ|Ave de presa
+RASO|Tejido liso y brillante
+RATA|Roedor de alcantarilla
+RATO|Espacio breve de tiempo
+RAYA|Línea trazada
+RAYO|Descarga de la tormenta
+REAL|Verdadero y efectivo
+RECTO|Sin curvas
+REDES|Mallas de pescar
+REJA|Barrote de la ventana
+RELOJ|Marca las horas
+REMO|Palo que impulsa la barca
+RENO|Ciervo del trineo de Papá Noel
+RETO|Desafío lanzado
+RICO|De mucho dinero
+RIMA|Coincidencia final del verso
+RINO|Prefijo de nariz
+RISA|Expresión de alegría
+RITMO|Cadencia de la música
+ROBO|Sustracción de lo ajeno
+ROCA|Piedra muy grande
+ROCE|Contacto ligero
+ROJO|Color de la sangre
+ROLLO|Cilindro de papel
+ROPA|Vestido y prendas
+ROSA|Flor de los enamorados
+RUDO|Tosco y sin modales
+RUEDA|Gira en el eje
+RUGE|Brama el león
+RUIDO|Sonido molesto
+RUINA|Resto de un edificio caído
+SABE|Conoce la materia
+SACO|Bolsa grande de tela
+SALA|Cuarto principal de la casa
+SALE|Va hacia fuera
+SALSA|Aderezo líquido del plato
+SALTO|Brinco en el aire
+SANO|Que goza de salud
+SAPO|Anfibio de piel rugosa
+SEDA|Tejido fino y suave
+SEIS|Caras del dado
+SELVA|Bosque tropical espeso
+SENO|Pecho de la mujer
+SETA|Hongo comestible del bosque
+SIETE|Días de la semana
+SIGLO|Cien años
+SILLA|Asiento con respaldo
+SINO|Destino inevitable
+SOBRE|Envuelve la carta
+SODA|Agua con gas
+SOFA|Asiento largo y mullido
+SOGA|Cuerda gruesa
+SOLO|Sin compañía
+SOPA|Caldo con fideos
+SUDOR|Líquido de la transpiración
+SUELO|Superficie que pisamos
+SUENO|Lo que se ve al dormir
+SUMA|Operación de añadir
+TABLA|Pieza plana de madera
+TACO|Palo del billar
+TAJO|Corte profundo
+TALA|Corta de árboles
+TALLE|Cintura del cuerpo
+TAPA|Cubre el recipiente
+TARDE|Después del mediodía
+TASA|Precio fijado oficialmente
+TAZA|Recipiente del café
+TECHO|Parte alta de la habitación
+TELA|Tejido de la ropa
+TEMA|Asunto del que se habla
+TENOR|Voz masculina más alta
+TESIS|Trabajo del doctorando
+TIEMPO|Duración de las cosas
+TIGRE|Felino rayado de Bengala
+TINO|Acierto y buen juicio
+TINTA|Líquido de escribir
+TIPO|Clase o modelo
+TIRA|Banda estrecha y larga
+TIRO|Disparo del arma
+TIZA|Escribe en la pizarra
+TOGA|Vestidura del juez
+TOMA|Coge lo que se le da
+TONO|Altura del sonido
+TOPO|Excava galerías bajo tierra
+TORO|Res brava de la lidia
+TORRE|Construcción alta y estrecha
+TOSER|Expulsar aire con ruido
+TRAJE|Chaqueta y pantalón a juego
+TRAMO|Parte de un recorrido
+TRAPO|Paño de limpiar
+TRECE|Número de la mala suerte
+TREN|Convoy sobre raíles
+TRES|Uno más que dos
+TRIGO|Cereal del pan
+TRIO|Conjunto de tres
+TROZO|Pedazo de algo
+TUBO|Cilindro hueco
+TUNEL|Paso bajo la montaña
+TURNO|Vez que corresponde
+UNIR|Juntar dos cosas
+UNAS|Extremos duros de los dedos
+URNA|Recipiente de los votos
+USAR|Servirse de algo
+UVAS|Frutos del racimo
+VACA|Da leche en el establo
+VADO|Paso poco hondo del río
+VAGO|Que no quiere trabajar
+VALE|Papel canjeable
+VANO|Inútil y sin efecto
+VAPOR|Agua evaporada
+VARA|Palo largo y delgado
+VASO|Recipiente de beber
+VECINO|Vive en la casa de al lado
+VELA|Cilindro de cera con mecha
+VENA|Lleva la sangre al corazón
+VENIR|Acercarse al que habla
+VERDE|Color de la hierba
+VERSO|Línea del poema
+VIAJE|Desplazamiento largo
+VIDA|Existencia del ser
+VIDRIO|Material transparente y frágil
+VIEJO|De mucha edad
+VIENTO|Aire en movimiento
+VINO|Bebida del racimo
+VISTA|Sentido de los ojos
+VIVO|Que tiene vida
+VOTO|Papeleta de la elección
+YATE|Barco de recreo lujoso
+YEMA|Parte amarilla del huevo
+YERMO|Terreno sin cultivo
+YESO|Polvo blanco de las paredes
+YOGUR|Leche fermentada
+ZAPATO|Calzado de la calle
+ZONA|Área determinada
+ZUMO|Jugo exprimido de la fruta

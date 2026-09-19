@@ -1,0 +1,250 @@
+# Voces literarias, arcaísmos y lenguaje culto
+ADALID|Caudillo que va al frente
+ADARVE|Camino alto de la muralla
+ADUSTEZ|Severidad en el trato
+AFABLE|De trato dulce y suave
+AGORA|Plaza pública de la ciudad griega
+AHINCADO|Hecho con mucho empeño
+ALBEDRIO|Potestad de obrar libremente
+ALBOR|Primera luz del amanecer
+ALCAIDE|Guardián de una fortaleza
+ALCURNIA|Linaje noble
+ALFEREZ|Grado que porta la bandera
+ALJAMA|Barrio judío o morisco
+ALJUBA|Túnica morisca antigua
+ALMENARA|Fuego de aviso en lo alto
+ALMOGAVAR|Guerrero medieval de la Corona de Aragón
+AMANUENSE|Copista que escribe al dictado
+AMOHINAR|Causar disgusto y enojo
+ANACORETA|Religioso que vive en soledad
+ANATEMA|Excomunión solemne
+ANEJO|Unido o agregado a otra cosa
+ANTANO|En tiempos ya pasados
+APOCADO|De ánimo corto y encogido
+APOSENTO|Habitación de una casa
+ARCABUZ|Arma de fuego antigua
+ARCEDIANO|Dignidad del cabildo catedralicio
+ARDID|Artificio para lograr algo
+ARENGA|Discurso que enardece a la tropa
+ARREBOL|Color rojo de las nubes al ocaso
+ASAZ|Bastante, en lengua antigua
+ATALAYA|Torre desde la que se vigila
+AUGURIO|Señal que anuncia el futuro
+AUREO|De oro o parecido al oro
+AVIESO|Torcido y mal intencionado
+AZACAN|Aguador que lleva el agua a casa
+BALADI|De poca sustancia
+BALDON|Injuria que afrenta
+BARBECHAR|Dejar la tierra en descanso
+BASTARDO|Nacido fuera del matrimonio
+BATIENTE|Hoja de la puerta que bate
+BELICO|Relativo a la guerra
+BELITRE|Pícaro de mala vida
+BIZARRIA|Gallardía y valor
+BLASONAR|Hacer alarde del linaje
+BRIAL|Vestido antiguo de mujer
+BRIOSO|De ánimo resuelto
+BUHONERO|Vendedor ambulante de baratijas
+CADALSO|Tablado de las ejecuciones
+CALETRE|Juicio y discernimiento
+CAMANDULA|Astucia disimulada
+CANCEL|Contrapuerta que corta el aire
+CANDIDEZ|Ingenuidad sin malicia
+CANTIGA|Composición poética medieval
+CAPELO|Sombrero rojo del cardenal
+CARROZA|Coche de caballos de aparato
+CATERVA|Multitud desordenada
+CAUTERIO|Hierro que quema la herida
+CELADA|Casco antiguo o emboscada
+CENDAL|Tela de seda muy fina
+CENOBITA|Monje que vive en comunidad
+CETRERIA|Arte de cazar con aves de presa
+CINGLAR|Navegar impulsando con un solo remo
+COHORTE|Unidad de la legión romana
+COLACION|Refacción ligera
+CONCIERTO|Ajuste o acuerdo entre partes
+CONSEJA|Cuento popular de viejas
+CONTUMACIA|Rebeldía obstinada
+CORCEL|Caballo ligero y brioso
+CORVO|Curvo y arqueado
+COYUNDA|Correa que unce los bueyes
+CUITA|Aflicción y desventura
+DEHESA|Prado con arbolado para el ganado
+DENUEDO|Brío y esfuerzo
+DESMAN|Exceso o tropelía
+DIATRIBA|Discurso violento contra alguien
+DOBLON|Antigua moneda de oro
+DONAIRE|Gracia en el decir y el moverse
+DUCADO|Territorio del duque y antigua moneda
+EFIGIE|Imagen o retrato de alguien
+EGREGIO|Ilustre y señalado
+ELUCUBRAR|Cavilar una idea largamente
+EMPERO|Sin embargo, en lengua antigua
+ENHIESTO|Levantado y derecho
+ENJUTO|Delgado y seco de carnes
+ENTRAMBOS|Uno y otro, los dos
+ERARIO|Tesoro público
+ESCARCEO|Prueba ligera de algo
+ESCARNIO|Burla afrentosa
+ESCUDERO|Paje que servía al caballero
+ESPADANA|Campanario de un solo muro
+ESTAFETA|Oficina de correos
+ESTRADO|Tarima donde se sienta la autoridad
+EXHORTO|Ruego encarecido
+FACINEROSO|Malhechor de mala catadura
+FALCA|Cuña que sujeta una pieza
+FARDEL|Saco del caminante
+FEMENIL|Propio de la mujer
+FIERO|Bravo y temible
+FINADO|Persona que ha muerto
+FOLIO|Hoja de un libro antiguo
+FRAGUA|Fogón donde se caldea el hierro
+FRANQUEZA|Sinceridad sin doblez
+FUERO|Privilegio o ley propia de un lugar
+GALEOTE|Forzado que remaba en galeras
+GALLARDIA|Gentileza y buen porte
+GAMELLA|Artesa para dar de comer al ganado
+GANAPAN|Mozo que lleva cargas
+GARZO|De ojos azules
+GAZNATE|Garganta, en lenguaje llano
+GLEBA|Terrón de tierra del labrantío
+GUISA|Modo o manera de hacer algo
+HACIENDA|Bienes y caudal de alguien
+HALDA|Falda o regazo
+HARTAZGO|Exceso en el comer
+HELERO|Nieve que perdura en la montaña
+HERALDO|Mensajero que anuncia
+HIDALGO|Noble de sangre sin título
+HITO|Mojón que marca el camino
+HOLGANZA|Descanso y quietud
+HONDONADA|Parte honda del terreno
+HOSTIGAR|Perseguir sin dar tregua
+HUMILLADERO|Cruz a la entrada del pueblo
+IGNOTO|Que no se conoce
+IMPRECAR|Pedir un mal para alguien
+INCLITO|Ilustre y esclarecido
+INERME|Sin armas ni defensa
+INFANZON|Noble de segunda fila
+INSIGNE|Célebre y notable
+JAEZ|Adorno de la caballería
+JUGLAR|Artista que iba de plaza en plaza
+LACAYO|Criado que acompañaba al señor
+LANCE|Trance o suceso señalado
+LANGUIDEZ|Falta de fuerzas y de ánimo
+LAUREL|Corona de los vencedores
+LEGUA|Antigua medida del camino
+LID|Combate o disputa
+LINAJE|Ascendencia de una familia
+LOZANIA|Vigor y frescura
+LUENGO|Largo, en lengua antigua
+MAGUER|Aunque, en castellano antiguo
+MALHADADO|Desafortunado y desdichado
+MANCEBO|Mozo de pocos años
+MANIDO|Sobado y muy repetido
+MARAVEDI|Moneda de la Castilla antigua
+MENDRUGO|Pedazo de pan duro
+MENESTER|Necesidad de algo
+MERCED|Favor o gracia que se concede
+MESNADA|Hueste de un señor
+MESON|Posada de caminantes
+MOHIN|Gesto de disgusto
+MOZALBETE|Muchacho de poca edad
+NUNCIO|Enviado que anuncia algo
+OBSEQUIOSO|Que sirve con agrado
+ODRE|Pellejo para el vino
+OMINOSO|De mal agüero
+ONEROSO|Pesado y gravoso
+OPROBIO|Afrenta pública
+OSADIA|Atrevimiento resuelto
+OTERO|Cerro aislado en el llano
+PALAFREN|Caballo manso de camino
+PALESTRA|Lugar donde se lucha o se debate
+PARIA|Tributo antiguo o persona despreciada
+PARLAMENTO|Discurso largo de un personaje
+PAVOR|Temor grande
+PECHERO|Quien pagaba pecho o tributo
+PENDON|Estandarte de guerra
+PERGENIO|Traza y disposición de alguien
+PESADUMBRE|Pena y disgusto
+PLACIDEZ|Sosiego apacible
+PLEITESIA|Muestra de acatamiento
+POSTRIMERIA|Último periodo de algo
+POTESTAD|Poder para mandar
+PRECITO|Condenado a las penas eternas
+PREGON|Anuncio público a voces
+PRESTO|Pronto y diligente
+PRETIL|Muro bajo de protección
+PROCAZ|Desvergonzado en el hablar
+PROCERES|Personas de alta dignidad
+PROSAPIA|Ascendencia ilustre
+QUEDO|Quieto y en voz baja
+QUIMERA|Ilusión que no se cumple
+QUINTAESENCIA|Lo más puro de una cosa
+RABADAN|Mayoral de los pastores
+RAUDO|Veloz y precipitado
+RECIEDUMBRE|Fuerza y vigor
+RECUA|Conjunto de bestias de carga
+REDIL|Cercado donde se recoge el ganado
+REFITOLERO|Encargado del refectorio
+REMEDAR|Imitar los gestos de otro
+REMISO|Flojo y poco diligente
+REMORDER|Inquietar la conciencia
+RENDIJA|Abertura estrecha y larga
+REPULGO|Borde doblado y cosido
+RESABIO|Vicio que queda de algo
+RETAHILA|Serie larga de cosas seguidas
+RETOZAR|Saltar y brincar de alegría
+RIBALDO|Pícaro y bellaco
+RICACHO|Rico de modales groseros
+ROMERIA|Viaje devoto a un santuario
+RONDA|Vuelta que se da vigilando
+RUFIAN|Hombre vil y sin honor
+SAETERA|Aspillera por donde se disparaba
+SAGACIDAD|Astucia para prever
+SALAZ|Inclinado a la lujuria
+SANDEZ|Necedad que se dice
+SAYA|Falda antigua de mujer
+SAYON|Verdugo de otro tiempo
+SENDERO|Camino estrecho y angosto
+SIERVO|Esclavo de la gleba
+SOLAZ|Descanso y esparcimiento
+SOLIO|Trono con dosel
+SOSIEGO|Quietud del ánimo
+SUSTO|Impresión repentina de miedo
+TAHONA|Casa donde se cuece el pan
+TALANTE|Disposición del ánimo
+TAMANO|Dimensión de una cosa
+TANER|Tocar un instrumento
+TAPIAL|Molde para levantar tapias
+TESON|Firmeza en el propósito
+TESTUZ|Frente del animal
+TORNADIZO|Que cambia con facilidad de bando
+TRAPALA|Ruido de mucha gente o embuste
+TRASGO|Duende travieso de la casa
+TRIBULACION|Congoja y adversidad
+TROJE|Granero donde se guarda la cosecha
+TRUHAN|Bufón sin vergüenza
+UBERRIMO|Muy abundante y fértil
+UFANIA|Satisfacción orgullosa
+VAHIDO|Desvanecimiento breve
+VASALLO|Súbdito del señor feudal
+VELEIDAD|Capricho mudable
+VENERO|Manantial de agua o de riquezas
+VERGEL|Huerto de flores y frutales
+VETUSTO|Muy antiguo y gastado
+VIANDA|Comida que se sirve a la mesa
+VILIPENDIAR|Tratar con desprecio público
+VITUALLA|Provisión de víveres
+VOCEAR|Dar voces pregonando
+VUESA|Vuestra, en tratamiento antiguo
+YACIJA|Lecho pobre donde se duerme
+YANTAR|Comer, en lengua antigua
+YERMO|Campo sin cultivo ni gente
+YUGADA|Tierra que ara una yunta en un día
+ZAGAL|Muchacho que ayuda al pastor
+ZAHERIR|Reprender con palabras hirientes
+ZALEMA|Reverencia humilde
+ZAMARRA|Prenda de piel del pastor
+ZARANDA|Criba para limpiar el grano
+ZOZOBRA|Inquietud y desasosiego
+ZURRON|Bolsa de cuero del zagal

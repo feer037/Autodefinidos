@@ -1,0 +1,150 @@
+# Formas verbales en presente, definidas por sinónimo en la misma persona
+ABANDONAN|Dejan lo que tenían
+ABRIMOS|Destapamos lo cerrado
+ACABAMOS|Damos fin a la faena
+ACERCAMOS|Aproximamos una cosa a otra
+ACUDIMOS|Vamos al lugar llamados
+ADMITEN|Dan entrada a lo propuesto
+ADVIERTEN|Avisan del peligro
+AGUARDAMOS|Esperamos con paciencia
+ALCANZAMOS|Llegamos hasta el sitio
+ALZAMOS|Levantamos en alto
+ANDAMOS|Caminamos sin prisa
+APRENDEN|Llegan a saberlo
+APRIETAN|Oprimen con fuerza
+ASOMAN|Dejan ver un poco
+AVISAMOS|Damos el aviso
+BAILAMOS|Danzamos al son
+BAJAMOS|Descendemos la cuesta
+BEBEMOS|Tomamos el líquido
+BUSCAMOS|Tratamos de encontrar
+CABEN|Tienen sitio dentro
+CALLAMOS|Guardamos silencio
+CAEMOS|Damos con el cuerpo en el suelo
+CAMBIAMOS|Mudamos de parecer
+CAMINAMOS|Andamos por la senda
+CANTAMOS|Entonamos una copla
+CARGAMOS|Ponemos el peso encima
+CERRAMOS|Tapamos la entrada
+COGEMOS|Tomamos con la mano
+COMEMOS|Tomamos alimento
+COMPRAMOS|Adquirimos por dinero
+CONTAMOS|Referimos el suceso
+CORREMOS|Vamos a la carrera
+CRECEMOS|Nos hacemos mayores
+CREEMOS|Tenemos por cierto
+CRUZAMOS|Pasamos al otro lado
+CUBRIMOS|Tapamos por encima
+CUIDAMOS|Velamos por su salud
+CUMPLIMOS|Llevamos a término lo prometido
+DAMOS|Entregamos de balde
+DEBEMOS|Tenemos la obligación
+DECIS|Manifestáis de palabra
+DEJAMOS|Soltamos lo que llevamos
+DESEAMOS|Anhelamos con fuerza
+DIRIGIMOS|Encaminamos hacia el fin
+DORMIMOS|Reposamos en el lecho
+DUDAMOS|Vacilamos ante la elección
+ECHAMOS|Arrojamos fuera
+ELEGIMOS|Tomamos entre varios
+EMPEZAMOS|Damos comienzo
+EMPUJAMOS|Hacemos fuerza para mover
+ENTRAMOS|Pasamos adentro
+ENVIAMOS|Mandamos el paquete
+ESCOGEN|Toman entre varios
+ESCRIBIMOS|Ponemos por escrito
+ESCUCHAMOS|Prestamos oído
+ESPERAMOS|Aguardamos la hora
+ESTAIS|Os halláis presentes
+ESTUDIAMOS|Nos aplicamos a los libros
+FALTAMOS|No estamos presentes
+FIRMAMOS|Estampamos nuestro nombre
+FORMAMOS|Componemos el conjunto
+GANAMOS|Salimos vencedores
+GASTAMOS|Empleamos el caudal
+GIRAMOS|Damos vueltas
+GRITAMOS|Damos voces
+GUARDAMOS|Ponemos a recaudo
+HABLAIS|Usáis la palabra
+HABLAMOS|Usamos la palabra
+HACEIS|Ejecutáis la obra
+HALLAMOS|Damos con ello
+HUIMOS|Escapamos del peligro
+IMPIDEN|Estorban el paso
+JUGAMOS|Nos entretenemos con el juego
+JUNTAMOS|Reunimos en un montón
+LAVAMOS|Limpiamos con agua
+LEEMOS|Recorremos el escrito
+LEVANTAMOS|Ponemos en alto
+LIMPIAMOS|Quitamos la suciedad
+LLAMAMOS|Damos voces al ausente
+LLEGAMOS|Arribamos al destino
+LLENAMOS|Colmamos el vaso
+LLEVAMOS|Trasladamos la carga
+LOGRAMOS|Conseguimos el intento
+LUCHAMOS|Peleamos sin descanso
+MANDAMOS|Damos la orden
+MEDIMOS|Tomamos la medida
+MENTIMOS|Faltamos a la verdad
+METEMOS|Introducimos dentro
+MIRAMOS|Fijamos la vista
+MORIMOS|Perdemos la vida
+MOSTRAMOS|Ponemos a la vista
+MOVEMOS|Mudamos de sitio
+NADAMOS|Nos sostenemos en el agua
+OIMOS|Percibimos el sonido
+PAGAMOS|Satisfacemos la deuda
+PARAMOS|Detenemos la marcha
+PARTIMOS|Nos ponemos en camino
+PASAMOS|Cruzamos de largo
+PEDIMOS|Solicitamos el favor
+PEGAMOS|Unimos con cola
+PENSAMOS|Discurrimos sobre ello
+PERDEMOS|Nos quedamos sin ello
+PESAMOS|Tenemos nuestro peso
+PINTAMOS|Cubrimos de color
+PISAMOS|Ponemos el pie encima
+PODEIS|Estáis en condiciones
+PREGUNTAMOS|Hacemos la pregunta
+PRESTAMOS|Dejamos por un tiempo
+PROBAMOS|Hacemos la prueba
+QUEDAMOS|Permanecemos allí
+QUEREIS|Deseáis con fuerza
+QUITAMOS|Apartamos de en medio
+RECIBIMOS|Tomamos lo enviado
+RECOGEMOS|Juntamos del suelo
+REGALAMOS|Damos sin cobrar
+REPETIMOS|Volvemos a decirlo
+RESPONDEN|Dan la contestación
+ROMPEMOS|Hacemos pedazos
+SABEIS|Tenéis noticia de ello
+SACAMOS|Extraemos del hueco
+SALIMOS|Marchamos fuera
+SALTAMOS|Brincamos de gozo
+SALUDAMOS|Damos los buenos días
+SEGUIMOS|Vamos detrás
+SENTIMOS|Percibimos en el ánimo
+SERVIMOS|Atendemos la mesa
+SOLTAMOS|Dejamos libre
+SONREIMOS|Reímos levemente
+SUBIMOS|Ascendemos la escalera
+SUFRIMOS|Padecemos el mal
+SUMAMOS|Añadimos las cantidades
+TAPAMOS|Cubrimos el hueco
+TARDAMOS|Empleamos mucho tiempo
+TEMEMOS|Sentimos miedo
+TERMINAMOS|Ponemos fin
+TIRAMOS|Arrojamos lejos
+TOCAMOS|Ponemos la mano encima
+TOMAMOS|Cogemos para nosotros
+TRABAJAMOS|Ganamos el jornal
+TRAEMOS|Llevamos hasta aquí
+TRATAMOS|Nos portamos con otro
+USAMOS|Nos servimos de ello
+VALEMOS|Tenemos nuestro precio
+VENCEMOS|Quedamos por encima
+VENDEMOS|Damos por dinero
+VIAJAMOS|Recorremos tierras
+VIVIMOS|Tenemos vida
+VOLAMOS|Nos sostenemos en el aire
+VOLVEMOS|Regresamos al punto

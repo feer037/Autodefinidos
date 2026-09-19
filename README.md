@@ -10,7 +10,7 @@ comprobaciones, sin ayudas de ningún tipo.**
 |---|---|---|
 | App iOS | `Autodefinidos/` | SwiftUI, iOS 16 o superior |
 | Proyecto | `Autodefinidos.xcodeproj` | Ábrelo y dale a ejecutar |
-| Banco de palabras | `Tools/banco/*.txt` | ~17.900 palabras con ~21.800 definiciones |
+| Banco de palabras | `Tools/banco/*.txt` | 19.820 palabras con 24.735 definiciones |
 | Imágenes | `Tools/imagenes/` | 91 dibujos vectoriales (banderas y objetos) |
 | Generador | `Tools/*.py` | Construye el banco y arma los autodefinidos |
 | Libro | `Autodefinidos/Recursos/` | 500 autodefinidos ya generados, en JSON |
@@ -79,10 +79,27 @@ imagen: ver más abajo.
 ## Regenerar todo
 
 ```bash
-python3 Tools/construir_banco.py      # Tools/banco/*.txt  -> Recursos/banco.json
+python3 Tools/construir_banco.py      # Tools/banco/*.txt  -> Tools/banco.json
 python3 Tools/generar_imagenes.py     # dibuja los SVG y el catálogo de Xcode
-python3 Tools/generar_puzzles.py --cantidad 500
+python3 Tools/generar_puzzles.py --cantidad 500 --largo 8
+python3 Tools/validar.py              # repasa que el libro sea coherente
 ```
+
+Armar los 500 lleva un buen rato en un solo proceso. Con cuatro núcleos sale
+mucho más a cuenta repartir el trabajo y rehacer el índice al final:
+
+```bash
+for i in 0 1 2 3; do
+  python3 Tools/generar_puzzles.py --desde $((1 + i*125)) --cantidad 125 \
+      --semilla $((2000+i)) --largo 8 &
+done
+wait
+python3 Tools/rehacer_indice.py
+```
+
+`--largo` es la palabra más larga que se admite en la rejilla (8 por defecto en
+este libro). Subirlo a 9 también funciona, pero el relleno tarda unas tres veces
+más y apenas gana variedad.
 
 El generador trabaja en tres fases:
 
@@ -115,3 +132,7 @@ variantes, de modo que la misma palabra no salga siempre con la misma pista.
 
 Para ampliarlo basta con añadir líneas a cualquier fichero o crear uno nuevo
 en esa carpeta y volver a construir.
+
+De las 19.820 palabras, 13.709 miden entre 3 y 8 letras y son las que pueden
+caer en la rejilla; las más largas están en el banco para cuando se suba
+`--largo`, y para que las definiciones puedan apoyarse en ellas.

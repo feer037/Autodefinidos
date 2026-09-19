@@ -1,0 +1,192 @@
+# Formas verbales en pasado (imperfecto e indefinido), definidas por sinónimo
+ABRIERON|Destaparon lo cerrado
+ACABABA|Terminaba la tarea
+ACABARON|Dieron fin a la obra
+ACERCABA|Aproximaba una cosa a otra
+ACERTARON|Dieron en el blanco
+ACUDIAN|Iban al lugar llamados
+ADORABAN|Veneraban a su dios
+AGUARDABA|Esperaba con paciencia
+ALABARON|Ensalzaron sus méritos
+ALCANZABA|Llegaba hasta el sitio
+ALCANZARON|Dieron con lo que perseguían
+ALZABAN|Levantaban en alto
+AMABAN|Querían con pasión
+AMARON|Quisieron de corazón
+ANDABAN|Caminaban sin prisa
+ANUNCIABA|Daba la noticia
+APAGARON|Extinguieron la lumbre
+APRETABA|Oprimía con fuerza
+ARDIERON|Se consumieron en llamas
+ARRIMABA|Acercaba a la pared
+ASOMABAN|Dejaban ver un poco
+ATABAN|Sujetaban con cuerda
+AVISARON|Dieron el aviso
+AYUDABAN|Prestaban su auxilio
+BAILABAN|Danzaban al son de la música
+BAJABAN|Descendían la cuesta
+BASTABA|Era suficiente
+BEBIAN|Tomaban el líquido
+BESABAN|Daban besos
+BORRABA|Hacía desaparecer lo escrito
+BRILLABAN|Relucían al sol
+BUSCABAN|Trataban de encontrar
+CALLABAN|Guardaban silencio
+CAMBIARON|Mudaron de parecer
+CAMINABA|Andaba por la senda
+CANTABAN|Entonaban una copla
+CARGABAN|Ponían el peso encima
+CAZABAN|Perseguían la pieza
+CEDIERON|Dieron su brazo a torcer
+CERRABAN|Tapaban la entrada
+COBRABA|Percibía el jornal
+COGIERON|Tomaron con la mano
+COMENZARON|Dieron principio
+COMIAN|Tomaban alimento
+COMPRABAN|Adquirían por dinero
+CONTABAN|Referían el suceso
+CORRIAN|Iban a la carrera
+CORTARON|Partieron con el filo
+CREABAN|Daban vida a la obra
+CRECIAN|Se hacían mayores
+CREIAN|Tenían por cierto
+CRUZABAN|Pasaban de un lado a otro
+CUIDABAN|Velaban por su salud
+CUMPLIERON|Llevaron a término lo prometido
+DABAN|Entregaban de balde
+DEBIAN|Tenían la obligación
+DECIAN|Manifestaban de palabra
+DEJABAN|Soltaban lo que tenían
+DESEABAN|Anhelaban con fuerza
+DIBUJABA|Trazaba la figura
+DIRIGIAN|Encaminaban hacia el fin
+DOBLABAN|Torcían por la esquina
+DORMIAN|Reposaban en el lecho
+DUDABAN|Vacilaban ante la elección
+DURABAN|Se mantenían en el tiempo
+ECHABAN|Arrojaban fuera
+EMPEZARON|Dieron comienzo
+EMPUJABAN|Hacían fuerza para mover
+ENCONTRARON|Dieron con lo buscado
+ENSENABAN|Mostraban el camino
+ENTRABAN|Pasaban adentro
+ENVIARON|Mandaron el paquete
+ERRARON|Fallaron el tiro
+ESCRIBIAN|Ponían por escrito
+ESCUCHABAN|Prestaban oído
+ESPERABAN|Aguardaban la hora
+ESTUDIABAN|Se aplicaban a los libros
+EVITARON|Esquivaron el tropiezo
+EXPLICABA|Daba razón de ello
+FALTABAN|No estaban presentes
+FIRMARON|Estamparon su nombre
+FORMABAN|Componían el conjunto
+FUMABAN|Daban humo al cigarro
+GANARON|Salieron vencedores
+GASTABAN|Empleaban el caudal
+GIRABAN|Daban vueltas
+GOLPEABAN|Sacudían con fuerza
+GRITABAN|Daban voces
+GUARDABAN|Ponían a recaudo
+GUSTABAN|Agradaban al paladar
+HABLABAN|Usaban la palabra
+HALLARON|Dieron con ello
+HERVIA|Bullía al fuego
+HUIAN|Escapaban del peligro
+IBAN|Se dirigían al lugar
+IMPEDIAN|Estorbaban el paso
+JUGABAN|Se entretenían con el juego
+JUNTABAN|Reunían en un montón
+JURARON|Prometieron solemnemente
+LAVABAN|Limpiaban con agua
+LEIAN|Recorrían el escrito
+LEVANTABAN|Ponían en alto
+LIMPIABAN|Quitaban la suciedad
+LLAMABAN|Daban voces al ausente
+LLEGABAN|Arribaban al destino
+LLENABAN|Colmaban el vaso
+LLEVABAN|Trasladaban la carga
+LLORABAN|Derramaban lágrimas
+LOGRARON|Consiguieron su intento
+LUCHABAN|Peleaban sin descanso
+MANDABAN|Daban la orden
+MARCHABAN|Se iban del lugar
+MATABAN|Quitaban la vida
+MEDIAN|Tomaban la medida
+MENTIAN|Faltaban a la verdad
+METIAN|Introducían dentro
+MIRARON|Fijaron la vista
+MOSTRABAN|Ponían a la vista
+MOVIAN|Mudaban de sitio
+NACIERON|Vinieron al mundo
+NADABAN|Se sostenían en el agua
+NEGARON|Dijeron que no
+OBEDECIAN|Cumplían lo mandado
+OCULTABAN|Escondían de la vista
+OFRECIAN|Brindaban de buen grado
+OLVIDABAN|Perdían la memoria de ello
+OYERON|Percibieron el sonido
+PAGABAN|Satisfacían la deuda
+PARABAN|Detenían la marcha
+PARTIERON|Se pusieron en camino
+PASABAN|Cruzaban de largo
+PEDIAN|Solicitaban un favor
+PEGABAN|Unían con cola
+PENSABAN|Discurrían sobre ello
+PERDIERON|Se quedaron sin ello
+PERMITIAN|Daban licencia
+PESABAN|Tenían su peso
+PINTABAN|Cubrían de color
+PISABAN|Ponían el pie encima
+PONIAN|Colocaban en su sitio
+PREGUNTABAN|Hacían la pregunta
+PRESTABAN|Dejaban por un tiempo
+PROBARON|Hicieron la prueba
+PROMETIERON|Dieron su palabra
+QUEDARON|Permanecieron allí
+QUEMABAN|Reducían a cenizas
+QUERIAN|Amaban de veras
+QUITABAN|Apartaban de en medio
+RECIBIAN|Tomaban lo enviado
+RECOGIAN|Juntaban del suelo
+REGALABAN|Daban sin cobrar
+REIAN|Mostraban su alegría
+REPETIAN|Volvían a decirlo
+RESPONDIAN|Daban la contestación
+ROBARON|Se llevaron lo ajeno
+ROMPIERON|Hicieron pedazos
+SABIAN|Tenían noticia de ello
+SACABAN|Extraían del hueco
+SALIERON|Marcharon fuera
+SALTABAN|Brincaban de gozo
+SALUDABAN|Daban los buenos días
+SEGUIAN|Iban detrás
+SENTIAN|Percibían en el ánimo
+SERVIAN|Atendían a la mesa
+SOLTARON|Dejaron libre
+SONABAN|Daban su sonido
+SONREIAN|Reían levemente
+SOPLABAN|Echaban aire por la boca
+SUBIAN|Ascendían la escalera
+SUFRIERON|Padecieron el mal
+SUMABAN|Añadían las cantidades
+TAPABAN|Cubrían el hueco
+TARDABAN|Empleaban mucho tiempo
+TEMIERON|Sintieron miedo
+TENIAN|Poseían en propiedad
+TERMINARON|Pusieron fin
+TIRABAN|Arrojaban lejos
+TOCABAN|Ponían la mano encima
+TOMARON|Cogieron para sí
+TRABAJABAN|Ganaban su jornal
+TRAJERON|Llevaron hasta aquí
+TRATABAN|Se portaban con otro
+USABAN|Se servían de ello
+VALIAN|Tenían su precio
+VENCIERON|Quedaron por encima
+VENDIAN|Daban por dinero
+VENIAN|Llegaban de camino
+VIAJABAN|Recorrían tierras
+VIVIAN|Tenían vida
+VOLABAN|Se sostenían en el aire
+VOLVIERON|Regresaron al punto

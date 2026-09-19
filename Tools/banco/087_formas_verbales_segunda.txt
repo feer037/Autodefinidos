@@ -1,0 +1,211 @@
+# Formas verbales de segunda persona, definidas por sinónimo en la misma forma
+ABRIAS|Destapabas lo cerrado
+ABRISTE|Destapaste lo cerrado
+ACABABAS|Terminabas la tarea
+ACABASTE|Diste fin a la obra
+ACERCASTE|Aproximaste una cosa a otra
+ACUDISTE|Fuiste al lugar llamado
+AGUARDABAS|Esperabas con paciencia
+ALCANZASTE|Llegaste hasta el sitio
+ALZABAS|Levantabas en alto
+ALZASTE|Levantaste en alto
+AMABAS|Querías con pasión
+AMARAS|Querrás de corazón
+AMASTE|Quisiste de corazón
+ANDABAS|Caminabas sin prisa
+ANDARAS|Caminarás sin prisa
+ANDUVISTE|Caminaste sin prisa
+APRETABAS|Oprimías con fuerza
+ASOMABAS|Dejabas ver un poco
+AVISASTE|Diste el aviso
+AYUDABAS|Prestabas tu auxilio
+BAILABAS|Danzabas al son
+BAILASTE|Danzaste al son
+BAJABAS|Descendías la cuesta
+BAJASTE|Descendiste la cuesta
+BEBIAS|Tomabas el líquido
+BEBISTE|Tomaste el líquido
+BUSCABAS|Tratabas de encontrar
+BUSCASTE|Trataste de encontrar
+CABRAS|Tendrás sitio dentro
+CALLABAS|Guardabas silencio
+CALLASTE|Guardaste silencio
+CAMBIASTE|Mudaste de parecer
+CAMINABAS|Andabas por la senda
+CANTABAS|Entonabas una copla
+CANTARAS|Entonarás una copla
+CANTASTE|Entonaste una copla
+CARGASTE|Pusiste el peso encima
+CERRABAS|Tapabas la entrada
+CERRASTE|Tapaste la entrada
+COGISTE|Tomaste con la mano
+COMIAS|Tomabas alimento
+COMISTE|Tomaste alimento
+COMPRASTE|Adquiriste por dinero
+CONTABAS|Referías el suceso
+CONTASTE|Referiste el suceso
+CORRIAS|Ibas a la carrera
+CORRISTE|Fuiste a la carrera
+CREIAS|Tenías por cierto
+CREISTE|Tuviste por cierto
+CRUZASTE|Pasaste al otro lado
+CUIDABAS|Velabas por su salud
+DABAS|Entregabas de balde
+DARAS|Entregarás de balde
+DEBIAS|Tenías la obligación
+DECIAS|Manifestabas de palabra
+DEJABAS|Soltabas lo que llevabas
+DEJASTE|Soltaste lo que llevabas
+DESEABAS|Anhelabas con fuerza
+DIRAS|Manifestarás de palabra
+DISTE|Entregaste de balde
+DIJISTE|Manifestaste de palabra
+DORMIAS|Reposabas en el lecho
+DORMISTE|Reposaste en el lecho
+DUDABAS|Vacilabas ante la elección
+ECHABAS|Arrojabas fuera
+ECHASTE|Arrojaste fuera
+EMPEZASTE|Diste comienzo
+ENTRABAS|Pasabas adentro
+ENTRASTE|Pasaste adentro
+ENVIASTE|Mandaste el paquete
+ESCRIBISTE|Pusiste por escrito
+ESCUCHABAS|Prestabas oído
+ESPERABAS|Aguardabas la hora
+ESPERASTE|Aguardaste la hora
+ESTABAS|Te hallabas presente
+ESTARAS|Te hallarás presente
+ESTUVISTE|Te hallaste presente
+FALTABAS|No estabas presente
+FIRMASTE|Estampaste tu nombre
+FUISTE|Te dirigiste allá
+GANASTE|Saliste vencedor
+GASTABAS|Empleabas el caudal
+GRITABAS|Dabas voces
+GRITASTE|Diste voces
+GUARDABAS|Ponías a recaudo
+GUARDASTE|Pusiste a recaudo
+HABLABAS|Usabas la palabra
+HABLASTE|Usaste la palabra
+HACIAS|Ejecutabas la obra
+HARAS|Ejecutarás la obra
+HICISTE|Ejecutaste la obra
+HUIAS|Escapabas del peligro
+IBAS|Te dirigías al lugar
+IRAS|Te dirigirás allá
+JUGABAS|Te entretenías con el juego
+JUGASTE|Te entretuviste con el juego
+JUNTASTE|Reuniste en un montón
+LAVASTE|Limpiaste con agua
+LEIAS|Recorrías el escrito
+LEISTE|Recorriste el escrito
+LEVANTASTE|Pusiste en alto
+LIMPIASTE|Quitaste la suciedad
+LLAMABAS|Dabas voces al ausente
+LLAMASTE|Diste voces al ausente
+LLEGABAS|Arribabas al destino
+LLEGASTE|Arribaste al destino
+LLENASTE|Colmaste el vaso
+LLEVABAS|Trasladabas la carga
+LLEVASTE|Trasladaste la carga
+LLORABAS|Derramabas lágrimas
+LOGRASTE|Conseguiste tu intento
+LUCHABAS|Peleabas sin descanso
+MANDABAS|Dabas la orden
+MEDISTE|Tomaste la medida
+METISTE|Introdujiste dentro
+MIRABAS|Fijabas la vista
+MIRASTE|Fijaste la vista
+MOSTRASTE|Pusiste a la vista
+MOVIAS|Mudabas de sitio
+NADABAS|Te sostenías en el agua
+OISTE|Percibiste el sonido
+PAGABAS|Satisfacías la deuda
+PAGASTE|Satisficiste la deuda
+PARASTE|Detuviste la marcha
+PARTISTE|Te pusiste en camino
+PASABAS|Cruzabas de largo
+PASASTE|Cruzaste de largo
+PEDIAS|Solicitabas un favor
+PEDISTE|Solicitaste el favor
+PEGASTE|Uniste con cola
+PENSABAS|Discurrías sobre ello
+PENSASTE|Discurriste sobre ello
+PERDIAS|Te quedabas sin ello
+PERDISTE|Te quedaste sin ello
+PESABAS|Tenías tu peso
+PINTASTE|Cubriste de color
+PISASTE|Pusiste el pie encima
+PODIAS|Estabas en condiciones
+PODRAS|Estarás en condiciones
+PONDRAS|Colocarás en su sitio
+PONIAS|Colocabas en su sitio
+PREGUNTASTE|Hiciste la pregunta
+PRESTASTE|Dejaste por un tiempo
+PROBASTE|Hiciste la prueba
+PUDISTE|Estuviste en condiciones
+PUSISTE|Colocaste en su sitio
+QUEDABAS|Permanecías allí
+QUEDASTE|Permaneciste allí
+QUERIAS|Deseabas con fuerza
+QUERRAS|Desearás con fuerza
+QUISISTE|Deseaste con fuerza
+QUITASTE|Apartaste de en medio
+RECIBISTE|Tomaste lo enviado
+RECOGISTE|Juntaste del suelo
+REGALASTE|Diste sin cobrar
+REIAS|Mostrabas tu alegría
+REPETIAS|Volvías a decirlo
+ROMPISTE|Hiciste pedazos
+SABIAS|Tenías noticia de ello
+SABRAS|Tendrás noticia de ello
+SACASTE|Extrajiste del hueco
+SALDRAS|Marcharás fuera
+SALIAS|Marchabas fuera
+SALISTE|Marchaste fuera
+SALTABAS|Brincabas de gozo
+SALTASTE|Brincaste de gozo
+SALUDASTE|Diste los buenos días
+SEGUIAS|Ibas detrás
+SEGUISTE|Fuiste detrás
+SENTIAS|Percibías en el ánimo
+SENTISTE|Percibiste en el ánimo
+SERAS|Llegarás a ser
+SERVIAS|Atendías la mesa
+SOLTASTE|Dejaste libre
+SUBIAS|Ascendías la escalera
+SUBISTE|Ascendiste la escalera
+SUFRISTE|Padeciste el mal
+SUMASTE|Añadiste las cantidades
+SUPISTE|Tuviste noticia de ello
+TAPASTE|Cubriste el hueco
+TARDABAS|Empleabas mucho tiempo
+TEMIAS|Sentías miedo
+TEMISTE|Sentiste miedo
+TENDRAS|Poseerás en propiedad
+TENIAS|Poseías en propiedad
+TERMINASTE|Pusiste fin
+TIRABAS|Arrojabas lejos
+TIRASTE|Arrojaste lejos
+TOCABAS|Ponías la mano encima
+TOCASTE|Pusiste la mano encima
+TOMABAS|Cogías para ti
+TOMASTE|Cogiste para ti
+TRABAJABAS|Ganabas tu jornal
+TRAJISTE|Llevaste hasta aquí
+TRATABAS|Te portabas con otro
+TUVISTE|Poseíste en propiedad
+USABAS|Te servías de ello
+VALIAS|Tenías tu precio
+VALDRAS|Tendrás tu precio
+VENDIAS|Dabas por dinero
+VENDRAS|Llegarás de camino
+VENIAS|Llegabas de camino
+VERAS|Percibirás con la vista
+VIAJABAS|Recorrías tierras
+VINISTE|Llegaste de camino
+VISTE|Percibiste con la vista
+VIVIAS|Tenías vida
+VIVISTE|Tuviste vida
+VOLABAS|Te sostenías en el aire
+VOLVISTE|Regresaste al punto

@@ -1,0 +1,137 @@
+# Plantas, árboles, flores y hierbas
+ACEBUCHE|Olivo silvestre
+ACEDERA|Hierba de sabor agrio
+ACHICORIA|Hierba amarga que sustituye al café
+AGRACEJO|Arbusto espinoso de bayas rojas
+AGUILEÑA|Flor de pétalos en espolón
+AJEDREA|Hierba aromática de guisos
+ALAMEDA|Paseo plantado de álamos
+ALBARICOQUERO|Árbol del fruto anaranjado
+ALCAPARRA|Botón floral que se come en salmuera
+ALERCE|Conífera que pierde la hoja
+ALGARROBA|Vaina dulce del algarrobo
+ALHELI|Flor de fuerte perfume nocturno
+ALIAGA|Mata espinosa de flor amarilla
+ALMEZ|Árbol de madera flexible
+ALTRAMUZ|Legumbre amarga que se come en salmuera
+AMAPOLA|Flor roja de los trigales
+ANEA|Planta de las orillas con espiga parda
+ARANDANO|Baya azul del monte
+ARRAYAN|Arbusto oloroso de los jardines
+ARTEMISA|Hierba amarga de los caminos
+AULAGA|Arbusto espinoso del monte bajo
+AVELLANO|Árbol del fruto de cáscara dura
+AZAHAR|Flor blanca del naranjo
+AZUCENA|Flor blanca de tallo alto
+BOLDO|Arbusto cuyas hojas se toman en infusión
+BROTE|Yema que empieza a salir
+CALENDULA|Flor anaranjada de uso medicinal
+CAMELIA|Flor de pétalos apretados sin aroma
+CAMPANILLA|Flor en forma de campana
+CARDENCHA|Cardo de cabezuela espinosa
+CARRASCA|Encina pequeña y achaparrada
+CASTANO|Árbol del fruto erizado
+CEBOLLETA|Cebolla tierna y alargada
+CELIDONIA|Hierba de jugo amarillo
+CENTAUREA|Flor azul de los sembrados
+CEREZO|Árbol de la fruta roja y pequeña
+CHIRIVIA|Raíz blanca parecida a la zanahoria
+CHUMBERA|Planta de palas espinosas
+CICUTA|Hierba de jugo venenoso
+CILANTRO|Hierba de hoja muy aromática
+CIRUELO|Árbol de la fruta morada
+CLAVELINA|Clavel pequeño y silvestre
+CODESO|Arbusto de flor amarilla en racimo
+COLLEJA|Hierba silvestre que se come cocida
+CORTEZA|Piel que envuelve el tronco
+COSCOJA|Encina enana de hoja pinchuda
+DONDIEGO|Flor que se abre al caer la tarde
+DURILLO|Arbusto de hoja perenne y baya azul
+ENEBRO|Arbusto de bayas que aroman la ginebra
+ESCARAMUJO|Rosal silvestre de fruto rojo
+ESPADANA|Planta de agua de espiga alargada
+ESPARRAGUERA|Mata de la que brotan los espárragos
+ESPINO|Arbusto de ramas con púas
+ESTAMBRE|Órgano masculino de la flor
+ESTRAGON|Hierba aromática de las salsas
+EUCALIPTO|Árbol alto de hojas olorosas
+FOLLAJE|Conjunto de las hojas
+FRESNO|Árbol de madera flexible y clara
+GAMON|Planta de flores blancas en espiga
+GENCIANA|Hierba de raíz muy amarga
+GERANIO|Flor de balcón muy común
+GORDOLOBO|Planta de alta espiga amarilla
+GROSELLERO|Arbusto de bayas rojas ácidas
+GUINDO|Cerezo de fruto ácido
+HIEDRA|Trepadora que se agarra al muro
+HINOJO|Hierba de sabor anisado
+HISOPO|Mata aromática de flores azules
+INJERTO|Yema que se pega a otro tronco
+JACINTO|Flor de racimo perfumado
+JAZMIN|Trepadora de flor blanca y olorosa
+JENGIBRE|Raíz picante de la cocina oriental
+JUNCO|Planta flexible de las orillas
+LAVANDA|Mata azul de aroma muy usado
+LENTISCO|Arbusto de resina aromática
+LIMONERO|Árbol del fruto amarillo y ácido
+LLANTEN|Hierba de hojas anchas y nervadas
+LUPULO|Trepadora que amarga la cerveza
+MADRONO|Arbusto del fruto rojo y granuloso
+MAGNOLIA|Flor grande, blanca y carnosa
+MAJUELO|Espino albar de flor blanca
+MALVAVISCO|Planta de raíz mucilaginosa
+MANZANILLA|Flor que se toma en infusión
+MEJORANA|Hierba aromática de jardín
+MELOCOTONERO|Árbol del fruto aterciopelado
+MEMBRILLO|Árbol del fruto que se hace dulce
+MIMBRE|Vara flexible del sauce
+MIMOSA|Árbol de flor amarilla en bolitas
+MOSTAZA|Planta de semilla picante
+MUERDAGO|Planta que vive sobre otro árbol
+NARANJO|Árbol del fruto de gajos
+NARCISO|Flor blanca de corona amarilla
+NENUFAR|Flor que reposa sobre el agua
+NISPERO|Árbol del fruto anaranjado con huesos
+NOGAL|Árbol del fruto de cáscara rugosa
+ORTIGA|Hierba que pica al rozarla
+PACIENCIA|Hierba de hojas grandes y ácidas
+PAMPANO|Sarmiento tierno de la vid
+PARRA|Vid que se encarama
+PENSAMIENTO|Flor de pétalos de dos colores
+PEONIA|Flor grande de muchos pétalos
+PERAL|Árbol del fruto en forma de campana
+PETALO|Hoja de color de la flor
+PETUNIA|Flor de embudo muy cultivada
+PIMPOLLO|Brote tierno del árbol
+PISTILO|Órgano femenino de la flor
+PITA|Planta de hojas carnosas y espinosas
+PLATANERA|Mata de la que cuelgan los plátanos
+POLEN|Polvillo fecundante de la flor
+PRIMAVERA|Flor temprana de campo
+RAMAJE|Conjunto de las ramas
+RETAMA|Mata de flores amarillas
+ROMERO|Mata aromática de flor azulada
+RUDA|Hierba de olor fuerte y desagradable
+SABINA|Conífera de las tierras secas
+SALVIA|Hierba medicinal de hoja rugosa
+SARMIENTO|Rama larga y torcida de la vid
+SAUCE|Árbol de ramas colgantes junto al río
+SAVIA|Jugo que alimenta la planta
+SEMILLA|Grano del que nace la planta
+SEPALO|Hoja verde que protege el capullo
+SICOMORO|Higuera de hoja ancha
+TAMARINDO|Árbol tropical de vaina agridulce
+TARAY|Arbusto de las orillas salobres
+TEJO|Conífera de baya roja y hoja tóxica
+TILA|Infusión que calma los nervios
+TOMILLO|Mata de aroma fuerte del monte
+TRONCO|Parte leñosa que sostiene el árbol
+TUBERCULO|Engrosamiento del tallo bajo tierra
+TULIPAN|Flor de copa que viene de Holanda
+VAINILLA|Vaina aromática de una orquídea
+VALERIANA|Raíz que se toma para dormir
+VERBENA|Hierba de flores en espiga
+VID|Planta que da las uvas
+VIOLETA|Flor morada de aroma delicado
+ZARZAMORA|Fruto negro de la zarza
+ZUMAQUE|Arbusto que se usa para curtir

@@ -1,0 +1,289 @@
+# Plurales de vocabulario temático
+ABEDULES|Árboles de corteza blanca
+ABETOS|Coníferas de la Navidad
+ACACIAS|Árboles de flores en racimo
+ACEBOS|Arbustos de bayas rojas
+ADELFAS|Arbustos de flores rosas venenosos
+ALAMOS|Árboles de ribera
+ALCORNOQUES|Árboles del corcho
+ALGARROBOS|Árboles de vainas dulces
+ALMENDROS|Árboles de flor temprana
+AVELLANOS|Arbustos de fruto seco redondo
+BAOBABS|Árboles africanos de tronco enorme
+CASTANOS|Árboles del erizo
+CEDROS|Coníferas de madera olorosa
+CEREZOS|Árboles de flor rosada
+CIPRESES|Coníferas altas y estrechas
+ENCINAS|Árboles de la bellota
+EUCALIPTOS|Árboles de hoja balsámica
+FRESNOS|Árboles de madera flexible
+HAYAS|Árboles de tronco liso
+HIGUERAS|Árboles del higo
+MADRONOS|Arbustos de frutos rojos rugosos
+MANZANOS|Árboles de la fruta del paraíso
+NOGALES|Árboles de la nuez
+OLIVOS|Árboles de la aceituna
+OLMOS|Árboles de sombra de las plazas
+PALMERAS|Árboles de los dátiles
+PERALES|Árboles de fruta alargada
+PINOS|Árboles de las piñas
+ROBLES|Árboles de madera dura
+SAUCES|Árboles de ramas colgantes
+TILOS|Árboles de la infusión relajante
+ALHELIES|Flores de aroma intenso
+AMAPOLAS|Flores rojas de los trigales
+AZUCENAS|Flores blancas de tallo alto
+CAMELIAS|Flores japonesas de pétalos apretados
+CLAVELES|Flores de pétalos dentados
+CRISANTEMOS|Flores de noviembre
+DALIAS|Flores de muchos pétalos
+GARDENIAS|Flores blancas muy perfumadas
+GERANIOS|Flores de balcón
+GLADIOLOS|Flores de espiga alta
+HORTENSIAS|Arbustos de flores en bola
+JACINTOS|Flores bulbosas muy olorosas
+JAZMINES|Trepadoras de flor olorosa
+LILAS|Arbustos de flores moradas
+LIRIOS|Flores de tres pétalos
+MARGARITAS|Flores blancas de los prados
+NARCISOS|Flores amarillas de bulbo
+ORQUIDEAS|Flores exóticas muy apreciadas
+PETUNIAS|Plantas de flor en trompeta
+TULIPANES|Flores de bulbo holandesas
+VIOLETAS|Flores moradas y menudas
+ACELGAS|Verduras de penca blanca
+ALCACHOFAS|Hortalizas de hojas carnosas
+BERENJENAS|Hortalizas moradas
+BONIATOS|Tubérculos dulces
+CALABACINES|Hortalizas verdes y alargadas
+CALABAZAS|Hortalizas grandes y naranjas
+CEBOLLAS|Bulbos que hacen llorar
+COLIFLORES|Verduras blancas en ramilletes
+ESPARRAGOS|Brotes comestibles
+ESPINACAS|Verduras de hoja oscura
+GARBANZOS|Legumbres del cocido
+GUISANTES|Legumbres verdes y redondas
+JUDIAS|Legumbres de vaina
+LECHUGAS|Verduras de la ensalada
+LENTEJAS|Legumbres pequeñas y planas
+NABOS|Raíces blancas de guiso
+PEPINOS|Hortalizas verdes y refrescantes
+PIMIENTOS|Hortalizas huecas
+PUERROS|Hortalizas blancas y alargadas
+REMOLACHAS|Raíces rojas y dulces
+REPOLLOS|Coles de hojas apretadas
+ZANAHORIAS|Raíces naranjas y dulces
+ALBARICOQUES|Frutas naranjas de hueso
+ARANDANOS|Bayas azuladas del bosque
+CEREZAS|Frutas rojas con rabito
+CIRUELAS|Frutas moradas y jugosas
+DATILES|Frutos dulces de la palmera
+FRAMBUESAS|Frutas rojas del bosque
+FRESAS|Frutas rojas de primavera
+GRANADAS|Frutas de granos rojos
+HIGOS|Frutos dulces del verano
+KIWIS|Frutas verdes de piel peluda
+LIMONES|Cítricos amarillos y ácidos
+MANDARINAS|Cítricos pequeños y fáciles de pelar
+MANGOS|Frutas tropicales anaranjadas
+MELOCOTONES|Frutas de piel aterciopelada
+MEMBRILLOS|Frutas del dulce de otoño
+MORAS|Frutos negros de la zarza
+NARANJAS|Cítricos de gajos
+NISPEROS|Frutas naranjas de primavera
+PAPAYAS|Frutas tropicales de pulpa naranja
+PERAS|Frutas de cuello estrecho
+PINAS|Frutas tropicales con corona
+PLATANOS|Frutas amarillas y curvas
+POMELOS|Cítricos grandes y amargos
+SANDIAS|Frutas de pulpa roja
+ALMENDRAS|Frutos secos del turrón
+AVELLANAS|Frutos secos redondos
+CACAHUETES|Frutos secos de cáscara blanda
+CASTANAS|Frutos del erizo de otoño
+NUECES|Frutos secos de dos mitades
+PINONES|Semillas comestibles del pino
+PISTACHOS|Frutos secos verdes
+ANCHOAS|Boquerones curados en salazón
+BERBERECHOS|Bivalvos de concha estriada
+BOGAVANTES|Crustáceos azulados de pinzas
+BOQUERONES|Pescados pequeños en vinagre
+CALAMARES|Moluscos de diez brazos
+CAMARONES|Crustáceos pequeños de mar
+CANGREJOS|Crustáceos de pinzas
+CHIPIRONES|Calamares pequeños
+CIGALAS|Crustáceos de pinzas largas
+DORADAS|Peces de mancha dorada
+GAMBAS|Crustáceos rosados
+LANGOSTINOS|Crustáceos grandes y sabrosos
+LENGUADOS|Peces planos y alargados
+LUBINAS|Peces blancos muy finos
+MERLUZAS|Pescados blancos de mesa
+NAVAJAS|Moluscos alargados de la arena
+OSTRAS|Bivalvos que se comen crudos
+PERCEBES|Mariscos de las rocas
+PULPOS|Moluscos de ocho brazos
+SALMONETES|Peces rojizos de barbillas
+SEPIAS|Moluscos de hueso blanco
+TRUCHAS|Peces de río de carne rosada
+VIEIRAS|Conchas del peregrino
+AGUILAS|Rapaces de vista penetrante
+ALONDRAS|Aves de canto matinal
+AVESTRUCES|Aves corredoras que no vuelan
+BUITRES|Carroñeros de cabeza pelada
+CANARIOS|Pájaros amarillos cantores
+CIGUENAS|Aves de pico largo y rojo
+CISNES|Aves blancas de cuello largo
+CODORNICES|Aves menudas de caza
+CORMORANES|Aves marinas buceadoras
+CUERVOS|Pájaros negros de mal agüero
+FAISANES|Aves de vistosa cola
+GARZAS|Zancudas de cuello en ese
+GAVIOTAS|Aves blancas del puerto
+GOLONDRINAS|Aves de cola ahorquillada
+GORRIONES|Pajarillos pardos de ciudad
+GRULLAS|Aves zancudas migratorias
+HALCONES|Rapaces de vuelo veloz
+JILGUEROS|Pájaros de cara roja
+LECHUZAS|Rapaces nocturnas de cara blanca
+LOROS|Aves que repiten palabras
+MIRLOS|Pájaros negros de pico amarillo
+MOCHUELOS|Rapaces nocturnas pequeñas
+PALOMAS|Aves de la paz
+PATOS|Aves palmípedas del estanque
+PAVOS|Aves grandes de Navidad
+PELICANOS|Aves de gran bolsa en el pico
+PERDICES|Aves de caza de las rastrojeras
+PETIRROJOS|Pájaros de pecho colorado
+PINGUINOS|Aves del hielo que nadan
+RUISENORES|Aves de canto melodioso
+TUCANES|Aves tropicales de pico enorme
+URRACAS|Aves blancas y negras ladronas
+VENCEJOS|Aves de vuelo rapidísimo
+ARDILLAS|Roedores de cola espesa
+BALLENAS|Mayores mamíferos del mar
+BISONTES|Bóvidos de las praderas
+BUFALOS|Bóvidos salvajes de cuernos curvos
+CABALLOS|Animales de silla
+CACHALOTES|Cetáceos de cabeza enorme
+CAIMANES|Cocodrilos americanos
+CAMALEONES|Reptiles que cambian de color
+CAMELLOS|Animales de dos jorobas
+CANGUROS|Marsupiales saltarines
+CASTORES|Roedores que levantan presas
+CEBRAS|Équidos africanos de rayas
+CIERVOS|Rumiantes de cuerna ramificada
+COCODRILOS|Reptiles de fauces enormes
+COMADREJAS|Pequeños carnívoros alargados
+CONDORES|Grandes buitres de los Andes
+CONEJOS|Roedores de madriguera
+CORZOS|Pequeños cérvidos del bosque
+DELFINES|Cetáceos juguetones
+DROMEDARIOS|Camélidos de una joroba
+ELEFANTES|Mayores mamíferos terrestres
+ERIZOS|Mamíferos cubiertos de púas
+FOCAS|Mamíferos marinos de los hielos
+GACELAS|Antílopes ligeros y gráciles
+GORILAS|Mayores de los simios
+GUEPARDOS|Felinos más veloces
+HIENAS|Carroñeras africanas
+HIPOPOTAMOS|Paquidermos de los ríos africanos
+JABALIES|Suidos salvajes del monte
+JAGUARES|Grandes felinos americanos
+JIRAFAS|Mamíferos de cuello larguísimo
+KOALAS|Marsupiales que comen eucalipto
+LAGARTIJAS|Pequeños reptiles de los muros
+LAGARTOS|Reptiles de cola larga
+LEONES|Felinos de melena
+LEOPARDOS|Felinos de pelaje manchado
+LIEBRES|Lagomorfos veloces del campo
+LINCES|Felinos de orejas con pinceles
+LOBOS|Cánidos salvajes de manada
+MAPACHES|Mamíferos americanos de antifaz
+MARMOTAS|Roedores que hibernan
+MORSAS|Mamíferos polares de colmillos
+MURCIELAGOS|Mamíferos que vuelan de noche
+NUTRIAS|Mamíferos acuáticos de río
+ORCAS|Cetáceos blancos y negros
+OSOS|Plantígrados de gran tamaño
+PANTERAS|Leopardos de pelaje negro
+PUMAS|Felinos americanos de monte
+RENOS|Cérvidos del norte helado
+RINOCERONTES|Paquidermos del cuerno nasal
+SERPIENTES|Reptiles sin extremidades
+TEJONES|Mamíferos de hocico rayado
+TIBURONES|Escualos de aleta dorsal
+TIGRES|Felinos rayados de Asia
+TOPOS|Mamíferos cavadores ciegos
+TORTUGAS|Reptiles de caparazón
+VIBORAS|Ofidios venenosos
+ZORROS|Cánidos de cola espesa
+ABEJORROS|Insectos grandes y velludos
+ARANAS|Artrópodos que tejen telas
+AVISPAS|Insectos de picadura dolorosa
+CIGARRAS|Insectos que cantan en verano
+CUCARACHAS|Insectos nocturnos de cocina
+ESCARABAJOS|Insectos de élitros duros
+GRILLOS|Insectos de canto nocturno
+HORMIGAS|Insectos sociales laboriosos
+LIBELULAS|Insectos de alas transparentes
+LUCIERNAGAS|Insectos que emiten luz
+MARIPOSAS|Insectos de alas de colores
+MARIQUITAS|Escarabajos rojos con lunares
+MOSCAS|Dípteros molestos
+MOSQUITOS|Insectos chupadores de sangre
+ORUGAS|Larvas de las mariposas
+PIOJOS|Insectos parásitos del cabello
+PULGAS|Insectos saltadores parásitos
+SALTAMONTES|Insectos de patas saltadoras
+TERMITAS|Insectos que devoran la madera
+ALBORNOCES|Batas de tela de toalla
+BUFANDAS|Prendas largas del cuello
+CALCETINES|Prendas de los pies
+CAMISETAS|Prendas de manga corta
+CHALECOS|Prendas sin mangas
+CHAQUETAS|Prendas abiertas de vestir
+CINTURONES|Ciñen los pantalones
+CORBATAS|Adornos del cuello de la camisa
+DELANTALES|Protegen la ropa al cocinar
+FALDAS|Prendas que caen de la cintura
+GABARDINAS|Abrigos impermeables
+GORRAS|Prendas con visera
+GUANTES|Prendas de las manos
+JERSEYS|Prendas de punto
+PANUELOS|Telas cuadradas de varios usos
+PIJAMAS|Ropas de dormir
+SANDALIAS|Calzados abiertos
+SOMBREROS|Prendas de copa y ala
+VESTIDOS|Prendas femeninas de una pieza
+ZAPATILLAS|Calzados cómodos de casa
+ALICATES|Herramientas de apretar y cortar
+BROCAS|Puntas que perforan
+CINCELES|Herramientas que tallan la piedra
+DESTORNILLADORES|Herramientas de atornillar
+ESCUADRAS|Marcan el ángulo recto
+FORMONES|Cortan la madera a golpe
+LIMAS|Herramientas que desgastan el metal
+MARTILLOS|Herramientas de golpear
+NIVELES|Comprueban la horizontal
+PLOMADAS|Marcan la vertical
+SERRUCHOS|Sierras de mano de hoja ancha
+TALADROS|Hacen agujeros en la pared
+TENAZAS|Herramientas de agarrar
+TIJERAS|Cortan con dos hojas
+ACORDEONES|Instrumentos de fuelle y teclas
+ARPAS|Instrumentos de cuerdas verticales
+BATERIAS|Conjuntos de tambores y platos
+CLARINETES|Instrumentos de viento con lengüeta
+FLAUTAS|Instrumentos de viento con agujeros
+GAITAS|Instrumentos de fuelle y punteros
+GUITARRAS|Instrumentos de seis cuerdas
+PANDERETAS|Instrumentos de sonajas
+PIANOS|Instrumentos de teclas
+SAXOFONES|Instrumentos de viento del jazz
+TAMBORES|Instrumentos de percusión de parche
+TROMBONES|Instrumentos de metal con vara
+TROMPETAS|Instrumentos de metal con pistones
+VIOLINES|Instrumentos de arco más agudos
+VIOLONCHELOS|Instrumentos de arco graves
+XILOFONOS|Instrumentos de láminas y baquetas

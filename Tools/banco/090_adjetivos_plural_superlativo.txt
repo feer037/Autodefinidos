@@ -1,0 +1,137 @@
+# Adjetivos en plural y superlativos
+ABIERTOS|Que no están cerrados
+ABSURDOS|Contrarios a toda razón
+ADUSTOS|Severos en el trato
+AGILES|Ligeros de movimientos
+AGUDOS|De punta fina o de ingenio vivo
+AJENOS|Que son de otro
+ALTISIMO|De muchísima altura
+AMARGOS|De sabor como el de la hiel
+AMPLIOS|De mucha holgura
+ANCHOS|De gran anchura
+ANTIGUOS|De tiempos muy lejanos
+ARDUOS|Muy difíciles de lograr
+ASPEROS|Ásperos al tacto
+ATENTOS|Que están al cuidado
+AUSTEROS|Sobrios y sin adornos
+AVAROS|Apegados al dinero
+BELLISIMO|De hermosura extraordinaria
+BLANDOS|Que ceden al tacto
+BREVES|De muy poca duración
+BRUSCOS|De maneras secas
+BUENISIMO|Bueno en grado sumo
+CALIDOS|De temperatura agradable
+CARISIMO|De precio elevadísimo
+CIEGOS|Privados de la vista
+CLAROS|Que se entienden sin esfuerzo
+CLARISIMO|Que no deja lugar a duda
+CRUDOS|Que no están cocinados
+CUERDOS|De sano juicio
+DEBILES|Faltos de fuerza
+DELGADOS|De poco grosor
+DENSOS|Muy apretados o espesos
+DIESTROS|Hábiles con las manos
+DIFICILISIMO|Difícil en grado sumo
+DIGNOS|Merecedores de respeto
+DIVERSOS|De distinta clase
+DOCILES|Fáciles de gobernar
+DULCES|De sabor como el de la miel
+DUROS|Que no se dejan rayar
+ENTEROS|Que no les falta nada
+ERRANTES|Que van de un lado a otro
+ESCASOS|Que no llegan a lo debido
+ESPESOS|De consistencia trabada
+ESTRECHOS|De poca anchura
+EXACTOS|Justos y sin error
+EXTRANOS|Que causan rareza
+FACILISIMO|Que no cuesta ningún trabajo
+FALSOS|Que no son verdaderos
+FIELES|Constantes en su afecto
+FIRMES|Que no se mueven
+FLOJOS|Poco apretados o poco aplicados
+FRAGILES|Que se rompen con facilidad
+FRESCOS|Recién hechos o recién cogidos
+FRIOS|De baja temperatura
+FUERTES|De mucha fuerza
+GORDOS|De mucha carne
+GRANDISIMO|De tamaño enorme
+GRATOS|Que dan gusto
+GRAVES|De mucha importancia
+GRUESOS|De bastante espesor
+GUAPISIMO|De gran hermosura
+HONDOS|De mucha profundidad
+HUECOS|Vacíos por dentro
+HUMILDES|Que no presumen de nada
+IMPIOS|Faltos de piedad
+INGENUOS|Que se creen todo
+INJUSTOS|Contrarios a la justicia
+INMENSOS|Que no tienen medida
+INQUIETOS|Que no paran quietos
+INSIPIDOS|Que no saben a nada
+INTENSOS|De mucha fuerza o viveza
+JUSTOS|Conformes a la razón
+LEJANOS|Que están a gran distancia
+LENTISIMO|De lentitud extrema
+LEVES|De muy poco peso
+LIBRES|Sin ataduras
+LIMPIOS|Sin mancha ni suciedad
+LIMPISIMO|Sin la menor mancha
+LISOS|Sin arruga ni aspereza
+LLANOS|Sin altos ni bajos
+LOCUACES|Que hablan por los codos
+LUCIDOS|Que brillan por su acierto
+MACIZOS|Que no están huecos
+MALISIMO|Malo en grado sumo
+MANSOS|Suaves y apacibles
+MEZQUINOS|Ruines y estrechos
+MUCHISIMO|En cantidad muy grande
+NECIOS|Faltos de entendimiento
+NITIDOS|Limpios y bien definidos
+OBTUSOS|Romos o cortos de entendederas
+OPACOS|Que no dejan pasar la luz
+PARCOS|Moderados en el gasto
+PEQUENISIMO|De tamaño mínimo
+PERENNES|Que duran todo el año
+PLANOS|Sin relieve alguno
+PROFUNDOS|De mucho fondo
+PUROS|Sin mezcla de nada
+RAPIDISIMO|De velocidad extrema
+RAROS|Que se ven poco
+RECIOS|Fuertes y robustos
+RECTOS|Que no se tuercen
+REDONDOS|De forma circular
+RIGIDOS|Que no se doblan
+RIQUISIMO|De sabor exquisito
+RUDOS|Toscos y sin pulir
+SABIOS|De mucho saber
+SANOS|Sin enfermedad alguna
+SECOS|Sin nada de humedad
+SERENOS|De ánimo sosegado
+SERIOS|Que no gastan bromas
+SEVEROS|Rigurosos al juzgar
+SIMPLES|Sin complicación alguna
+SINCEROS|Que dicen lo que sienten
+SOBRIOS|Moderados y sin exceso
+SOLOS|Sin compañía de nadie
+SORDOS|Que no oyen
+SUAVES|Blandos y agradables al tacto
+SUCIOS|Llenos de suciedad
+SUTILES|Finos y delicados
+TENSOS|Estirados sin holgura
+TENUES|Muy delgados o muy débiles
+TERCOS|Que no dan su brazo a torcer
+TIBIOS|Entre fríos y calientes
+TIERNOS|Blandos y fáciles de partir
+TORPES|Faltos de destreza
+TOSCOS|Bastos y sin labrar
+TRISTISIMO|Lleno de honda pena
+TURBIOS|Que no se ven con claridad
+VACIOS|Que no contienen nada
+VAGOS|Imprecisos o perezosos
+VANOS|Que no sirven de nada
+VECINOS|Que viven al lado
+VELOCES|Que van muy deprisa
+VIEJISIMO|De muchísimos años
+VIVACES|De ingenio despierto
+VIVOS|Llenos de vida
+ZURDOS|Que usan la mano izquierda

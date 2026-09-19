@@ -1,0 +1,178 @@
+# Cocina, casa, prendas y oficios cotidianos
+ABADEJO|Bacalao curado
+ABANICO|Se abre para darse aire
+ABREBOTELLAS|Utensilio que quita las chapas
+ACEITERA|Vasija que guarda el aceite
+ADEREZO|Lo que sazona la ensalada
+AGUAMANIL|Jarro para lavarse las manos
+AJILLO|Salsa de ajo y aceite
+ALACENA|Armario hecho en la pared
+ALBAHACA|Hierba de aroma fuerte
+ALBARDILLA|Remate que cubre el muro
+ALFOMBRA|Tejido que cubre el suelo
+ALIOLI|Salsa de ajo y aceite emulsionada
+ALJOFAINA|Palangana honda
+ALMIREZ|Mortero de metal
+ALMOHADON|Cojín grande
+ALPARGATA|Calzado de esparto
+ALZAPANO|Lazo que recoge la cortina
+AMASADERA|Artesa donde se amasa
+ANAFE|Hornillo portátil
+ANDULLO|Hoja de tabaco enrollada
+APARADOR|Mueble donde se guarda la vajilla
+ARANDELA|Anilla plana bajo la tuerca
+ARMARIO|Mueble con puertas y baldas
+AZAFATE|Bandeja de borde bajo
+AZUCARERO|Recipiente del azúcar
+BACALADA|Pieza entera de bacalao seco
+BADIL|Paleta para mover la lumbre
+BALDOSA|Pieza plana que cubre el suelo
+BANQUETA|Asiento bajo sin respaldo
+BARNIZ|Capa brillante que protege la madera
+BATIDORA|Aparato que bate y tritura
+BAYETA|Paño para limpiar
+BESAMEL|Salsa blanca de harina y leche
+BISAGRA|Herraje sobre el que gira la puerta
+BIZCOCHO|Masa esponjosa y dulce
+BOMBONERA|Cajita para los bombones
+BORDADO|Labor de aguja sobre la tela
+BOTIJO|Vasija de barro con pitorro
+BOTONADURA|Juego de botones de una prenda
+BRASERO|Recipiente con brasas para calentar
+BROCHE|Cierre de adorno de la ropa
+BRUNIDOR|Herramienta que saca brillo
+BUFANDA|Prenda que abriga el cuello
+BURETE|Tubo graduado del laboratorio
+CACEROLA|Vasija ancha con dos asas
+CAFETERA|Aparato que hace el café
+CALADOR|Aguja que cala el queso o el jamón
+CALDERO|Vasija honda de metal
+CANDADO|Cerradura suelta con arco
+CANDELABRO|Soporte de varias velas
+CANTIMPLORA|Frasco del caminante
+CAPAZO|Cesta de esparto con asas
+CAZUELA|Vasija de barro para el horno
+CEDAZO|Tamiz de malla fina
+CEPILLO|Útil de cerdas para limpiar
+CERRADURA|Mecanismo que abre con llave
+CHALECO|Prenda sin mangas
+CHAMARRA|Chaqueta corta de abrigo
+CHIMENEA|Hogar con salida de humos
+CHURRERA|Máquina que hace churros
+CINTURON|Correa que ciñe la cintura
+COLADOR|Utensilio que separa el caldo
+COLCHA|Cubierta de la cama
+COLGADOR|Pieza donde se cuelga la ropa
+COMEDOR|Pieza donde se come
+CORCHETE|Cierre de macho y hembra
+CORDONERIA|Taller de cordones y galones
+CORTINA|Tela que cubre la ventana
+COSTURERO|Caja o cesta de la costura
+CREMALLERA|Cierre de dientes engarzados
+CRIBA|Utensilio que separa el grano
+CUBERTERIA|Juego de cucharas y tenedores
+CUCHARON|Cuchara grande del puchero
+DELANTAL|Prenda que protege al cocinar
+DESPENSA|Pieza donde se guarda la comida
+DESTORNILLADOR|Herramienta que aprieta tornillos
+EMBUDO|Cono que ayuda a trasvasar
+EMPANADA|Masa rellena y cerrada
+ENCIMERA|Tablero sobre los muebles de cocina
+ENTREPANO|Tabla entre dos montantes
+ESCABECHE|Adobo de vinagre para conservar
+ESCALFAR|Cocer el huevo sin cáscara
+ESCOBILLA|Cepillo pequeño de mango
+ESCURRIDOR|Pieza donde se escurre la loza
+ESPATULA|Paleta plana de cocina
+ESPUMADERA|Paleta agujereada de cocina
+ESTANTERIA|Mueble de baldas abiertas
+ESTOFADO|Guiso cocido a fuego lento
+FALDON|Parte baja de una prenda
+FIAMBRERA|Recipiente para llevar la comida
+FLANERA|Molde en que cuaja el flan
+FOGARIL|Hoguera encendida en lo alto
+FREGADERO|Pila donde se lava la loza
+FREIDORA|Aparato que fríe en aceite
+FRUTERO|Recipiente para la fruta
+GABARDINA|Abrigo ligero contra la lluvia
+GALLETERO|Bote donde se guardan las galletas
+GARBANZAL|Campo sembrado de garbanzos
+GAVETA|Cajón pequeño del escritorio
+GUANTERA|Hueco del coche para los guantes
+GUARNICION|Acompañamiento del plato
+GUISANTE|Legumbre verde y redonda
+HORMA|Molde con la forma del zapato
+HORNILLO|Fogón pequeño de una boca
+JARRON|Vasija alta de adorno
+JERGON|Colchón basto de paja
+LAVABO|Pila del cuarto de aseo
+LEBRILLO|Barreño de barro vidriado
+LEJIA|Líquido que blanquea y desinfecta
+LENCERIA|Ropa blanca de la casa
+LLAVERO|Anilla donde van las llaves
+MACETERO|Soporte de la maceta
+MAJADERO|Mano del mortero
+MANDIL|Delantal de cuero del oficio
+MANOPLA|Guante sin dedos separados
+MANTEL|Tela que cubre la mesa
+MARMITA|Olla honda con tapa
+MECEDORA|Silla que se balancea
+MERMELADA|Dulce de fruta cocida
+MOLINILLO|Aparato que muele el café
+MONEDERO|Bolsa pequeña del dinero
+MORTERO|Vasija donde se machaca
+MOSTRADOR|Mesa larga de la tienda
+NEVERA|Mueble que conserva en frío
+OLLA|Vasija honda para cocer
+ORINAL|Vasija de alcoba
+PALANGANA|Recipiente ancho para lavarse
+PANERA|Cesta o bote donde se guarda el pan
+PANTALLA|Cubierta que tamiza la luz
+PAPELERA|Cesto donde se echan los papeles
+PARRILLA|Rejilla para asar
+PERCHERO|Mueble donde se cuelgan abrigos
+PERSIANA|Cierre de lamas de la ventana
+PESTILLO|Pasador que cierra la puerta
+PICAPORTE|Manilla que abre la puerta
+PIMENTERO|Bote de la pimienta
+PINZA|Utensilio de dos brazos que sujeta
+PLANCHA|Aparato que alisa la ropa
+PORTALAMPARAS|Pieza donde se enrosca la bombilla
+POTAJE|Guiso de legumbres
+PUCHERO|Olla y también el guiso
+QUESERA|Recipiente con tapa para el queso
+RALLADOR|Utensilio que desmenuza el queso
+RECETARIO|Libro de recetas
+REJILLA|Malla que deja pasar el aire
+REPISA|Balda sujeta a la pared
+REPOSTERO|Quien hace dulces y pasteles
+REVENIDO|Que ha perdido su punto
+ROBOT|Aparato que hace el trabajo solo
+RODILLO|Cilindro que estira la masa
+SABANA|Lienzo con que se viste la cama
+SALERO|Recipiente de la sal
+SARTEN|Vasija plana para freír
+SILLON|Asiento amplio con brazos
+SOBRETODO|Abrigo que va sobre la ropa
+SOFRITO|Base de cebolla y tomate rehogados
+SOPERA|Fuente honda de la sopa
+TAJADERO|Tabla donde se corta
+TAPACUBOS|Chapa que cubre la rueda
+TAPADERA|Pieza que cierra el puchero
+TAQUILLA|Armario estrecho del vestuario
+TARTERA|Recipiente de tapa para llevar comida
+TENEDOR|Cubierto de púas
+TERMO|Frasco que conserva la temperatura
+TETERA|Vasija con pico para el té
+TINAJA|Vasija grande de barro
+TOSTADORA|Aparato que tuesta el pan
+TRAPO|Paño viejo de limpiar
+TRINCHANTE|Cuchillo grande de cortar carne
+VAJILLA|Conjunto de platos y fuentes
+VELADOR|Mesita alta de un solo pie
+VENTILADOR|Aparato de aspas que mueve el aire
+VINAGRERA|Frasco del vinagre
+VITRINA|Armario con cristales
+YESQUERO|Encendedor antiguo
+ZAPATERO|Quien arregla el calzado
+ZURCIDO|Remiendo cosido de una tela

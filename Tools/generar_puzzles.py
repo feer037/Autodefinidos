@@ -27,7 +27,7 @@ import sys
 from collections import Counter, defaultdict
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-BANCO = os.path.join(RAIZ, "Autodefinidos", "Recursos", "banco.json")
+BANCO = os.path.join(RAIZ, "Tools", "banco.json")
 MANIFIESTO_IMAGENES = os.path.join(RAIZ, "Tools", "imagenes", "manifiesto.json")
 DIR_PUZZLES = os.path.join(RAIZ, "Autodefinidos", "Recursos", "Puzzles")
 INDICE = os.path.join(RAIZ, "Autodefinidos", "Recursos", "indice.json")
@@ -660,7 +660,17 @@ def main():
     parser.add_argument("--cantidad", type=int, default=500)
     parser.add_argument("--semilla", type=int, default=20260918)
     parser.add_argument("--desde", type=int, default=1)
+    parser.add_argument("--largo", type=int, default=0,
+                        help="longitud maxima de palabra en la rejilla")
+    parser.add_argument("--salida", default="",
+                        help="carpeta alternativa donde escribir (pruebas)")
     args = parser.parse_args()
+
+    if args.largo:
+        globals()["LARGO_MAX"] = args.largo
+    if args.salida:
+        globals()["DIR_PUZZLES"] = args.salida
+        globals()["INDICE"] = os.path.join(args.salida, "indice.json")
 
     banco = Banco(BANCO)
     imagenes = cargar_imagenes(banco)

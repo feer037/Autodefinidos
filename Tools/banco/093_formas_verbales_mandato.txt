@@ -1,0 +1,69 @@
+# Formas de mandato en plural y exhortativas de primera persona
+ABRID|Destapad lo cerrado
+ACABEMOS|Demos fin a la faena
+ACERQUEMOS|Aproximemos una cosa a otra
+APRENDAMOS|Lleguemos a saberlo
+BAILEMOS|Dancemos al son
+BEBED|Tomad el líquido
+BUSCAD|Tratad de encontrar
+BUSQUEMOS|Tratemos de encontrar
+CANTEMOS|Entonemos una copla
+CERRAD|Tapad la entrada
+CERREMOS|Tapemos la entrada
+COMPREMOS|Adquiramos por dinero
+CORRAMOS|Vayamos a la carrera
+CRUCEMOS|Pasemos al otro lado
+DAD|Entregad de balde
+DECID|Manifestadlo de palabra
+DEJAD|Soltad lo que lleváis
+DEJEMOS|Soltemos lo que llevamos
+DORMID|Reposad en el lecho
+DURMAMOS|Reposemos en el lecho
+EMPECEMOS|Demos comienzo
+ENTRAD|Pasad adentro
+ENTREMOS|Pasemos adentro
+ESCRIBAMOS|Pongámoslo por escrito
+ESCRIBID|Ponedlo por escrito
+GUARDAD|Poned a recaudo
+GUARDEMOS|Pongamos a recaudo
+HABLEMOS|Usemos la palabra
+HACED|Ejecutad la obra
+JUGUEMOS|Entretengámonos con el juego
+LIMPIAD|Quitad la suciedad
+LIMPIEMOS|Quitemos la suciedad
+LLEGUEMOS|Arribemos al destino
+LLEVAD|Trasladad la carga
+LLEVEMOS|Traslademos la carga
+MIRAD|Fijad la vista
+MIREMOS|Fijemos la vista
+OID|Percibid el sonido
+PAGUEMOS|Satisfagamos la deuda
+PARTAMOS|Pongámonos en camino
+PARTID|Poneos en camino
+PASAD|Cruzad de largo
+PASEMOS|Crucemos de largo
+PEDID|Solicitad el favor
+PIDAMOS|Solicitemos el favor
+PONED|Colocadlo en su sitio
+QUEDAD|Permaneced allí
+QUEDEMOS|Permanezcamos allí
+RECIBAMOS|Tomemos lo enviado
+RECIBID|Tomad lo enviado
+SABED|Tened noticia de ello
+SALTEMOS|Brinquemos de gozo
+SALID|Marchad fuera
+SAQUEMOS|Extraigamos del hueco
+SENTID|Percibidlo en el ánimo
+SERVID|Atended la mesa
+SINTAMOS|Percibámoslo en el ánimo
+SIRVAMOS|Atendamos la mesa
+SUBID|Ascended la escalera
+TOCAD|Poned la mano encima
+TOMAD|Coged para vosotros
+TOMEMOS|Cojamos para nosotros
+TOQUEMOS|Pongamos la mano encima
+TRABAJEMOS|Ganemos nuestro jornal
+TRAED|Llevadlo hasta aquí
+VED|Percibidlo con la vista
+VENDAMOS|Demos por dinero
+VENID|Llegad de camino

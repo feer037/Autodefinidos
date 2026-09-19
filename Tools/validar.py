@@ -21,7 +21,7 @@ RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DIR_PUZZLES = os.path.join(RAIZ, "Autodefinidos", "Recursos", "Puzzles")
 INDICE = os.path.join(RAIZ, "Autodefinidos", "Recursos", "indice.json")
 CATALOGO = os.path.join(RAIZ, "Autodefinidos", "Recursos", "Assets.xcassets", "Pistas")
-BANCO = os.path.join(RAIZ, "Autodefinidos", "Recursos", "banco.json")
+BANCO = os.path.join(RAIZ, "Tools", "banco.json")
 
 
 def revisar(puzzle, imagenes_catalogo, banco):

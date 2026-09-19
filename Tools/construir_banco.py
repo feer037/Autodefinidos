@@ -9,8 +9,10 @@ Formato de cada linea de los ficheros fuente:
 Las lineas vacias y las que empiezan por '#' se ignoran. La categoria de
 cada entrada se deduce del nombre del fichero (001_animales.txt -> animales).
 
-La salida es Autodefinidos/Recursos/banco.json, ya normalizado para la
-rejilla: mayusculas, sin tildes, con enye, solo A-Z y N con virgulilla.
+La salida es Tools/banco.json, ya normalizado para la rejilla: mayusculas,
+sin tildes, con enye, solo A-Z y N con virgulilla. Ese fichero lo lee el
+generador; la app no lo necesita, porque cada autodefinido ya lleva dentro
+sus definiciones.
 """
 
 import json
@@ -22,7 +24,7 @@ from collections import Counter, defaultdict
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DIR_BANCO = os.path.join(RAIZ, "Tools", "banco")
-SALIDA = os.path.join(RAIZ, "Autodefinidos", "Recursos", "banco.json")
+SALIDA = os.path.join(RAIZ, "Tools", "banco.json")
 
 LONGITUD_MIN = 3
 LONGITUD_MAX = 12

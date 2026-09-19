@@ -1,0 +1,190 @@
+# Ciencia, naturaleza, tiempo y fenómenos
+ABISAL|De lo más hondo del océano
+ACIDEZ|Cualidad de lo agrio
+ACUIFERO|Capa que guarda agua bajo tierra
+AEROLITO|Piedra que cae del cielo
+AFLUENTE|Río que desemboca en otro
+AGUACERO|Lluvia fuerte y repentina
+AGUANIEVE|Lluvia mezclada con nieve
+ALBUFERA|Laguna junto al mar
+ALGARROBO|Árbol de vainas dulces
+ALGEBRA|Cálculo con letras y números
+ALTIMETRO|Aparato que mide la altura
+ALUVION|Arrastre de tierras por el agua
+AMPERIO|Unidad de la corriente eléctrica
+ANFIBIO|Animal de agua y tierra
+ANTARTIDA|Continente helado del sur
+ANTICICLON|Zona de altas presiones
+APOGEO|Punto más lejano de la órbita
+ARCILLA|Tierra que se moldea húmeda
+ARRECIFE|Banco de roca o coral
+ASTEROIDE|Pequeño cuerpo que gira al sol
+ASTROLABIO|Antiguo aparato para medir astros
+ATMOSFERA|Capa de aire que envuelve la Tierra
+AURORA|Luz del cielo antes de salir el sol
+BACTERIA|Ser vivo de una sola célula
+BALANZA|Aparato que pesa
+BAROMETRO|Aparato que mide la presión
+BASALTO|Roca oscura de origen volcánico
+BIOSFERA|Zona donde hay vida
+BOREAL|Del hemisferio norte
+BORRASCA|Zona de bajas presiones
+BRUJULA|Aguja que señala el norte
+CALIZA|Roca blanca de carbonato
+CANAL|Cauce abierto por el hombre
+CARBONO|Elemento de la vida y del carbón
+CASCADA|Caída de agua desde un alto
+CATALIZADOR|Lo que acelera una reacción
+CAUDAL|Agua que lleva un río
+CAVERNA|Cueva grande y profunda
+CELULA|Unidad básica de lo vivo
+CENIZA|Polvo que deja lo quemado
+CENTELLA|Chispa muy viva
+CEREBRO|Órgano del pensamiento
+CIENAGA|Terreno pantanoso
+CIRRO|Nube alta y deshilachada
+CLOROFILA|Sustancia verde de las plantas
+COLOIDE|Mezcla de partículas en suspensión
+COMETA|Astro con cola de polvo y gas
+CONDENSAR|Pasar de vapor a líquido
+CONIFERA|Árbol de piñas y hoja de aguja
+CONSTELACION|Grupo de estrellas con nombre
+CORRIENTE|Flujo continuo de agua o aire
+CRATER|Boca del volcán
+CRECIENTE|Luna que va aumentando
+CRISTAL|Sólido de caras regulares
+CROMOSOMA|Bastoncillo que lleva los genes
+CUARZO|Mineral duro y transparente
+CUENCA|Terreno que recoge las aguas
+DELTA|Desembocadura en varios brazos
+DENSIDAD|Masa que cabe en un volumen
+DESHIELO|Fusión de la nieve y el hielo
+DILUVIO|Lluvia larguísima y devastadora
+DINAMO|Máquina que genera electricidad
+DIQUE|Muro que contiene el agua
+ECLIPSE|Ocultación de un astro por otro
+ECOSISTEMA|Seres vivos y su medio
+ELECTRON|Partícula de carga negativa
+EMBALSE|Agua retenida por una presa
+ENZIMA|Proteína que acelera reacciones
+EROSION|Desgaste del terreno
+ESCARCHA|Rocío helado de la mañana
+ESPECTRO|Franja de colores de la luz
+ESTALACTITA|Aguja de piedra que cuelga del techo
+ESTALAGMITA|Aguja de piedra que sube del suelo
+ESTEPA|Llanura extensa y sin árboles
+ESTIAJE|Nivel más bajo del río
+ESTRATO|Capa de terreno o de nube
+EVAPORAR|Convertir el agua en vapor
+FALLA|Fractura de la corteza terrestre
+FAUCE|Garganta estrecha de un paso
+FERMENTO|Lo que hace fermentar
+FILAMENTO|Hilo muy fino que se pone al rojo
+FISION|Rotura del núcleo atómico
+FIORDO|Entrante largo del mar entre montañas
+FOSFORO|Elemento que brilla en la oscuridad
+FOTOSINTESIS|Proceso verde que usa la luz
+FRAGUA|Fogón donde se caldea el metal
+FRICCION|Roce que frena el movimiento
+GALAXIA|Isla de estrellas
+GALERNA|Viento fuerte y súbito del noroeste
+GAMMA|Radiación de mayor energía
+GEISER|Chorro de agua caliente del suelo
+GENOMA|Conjunto de los genes
+GEODESIA|Ciencia que mide la Tierra
+GLACIAR|Río de hielo de la montaña
+GRANIZO|Bolitas de hielo que caen
+GRAVEDAD|Fuerza que atrae hacia el suelo
+HELECHO|Planta de hojas finamente partidas
+HEMISFERIO|Mitad de la esfera terrestre
+HIDROGENO|El elemento más ligero
+HORMONA|Mensajero químico del cuerpo
+HUMEDAD|Agua que hay en el aire
+HURACAN|Viento de fuerza destructora
+INERCIA|Tendencia a seguir como se estaba
+ISOBARA|Línea de igual presión
+ISOTOPO|Variante de un mismo elemento
+JADEITA|Piedra verde muy apreciada
+LADERA|Costado de la montaña
+LAGUNA|Depósito natural de agua pequeño
+LARVA|Primera forma del insecto
+LATITUD|Distancia al ecuador
+LAVA|Roca fundida que sale del volcán
+LEVADURA|Hongo que hace subir la masa
+LIQUEN|Alga y hongo que viven juntos
+LITORAL|Franja de tierra junto al mar
+LONGITUD|Distancia al meridiano cero
+LUMEN|Unidad del flujo luminoso
+MAGNETISMO|Fuerza que atrae el hierro
+MANANTIAL|Agua que brota del suelo
+MAREJADA|Agitación fuerte del mar
+MARISMA|Terreno bajo que inunda la marea
+MEANDRO|Curva ancha del río
+MEMBRANA|Lámina fina que envuelve
+MERIDIANO|Línea que va de polo a polo
+METEORITO|Piedra del espacio que llega al suelo
+MICROBIO|Ser vivo que no se ve a simple vista
+MICROSCOPIO|Aparato que agranda lo diminuto
+MOLECULA|Unión de varios átomos
+MONZON|Viento que trae las lluvias en Asia
+MORRENA|Piedras que arrastra el glaciar
+NEBULOSA|Nube de gas entre las estrellas
+NEUTRON|Partícula sin carga del núcleo
+NEVERO|Nieve que dura todo el año
+NUCLEO|Centro del átomo o de la célula
+OASIS|Manantial en medio del desierto
+OLEAJE|Sucesión de olas
+ORBITA|Camino de un astro alrededor de otro
+OSMOSIS|Paso del agua por una membrana
+OVULO|Célula femenina de la reproducción
+OXIGENO|Gas que respiramos
+PANTANO|Terreno cubierto de agua estancada
+PARALELO|Círculo paralelo al ecuador
+PENDIENTE|Inclinación del terreno
+PENINSULA|Tierra rodeada de agua menos por un lado
+PERIHELIO|Punto más cercano al Sol
+PERMAFROST|Suelo helado todo el año
+PLANCTON|Seres diminutos que flotan en el mar
+PLANETA|Astro que gira alrededor de una estrella
+PLASMA|Cuarto estado de la materia
+POLEN|Polvillo fecundante de la flor
+PRESION|Fuerza repartida en la superficie
+PROTON|Partícula de carga positiva
+PULSAR|Estrella que emite pulsos
+QUASAR|Núcleo lejano y brillantísimo
+RADIACION|Energía que viaja por el espacio
+RAFAGA|Golpe brusco de viento
+RELAMPAGO|Luz súbita de la tormenta
+REPTIL|Animal de escamas que se arrastra
+RESINA|Jugo espeso que sale del pino
+RIADA|Crecida violenta del río
+RIBERA|Orilla del río
+ROCIO|Gotas del amanecer sobre la hierba
+SABANA|Llanura de hierba alta
+SALITRE|Sal que aflora en los muros
+SATELITE|Cuerpo que gira alrededor de un planeta
+SEDIMENTO|Lo que se posa en el fondo
+SEISMO|Temblor de la tierra
+SELVA|Bosque espeso y húmedo
+SEQUIA|Falta prolongada de lluvia
+SIMBIOSIS|Vida en común de dos especies
+SISMOGRAFO|Aparato que registra terremotos
+SOLSTICIO|Día más largo o más corto del año
+SONDEO|Perforación para explorar el suelo
+TELESCOPIO|Aparato que acerca los astros
+TEMPANO|Bloque de hielo que flota
+TEMPESTAD|Tormenta con viento y agua
+TERMOMETRO|Aparato que mide el calor
+TIFON|Huracán de los mares de Asia
+TORRENTE|Corriente impetuosa
+TUNDRA|Llanura helada sin árboles
+TURBINA|Rueda que mueve un fluido
+VACUNA|Preparado que da defensas
+VAGUADA|Línea más honda del valle
+VALVULA|Pieza que regula el paso
+VENDAVAL|Viento muy recio del sur
+VERTIENTE|Ladera por donde corren las aguas
+VIRAJE|Cambio brusco de dirección
+VOLTIO|Unidad de la tensión eléctrica
+VORAGINE|Remolino que traga
+YACIMIENTO|Lugar donde hay un mineral

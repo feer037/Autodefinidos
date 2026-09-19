@@ -1,0 +1,254 @@
+# Carácter, trato, sociedad y vida diaria
+ABNEGADO|Que se sacrifica por los demás
+ABOCHORNAR|Hacer pasar vergüenza
+ABURRIDO|Que no despierta interés
+ACAPARAR|Quedarse con todo
+ACATAR|Obedecer sin discutir
+ACHACAR|Atribuir la culpa a alguien
+ACICATE|Estímulo que empuja a obrar
+ACOMODADO|De buena posición
+ACORDAR|Decidir de común acuerdo
+ADEHALA|Propina que se da de más
+ADEPTO|Partidario de una causa
+ADULAR|Alabar con exceso e interés
+ADVENEDIZO|Recién llegado sin arraigo
+AFABILIDAD|Trato agradable y sencillo
+AFANOSO|Que trabaja con empeño
+AFRENTA|Ofensa que deshonra
+AGASAJO|Obsequio y buen trato
+AGUAFIESTAS|Quien estropea la alegría ajena
+AHINCO|Empeño grande en algo
+AIRADO|Lleno de enfado
+ALARDE|Ostentación de lo que se tiene
+ALBOROTO|Ruido y desorden de gente
+ALCAHUETE|Quien encubre amores ajenos
+ALEGATO|Defensa razonada
+ALEVOSIA|Traición sobre seguro
+ALGARABIA|Griterío confuso
+ALIENTO|Ánimo que se da a otro
+ALTANERO|Que mira a los demás por encima
+ALTERCADO|Disputa con voces
+ALTIVEZ|Orgullo que desprecia
+AMAGO|Señal de algo que no llega
+AMANERADO|De gestos poco naturales
+AMBICION|Deseo grande de subir
+AMENAZA|Aviso de un mal que se hará
+AMILANAR|Meter miedo a alguien
+AMISTAD|Afecto entre personas
+AMONESTAR|Reprender con autoridad
+ANDANADA|Reprensión larga y dura
+ANHELO|Deseo muy vivo
+ANIMOSO|De ánimo esforzado
+ANTIPATIA|Rechazo instintivo hacia alguien
+APATIA|Falta de ganas y de interés
+APOCAR|Acobardar y empequeñecer
+APREMIO|Prisa que se impone
+APTITUD|Capacidad para algo
+ARBITRAR|Decidir entre dos partes
+ARDIENTE|De pasión muy viva
+ARISCO|De trato áspero y esquivo
+ARROGANCIA|Soberbia en el porte
+ARTIMANA|Treta para engañar
+ASIDUO|Que acude con frecuencia
+ASOMBRO|Sorpresa muy grande
+ASTUCIA|Maña para conseguir algo
+ATENCION|Cuidado puesto en algo
+ATOLONDRADO|Que obra sin reflexionar
+ATREVIDO|Que se lanza sin temor
+AUSTERO|Sobrio y sin lujos
+AUTORIDAD|Poder para mandar
+AVARICIA|Apego desmedido al dinero
+AVENENCIA|Acuerdo entre quienes reñían
+AVERGONZAR|Hacer sentir vergüenza
+BALDIO|Que no sirve para nada
+BANDERIA|Bando enfrentado a otro
+BARULLO|Confusión y desorden
+BENEVOLO|De buena voluntad hacia otros
+BIENESTAR|Vida cómoda y tranquila
+BIZARRO|Valiente y gallardo
+BOATO|Lujo ostentoso
+BOCHORNO|Vergüenza que sonroja
+BONDAD|Inclinación a hacer el bien
+BREGA|Lucha y trabajo continuos
+BRINDIS|Palabras al levantar la copa
+BRUSCO|De maneras bruscas y secas
+BULLICIO|Ruido alegre de mucha gente
+BURLON|Que se ríe de los demás
+CABILDEO|Gestión reservada para lograr algo
+CALAMIDAD|Desgracia que alcanza a muchos
+CALUMNIA|Acusación falsa que daña
+CAMARADERIA|Trato llano entre compañeros
+CANDOR|Sinceridad sin doblez
+CAPRICHO|Deseo pasajero y sin razón
+CARINO|Afecto que se tiene a alguien
+CAUTELA|Prudencia para evitar un daño
+CENSURA|Reproche público
+CERTEZA|Seguridad de que algo es cierto
+CICATERO|Mezquino en el gastar
+CIZANA|Discordia que se siembra
+CLEMENCIA|Perdón del que puede castigar
+COBARDIA|Falta de valor ante el peligro
+CODICIA|Afán desmedido de riquezas
+COHECHO|Soborno a un funcionario
+COMEDIDO|Moderado y cortés
+COMPASION|Pena que se siente por otro
+CONCORDIA|Acuerdo y buena avenencia
+CONDESCENDER|Ceder al gusto de otro
+CONFIANZA|Seguridad que se pone en alguien
+CONGOJA|Angustia que oprime
+CONSUELO|Alivio de la pena
+CONTIENDA|Disputa o pelea
+CORDURA|Buen juicio al obrar
+CORTESIA|Buenos modales en el trato
+CREDULO|Que se cree todo
+CUCHICHEO|Habla en voz baja al oído
+CULPABLE|Quien tiene la culpa
+DADIVOSO|Que da con largueza
+DECORO|Respeto que se debe a alguien
+DEFERENCIA|Atención delicada hacia otro
+DENUESTO|Insulto que se dirige a alguien
+DESAFIO|Reto que se lanza
+DESAIRE|Desprecio que se hace a alguien
+DESALINO|Falta de aseo y de orden
+DESAMPARO|Falta de ayuda y de abrigo
+DESATINO|Disparate que se dice o se hace
+DESCARO|Falta de vergüenza
+DESDEN|Desprecio frío
+DESIDIA|Dejadez y falta de cuidado
+DESLEAL|Que traiciona la confianza
+DESMESURA|Falta de medida
+DESPECHO|Rencor por un desengaño
+DESPILFARRO|Gasto sin medida
+DESVELO|Cuidado que quita el sueño
+DILIGENCIA|Prontitud en el obrar
+DISCORDIA|Falta de acuerdo entre partes
+DISCRECION|Reserva al hablar
+DISPARATE|Dicho o hecho sin sentido
+DOBLEZ|Falsedad en el trato
+DONOSURA|Gracia y donaire
+ECUANIME|Que juzga con serenidad
+EFUSIVO|Que muestra el afecto sin medida
+EGOISMO|Amor excesivo a uno mismo
+ELOCUENCIA|Arte de hablar con fuerza
+EMBUSTE|Mentira bien armada
+EMPATIA|Ponerse en el lugar del otro
+EMPENO|Constancia en lograr algo
+ENCONO|Rencor arraigado
+ENGREIDO|Que se tiene en mucho
+ENOJO|Enfado que se muestra
+ENTEREZA|Firmeza ante la adversidad
+ENTUSIASMO|Ardor con que se emprende algo
+ENVIDIA|Pesar por el bien ajeno
+EQUIDAD|Justicia que da a cada uno lo suyo
+ESCRUPULO|Duda que frena la conciencia
+ESMERO|Cuidado extremo en el trabajo
+ESTOICO|Que soporta sin quejarse
+ESTRECHEZ|Falta de medios para vivir
+EUFORIA|Alegría desbordante
+EXIGENTE|Que pide mucho
+FANFARRON|Que presume de lo que no es
+FATUIDAD|Vanidad necia
+FELONIA|Deslealtad grave
+FIDELIDAD|Constancia en el afecto
+FLAQUEZA|Debilidad del carácter
+FRANQUEAR|Dejar el paso libre
+FRUGAL|Parco en el comer
+GALANTERIA|Atención cortés hacia una dama
+GARBO|Gracia en el andar
+GENEROSIDAD|Largueza en el dar
+GRAVEDAD|Seriedad en el porte
+GROSERIA|Falta de educación
+HALAGO|Palabra que agrada
+HARAGAN|Que huye del trabajo
+HASTIO|Cansancio y disgusto de algo
+HAZANA|Hecho digno de memoria
+HERMETICO|Que no deja salir nada
+HIDALGUIA|Nobleza en el obrar
+HIPOCRESIA|Fingir lo que no se siente
+HONRADEZ|Rectitud en el obrar
+HOSQUEDAD|Aspereza en el trato
+HUMILDAD|Modestia sobre uno mismo
+IMPAVIDO|Que no se inmuta
+IMPERTINENTE|Que molesta con lo que dice
+IMPETU|Fuerza con que se acomete
+INCAUTO|Que cae fácilmente en la trampa
+INDOLENCIA|Pereza y falta de interés
+INDULGENTE|Que perdona con facilidad
+INFAMIA|Deshonra pública
+INGENIO|Chispa para discurrir
+INGRATITUD|Olvido del favor recibido
+INQUINA|Mala voluntad hacia alguien
+INSOLENCIA|Atrevimiento ofensivo
+INTEGRIDAD|Rectitud a toda prueba
+INTREPIDO|Que no conoce el miedo
+JACTANCIA|Alabanza de uno mismo
+JOVIAL|De humor alegre y llano
+JUICIOSO|Que obra con buen sentido
+LACONICO|Que habla con pocas palabras
+LEALTAD|Firmeza en la palabra dada
+LENIDAD|Blandura al castigar
+LISONJA|Alabanza interesada
+LOCUACIDAD|Facilidad grande para hablar
+MAGNANIMO|De ánimo grande y generoso
+MALICIA|Intención de hacer daño
+MANSEDUMBRE|Suavidad en el trato
+MEZQUINDAD|Ruindad y estrechez de ánimo
+MODESTIA|Falta de vanidad
+MOFA|Burla que se hace en público
+NECEDAD|Dicho propio de un necio
+NOSTALGIA|Pena por lo que quedó atrás
+OBSTINADO|Que no da su brazo a torcer
+OCURRENCIA|Idea graciosa y repentina
+PACIENCIA|Aguante ante lo que molesta
+PARSIMONIA|Calma excesiva al obrar
+PENDENCIA|Riña entre dos o más
+PERSPICAZ|Que ve lo que otros no ven
+PESIMISMO|Ver siempre el lado malo
+PICARDIA|Astucia con gracia
+PORFIA|Insistencia terca
+PRESUNCION|Vanidad de quien se cree mucho
+PROBIDAD|Honradez acreditada
+PRUDENCIA|Cautela al decidir
+PUNDONOR|Sentimiento vivo del honor
+QUERELLA|Discordia llevada ante el juez
+RECATO|Reserva y pudor
+RECELO|Desconfianza que inquieta
+RECTITUD|Modo de obrar sin torcerse
+REGANINA|Reprensión que se echa
+RENCILLA|Enemistad pequeña y duradera
+RENDICION|Entrega al que vence
+RESIGNACION|Aceptación de lo inevitable
+REZONGAR|Refunfuñar al obedecer
+SAGACIDAD|Vista larga para prever
+SENSATEZ|Buen juicio en el obrar
+SERENIDAD|Calma que no se altera
+SEVERIDAD|Rigor al juzgar
+SIGILO|Cuidado en no hacer ruido
+SIMPATIA|Agrado que inspira alguien
+SINCERIDAD|Decir lo que se siente
+SOBERBIA|Orgullo que desprecia a otros
+SOLICITUD|Diligencia y cuidado
+SOLIDARIDAD|Ayuda entre quienes comparten causa
+SOSPECHA|Recelo sin pruebas
+TACANO|Que escatima hasta lo debido
+TEMERIDAD|Arrojo sin medir el riesgo
+TEMPLANZA|Moderación en los apetitos
+TERQUEDAD|Empeño en no ceder
+TIMIDEZ|Apuro ante los demás
+TOLERANCIA|Respeto a lo que no se comparte
+TORPEZA|Falta de destreza
+TOZUDO|Que se empeña sin ceder
+TRANQUILIDAD|Estado de quietud
+TRAVESURA|Diablura de muchacho
+TRISTEZA|Pena que abate el ánimo
+URBANIDAD|Buenas maneras en sociedad
+VALENTIA|Ánimo ante el peligro
+VANIDAD|Estima excesiva de uno mismo
+VEHEMENCIA|Fuerza con que se siente algo
+VENGANZA|Daño que se devuelve
+VERACIDAD|Costumbre de decir la verdad
+VERGUENZA|Turbación ante una falta
+VIGILANCIA|Cuidado atento
+VIVEZA|Prontitud del ingenio
+ZALAMERO|Que halaga con mimos
+ZOZOBRAR|Perder la calma y el rumbo

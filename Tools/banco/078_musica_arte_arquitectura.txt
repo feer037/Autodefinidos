@@ -1,0 +1,229 @@
+# Música, artes plásticas, arquitectura, teatro y danza
+ABSIDE|Remate curvo del templo
+ACORDE|Varias notas que suenan a la vez
+ACUARELA|Pintura al agua sobre papel
+ADAGIO|Movimiento musical pausado
+ADORNO|Lo que embellece sin ser útil
+AFINADOR|Quien pone a tono el piano
+AGUAFUERTE|Grabado mordido con ácido
+AGUJA|Remate puntiagudo de la torre
+ALABASTRO|Piedra blanca que se talla
+ALARIFE|Maestro de obras antiguo
+ALERO|Borde volado del tejado
+ALJIBE|Depósito de agua bajo tierra
+ALMENA|Diente del muro del castillo
+ALTORRELIEVE|Escultura muy saliente del fondo
+AMBON|Púlpito de las iglesias antiguas
+ANDAMIO|Armazón para trabajar en alto
+ANFITEATRO|Gradas en semicírculo
+ANTIFONA|Canto alterno del coro
+APLIQUE|Lámpara sujeta a la pared
+ARABESCO|Adorno de líneas entrelazadas
+ARCADA|Serie de arcos seguidos
+ARMONIA|Buena combinación de sonidos
+ARPEGIO|Notas del acorde una tras otra
+ARQUITRABE|Parte baja del entablamento
+ARTESONADO|Techo de madera con casetones
+ATRIL|Soporte donde se pone la partitura
+ATRIO|Espacio delante del templo
+BAJORRELIEVE|Escultura que apenas sobresale
+BALADA|Canción lenta y sentimental
+BALAUSTRE|Columnita de la barandilla
+BALCONADA|Serie de balcones seguidos
+BANDURRIA|Instrumento de doce cuerdas
+BARANDA|Antepecho de la escalera
+BARROCO|Estilo recargado del XVII
+BASILICA|Templo de nave larga
+BATERIA|Conjunto de tambores y platillos
+BATUTA|Varilla del director de orquesta
+BEMOL|Signo que baja medio tono
+BIOMBO|Mampara plegable de varias hojas
+BOCETO|Primer apunte de un cuadro
+BOHEMIA|Vida libre de los artistas
+BOVEDA|Techo curvo de piedra
+BUHARDILLA|Cuarto bajo el tejado
+BUSTO|Escultura de cabeza y pecho
+CADENCIA|Ritmo con que se cierra la frase
+CALADO|Labor de huecos en la piedra
+CAMERINO|Cuarto donde se viste el actor
+CAMPANARIO|Torre de las campanas
+CANTATA|Obra para voces y orquesta
+CANTERA|Lugar de donde se saca la piedra
+CANTOR|El que canta en el coro
+CAPITEL|Remate superior de la columna
+CARBONCILLO|Barrita negra para dibujar
+CARIATIDE|Columna con figura de mujer
+CARTELERA|Anuncio de lo que se representa
+CASETON|Hueco cuadrado del artesonado
+CATEDRAL|Templo de la sede del obispo
+CELOSIA|Enrejado que deja ver sin ser visto
+CERAMISTA|Quien trabaja el barro cocido
+CHAFLAN|Esquina cortada en diagonal
+CHAPITEL|Remate puntiagudo de la torre
+CIMBORRIO|Cuerpo que levanta la cúpula
+CINCEL|Herramienta que talla la piedra
+CLARINETE|Instrumento de viento y lengüeta
+CLAUSTRO|Galería en torno al patio del convento
+CLAVE|Signo al principio del pentagrama
+CLAVICORDIO|Teclado antiguo de cuerda pulsada
+COLISEO|Gran anfiteatro romano
+COLUMNATA|Fila de columnas
+COMEDIA|Obra teatral que acaba bien
+COMPAS|División del ritmo musical
+CONCERTINO|Primer violín de la orquesta
+CONTRALTO|Voz femenina más grave
+CONTRAFUERTE|Machón que sostiene el muro
+CONTRAPUNTO|Arte de combinar melodías
+CORCHEA|Nota que vale media negra
+CORNISA|Moldura que corona el muro
+CORO|Grupo que canta junto
+CRESTERIA|Adorno calado del remate gótico
+CRIPTA|Recinto bajo el suelo del templo
+CROMATICO|Que avanza por medios tonos
+CRUCERO|Nave que cruza la principal
+CUARTETO|Grupo de cuatro músicos
+CUBISMO|Vanguardia de formas geométricas
+CUPULA|Bóveda semiesférica
+DECORADO|Lo que ambienta la escena
+DIAPASON|Horquilla que da la nota
+DINTEL|Pieza horizontal sobre el hueco
+DISONANCIA|Sonido que hiere el oído
+DORICO|Orden griego de columna sencilla
+DRAMATURGO|Quien escribe para el teatro
+EBANISTA|Quien hace muebles finos
+ENLUCIDO|Capa fina que alisa el muro
+ENTABLAMENTO|Lo que carga sobre las columnas
+ENTREACTO|Descanso entre dos actos
+ESCAYOLA|Yeso fino para molduras
+ESCENOGRAFIA|Arte de montar la escena
+ESCORZO|Figura vista en perspectiva forzada
+ESGRAFIADO|Decoración rascada sobre el revoco
+ESPATULA|Paleta plana del pintor
+ESTRENO|Primera vez que se representa
+ESTUCO|Pasta que imita el mármol
+FACHADA|Cara principal del edificio
+FAGOT|Instrumento grave de doble lengüeta
+FALSETE|Voz aguda y forzada
+FANDANGO|Baile popular español
+FLAUTIN|Flauta pequeña y muy aguda
+FRESCO|Pintura hecha sobre el muro húmedo
+FRISO|Faja decorada del entablamento
+FRONTON|Remate triangular del templo
+FUGA|Composición de temas que se persiguen
+GABLETE|Remate triangular del gótico
+GARGOLA|Caño con figura que echa el agua
+GOTICO|Estilo de arcos apuntados
+GRABADO|Estampa sacada de una plancha
+GRADERIO|Escalones donde se sienta el público
+GUACHE|Pintura opaca al agua
+GUARDILLA|Desván bajo la cubierta
+HEMICICLO|Sala con gradas en semicírculo
+HORNACINA|Hueco en el muro para una imagen
+IMPOSTA|Moldura donde arranca el arco
+IMPRESIONISMO|Pintura de la luz y el instante
+INTERLUDIO|Pieza breve entre dos partes
+JAMBA|Lado vertical del hueco
+JONICO|Orden griego de volutas
+LAUD|Instrumento antiguo de mástil corto
+LIBRETO|Texto de una ópera
+LIENZO|Tela donde se pinta
+LUCERNARIO|Ventana abierta en el techo
+MADRIGAL|Composición breve y galante
+MAMPOSTERIA|Obra de piedra sin labrar
+MARIMBA|Instrumento de láminas de madera
+MARQUESINA|Cubierta volada sobre la entrada
+MAZURCA|Danza polaca de tres tiempos
+MENSULA|Pieza que sostiene un vuelo
+MEZZOSOPRANO|Voz entre soprano y contralto
+MIRADOR|Balcón cerrado con cristales
+MOLDURA|Perfil corrido que decora
+MOSAICO|Dibujo hecho con teselas
+MOTETE|Canto religioso a varias voces
+MURAL|Pintura hecha sobre la pared
+NARTEX|Vestíbulo del templo antiguo
+NAVE|Espacio largo entre columnas
+NOCTURNO|Pieza de piano de aire soñador
+OBERTURA|Pieza que abre la ópera
+OCTAVA|Distancia de ocho notas
+OLEO|Pintura con colores al aceite
+ORATORIO|Obra sacra para voces y orquesta
+ORFEON|Coro de muchas voces
+ORNATO|Adorno del edificio
+PABELLON|Edificio suelto dentro de un recinto
+PAISAJE|Cuadro que retrata el campo
+PALETA|Tabla donde el pintor mezcla
+PANDERETA|Aro con sonajas y parche
+PANTEON|Edificio donde se entierra a los ilustres
+PARTITURA|Papel donde se escribe la música
+PASODOBLE|Aire español de dos por cuatro
+PASTEL|Barra de color blando para dibujar
+PATIO|Espacio descubierto de la casa
+PECHINA|Triángulo curvo que sostiene la cúpula
+PENTAGRAMA|Las cinco líneas de la música
+PERGOLA|Emparrado de listones sobre el jardín
+PERISTILO|Galería de columnas en torno al patio
+PIFANO|Flautín militar muy agudo
+PILASTRA|Columna adosada de sección cuadrada
+PINACOTECA|Museo de pintura
+PINCELADA|Trazo que deja el pincel
+PIZZICATO|Cuerda pulsada con el dedo
+PLATERESCO|Estilo español de fachadas labradas
+PORTICO|Espacio con columnas ante la puerta
+PRELUDIO|Pieza que precede a otra mayor
+PRESBITERIO|Espacio del altar mayor
+PROSCENIO|Parte delantera del escenario
+PUNTILLISMO|Pintura hecha a base de puntos
+QUINTETO|Grupo de cinco músicos
+RECITAL|Concierto de un solo intérprete
+REDOBLE|Repique rápido del tambor
+RENACIMIENTO|Vuelta a lo clásico en el arte
+REPERTORIO|Obras que sabe un intérprete
+REQUIEM|Misa por los difuntos
+RETABLO|Obra labrada tras el altar
+REVOCO|Capa que cubre y adorna el muro
+ROMANICO|Estilo de arcos de medio punto
+RONDA|Canto nocturno bajo las ventanas
+ROSETON|Ventana redonda y calada
+SAINETE|Pieza teatral breve y jocosa
+SARDANA|Danza en corro de Cataluña
+SEMIBREVE|Nota de mayor duración
+SEMICORCHEA|Nota que vale media corchea
+SERENATA|Música bajo el balcón de la amada
+SILLERIA|Conjunto de asientos labrados del coro
+SINFONIA|Gran obra para orquesta
+SOLFEO|Estudio de la lectura musical
+SOLISTA|Quien toca o canta solo
+SONATA|Obra en varios movimientos
+SOPRANO|Voz femenina más aguda
+SORDINA|Pieza que apaga el sonido
+SOTANO|Piso bajo el nivel del suelo
+TABIQUE|Pared delgada que separa
+TALLA|Escultura labrada en madera
+TAMBORIL|Tambor pequeño del músico popular
+TEMPLE|Pintura de pigmento con cola
+TENOR|Voz masculina más aguda
+TESELA|Pieza pequeña del mosaico
+TESITURA|Altura propia de una voz
+TIMBAL|Tambor de caldera afinado
+TIMPANO|Espacio dentro del frontón
+TOCATA|Pieza de lucimiento para teclado
+TONADA|Aire popular que se canta
+TORNAVOZ|Sombrero del púlpito que devuelve la voz
+TRAMOYA|Maquinaria que mueve el decorado
+TRANSEPTO|Nave transversal del templo
+TRIFORIO|Galería alta sobre las naves
+TRIPTICO|Pintura de tres tablas
+TROMPETA|Metal de sonido brillante
+TROVADOR|Poeta y músico medieval
+UTILERIA|Objetos que se usan en escena
+VESTIBULO|Pieza de entrada de la casa
+VIHUELA|Instrumento español del Renacimiento
+VILLANCICO|Canción navideña
+VIOLA|Cuerda algo mayor que el violín
+VIRTUOSO|Intérprete de destreza asombrosa
+VITRAL|Vidriera de colores
+VOLADIZO|Parte que sobresale del muro
+VOLUTA|Espiral del capitel jónico
+ZAGUAN|Paso de la puerta al patio
+ZARZUELA|Teatro lírico español
+ZOCALO|Franja baja de la pared

@@ -1,0 +1,146 @@
+# Fauna: aves, peces, insectos, mamíferos y partes de animales
+ABEJARUCO|Ave de colores que caza abejas
+ABEJORRO|Insecto grande y velludo que zumba
+ACENTOR|Pajarillo pardo de la montaña
+ADEMAN|Gesto con que se amenaza
+AGUZANIEVES|Pajarillo de cola larga que mueve
+ALACRAN|Arácnido de aguijón en la cola
+ALBATROS|Ave marina de gran envergadura
+ALCARAVAN|Ave zancuda de grito nocturno
+ALCATRAZ|Ave marina que se lanza en picado
+ALEVIN|Cría del pez
+ALIMOCHE|Buitre pequeño y blanquecino
+ALONDRA|Pájaro que canta subiendo al cielo
+ANGUILA|Pez largo y viscoso de río
+ANSAR|Ganso silvestre
+ARDILLA|Roedor de cola espesa que trepa
+ARENQUE|Pez azul que se cura ahumado
+ARMADILLO|Mamífero cubierto de placas
+ARRENDAJO|Ave que imita otros cantos
+AVEFRIA|Ave de penacho y vuelo lento
+AVESTRUZ|Ave grande que no vuela
+AVISPA|Insecto de aguijón y franjas amarillas
+AVUTARDA|Ave grande de las llanuras
+BABOSA|Molusco sin concha que deja rastro
+BACALAO|Pez que se sala y se seca
+BALLENATO|Cría de la ballena
+BARBO|Pez de río con barbillas
+BERBERECHO|Molusco de concha estriada
+BESUGO|Pez de ojo grande muy apreciado
+BOQUERON|Pez pequeño que se come en vinagre
+BUITRE|Ave que se alimenta de carrona
+CABALLA|Pez azul de lomo rayado
+CACHALOTE|Cetáceo de cabeza enorme
+CALAMAR|Molusco de diez brazos y tinta
+CAMALEON|Reptil que cambia de color
+CANGURO|Marsupial que salta con la cola
+CARACOLA|Concha grande en espiral
+CARBONERO|Pajarillo de capucha negra
+CARDUMEN|Banco de peces que van juntos
+CARPINCHO|Roedor mayor del mundo
+CASTOR|Roedor que levanta presas
+CENTOLLO|Crustáceo de patas largas y espinas
+CERNICALO|Halcón pequeño que se cierne
+CHOCHIN|El pájaro más pequeño de Europa
+CHORLITO|Ave de playa de carrera veloz
+CIGALA|Crustáceo de pinzas alargadas
+CIGUENA|Ave que anida en los campanarios
+CIRRIPEDO|Crustáceo que vive pegado a la roca
+COCODRILO|Reptil de fauces enormes
+COLIMBO|Ave acuática que bucea
+COLMILLO|Diente largo y puntiagudo
+CORDERO|Cría de la oveja
+CORMORAN|Ave negra que pesca buceando
+CORNAMENTA|Conjunto de los cuernos
+CORZO|Ciervo pequeño de los bosques
+CRIA|Hijo pequeño del animal
+CRISALIDA|Estado intermedio del insecto
+CUERVO|Ave negra de graznido ronco
+CULEBRA|Reptil largo sin patas
+DELFIN|Cetáceo juguetón de hocico largo
+DROMEDARIO|Camello de una sola joroba
+ERIZO|Animal cubierto de púas
+ESCARABAJO|Insecto de élitros duros
+ESCORPION|Arácnido de cola venenosa
+ESTORNINO|Ave negra que vuela en bandadas
+FLAMENCO|Ave rosada de patas larguísimas
+FOCA|Mamífero marino de aletas
+GACELA|Antílope veloz y grácil
+GALAPAGO|Tortuga de agua dulce
+GAMBA|Crustáceo rosado que se cuece
+GAMO|Ciervo de cuernos aplanados
+GARDUNA|Mamífero pequeño y astuto
+GARRAPATA|Parásito que se agarra a la piel
+GAVILAN|Ave rapaz de los bosques
+GAVIOTA|Ave blanca de los puertos
+GOLONDRINA|Ave de cola ahorquillada que emigra
+GORRION|Pájaro pardo de las ciudades
+GRILLO|Insecto que canta en la noche
+GUACAMAYO|Loro grande de vivos colores
+HALCON|Ave de presa de vuelo veloz
+HIPOPOTAMO|Mamífero de río de gran boca
+HORMIGUERO|Nido donde viven las hormigas
+JABALI|Cerdo salvaje de colmillos
+JILGUERO|Pájaro de cara roja y buen canto
+JIRAFA|Mamífero del cuello larguísimo
+LAGARTIJA|Reptil pequeño que corre por el muro
+LANGOSTINO|Crustáceo alargado de mar
+LECHUZA|Rapaz nocturna de cara blanca
+LEMUR|Primate de ojos grandes de Madagascar
+LENGUADO|Pez plano de los fondos
+LIBELULA|Insecto de cuatro alas transparentes
+LOMBRIZ|Gusano que remueve la tierra
+LUCIERNAGA|Insecto que brilla en la noche
+LUCIO|Pez voraz de agua dulce
+MANDIBULA|Hueso que sostiene los dientes
+MANTARRAYA|Pez plano de grandes aletas
+MARIPOSA|Insecto de alas de colores
+MARMOTA|Roedor que duerme el invierno
+MARTINETE|Ave zancuda de penacho
+MEJILLON|Molusco de concha negra
+MERLUZA|Pez blanco muy común en la mesa
+MIRLO|Pájaro negro de pico amarillo
+MOLLEJA|Estómago muscular del ave
+MORSA|Mamífero marino de grandes colmillos
+MURCIELAGO|Mamífero que vuela de noche
+NUTRIA|Mamífero de río de piel apreciada
+OCA|Ave doméstica de cuello largo
+ORANGUTAN|Simio pelirrojo de Borneo
+ORCA|Cetáceo blanco y negro cazador
+OSEZNO|Cría del oso
+OSTRA|Molusco de concha áspera
+PANTERA|Felino negro y ágil
+PAPAGAYO|Ave que repite lo que oye
+PELICANO|Ave de gran bolsa bajo el pico
+PERDIZ|Ave de caza de las rastrojeras
+PETIRROJO|Pajarillo de pecho colorado
+PEZUNA|Uña partida de algunos animales
+PICAFLOR|Ave diminuta que liba en vuelo
+PIOJO|Parásito que vive en el pelo
+PLUMAJE|Conjunto de las plumas
+POLILLA|Insecto que roe la ropa
+POTRILLO|Cría del caballo
+PULPO|Molusco de ocho brazos
+QUISQUILLA|Camarón pequeño de roca
+RAPE|Pez feo de cabeza enorme
+RENACUAJO|Cría de la rana con cola
+RINOCERONTE|Mamífero de cuerno sobre el hocico
+RUISENOR|Pájaro de canto admirado
+SALAMANDRA|Anfibio negro con manchas amarillas
+SALMONETE|Pez rojizo de roca
+SANGUIJUELA|Gusano que chupa la sangre
+SARDINA|Pez azul pequeño de banco
+SEPIA|Molusco de concha interna
+SERPIENTE|Reptil que repta sin patas
+TABANO|Mosca grande que pica al ganado
+TEJON|Mamífero de cabeza rayada
+TERNERO|Cría de la vaca
+TIBURON|Pez temible de dientes en filas
+TORTUGA|Reptil que lleva su caparazón
+TRUCHA|Pez de río de carne rosada
+UROGALLO|Ave grande del bosque que canta en celo
+VENCEJO|Ave que vuela sin posarse
+VIBORA|Serpiente de mordedura venenosa
+VISON|Mamífero de piel muy cotizada
+ZARIGUEYA|Marsupial americano de cola prensil
+ZORZAL|Pájaro pardo de canto melodioso

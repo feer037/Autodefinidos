@@ -1,0 +1,240 @@
+# Minerales, piedras, metales y materiales
+ABSENTA|Licor verde de ajenjo
+ACERADO|Hecho de acero
+ADOQUINADO|Pavimento de piedras cuadradas
+AGATA|Piedra de bandas concéntricas
+AGUAMARINA|Piedra preciosa azul verdosa
+ALABASTRO|Piedra blanca y translúcida
+ALPACA|Aleación blanca de la cubertería
+ALUMBRE|Sal astringente usada en curtidos
+AMATISTA|Cuarzo de color violeta
+AMIANTO|Mineral fibroso que resiste el fuego
+ANTRACITA|Carbón de mayor poder calorífico
+ARENISCA|Roca de granos de arena unidos
+ARDOSA|Nombre antiguo de la pizarra
+AZABACHE|Lignito negro y brillante
+AZUFRE|Elemento amarillo de las cerillas
+BARNIZ|Capa brillante que protege la madera
+BASALTO|Roca volcánica oscura
+BAQUELITA|Primer plástico de la historia
+BAUXITA|Mineral del que se saca el aluminio
+BENTONITA|Arcilla que absorbe mucha agua
+BERILO|Mineral del que salen la esmeralda y el aguamarina
+BETUN|Materia negra y pegajosa del asfalto
+BRONCE|Aleación de cobre y estaño
+CALCITA|Mineral principal de la caliza
+CAOLIN|Arcilla blanca de la porcelana
+CARBONATO|Sal del ácido carbónico
+CARBUNCLO|Rubí de gran brillo
+CELULOIDE|Primer material del cine
+CEMENTO|Polvo gris que fragua con agua
+CERAMICA|Material de barro cocido
+CINABRIO|Mineral rojo del mercurio
+CINC|Metal que protege del óxido
+COBALTO|Metal de color azul intenso en los esmaltes
+CORINDON|Mineral durísimo del rubí y el zafiro
+CRISTAL|Vidrio de gran transparencia
+CROMO|Metal que da brillo a los baños metálicos
+CUARCITA|Roca muy dura de cuarzo
+CUARZO|Mineral de cristales hexagonales
+DIAMANTE|Mineral más duro de todos
+ESMALTE|Barniz vítreo que cubre el metal
+ESMERALDA|Piedra preciosa de color verde
+ESPATO|Mineral de exfoliación laminar
+ESTANO|Metal blando de las soldaduras
+ESTUCO|Pasta blanca que reviste paredes
+FELDESPATO|Mineral abundante del granito
+FIBRA|Hebra de un material
+FLUORITA|Mineral de colores muy variados
+FOSFATO|Sal usada como abono
+GALENA|Mineral del que se extrae el plomo
+GNEIS|Roca metamórfica bandeada
+GRAFITO|Carbono de la mina del lápiz
+GRANATE|Mineral rojo oscuro usado en joyería
+GRANITO|Roca dura de cuarzo, feldespato y mica
+GRAVA|Piedra menuda del firme
+GRES|Cerámica dura y vitrificada
+HEMATITES|Mineral de hierro de color rojizo
+HIERRO|Metal más usado en la industria
+HORMIGON|Mezcla de cemento, arena y grava
+HULLA|Carbón mineral de buena calidad
+JADE|Piedra verde muy apreciada en Oriente
+JASPE|Roca de vetas de colores
+LADRILLO|Pieza de barro cocido
+LAPISLAZULI|Piedra de color azul intenso
+LATON|Aleación de cobre y cinc
+LIGNITO|Carbón de baja calidad
+LIMONITA|Óxido de hierro terroso
+LINOLEO|Revestimiento de suelos de corcho y aceite
+MAGNESITA|Mineral de magnesio
+MAGNETITA|Mineral de hierro que atrae
+MALAQUITA|Mineral verde usado como adorno
+MARFIL|Material del colmillo del elefante
+MARMOL|Roca caliza que admite pulido
+MERCURIO|Metal líquido a temperatura ambiente
+METACRILATO|Plástico transparente y rígido
+MICA|Mineral que se separa en láminas
+NACAR|Capa iridiscente del interior de la concha
+NAFTA|Derivado ligero del petróleo
+NEOPRENO|Goma sintética de los trajes de buceo
+NIQUEL|Metal blanco de las monedas
+OBSIDIANA|Vidrio volcánico negro
+ONIX|Ágata de bandas paralelas
+OPALO|Piedra de reflejos irisados
+ORO|Metal precioso que no se oxida
+PALADIO|Metal precioso de los catalizadores
+PIRITA|Mineral dorado llamado oro de los tontos
+PIZARRA|Roca que se abre en láminas
+PLASTICO|Material sintético moldeable
+PLATA|Metal blanco de la vajilla fina
+PLATINO|Metal precioso muy resistente
+PLOMO|Metal gris y muy pesado
+PORCELANA|Cerámica blanca y translúcida
+POTASA|Sal de potasio usada como abono
+PUMITA|Piedra volcánica que flota
+RESINA|Sustancia pegajosa de las coníferas
+RUBI|Piedra preciosa de color rojo
+SAL|Cloruro sódico de la mesa
+SALITRE|Nitrato que aflora en los muros
+SILICE|Óxido de silicio de la arena
+SILICONA|Material flexible que sella juntas
+TALCO|Mineral más blando de la escala
+TITANIO|Metal ligero y muy resistente
+TOPACIO|Piedra preciosa de color dorado
+TRAVERTINO|Roca caliza de aspecto poroso
+TUNGSTENO|Metal del filamento de las bombillas
+TURBA|Combustible vegetal de las marismas
+TURMALINA|Mineral de cristales alargados
+TURQUESA|Piedra de color azul verdoso
+URANIO|Metal de los reactores nucleares
+VIDRIO|Material transparente y frágil
+YESO|Sulfato de calcio de las paredes
+ZAFIRO|Corindón de color azul
+ZIRCON|Mineral usado como imitación del diamante
+AVUTARDA|Ave esteparia de gran tamaño
+ABEJARUCO|Ave de colores que caza abejas
+AGUILUCHO|Rapaz que planea sobre los campos
+ALBATROS|Ave marina de alas larguísimas
+ALCATRAZ|Ave marina que se lanza en picado
+ALCAUDON|Pájaro que empala sus presas
+ALCION|Ave fabulosa del mar
+ANADE|Ave palmípeda de los lagos
+AVEFRIA|Ave de penacho en la cabeza
+AZOR|Rapaz forestal de cetrería
+BECADA|Ave de caza de pico largo
+BISBITA|Pajarillo de los prados
+BUHARDO|Nombre popular del búho
+CALANDRIA|Ave de canto imitador
+CARBONERO|Pájaro de cabeza negra
+CERCETA|Pato pequeño de laguna
+CHOVA|Ave negra de pico rojo
+CIGUENUELA|Ave zancuda de patas rojas
+COLIRROJO|Pájaro de cola anaranjada
+CORNEJA|Ave negra parecida al cuervo
+CURRUCA|Pajarillo de matorral
+ESCRIBANO|Pájaro de campo de pico cónico
+FLAMENCO|Ave rosada de las marismas
+FUMAREL|Ave marina ligera
+GALLIPATO|Anfibio grande de charca
+GANGA|Ave esteparia de vuelo veloz
+GARCILLA|Garza pequeña y blanca
+GAVILAN|Rapaz pequeña de bosque
+HALCONCILLO|Rapaz diminuta
+JILGUERO|Pájaro de cara roja y canto vivo
+LAVANDERA|Pájaro de cola larga que la mueve
+LECHUCILLA|Rapaz nocturna pequeña
+MALVASIA|Pato de pico azul
+MARTINETE|Garza nocturna
+MIRLO|Pájaro negro de pico amarillo
+MOCHUELO|Rapaz nocturna pequeña y cabezona
+MORITO|Ave zancuda de plumaje oscuro
+OROPENDOLA|Pájaro amarillo de bosque de ribera
+PAGAZA|Ave marina de pico fuerte
+PARDILLO|Pajarillo de pecho rojizo
+PETIRROJO|Pájaro de pecho anaranjado
+PICAPINOS|Pájaro carpintero manchado
+PINZON|Pájaro común de bosque
+PIQUITUERTO|Pájaro de pico cruzado
+PORRON|Pato buceador de laguna
+RABILARGO|Ave azulada de cola muy larga
+ROQUERO|Pájaro de roquedos
+SISON|Ave esteparia de mediano tamaño
+TARABILLA|Pajarillo inquieto de los ribazos
+TORCAZ|Paloma grande de bosque
+TORTOLA|Paloma pequeña y esbelta
+TREPADOR|Pájaro que sube por los troncos
+VENCEJO|Ave de vuelo rapidísimo
+VERDECILLO|Pajarillo amarillo verdoso
+ZAMPULLIN|Ave acuática buceadora pequeña
+ABADEJO|Pescado parecido al bacalao
+ACEDIA|Pez plano pequeño
+AGUJA|Pez marino alargado y fino
+ALBUR|Pez de río de carne blanca
+ALISTADO|Pez de bandas de color
+ANGULA|Cría de la anguila muy apreciada
+ARENQUE|Pez azul que se ahúma
+BARBO|Pez de río de barbillas
+BESUGO|Pez de ojos grandes de invierno
+BOGA|Pez de río y de mar de poco valor
+BOQUERON|Pez azul pequeño del Mediterráneo
+CABALLA|Pez azul de lomo rayado
+CABRACHO|Pez de roca espinoso
+CARPA|Pez de río de escamas grandes
+CAZON|Escualo pequeño de mesa
+CONGRIO|Pez alargado de roca
+CORVINA|Pez marino de carne fina
+DENTON|Pez de fuertes dientes
+DORADA|Pez de banda dorada entre los ojos
+ESPADIN|Pez azul pequeño
+ESTURION|Pez del que se saca el caviar
+GALLO|Pez plano de carne delicada
+JUREL|Pez azul de banco
+LENGUADO|Pez plano de fondo arenoso
+LISA|Pez de estuario de cabeza plana
+LUBINA|Pez blanco muy apreciado
+LUCIO|Pez depredador de agua dulce
+MERO|Pez grande de roca
+MOJARRA|Pez de costa plateado
+MUJOL|Nombre del pez de las lisas
+PALOMETA|Pez plano y plateado
+PARGO|Pez de roca rojizo
+PERCA|Pez de agua dulce de aletas espinosas
+PEZESPADA|Pez de mandíbula en forma de espada
+PINTARROJA|Escualo pequeño moteado
+RAPE|Pez de fondo de cabeza enorme
+RAYA|Pez plano de cuerpo romboidal
+REO|Trucha marina
+RODABALLO|Pez plano muy apreciado
+SALMONETE|Pez rojizo de barbillas
+SARGO|Pez de bandas oscuras
+SOLLA|Pez plano del Atlántico
+TENCA|Pez de agua dulce de piel viscosa
+TRUCHA|Pez de río de carne rosada
+URTA|Pez de roca gaditano
+VERDEL|Nombre del pez caballa en el norte
+ZAMBURINA|Molusco parecido a la vieira
+ABEJORRO|Insecto grande y peludo
+ARANUELO|Insecto que ataca a la vid
+AVISPON|Avispa de gran tamaño
+CANTARIDA|Escarabajo verde metálico
+CARCOMA|Insecto que taladra la madera
+CHICHARRA|Insecto que canta en el estío
+CIEMPIES|Artrópodo de muchos pares de patas
+COCHINILLA|Insecto del que se saca un tinte rojo
+ESCOLOPENDRA|Ciempiés de mordedura dolorosa
+EFIMERA|Insecto que vive solo un día
+GORGOJO|Insecto que ataca a los granos
+GRILLOTALPA|Insecto que cava galerías
+HORMIGUERO|Insecto que vive en sociedad
+LIBELULA|Insecto de alas transparentes
+LUCIERNAGA|Insecto que brilla en la noche
+MARIPOSA|Insecto de alas cubiertas de escamas
+MOSCARDON|Mosca grande y zumbadora
+NECORA|Crustáceo de las rocas
+PROCESIONARIA|Oruga que va en fila por el pino
+PULGON|Insecto que chupa la savia
+SALTAMONTES|Insecto de patas saltadoras
+TABANO|Insecto que pica al ganado
+TERMITA|Insecto que devora la madera
+TIJERETA|Insecto de pinzas en el abdomen
+ZAPATERO|Insecto que patina sobre el agua

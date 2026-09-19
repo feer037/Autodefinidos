@@ -311,11 +311,28 @@ OBJETOS = [
         + circulo(216, 132, 40, "none", 'stroke="#33414F" stroke-width="8"')
         + '<path d="M84,132 L134,74 L188,74 L216,132 L146,132 Z" fill="none" '
         'stroke="#C0453F" stroke-width="8"/>'),
-    ("llave_inglesa", "ALICATES", '<path d="M110,170 L160,86" stroke="#7C8894" '
-        'stroke-width="14" stroke-linecap="round" fill="none"/>'
-        + '<path d="M170,170 L120,86" stroke="#7C8894" stroke-width="14" '
+    ("alicates", "ALICATES",
+        # Mangos, que se abren hacia abajo
+        '<path d="M150,104 L102,176" stroke="#7C8894" stroke-width="15" '
         'stroke-linecap="round" fill="none"/>'
-        + circulo(140, 120, 10, "#5F6B78")),
+        + '<path d="M150,104 L198,176" stroke="#7C8894" stroke-width="15" '
+        'stroke-linecap="round" fill="none"/>'
+        # Fundas de color en la mitad baja de los mangos
+        + '<path d="M126,140 L102,176" stroke="#C0453F" stroke-width="18" '
+        'stroke-linecap="round" fill="none"/>'
+        + '<path d="M174,140 L198,176" stroke="#C0453F" stroke-width="18" '
+        'stroke-linecap="round" fill="none"/>'
+        # Bocas: cortas, gruesas y casi juntas, como las de unos alicates
+        + '<path d="M150,104 L139,54" stroke="#93A0AD" stroke-width="17" '
+        'stroke-linecap="round" fill="none"/>'
+        + '<path d="M150,104 L161,54" stroke="#93A0AD" stroke-width="17" '
+        'stroke-linecap="round" fill="none"/>'
+        + '<path d="M141,44 L159,44" stroke="#93A0AD" stroke-width="13" '
+        'stroke-linecap="round" fill="none"/>'
+        + '<line x1="150" y1="52" x2="150" y2="96" stroke="#5F6B78" '
+        'stroke-width="3"/>'
+        + circulo(150, 104, 12, "#5F6B78")
+        + circulo(150, 104, 4, "#33414F")),
     ("libro", "LIBRO", rect(66, 56, 168, 110, "#B23A48")
         + rect(80, 68, 140, 86, "#F7F1E3")
         + '<line x1="150" y1="68" x2="150" y2="154" stroke="#C9BFAA" '

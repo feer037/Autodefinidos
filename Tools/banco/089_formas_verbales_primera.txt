@@ -1,0 +1,127 @@
+# Formas verbales de primera persona del singular
+ABRI|Destapé lo cerrado
+ACABE|Di fin a la faena
+ACERQUE|Aproximé una cosa a otra
+ACUDI|Fui al lugar llamado
+ALCANCE|Llegué hasta el sitio
+ALCE|Levanté en alto
+AME|Quise de corazón
+ANDUVE|Caminé sin prisa
+APRENDI|Llegué a saberlo
+AVISE|Di el aviso
+AYUDE|Presté mi auxilio
+BAILE|Dancé al son
+BAJE|Descendí la cuesta
+BATI|Removí la mezcla
+BEBI|Tomé el líquido
+BUSQUE|Traté de encontrar
+CAI|Di con el cuerpo en el suelo
+CALLE|Guardé silencio
+CAMBIE|Mudé de parecer
+CAMINE|Anduve por la senda
+CANTE|Entoné una copla
+CARGUE|Puse el peso encima
+CERRE|Tapé la entrada
+COGI|Tomé con la mano
+COMENCE|Di principio
+COMI|Tomé alimento
+COMPRE|Adquirí por dinero
+CONOCI|Llegué a tratarlo
+CONTE|Referí el suceso
+CORRI|Fui a la carrera
+COSI|Uní con hilo y aguja
+CREI|Tuve por cierto
+CRECI|Me hice mayor
+CRUCE|Pasé al otro lado
+CUIDE|Velé por su salud
+CUMPLI|Llevé a término lo prometido
+DEJE|Solté lo que llevaba
+DESEE|Anhelé con fuerza
+DORMI|Reposé en el lecho
+DUDE|Vacilé ante la elección
+ECHE|Arrojé fuera
+EMPECE|Di comienzo
+ENTRE|Pasé adentro
+ENVIE|Mandé el paquete
+ESCRIBI|Puse por escrito
+ESCUCHE|Presté oído
+ESPERE|Aguardé la hora
+EXPLIQUE|Di razón de ello
+FIRME|Estampé mi nombre
+GANE|Salí vencedor
+GASTE|Empleé el caudal
+GRITE|Di voces
+GUARDE|Puse a recaudo
+HABLE|Usé la palabra
+HALLE|Di con ello
+HUI|Escapé del peligro
+JUGUE|Me entretuve con el juego
+JUNTE|Reuní en un montón
+LAVE|Limpié con agua
+LEI|Recorrí el escrito
+LEVANTE|Puse en alto
+LIMPIE|Quité la suciedad
+LLAME|Di voces al ausente
+LLEGUE|Arribé al destino
+LLENE|Colmé el vaso
+LLEVE|Trasladé la carga
+LLORE|Derramé lágrimas
+LOGRE|Conseguí mi intento
+LUCHE|Peleé sin descanso
+MANDE|Di la orden
+MEDI|Tomé la medida
+METI|Introduje dentro
+MIRE|Fijé la vista
+MOVI|Mudé de sitio
+NACI|Vine al mundo
+NADE|Me sostuve en el agua
+OI|Percibí el sonido
+PAGUE|Satisfice la deuda
+PARE|Detuve la marcha
+PARTI|Me puse en camino
+PASE|Crucé de largo
+PEDI|Solicité el favor
+PEGUE|Uní con cola
+PENSE|Discurrí sobre ello
+PERDI|Me quedé sin ello
+PESE|Comprobé mi peso
+PINTE|Cubrí de color
+PISE|Puse el pie encima
+PREGUNTE|Hice la pregunta
+PRESTE|Dejé por un tiempo
+PROBE|Hice la prueba
+QUEDE|Permanecí allí
+QUITE|Aparté de en medio
+RECIBI|Tomé lo enviado
+RECOGI|Junté del suelo
+REGALE|Di sin cobrar
+REI|Mostré mi alegría
+REPETI|Volví a decirlo
+ROMPI|Hice pedazos
+SALI|Marché fuera
+SALTE|Brinqué de gozo
+SALUDE|Di los buenos días
+SAQUE|Extraje del hueco
+SEGUI|Fui detrás
+SENTI|Percibí en el ánimo
+SERVI|Atendí la mesa
+SOLTE|Dejé libre
+SUBI|Ascendí la escalera
+SUFRI|Padecí el mal
+SUME|Añadí las cantidades
+TAPE|Cubrí el hueco
+TARDE|Empleé mucho tiempo
+TEMI|Sentí miedo
+TERMINE|Puse fin
+TIRE|Arrojé lejos
+TOME|Cogí para mí
+TOQUE|Puse la mano encima
+TRABAJE|Gané mi jornal
+TRATE|Me porté con otro
+USE|Me serví de ello
+VENCI|Quedé por encima
+VENDI|Di por dinero
+VIAJE|Recorrí tierras
+VIVI|Tuve vida
+VOLE|Me sostuve en el aire
+VOLVI|Regresé al punto

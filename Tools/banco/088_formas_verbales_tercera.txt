@@ -1,0 +1,170 @@
+# Formas verbales de tercera persona en futuro y condicional
+ABRIRA|Destapará lo cerrado
+ABRIRAN|Destaparán lo cerrado
+ABRIRIA|Destaparía lo cerrado
+ACABARA|Dará fin a la faena
+ACABARAN|Darán fin a la obra
+ACERCARA|Aproximará una cosa a otra
+ACUDIRAN|Irán al lugar llamados
+ALCANZARA|Llegará hasta el sitio
+ALZARA|Levantará en alto
+ALZARAN|Levantarán en alto
+AMARAN|Querrán de corazón
+AMARIA|Querría de corazón
+ANDARA|Caminará sin prisa
+ANDARAN|Caminarán sin prisa
+AVISARA|Dará el aviso
+AYUDARA|Prestará su auxilio
+BAILARA|Danzará al son
+BAILARAN|Danzarán al son
+BAJARA|Descenderá la cuesta
+BAJARAN|Descenderán la cuesta
+BEBERA|Tomará el líquido
+BEBERAN|Tomarán el líquido
+BEBERIA|Tomaría el líquido
+BUSCARA|Tratará de encontrar
+BUSCARAN|Tratarán de encontrar
+CABRAN|Tendrán sitio dentro
+CALLARA|Guardará silencio
+CALLARAN|Guardarán silencio
+CAMINARA|Andará por la senda
+CANTARAN|Entonarán una copla
+CANTARIA|Entonaría una copla
+CARGARA|Pondrá el peso encima
+CERRARA|Tapará la entrada
+CERRARAN|Taparán la entrada
+COMERA|Tomará alimento
+COMERAN|Tomarán alimento
+COMERIA|Tomaría alimento
+COMPRARA|Adquirirá por dinero
+CONTARA|Referirá el suceso
+CONTARAN|Referirán el suceso
+CORRERA|Irá a la carrera
+CORRERAN|Irán a la carrera
+CORRERIA|Iría a la carrera
+CREERAN|Tendrán por cierto
+CRUZARA|Pasará al otro lado
+CUIDARA|Velará por su salud
+CUMPLIRA|Llevará a término lo prometido
+DARAN|Entregarán de balde
+DEBERA|Tendrá la obligación
+DEJARAN|Soltarán lo que llevan
+DEJARIA|Soltaría lo que lleva
+DESEARA|Anhelará con fuerza
+DIRAN|Manifestarán de palabra
+DORMIRA|Reposará en el lecho
+DORMIRAN|Reposarán en el lecho
+ECHARA|Arrojará fuera
+ECHARAN|Arrojarán fuera
+EMPEZARA|Dará comienzo
+ENTRARA|Pasará adentro
+ENTRARAN|Pasarán adentro
+ENVIARA|Mandará el paquete
+ESCRIBIRA|Pondrá por escrito
+ESCUCHARA|Prestará oído
+ESPERARA|Aguardará la hora
+ESPERARAN|Aguardarán la hora
+ESTARAN|Se hallarán presentes
+FALTARA|No estará presente
+FIRMARA|Estampará su nombre
+GANARA|Saldrá vencedor
+GANARAN|Saldrán vencedores
+GASTARA|Empleará el caudal
+GRITARA|Dará voces
+GRITARAN|Darán voces
+GUARDARA|Pondrá a recaudo
+GUARDARAN|Pondrán a recaudo
+HABLARA|Usará la palabra
+HABLARAN|Usarán la palabra
+HABLARIA|Usaría la palabra
+IRAN|Se dirigirán allá
+JUGARA|Se entretendrá con el juego
+JUGARAN|Se entretendrán con el juego
+JUNTARA|Reunirá en un montón
+LAVARA|Limpiará con agua
+LEERA|Recorrerá el escrito
+LEERAN|Recorrerán el escrito
+LEERIA|Recorrería el escrito
+LEVANTARAN|Pondrán en alto
+LIMPIARA|Quitará la suciedad
+LLAMARA|Dará voces al ausente
+LLAMARAN|Darán voces al ausente
+LLEGARAN|Arribarán al destino
+LLEGARIA|Arribaría al destino
+LLENARA|Colmará el vaso
+LLEVARA|Trasladará la carga
+LLEVARAN|Trasladarán la carga
+LLORARA|Derramará lágrimas
+LOGRARA|Conseguirá su intento
+LUCHARA|Peleará sin descanso
+MANDARA|Dará la orden
+MEDIRA|Tomará la medida
+MIRARA|Fijará la vista
+MIRARAN|Fijarán la vista
+MOSTRARA|Pondrá a la vista
+MOVERA|Mudará de sitio
+NADARA|Se sostendrá en el agua
+PAGARA|Satisfará la deuda
+PAGARAN|Satisfarán la deuda
+PARARA|Detendrá la marcha
+PARTIRA|Se pondrá en camino
+PARTIRAN|Se pondrán en camino
+PASARA|Cruzará de largo
+PASARAN|Cruzarán de largo
+PEDIRA|Solicitará el favor
+PEDIRAN|Solicitarán el favor
+PEGARA|Unirá con cola
+PENSARA|Discurrirá sobre ello
+PENSARAN|Discurrirán sobre ello
+PERDERA|Se quedará sin ello
+PESARA|Tendrá su peso
+PINTARA|Cubrirá de color
+PISARA|Pondrá el pie encima
+PODRAN|Estarán en condiciones
+PREGUNTARA|Hará la pregunta
+PRESTARA|Dejará por un tiempo
+PROBARA|Hará la prueba
+QUEDARA|Permanecerá allí
+QUEDARAN|Permanecerán allí
+QUITARA|Apartará de en medio
+RECIBIRA|Tomará lo enviado
+RECOGERA|Juntará del suelo
+REGALARA|Dará sin cobrar
+REPETIRA|Volverá a decirlo
+ROMPERA|Hará pedazos
+SABRAN|Tendrán noticia de ello
+SACARA|Extraerá del hueco
+SALTARA|Brincará de gozo
+SALTARAN|Brincarán de gozo
+SALUDARA|Dará los buenos días
+SEGUIRA|Irá detrás
+SENTIRA|Percibirá en el ánimo
+SENTIRAN|Percibirán en el ánimo
+SERAN|Llegarán a ser
+SERVIRA|Atenderá la mesa
+SERVIRAN|Atenderán la mesa
+SOLTARA|Dejará libre
+SUBIRA|Ascenderá la escalera
+SUBIRAN|Ascenderán la escalera
+SUBIRIA|Ascendería la escalera
+SUFRIRA|Padecerá el mal
+SUMARA|Añadirá las cantidades
+TAPARA|Cubrirá el hueco
+TARDARA|Empleará mucho tiempo
+TEMERA|Sentirá miedo
+TERMINARA|Pondrá fin
+TIRARA|Arrojará lejos
+TOCARA|Pondrá la mano encima
+TOMARAN|Cogerán para sí
+TOMARIA|Cogería para sí
+TRABAJARA|Ganará su jornal
+TRABAJARAN|Ganarán su jornal
+TRATARA|Se portará con otro
+USARA|Se servirá de ello
+VENCERA|Quedará por encima
+VENDERA|Dará por dinero
+VERAN|Percibirán con la vista
+VIAJARA|Recorrerá tierras
+VIVIRAN|Tendrán vida
+VOLARA|Se sostendrá en el aire
+VOLVERA|Regresará al punto

@@ -18,8 +18,21 @@ final class Biblioteca: ObservableObject {
         cargarIndice()
     }
 
+    /// Busca un JSON del libro, esté suelto en el bundle o dentro de su carpeta.
+    private func localizar(_ nombre: String) -> URL? {
+        let carpetas: [String?] = [nil, "Puzzles", "Recursos", "Recursos/Puzzles"]
+        for carpeta in carpetas {
+            if let url = Bundle.main.url(forResource: nombre,
+                                         withExtension: "json",
+                                         subdirectory: carpeta) {
+                return url
+            }
+        }
+        return nil
+    }
+
     private func cargarIndice() {
-        guard let url = Bundle.main.url(forResource: "indice", withExtension: "json"),
+        guard let url = localizar("indice"),
               let datos = try? Data(contentsOf: url) else {
             assertionFailure("No se encontró indice.json en el bundle")
             return
@@ -35,7 +48,7 @@ final class Biblioteca: ObservableObject {
     /// Devuelve el autodefinido pedido, leyéndolo del bundle la primera vez.
     func puzzle(_ id: String) -> Puzzle? {
         if let guardado = cache[id] { return guardado }
-        guard let url = Bundle.main.url(forResource: id, withExtension: "json"),
+        guard let url = localizar(id),
               let datos = try? Data(contentsOf: url),
               let puzzle = try? JSONDecoder().decode(Puzzle.self, from: datos) else {
             return nil

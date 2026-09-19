@@ -1,0 +1,73 @@
+# Diminutivos, aumentativos, despectivos y palabras de trato familiar
+ABUELITA|Madre de tu padre, con cariño
+AHORITA|Dentro de un instante, en América
+BARBUDO|De barba muy poblada
+BARRIGUDO|De vientre abultado
+BIGOTUDO|De bigote muy poblado
+BLANDITO|Algo blando al tacto
+BOBALICON|Tonto de remate
+BOCAZA|Boca muy grande
+CABEZOTA|Cabeza muy grande, o testarudo
+CABEZUDO|Figura de gran cabeza en las fiestas
+CAJITA|Caja muy pequeña
+CALENTITO|Recién hecho y aún caliente
+CALLEJON|Calle estrecha y corta
+CAMISETA|Prenda interior de media manga
+CAMPANILLA|Campana pequeña
+CANIJO|Débil y de poca talla
+CARETO|Cara de mal aspecto
+CARRETON|Carro pequeño de mano
+CASERON|Casa grande y destartalada
+CASITA|Casa muy pequeña
+CASONA|Caserón de aire señorial
+CAZUELITA|Cazuela muy pequeña
+CERQUITA|A muy poca distancia
+CHIQUILLO|Niño de pocos años
+COCHECITO|Coche pequeño de niño
+CUCHARILLA|Cuchara pequeña del café
+DELGADUCHO|Flaco de mal aspecto
+DESPACITO|Muy poco a poco
+DURITO|Algo duro al morderlo
+ESMIRRIADO|Flaco y desmedrado
+FEUCHO|De poca gracia en el rostro
+FLACUCHO|Flaco y desmedrado
+FRIITO|Un poco frío
+GORDINFLON|Gordo y de aire blando
+GRANDOTE|De tamaño muy grande
+GUAPETON|De muy buen ver
+HERMANITO|Hermano de pocos años
+HOMBRON|Hombre alto y corpulento
+JARDINCILLO|Jardín muy pequeño
+JOVENCITO|Muy joven todavía
+LEJITOS|A bastante distancia
+LIBRITO|Libro de pocas hojas
+MAMAITA|Madre, en habla de niño
+MANAZAS|Persona torpe con las manos
+MESITA|Mesa pequeña de la alcoba
+MOCITO|Muchacho que empieza a hacerse hombre
+MOMENTITO|Instante muy breve
+MUCHACHOTE|Muchacho grande y fuerte
+MUJERONA|Mujer alta y corpulenta
+NARIZOTA|Nariz muy grande
+NARIZUDO|De nariz muy grande
+NENITA|Niña muy pequeña
+OREJUDO|De orejas muy grandes
+PANECILLO|Pan pequeño y redondo
+PASTELITO|Pastel de un solo bocado
+PATAZAS|De pies muy grandes
+PATICORTO|De piernas muy cortas
+PEQUENIN|Muy pequeño y tierno
+PIECECITO|Pie muy pequeño
+POBRECITO|Que da mucha lástima
+POQUITO|Cantidad muy pequeña
+PORTALON|Puerta grande de un patio
+RATITO|Espacio muy corto de tiempo
+RECHONCHO|Grueso y de poca altura
+REGORDETE|Algo grueso y de buen ver
+SALVAJADA|Hecho propio de un bruto
+SILLITA|Silla pequeña de niño
+SOLITO|Del todo solo
+SUAVECITO|Muy suave al tacto
+TENDERETE|Puesto de venta improvisado
+VENTANUCO|Ventana pequeña y mala
+VIEJECITO|Anciano, dicho con afecto

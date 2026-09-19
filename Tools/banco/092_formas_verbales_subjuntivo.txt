@@ -1,0 +1,87 @@
+# Formas verbales de subjuntivo y de mandato
+ABRA|Que destape lo cerrado
+ABRAMOS|Que destapemos lo cerrado
+ACABE|Que dé fin a la faena
+ACUDA|Que vaya al lugar llamado
+ALCANCE|Que llegue hasta el sitio
+APRENDA|Que llegue a saberlo
+ATRIBUYA|Que achaque a otro la culpa
+BEBA|Que tome el líquido
+BEBAMOS|Que tomemos el líquido
+BUSQUE|Que trate de encontrar
+CAIGA|Que dé con el cuerpo en el suelo
+CAIGAMOS|Que demos con el cuerpo en el suelo
+CALLE|Que guarde silencio
+COMA|Que tome alimento
+COMAMOS|Que tomemos alimento
+CONCLUYA|Que ponga fin al asunto
+CONDUZCA|Que lleve el coche
+CONOZCA|Que llegue a tratarlo
+CONSTRUYA|Que levante el edificio
+CORRA|Que vaya a la carrera
+CREA|Que lo tenga por cierto
+CREAMOS|Que lo tengamos por cierto
+CREZCA|Que se haga mayor
+CRUCE|Que pase al otro lado
+CUMPLA|Que lleve a término lo prometido
+DESTRUYA|Que lo eche todo abajo
+DIGA|Que lo manifieste de palabra
+DIGAMOS|Que lo manifestemos de palabra
+DUERMA|Que repose en el lecho
+ELIJA|Que tome entre varios
+ESCRIBA|Que lo ponga por escrito
+HAGA|Que ejecute la obra
+HAGAMOS|Que ejecutemos la obra
+HUYA|Que escape del peligro
+INCLUYA|Que lo meta en la lista
+INFLUYA|Que pese en la decisión
+LEA|Que recorra el escrito
+LEAMOS|Que recorramos el escrito
+LUZCA|Que brille a la vista
+MEREZCA|Que sea digno de ello
+NAZCA|Que venga al mundo
+OFREZCA|Que lo brinde de buen grado
+OIGA|Que perciba el sonido
+OIGAMOS|Que percibamos el sonido
+PAREZCA|Que dé esa impresión
+PARTA|Que se ponga en camino
+PERMANEZCA|Que siga en el mismo sitio
+PERTENEZCA|Que sea de su propiedad
+PIDA|Que solicite el favor
+PIERDA|Que se quede sin ello
+PONGA|Que lo coloque en su sitio
+PONGAMOS|Que lo coloquemos en su sitio
+PODAMOS|Que estemos en condiciones
+PRODUZCA|Que dé su fruto
+PUEDA|Que esté en condiciones
+QUEPA|Que tenga sitio dentro
+QUERAMOS|Que lo deseemos con fuerza
+QUIERA|Que lo desee con fuerza
+RECIBA|Que tome lo enviado
+RECOJA|Que lo junte del suelo
+REPITA|Que vuelva a decirlo
+ROMPA|Que lo haga pedazos
+SALGA|Que marche fuera
+SALGAMOS|Que marchemos fuera
+SEAMOS|Que lleguemos a serlo
+SEPA|Que tenga noticia de ello
+SEPAMOS|Que tengamos noticia de ello
+SIENTA|Que lo perciba en el ánimo
+SIGA|Que vaya detrás
+SIRVA|Que atienda la mesa
+SUBA|Que ascienda la escalera
+SUBAMOS|Que ascendamos la escalera
+SUFRA|Que padezca el mal
+TENGA|Que lo posea en propiedad
+TENGAMOS|Que lo poseamos en propiedad
+TRADUZCA|Que lo pase a otra lengua
+TRAIGA|Que lo lleve hasta aquí
+TRAIGAMOS|Que lo llevemos hasta aquí
+VALGA|Que tenga su precio
+VAYAMOS|Que nos dirijamos allá
+VEAMOS|Que lo percibamos con la vista
+VENGAMOS|Que lleguemos de camino
+VENZA|Que quede por encima
+VIVA|Que tenga vida
+VIVAMOS|Que tengamos vida
+VUELVA|Que regrese al punto

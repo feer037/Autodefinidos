@@ -1,0 +1,173 @@
+# Formas verbales en futuro, condicional y subjuntivo, definidas por sinónimo
+ABRIREMOS|Destaparemos lo cerrado
+ACABAREMOS|Daremos fin a la faena
+ACUDIRA|Irá al lugar llamado
+ALZAREMOS|Levantaremos en alto
+AMAREMOS|Querremos de corazón
+ANDAREMOS|Caminaremos sin prisa
+APRENDERA|Llegará a saberlo
+BAILAREMOS|Danzaremos al son
+BAJAREMOS|Descenderemos la cuesta
+BEBEREMOS|Tomaremos el líquido
+BUSCAREMOS|Trataremos de encontrar
+CABREMOS|Tendremos sitio dentro
+CALLAREMOS|Guardaremos silencio
+CAMBIARA|Mudará de parecer
+CANTAREMOS|Entonaremos una copla
+CERRAREMOS|Taparemos la entrada
+COMEREMOS|Tomaremos alimento
+COMPRARA|Adquirirá por dinero
+CONTAREMOS|Referiremos el suceso
+CORRERA|Irá a la carrera
+CREEREMOS|Tendremos por cierto
+CRUZAREMOS|Pasaremos al otro lado
+CUIDAREMOS|Velaremos por su salud
+DAREMOS|Entregaremos de balde
+DEBEREMOS|Tendremos la obligación
+DEJAREMOS|Soltaremos lo que llevamos
+DIREMOS|Manifestaremos de palabra
+DIRIA|Manifestaría de palabra
+DIRIAN|Manifestarían su parecer
+DORMIREMOS|Reposaremos en el lecho
+DURARA|Se mantendrá en el tiempo
+ECHAREMOS|Arrojaremos fuera
+EMPEZAREMOS|Daremos comienzo
+ENTRAREMOS|Pasaremos adentro
+ENVIAREMOS|Mandaremos el paquete
+ESCRIBIREMOS|Pondremos por escrito
+ESPERAREMOS|Aguardaremos la hora
+ESTAREMOS|Nos hallaremos allí
+GANAREMOS|Saldremos vencedores
+GUARDAREMOS|Pondremos a recaudo
+HABLAREMOS|Usaremos la palabra
+HARA|Llevará a cabo la obra
+HARAN|Ejecutarán el trabajo
+HAREMOS|Ejecutaremos la obra
+HARIA|Llevaría a cabo la obra
+HARIAN|Ejecutarían el trabajo
+IREMOS|Nos dirigiremos allá
+IRIA|Se encaminaría al lugar
+IRIAN|Se encaminarían al lugar
+JUGAREMOS|Nos entretendremos con el juego
+LEEREMOS|Recorreremos el escrito
+LEVANTARA|Pondrá en alto
+LIMPIAREMOS|Quitaremos la suciedad
+LLAMAREMOS|Daremos voces al ausente
+LLEGAREMOS|Arribaremos al destino
+LLEVAREMOS|Trasladaremos la carga
+LOGRAREMOS|Conseguiremos el intento
+MEDIREMOS|Tomaremos la medida
+MIRAREMOS|Fijaremos la vista
+PAGAREMOS|Satisfaremos la deuda
+PARTIREMOS|Nos pondremos en camino
+PASAREMOS|Cruzaremos de largo
+PEDIREMOS|Solicitaremos el favor
+PENSAREMOS|Discurriremos sobre ello
+PERDEREMOS|Nos quedaremos sin ello
+PODRA|Tendrá fuerza para ello
+PODRAN|Estarán en condiciones
+PODREMOS|Estaremos en condiciones
+PODRIA|Estaría en condiciones
+PODRIAN|Tendrían ocasión de hacerlo
+PONDRA|Colocará en su sitio
+PONDRAN|Situarán donde toca
+PONDREMOS|Colocaremos en su sitio
+PONDRIA|Colocaría en su sitio
+PONDRIAN|Situarían donde toca
+PROBAREMOS|Haremos la prueba
+QUEDAREMOS|Permaneceremos allí
+QUERRA|Amará de veras
+QUERRAN|Desearán con fuerza
+QUERREMOS|Desearemos con fuerza
+QUERRIA|Desearía con fuerza
+QUERRIAN|Amarían de veras
+QUITAREMOS|Apartaremos de en medio
+RECIBIREMOS|Tomaremos lo enviado
+REIREMOS|Mostraremos nuestra alegría
+RESPONDERA|Dará la contestación
+SABRA|Tendrá noticia de ello
+SABRAN|Llegarán a enterarse
+SABREMOS|Tendremos noticia de ello
+SABRIA|Tendría noticia de ello
+SABRIAN|Llegarían a enterarse
+SALDRA|Marchará fuera
+SALDRAN|Irán hacia la calle
+SALDREMOS|Marcharemos fuera
+SALDRIA|Marcharía fuera
+SALDRIAN|Irían hacia la calle
+SALTAREMOS|Brincaremos de gozo
+SEGUIREMOS|Iremos detrás
+SEREMOS|Llegaremos a ser
+SERIA|Llegaría a ser
+SERIAN|Llegarían a ser
+SERVIREMOS|Atenderemos la mesa
+SUBIREMOS|Ascenderemos la escalera
+SUMAREMOS|Añadiremos las cantidades
+TENDRA|Poseerá en propiedad
+TENDRAN|Contarán con ello
+TENDREMOS|Poseeremos en propiedad
+TENDRIA|Poseería en propiedad
+TENDRIAN|Contarían con ello
+TERMINAREMOS|Pondremos fin
+TOCAREMOS|Pondremos la mano encima
+TOMAREMOS|Cogeremos para nosotros
+TRABAJAREMOS|Ganaremos el jornal
+TRAERA|Llevará hasta aquí
+TRAERAN|Acercarán lo pedido
+TRAEREMOS|Llevaremos hasta aquí
+USAREMOS|Nos serviremos de ello
+VALDRA|Tendrá su precio
+VALDRAN|Alcanzarán su valor
+VALDREMOS|Tendremos nuestro precio
+VALDRIA|Tendría su precio
+VENDEREMOS|Daremos por dinero
+VENDRA|Llegará de camino
+VENDRAN|Arribarán al fin
+VENDREMOS|Llegaremos de camino
+VENDRIA|Llegaría de camino
+VENDRIAN|Arribarían al fin
+VENCEREMOS|Quedaremos por encima
+VEREMOS|Percibiremos con la vista
+VERIA|Percibiría con la vista
+VERIAN|Contemplarían la escena
+VIAJAREMOS|Recorreremos tierras
+VIVIREMOS|Tendremos vida
+VIVIRIA|Tendría vida
+VIVIRIAN|Tendrían vida
+VOLAREMOS|Nos sostendremos en el aire
+VOLVEREMOS|Regresaremos al punto
+AMARA|Quisiera de corazón
+AMARAN|Quisieran de corazón
+ANDUVIERA|Caminara sin prisa
+ANDUVIERON|Caminaron sin prisa
+BEBIERA|Tomara el líquido
+CANTARA|Entonara una copla
+COMIERA|Tomara alimento
+CUPIERA|Tuviera sitio dentro
+CUPIERON|Tuvieron sitio dentro
+DIJERA|Manifestara de palabra
+DIJERAN|Manifestaran su parecer
+DURMIERA|Reposara en el lecho
+ESTUVIERA|Se hallara presente
+ESTUVIERON|Se hallaron presentes
+FUERAN|Se dirigieran allá
+HICIERA|Llevara a cabo la obra
+HICIERAN|Ejecutaran el trabajo
+HUBIERA|Se diera el caso
+LEYERA|Recorriera el escrito
+LEYERON|Recorrieron el escrito
+OYERA|Percibiera el sonido
+PIDIERA|Solicitara el favor
+PIDIERON|Solicitaron el favor
+PUDIERA|Estuviera en condiciones
+PUDIERON|Estuvieron en condiciones
+PUSIERA|Colocara en su sitio
+QUISIERA|Deseara con fuerza
+QUISIERON|Desearon con fuerza
+SUPIERA|Tuviera noticia de ello
+SUPIERON|Tuvieron noticia de ello
+TRAJERA|Llevara hasta aquí
+TUVIERA|Poseyera en propiedad
+VINIERA|Llegara de camino
+VINIERON|Llegaron de camino
+VIVIERA|Tuviera vida

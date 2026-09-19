@@ -90,6 +90,7 @@ class Banco(object):
 
 LARGO_MAX = 7
 DENSIDAD_OBJETIVO = 0.26
+PENA_TRES = 0.30
 
 
 class Patron(object):
@@ -197,12 +198,18 @@ class Patron(object):
                     total += (h - LARGO_MAX) * 2.0
                 elif h == LARGO_MAX:
                     total += 0.10
+                elif h == 3:
+                    # En castellano hay pocas palabras de tres letras, y una
+                    # rejilla llena de ellas repite siempre las mismas.
+                    total += PENA_TRES
                 if v == 2:
                     total += 1.0
                 elif v > LARGO_MAX:
                     total += (v - LARGO_MAX) * 2.0
                 elif v == LARGO_MAX:
                     total += 0.10
+                elif v == 3:
+                    total += PENA_TRES
                 if h == 1 and v == 1:
                     total += 4.0
                 elif h == 1 or v == 1:

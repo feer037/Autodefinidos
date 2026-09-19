@@ -118,7 +118,7 @@ BANDERAS = [
     ("polonia", "POLONIA", horizontal(["#FFFFFF", "#DC143C"])),
     ("ucrania", "UCRANIA", horizontal(["#0057B7", "#FFD700"])),
     ("indonesia", "INDONESIA", horizontal(["#FF0000", "#FFFFFF"])),
-    ("mónaco", "MONACO", horizontal(["#CE1126", "#FFFFFF"])),
+    ("monaco", "MONACO", horizontal(["#CE1126", "#FFFFFF"])),
     ("suecia", "SUECIA", cruz_nordica("#006AA7", "#FECC02")),
     ("noruega", "NORUEGA", cruz_nordica("#BA0C2F", "#00205B", "#FFFFFF")),
     ("dinamarca", "DINAMARCA", cruz_nordica("#C8102E", "#FFFFFF")),

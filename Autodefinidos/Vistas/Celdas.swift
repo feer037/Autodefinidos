@@ -47,7 +47,7 @@ struct CeldaLetra: View {
     private var fondo: Color {
         if seleccionada { return Color.accentColor.opacity(0.45) }
         if resaltada { return Color.accentColor.opacity(0.16) }
-        return Color(.secondarySystemBackground)
+        return Color(.systemBackground)
     }
 }
 
@@ -60,14 +60,14 @@ struct CeldaPista: View {
     var body: some View {
         ZStack {
             Rectangle()
-                .fill(destacada ? Color.accentColor.opacity(0.35) : Color(.tertiarySystemFill))
+                .fill(destacada ? Color.accentColor.opacity(0.35) : Color(.secondarySystemFill))
             Rectangle()
                 .stroke(Color.primary.opacity(0.35), lineWidth: 0.6)
 
             if let pista = pista, !pista.textos.isEmpty {
                 VStack(spacing: 0) {
-                    ForEach(Array(pista.textos.enumerated()), id: \.offset) { _, texto in
-                        Text(texto.t)
+                    ForEach(Array(pista.textos.indices), id: \.self) { indice in
+                        Text(pista.textos[indice].t)
                             .font(.system(size: tamanoLetra(pista.textos.count)))
                             .lineLimit(pista.textos.count == 1 ? 4 : 2)
                             .minimumScaleFactor(0.4)
@@ -79,8 +79,8 @@ struct CeldaPista: View {
                 }
                 .padding(1)
 
-                ForEach(Array(pista.textos.enumerated()), id: \.offset) { indice, texto in
-                    flecha(para: texto.direccion,
+                ForEach(Array(pista.textos.indices), id: \.self) { indice in
+                    flecha(para: pista.textos[indice].direccion,
                            banda: indice,
                            bandas: pista.textos.count)
                 }
@@ -123,7 +123,7 @@ struct CeldaImagen: View {
 
         ZStack {
             Rectangle()
-                .fill(destacada ? Color.accentColor.opacity(0.35) : Color(.tertiarySystemFill))
+                .fill(destacada ? Color.accentColor.opacity(0.35) : Color(.secondarySystemFill))
             Image(imagen.activo)
                 .resizable()
                 .scaledToFit()

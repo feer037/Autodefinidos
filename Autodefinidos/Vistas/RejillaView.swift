@@ -11,8 +11,8 @@ struct RejillaView: View {
         let definicionActual = juego.palabraActual.map { juego.casillaDefinicion(de: $0) }
 
         ZStack(alignment: .topLeading) {
-            ForEach(0..<juego.puzzle.filas, id: \.self) { fila in
-                ForEach(0..<juego.puzzle.columnas, id: \.self) { columna in
+            ForEach(Array(0..<juego.puzzle.filas), id: \.self) { fila in
+                ForEach(Array(0..<juego.puzzle.columnas), id: \.self) { columna in
                     let posicion = Posicion(f: fila, c: columna)
                     if !tapadas.contains(posicion) {
                         celda(posicion, resaltadas: resaltadas, definicion: definicionActual)
@@ -21,7 +21,8 @@ struct RejillaView: View {
                 }
             }
 
-            ForEach(Array(juego.puzzle.imagenes.enumerated()), id: \.offset) { _, imagen in
+            ForEach(Array(juego.puzzle.imagenes.indices), id: \.self) { indice in
+                let imagen = juego.puzzle.imagenes[indice]
                 CeldaImagen(imagen: imagen,
                             lado: lado,
                             destacada: esImagenActual(imagen))

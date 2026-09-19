@@ -10,6 +10,23 @@ struct IndiceView: View {
     var body: some View {
         NavigationStack {
             List {
+                if let siguiente = porDonde {
+                    Section {
+                        NavigationLink(value: siguiente) {
+                            HStack(spacing: 12) {
+                                Image(systemName: "bookmark.fill")
+                                    .foregroundColor(.accentColor)
+                                VStack(alignment: .leading, spacing: 2) {
+                                    Text("Seguir por el \(siguiente.numero)")
+                                    Text("\(progreso.totalResueltos) de \(biblioteca.fichas.count) resueltos")
+                                        .font(.caption)
+                                        .foregroundColor(.secondary)
+                                }
+                            }
+                        }
+                    }
+                }
+
                 Section {
                     Picker("Dificultad", selection: $filtro) {
                         Text("Todos").tag("todos")
@@ -21,7 +38,7 @@ struct IndiceView: View {
                     .listRowInsets(EdgeInsets(top: 8, leading: 12, bottom: 8, trailing: 12))
                 }
 
-                ForEach(capitulos, id: \.titulo) { capitulo in
+                ForEach(capitulos) { capitulo in
                     Section(capitulo.titulo) {
                         ForEach(capitulo.fichas) { ficha in
                             NavigationLink(value: ficha) {
@@ -47,16 +64,23 @@ struct IndiceView: View {
             }
             .sheet(isPresented: $mostrarAjustes) {
                 AjustesView()
+                    .environmentObject(biblioteca)
+                    .environmentObject(progreso)
             }
         }
     }
 
-    private var capitulos: [(titulo: String, fichas: [FichaPuzzle])] {
+    /// Primer autodefinido sin resolver: por donde se retoma el libro.
+    private var porDonde: FichaPuzzle? {
+        biblioteca.fichas.first { !progreso.resuelto($0.id) }
+    }
+
+    private var capitulos: [Capitulo] {
         biblioteca.capitulos().compactMap { capitulo in
             let fichas = filtro == "todos"
                 ? capitulo.fichas
                 : capitulo.fichas.filter { $0.dificultad == filtro }
-            return fichas.isEmpty ? nil : (capitulo.titulo, fichas)
+            return fichas.isEmpty ? nil : Capitulo(titulo: capitulo.titulo, fichas: fichas)
         }
     }
 

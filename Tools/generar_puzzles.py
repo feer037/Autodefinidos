@@ -173,11 +173,22 @@ class Patron(object):
         total = 0.0
         blancas = 0
         cruzadas = 0
+        ultima_fila = self.filas - 1
+        ultima_columna = self.columnas - 1
         for f in range(self.filas):
+            fila_h = horizontal[f]
+            fila_v = vertical[f]
+            siguiente_v = vertical[f + 1] if f < ultima_fila else None
             for c in range(self.columnas):
-                h = horizontal[f][c]
-                v = vertical[f][c]
+                h = fila_h[c]
+                v = fila_v[c]
                 if h == 0:
+                    # Casilla oscura: molesta si no define ninguna palabra.
+                    sirve = c < ultima_columna and fila_h[c + 1] >= 3
+                    if not sirve and siguiente_v is not None:
+                        sirve = siguiente_v[c] >= 3
+                    if not sirve:
+                        total += 1.30
                     continue
                 blancas += 1
                 if h == 2:
@@ -234,7 +245,7 @@ class Patron(object):
                     DEFINICION if (a * f + b * c) % modulo == k else LETRA
                 )
 
-    def afinar(self, rng, vueltas=2600):
+    def afinar(self, rng, vueltas=3400):
         """Recocido simple: mueve casillas hasta que la rejilla es correcta."""
         libres = [
             (f, c)
@@ -497,6 +508,21 @@ class Relleno(object):
 # -------------------------------------------------------------- montaje
 
 
+LARGO_COMODO = 38
+
+
+def elegir_definicion(opciones, giro):
+    """Escoge una variante de la definicion que quepa bien en la casilla.
+
+    Entre las que caben se va rotando, para que la misma palabra no salga
+    siempre con la misma pista a lo largo del libro.
+    """
+    comodas = [texto for texto in opciones if len(texto) <= LARGO_COMODO]
+    if comodas:
+        return comodas[giro % len(comodas)]
+    return min(opciones, key=len)
+
+
 def montar(patron, huecos, relleno, banco, imagenes_asignadas, identificador,
            numero, dificultad, rng):
     filas, columnas = patron.filas, patron.columnas
@@ -521,8 +547,7 @@ def montar(patron, huecos, relleno, banco, imagenes_asignadas, identificador,
         if (f, c) in inicios_imagen and direccion == "D":
             continue  # la define una imagen
         casilla = (f, c - 1) if direccion == "D" else (f - 1, c)
-        opciones = banco.pistas[palabra]
-        texto = opciones[(numero + indice) % len(opciones)]
+        texto = elegir_definicion(banco.pistas[palabra], numero + indice)
         definiciones[casilla].append({"t": texto, "d": direccion})
         banco.usos[palabra] += 1
 

@@ -1,5 +1,13 @@
 import Foundation
 
+/// Un bloque del libro, tal como se agrupa en el índice.
+struct Capitulo: Identifiable {
+    let titulo: String
+    let fichas: [FichaPuzzle]
+
+    var id: String { titulo }
+}
+
 /// Carga el libro: el índice completo y cada autodefinido a demanda.
 final class Biblioteca: ObservableObject {
     @Published private(set) var fichas: [FichaPuzzle] = []
@@ -37,19 +45,19 @@ final class Biblioteca: ObservableObject {
     }
 
     /// Capítulos de cincuenta autodefinidos, para no dar una lista interminable.
-    func capitulos() -> [(titulo: String, fichas: [FichaPuzzle])] {
+    func capitulos() -> [Capitulo] {
         guard !fichas.isEmpty else { return [] }
-        var salida: [(String, [FichaPuzzle])] = []
+        var salida: [Capitulo] = []
         var bloque: [FichaPuzzle] = []
         for ficha in fichas {
             bloque.append(ficha)
             if bloque.count == 50 {
-                salida.append((tituloCapitulo(bloque), bloque))
+                salida.append(Capitulo(titulo: tituloCapitulo(bloque), fichas: bloque))
                 bloque = []
             }
         }
         if !bloque.isEmpty {
-            salida.append((tituloCapitulo(bloque), bloque))
+            salida.append(Capitulo(titulo: tituloCapitulo(bloque), fichas: bloque))
         }
         return salida
     }

@@ -14,12 +14,13 @@ struct TecladoView: View {
 
     var body: some View {
         VStack(spacing: 6) {
-            ForEach(Array(filas.enumerated()), id: \.offset) { indice, fila in
+            ForEach(Array(filas.indices), id: \.self) { indice in
                 HStack(spacing: 5) {
                     if indice == 2 {
                         boton(sistema: "arrow.turn.down.right", accion: alSaltar)
                     }
-                    ForEach(Array(fila.enumerated()), id: \.offset) { _, letra in
+                    ForEach(Array(filas[indice].indices), id: \.self) { posicion in
+                        let letra = filas[indice][posicion]
                         Button {
                             alPulsar(letra)
                         } label: {
@@ -46,7 +47,7 @@ struct TecladoView: View {
         Button(action: accion) {
             Image(systemName: sistema)
                 .font(.system(size: 18, weight: .medium))
-                .frame(width: 52, minHeight: 44)
+                .frame(width: 52, height: 44)
                 .background(Color(.tertiarySystemFill))
                 .cornerRadius(6)
         }

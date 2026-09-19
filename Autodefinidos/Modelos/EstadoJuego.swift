@@ -97,8 +97,8 @@ final class EstadoJuego: ObservableObject {
     func escribir(_ letra: Character) {
         guard let posicion = seleccion, esLetra(posicion) else { return }
         letras[posicion] = letra
-        guardar()
         comprobar()
+        guardar()
         avanzar()
     }
 
@@ -140,14 +140,10 @@ final class EstadoJuego: ObservableObject {
         guard let seleccion = seleccion,
               let actual = palabra(en: seleccion, direccion: direccion),
               let indice = puzzle.palabras.firstIndex(of: actual) else { return }
-        let total = puzzle.palabras.count
-        for salto in 1...total {
-            let palabra = puzzle.palabras[(indice + salto) % total]
-            let libre = palabra.casillas.first { letras[$0] == nil } ?? palabra.casillas[0]
-            self.seleccion = libre
-            self.direccion = palabra.direccion
-            return
-        }
+        let siguiente = puzzle.palabras[(indice + 1) % puzzle.palabras.count]
+        self.seleccion = siguiente.casillas.first { letras[$0] == nil }
+            ?? siguiente.casillas[0]
+        self.direccion = siguiente.direccion
     }
 
     // MARK: - Estado final
@@ -166,7 +162,6 @@ final class EstadoJuego: ObservableObject {
         if !resuelto {
             resuelto = true
             acabaDeResolverse = true
-            guardar()
         }
     }
 

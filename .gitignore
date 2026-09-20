@@ -7,3 +7,4 @@ build/
 *.dSYM.zip
 __pycache__/
 *.pyc
+Tools/vistas/

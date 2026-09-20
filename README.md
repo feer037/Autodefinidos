@@ -15,6 +15,11 @@ comprobaciones, sin ayudas de ningún tipo.**
 | Generador | `Tools/*.py` | Construye el banco y arma los autodefinidos |
 | Libro | `Autodefinidos/Recursos/` | 500 autodefinidos ya generados, en JSON |
 
+El libro reparte 16.715 palabras (6.220 distintas) y 439 pistas con imagen
+entre 500 rejillas, a partes iguales fáciles, medias y difíciles. Por longitud:
+16% de tres letras, 24% de cuatro, 21% de cinco, 17% de seis, 14% de siete y
+8% de ocho.
+
 ## Abrir la app
 
 ```bash

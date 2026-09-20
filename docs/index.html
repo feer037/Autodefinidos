@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Autodefinidos</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="description" content="Quinientos autodefinidos en castellano. Sin pistas ni ayudas.">
+<meta name="theme-color" content="#2F4858">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Autodefinidos">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="iconos/apple-touch-icon.png">
+<link rel="icon" href="iconos/icono-192.png">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+
+<!-- Índice del libro -->
+<section id="pantallaIndice" class="pantalla">
+  <header class="barra">
+    <h1>Autodefinidos</h1>
+    <button id="botonAjustes" class="icono" aria-label="Ajustes">···</button>
+  </header>
+
+  <div class="desplazable" id="listaIndice">
+    <button id="seguir" class="seguir" hidden></button>
+
+    <div class="filtros" role="group" aria-label="Dificultad">
+      <button class="filtro activo" data-dificultad="todas">Todos</button>
+      <button class="filtro" data-dificultad="facil">Fáciles</button>
+      <button class="filtro" data-dificultad="medio">Medios</button>
+      <button class="filtro" data-dificultad="dificil">Difíciles</button>
+    </div>
+
+    <div id="capitulos"></div>
+  </div>
+</section>
+
+<!-- Un autodefinido -->
+<section id="pantallaPuzzle" class="pantalla oculta">
+  <header class="barra">
+    <button id="volver" class="icono" aria-label="Volver al índice">‹</button>
+    <h1 id="tituloPuzzle">Autodefinido</h1>
+    <button id="reiniciar" class="icono" aria-label="Empezar de nuevo">↺</button>
+  </header>
+
+  <div id="cabeceraPista" class="cabecera-pista">
+    <span class="sin-seleccion">Toca una casilla para empezar</span>
+  </div>
+
+  <div id="zonaRejilla" class="zona-rejilla">
+    <div id="rejilla" class="rejilla"></div>
+  </div>
+
+  <div id="teclado" class="teclado"></div>
+
+  <div id="avisoResuelto" class="aviso oculta">
+    <span>¡Autodefinido resuelto!</span>
+    <button id="cerrarAviso">Vale</button>
+  </div>
+</section>
+
+<!-- Ajustes -->
+<section id="pantallaAjustes" class="pantalla oculta">
+  <header class="barra">
+    <button id="cerrarAjustes" class="icono" aria-label="Volver">‹</button>
+    <h1>Ajustes</h1>
+    <span class="icono" aria-hidden="true"></span>
+  </header>
+  <div class="desplazable">
+    <div id="resumen" class="tarjeta"></div>
+
+    <div class="tarjeta">
+      <h2>Cómo se juega</h2>
+      <p>Toca una casilla y escribe con el teclado de abajo.</p>
+      <p>Un segundo toque en la misma casilla cambia entre la palabra
+         horizontal y la vertical.</p>
+      <p>La flecha de cada definición dice por dónde arranca la palabra.</p>
+      <p>Arriba se ve entera la definición de la palabra en la que estás,
+         porque en una pantalla de móvil la letra de la casilla se queda
+         pequeña. Pellizca para acercar la rejilla.</p>
+      <p><strong>No hay botón de comprobar ni de revelar.</strong> Cuando la
+         rejilla queda bien resuelta, el autodefinido se marca solo en el
+         índice.</p>
+    </div>
+
+    <div class="tarjeta">
+      <h2>Sin conexión</h2>
+      <p id="estadoOffline">Comprobando…</p>
+      <p>Una vez guardado, el libro entero funciona en avión.</p>
+    </div>
+
+    <div class="tarjeta">
+      <h2>Borrar lo escrito</h2>
+      <p>Se borra todo lo escrito en los quinientos autodefinidos. No se puede
+         deshacer.</p>
+      <button id="borrarTodo" class="peligro">Borrar todo el progreso</button>
+    </div>
+  </div>
+</section>
+
+<div id="cargando" class="cargando">Cargando el libro…</div>
+
+<script src="app.js"></script>
+</body>
+</html>

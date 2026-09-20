@@ -1,0 +1,423 @@
+:root {
+  --tinta: #22303C;
+  --tinta-suave: #5A6B78;
+  --fondo: #FBFAF7;
+  --fondo-barra: #2F4858;
+  --pista: #E9E6DF;
+  --pista-borde: #B9B4A8;
+  --letra-fondo: #FFFFFF;
+  --resalte: #CFE3D5;
+  --seleccion: #8FBFA0;
+  --flecha: #2F6F4F;
+  --borde: rgba(34, 48, 60, 0.35);
+  --peligro: #B23A3A;
+  --lado: 34px;
+  --alto-barra: 52px;
+}
+
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+  overscroll-behavior: none;
+  background: var(--fondo);
+  color: var(--tinta);
+  font: 16px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+}
+
+.pantalla {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  background: var(--fondo);
+}
+.oculta { display: none !important; }
+
+/* ---------------------------------------------------------- barra */
+
+.barra {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  background: var(--fondo-barra);
+  color: #fff;
+  padding-top: env(safe-area-inset-top);
+  padding-left: calc(8px + env(safe-area-inset-left));
+  padding-right: calc(8px + env(safe-area-inset-right));
+  flex: none;
+}
+.barra h1 {
+  flex: 1;
+  margin: 0;
+  font-size: 17px;
+  font-weight: 600;
+  text-align: center;
+  line-height: var(--alto-barra);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.icono {
+  width: 44px;
+  height: var(--alto-barra);
+  flex: none;
+  background: none;
+  border: 0;
+  color: #fff;
+  font-size: 24px;
+  line-height: 1;
+  cursor: pointer;
+  font-family: inherit;
+}
+.icono:active { opacity: 0.5; }
+
+/* ------------------------------------------------------- índice */
+
+.desplazable {
+  flex: 1;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  padding: 12px;
+  padding-bottom: calc(24px + env(safe-area-inset-bottom));
+}
+
+.seguir {
+  display: block;
+  width: 100%;
+  margin-bottom: 12px;
+  padding: 14px 16px;
+  background: var(--fondo-barra);
+  color: #fff;
+  border: 0;
+  border-radius: 12px;
+  font: inherit;
+  font-weight: 600;
+  text-align: left;
+  cursor: pointer;
+}
+.seguir:active { opacity: 0.8; }
+
+.filtros {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 14px;
+}
+.filtro {
+  flex: 1;
+  padding: 8px 4px;
+  background: #fff;
+  border: 1px solid var(--pista-borde);
+  border-radius: 9px;
+  font: inherit;
+  font-size: 14px;
+  color: var(--tinta-suave);
+  cursor: pointer;
+}
+.filtro.activo {
+  background: var(--fondo-barra);
+  border-color: var(--fondo-barra);
+  color: #fff;
+  font-weight: 600;
+}
+
+.capitulo { margin-bottom: 14px; }
+.capitulo > summary {
+  padding: 10px 12px;
+  background: var(--pista);
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 15px;
+  cursor: pointer;
+  list-style: none;
+}
+.capitulo > summary::-webkit-details-marker { display: none; }
+.capitulo > summary::after { content: " ›"; float: right; opacity: 0.5; }
+.capitulo[open] > summary::after { content: " ⌄"; }
+
+.rejilla-fichas {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(92px, 1fr));
+  gap: 8px;
+  margin-top: 8px;
+}
+.ficha {
+  padding: 10px 8px;
+  background: #fff;
+  border: 1px solid var(--pista-borde);
+  border-radius: 10px;
+  text-align: left;
+  font: inherit;
+  cursor: pointer;
+  position: relative;
+}
+.ficha:active { background: var(--pista); }
+.ficha .numero { font-weight: 700; font-size: 17px; display: block; }
+.ficha .detalle { font-size: 12px; color: var(--tinta-suave); }
+.ficha .marca {
+  position: absolute;
+  top: 6px;
+  right: 8px;
+  color: var(--flecha);
+  font-weight: 700;
+}
+.ficha .barra-avance {
+  margin-top: 6px;
+  height: 3px;
+  background: var(--pista);
+  border-radius: 2px;
+  overflow: hidden;
+}
+.ficha .barra-avance i {
+  display: block;
+  height: 100%;
+  background: var(--seleccion);
+}
+
+/* ------------------------------------------- cabecera con la pista */
+
+.cabecera-pista {
+  flex: none;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 62px;
+  padding: 8px 14px;
+  background: var(--pista);
+  border-bottom: 1px solid var(--pista-borde);
+}
+.cabecera-pista img {
+  width: 64px;
+  height: 44px;
+  object-fit: contain;
+  background: #fff;
+  border-radius: 4px;
+  flex: none;
+}
+.cabecera-pista .flecha-actual {
+  font-size: 20px;
+  color: var(--flecha);
+  flex: none;
+}
+.cabecera-pista .texto { flex: 1; min-width: 0; }
+.cabecera-pista .definicion { font-size: 15px; line-height: 1.3; }
+.cabecera-pista .cuantas { font-size: 12px; color: var(--tinta-suave); }
+.cabecera-pista .sin-seleccion { font-size: 15px; color: var(--tinta-suave); }
+
+/* ------------------------------------------------------- rejilla */
+
+.zona-rejilla {
+  flex: 1;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior: contain;
+  touch-action: pan-x pan-y;
+  display: flex;
+  padding: 8px;
+}
+.rejilla {
+  position: relative;
+  margin: auto;
+  flex: none;
+  background: #fff;
+}
+
+.celda {
+  position: absolute;
+  border: 0.5px solid var(--borde);
+  overflow: hidden;
+}
+.celda.letra {
+  background: var(--letra-fondo);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: calc(var(--lado) * 0.56);
+  cursor: pointer;
+}
+.celda.letra.resaltada { background: var(--resalte); }
+.celda.letra.elegida { background: var(--seleccion); }
+
+.celda.definicion {
+  background: var(--pista);
+  display: flex;
+  flex-direction: column;
+}
+.banda {
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 1px 2px;
+  line-height: 1.05;
+  overflow: hidden;
+  hyphens: auto;
+}
+.celda.definicion.destacada { background: var(--seleccion); }
+
+.punta {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-style: solid;
+}
+.punta.derecha {
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  border-width: calc(var(--lado) * 0.075) 0 calc(var(--lado) * 0.075) calc(var(--lado) * 0.11);
+  border-color: transparent transparent transparent var(--flecha);
+}
+.punta.abajo {
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  border-width: calc(var(--lado) * 0.11) calc(var(--lado) * 0.075) 0 calc(var(--lado) * 0.075);
+  border-color: var(--flecha) transparent transparent transparent;
+}
+
+.celda.imagen {
+  background: var(--pista);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: calc(var(--lado) * 0.09);
+}
+.celda.imagen.destacada { background: var(--seleccion); }
+.celda.imagen img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  pointer-events: none;
+}
+
+/* ------------------------------------------------------- teclado */
+
+.teclado {
+  flex: none;
+  padding: 6px 4px calc(6px + env(safe-area-inset-bottom));
+  background: var(--pista);
+  border-top: 1px solid var(--pista-borde);
+}
+.fila-teclas {
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+  margin-bottom: 5px;
+}
+.fila-teclas:last-child { margin-bottom: 0; }
+.tecla {
+  flex: 1 1 0;
+  min-width: 0;
+  height: 44px;
+  background: #fff;
+  border: 1px solid var(--pista-borde);
+  border-radius: 6px;
+  font: inherit;
+  font-size: 17px;
+  font-weight: 600;
+  color: var(--tinta);
+  cursor: pointer;
+  padding: 0;
+}
+.tecla:active { background: var(--resalte); }
+.tecla.ancha { flex: 1.6 1 0; font-size: 14px; }
+
+/* --------------------------------------------------------- varios */
+
+.aviso {
+  position: absolute;
+  left: 16px;
+  right: 16px;
+  bottom: calc(16px + env(safe-area-inset-bottom));
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 16px;
+  background: var(--fondo-barra);
+  color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+  font-weight: 600;
+}
+.aviso span { flex: 1; }
+.aviso button {
+  background: rgba(255, 255, 255, 0.2);
+  border: 0;
+  color: #fff;
+  padding: 8px 16px;
+  border-radius: 8px;
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.tarjeta {
+  background: #fff;
+  border: 1px solid var(--pista-borde);
+  border-radius: 12px;
+  padding: 14px 16px;
+  margin-bottom: 12px;
+}
+.tarjeta h2 { margin: 0 0 8px; font-size: 16px; }
+.tarjeta p { margin: 0 0 8px; font-size: 14px; color: var(--tinta-suave); }
+.tarjeta p:last-child { margin-bottom: 0; }
+.tarjeta dl { margin: 0; display: grid; grid-template-columns: 1fr auto; gap: 6px 12px; }
+.tarjeta dt { font-size: 14px; color: var(--tinta-suave); }
+.tarjeta dd { margin: 0; font-size: 14px; font-weight: 600; text-align: right; }
+
+.peligro {
+  width: 100%;
+  padding: 12px;
+  background: var(--peligro);
+  color: #fff;
+  border: 0;
+  border-radius: 9px;
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.cargando {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--fondo);
+  color: var(--tinta-suave);
+  z-index: 10;
+}
+.cargando.oculta { display: none; }
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --tinta: #ECEFF2;
+    --tinta-suave: #9AA7B2;
+    --fondo: #161C22;
+    --fondo-barra: #101820;
+    --pista: #2A343D;
+    --pista-borde: #3C4954;
+    --letra-fondo: #1E262E;
+    --resalte: #2F5546;
+    --seleccion: #3E7A5E;
+    --flecha: #7FC79F;
+    --borde: rgba(236, 239, 242, 0.3);
+  }
+  .filtro, .ficha, .tarjeta, .tecla { background: #1E262E; }
+  .rejilla { background: var(--letra-fondo); }
+  .cabecera-pista img { background: #fff; }
+}

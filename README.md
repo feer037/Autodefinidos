@@ -8,6 +8,7 @@ comprobaciones, sin ayudas de ningún tipo.**
 
 | Pieza | Dónde | Qué es |
 |---|---|---|
+| App web | `docs/` | Se añade a la pantalla de inicio y va sin conexión |
 | App iOS | `Autodefinidos/` | SwiftUI, iOS 16 o superior |
 | Proyecto | `Autodefinidos.xcodeproj` | Ábrelo y dale a ejecutar |
 | Banco de palabras | `Tools/banco/*.txt` | 19.820 palabras con 24.735 definiciones |
@@ -20,7 +21,38 @@ entre 500 rejillas, a partes iguales fáciles, medias y difíciles. Por longitud
 16% de tres letras, 24% de cuatro, 21% de cinco, 17% de seis, 14% de siete y
 8% de ocho.
 
-## Abrir la app
+## Versión web (sin Mac)
+
+En `docs/` está el mismo libro como página web que se añade a la pantalla de
+inicio del iPhone y funciona sin conexión. No hace falta Xcode ni cuenta de
+desarrollador.
+
+**Para publicarla**, en GitHub: `Settings → Pages → Source: Deploy from a
+branch`, elige la rama y la carpeta `/docs`, y guarda. En un par de minutos
+queda en `https://<usuario>.github.io/<repositorio>/`.
+
+**Para instalarla en el iPhone**: abre esa dirección **en Safari** (en Chrome
+no sale la opción), toca el botón de compartir y elige *Añadir a pantalla de
+inicio*. Queda con su icono, se abre a pantalla completa sin barra de
+navegador y, una vez cargada la primera vez, funciona en avión.
+
+Lo escrito se guarda en el propio móvil (`localStorage`), autodefinido por
+autodefinido.
+
+Para regenerar los datos de la web después de cambiar el libro:
+
+```bash
+python3 Tools/generar_iconos.py    # sólo la primera vez
+python3 Tools/construir_web.py     # parte el libro en bloques y copia dibujos
+```
+
+`construir_web.py` deja el libro en bloques de cincuenta (unos 190 KB cada
+uno), copia los 91 dibujos y escribe `precache.json`, que es la lista de lo
+que el service worker guarda para el modo sin conexión. La versión que lleva
+dentro cambia sola cuando cambia el contenido, así que los móviles que ya
+tengan la app se actualizan al entrar.
+
+## Abrir la app de iOS
 
 ```bash
 open Autodefinidos.xcodeproj
